@@ -1,1095 +1,1095 @@
-No.;Timecode In;Timecode Out;Subtitle
-"1";"00:00:03:00";"00:00:03:00";"FABst6 * Gong *ZZZZZZZZZZ¥¥ã¥¥¥¥¥¥¥¥ä¥y¾"
-"2";"00:00:03:00";"00:00:03:00";"FABst¥¥¥ç¥¥ç¥§ª¦ªîªªªOùî"
-"3";"00:00:03:00";"00:00:04:10";"* Gong *"
-"4";"00:00:04:14";"00:00:04:14";"FABstdHier ist das Erste Deutsche Fernsehen( ( 9"
-"5";"00:00:04:14";"00:00:04:14";"FABst: mit der tagesschau.ÿÿ'õþ"
-"6";"00:00:04:14";"00:00:07:24";"Hier ist das Erste Deutsche Fernsehen
+﻿No.;Timecode In;Timecode Out;Subtitle
+1;00:00:03:00;00:00:03:00;FABst6 * Gong *ZZZZZZZZZZ¥¥ã¥¥¥¥¥¥¥¥ä¥y¾
+2;00:00:03:00;00:00:03:00;FABst¥¥¥ç¥¥ç¥§ª¦ªîªªªOùî
+3;00:00:03:00;00:00:04:10;* Gong *
+4;00:00:04:14;00:00:04:14;FABstdHier ist das Erste Deutsche Fernsehen( ( 9
+5;00:00:04:14;00:00:04:14;FABst: mit der tagesschau.ÿÿ'õþ
+6;00:00:04:14;00:00:07:24;"Hier ist das Erste Deutsche Fernsehen
 
 mit der tagesschau."
-"7";"00:00:08:03";"00:00:08:03";"FABstd Diese Sendung wurde vom NDR( ( live Af"
-"8";"00:00:08:03";"00:00:08:03";"FABst6untertitelt (27.08.2023)ÿÿ+³¬"
-"9";"00:00:08:03";"00:00:11:20";"Diese Sendung wurde vom NDR
+7;00:00:08:03;00:00:08:03;FABstd Diese Sendung wurde vom NDR( ( live Af
+8;00:00:08:03;00:00:08:03;FABst6untertitelt (27.08.2023)ÿÿ+³¬
+9;00:00:08:03;00:00:11:20;"Diese Sendung wurde vom NDR
 
 live untertitelt (27.08.2023)"
-"10";"00:00:15:02";"00:00:15:02";"FABstP Heute im Studio: Susanne Daubner.ÿÿïD"
-"11";"00:00:15:02";"00:00:17:17";"Heute im Studio: Susanne Daubner."
-"12";"00:00:18:03";"00:00:18:03";"FABstd Guten Abend,( ( ich begrüße Si3¦"
-"13";"00:00:18:03";"00:00:18:03";"FABst(e zur tagesschau.ÿÿ9Â"
-"14";"00:00:18:03";"00:00:20:19";"Guten Abend,
+10;00:00:15:02;00:00:15:02;FABstP Heute im Studio: Susanne Daubner.ÿÿïD
+11;00:00:15:02;00:00:17:17;Heute im Studio: Susanne Daubner.
+12;00:00:18:03;00:00:18:03;FABstd Guten Abend,( ( ich begrüße Si3¦
+13;00:00:18:03;00:00:18:03;FABst(e zur tagesschau.ÿÿ9Â
+14;00:00:18:03;00:00:20:19;"Guten Abend,
 
 ich begrÈuûe Sie zur tagesschau."
-"15";"00:00:23:06";"00:00:23:06";"FABstd CDU-Chef Merz hat( ( eine Zusamm!X"
-"16";"00:00:23:06";"00:00:23:06";"FABst.enarbeit mit der AfDÿÿ3²D"
-"17";"00:00:23:06";"00:00:26:03";"CDU-Chef Merz hat
+15;00:00:23:06;00:00:23:06;FABstd CDU-Chef Merz hat( ( eine Zusamm!X
+16;00:00:23:06;00:00:23:06;FABst.enarbeit mit der AfDÿÿ3²D
+17;00:00:23:06;00:00:26:03;"CDU-Chef Merz hat
 
 eine Zusammenarbeit mit der AfD"
-"18";"00:00:26:07";"00:00:26:07";"FABstN auf allen Ebenen ausgeschlossen.ÿÿ§0"
-"19";"00:00:26:07";"00:00:28:04";"auf allen Ebenen ausgeschlossen."
-"20";"00:00:28:08";"00:00:28:08";"FABstd Die CDU habe dazu( ( eine kla`"
-"21";"00:00:28:08";"00:00:28:08";"FABst(re Beschlusslage,ÿÿ9® "
-"22";"00:00:28:08";"00:00:30:20";"Die CDU habe dazu
+18;00:00:26:07;00:00:26:07;FABstN auf allen Ebenen ausgeschlossen.ÿÿ§0
+19;00:00:26:07;00:00:28:04;auf allen Ebenen ausgeschlossen.
+20;00:00:28:08;00:00:28:08;FABstd Die CDU habe dazu( ( eine kla`
+21;00:00:28:08;00:00:28:08;FABst(re Beschlusslage,ÿÿ9® 
+22;00:00:28:08;00:00:30:20;"Die CDU habe dazu
 
 eine klare Beschlusslage,"
-"23";"00:00:30:24";"00:00:30:24";"FABstPsagte Merz im ARD-Sommerinterview.ÿÿÇì"
-"24";"00:00:30:24";"00:00:33:08";"sagte Merz im ARD-Sommerinterview."
-"25";"00:00:33:12";"00:00:33:12";"FABstd Dies gelte auch( ( für die koÂ"
-"26";"00:00:33:12";"00:00:33:12";"FABst"mmunale Ebene.ÿÿ?Ä|"
-"27";"00:00:33:12";"00:00:35:23";"Dies gelte auch
+23;00:00:30:24;00:00:30:24;FABstPsagte Merz im ARD-Sommerinterview.ÿÿÇì
+24;00:00:30:24;00:00:33:08;sagte Merz im ARD-Sommerinterview.
+25;00:00:33:12;00:00:33:12;FABstd Dies gelte auch( ( für die koÂ
+26;00:00:33:12;00:00:33:12;"FABst""mmunale Ebene.ÿÿ?Ä|"
+27;00:00:33:12;00:00:35:23;"Dies gelte auch
 
 fÈur die kommunale Ebene."
-"28";"00:00:36:02";"00:00:36:02";"FABstN Eine Interview-Äußerung von ihmÿÿÒV"
-"29";"00:00:36:02";"00:00:38:01";"Eine Interview-ÈAuûerung von ihm"
-"30";"00:00:38:05";"00:00:38:05";"FABstd hatte zuletzt parteiintern( ( fü ¼"
-"31";"00:00:38:05";"00:00:38:05";"FABst(r Kritik gesorgt.ÿÿ9ùt"
-"32";"00:00:38:05";"00:00:41:06";"hatte zuletzt parteiintern
+28;00:00:36:02;00:00:36:02;FABstN Eine Interview-Äußerung von ihmÿÿÒV
+29;00:00:36:02;00:00:38:01;Eine Interview-ÈAuûerung von ihm
+30;00:00:38:05;00:00:38:05;FABstd hatte zuletzt parteiintern( ( fü ¼
+31;00:00:38:05;00:00:38:05;FABst(r Kritik gesorgt.ÿÿ9ùt
+32;00:00:38:05;00:00:41:06;"hatte zuletzt parteiintern
 
 fÈur Kritik gesorgt."
-"33";"00:00:41:18";"00:00:41:18";"FABstTSie konnte anders verstanden werden.ÿÿ×ä"
-"34";"00:00:41:18";"00:00:44:07";"Sie konnte anders verstanden werden."
-"35";"00:00:45:20";"00:00:45:20";"FABstd Merz forderte( ( die Bundesr1Z"
-"36";"00:00:45:20";"00:00:45:20";"FABst egierung auf,ÿÿAòn"
-"37";"00:00:45:20";"00:00:48:14";"Merz forderte
+33;00:00:41:18;00:00:41:18;FABstTSie konnte anders verstanden werden.ÿÿ×ä
+34;00:00:41:18;00:00:44:07;Sie konnte anders verstanden werden.
+35;00:00:45:20;00:00:45:20;FABstd Merz forderte( ( die Bundesr1Z
+36;00:00:45:20;00:00:45:20;FABst egierung auf,ÿÿAòn
+37;00:00:45:20;00:00:48:14;"Merz forderte
 
 die Bundesregierung auf,"
-"38";"00:00:49:05";"00:00:49:05";"FABstd die Wirtschaft nicht ständig( ( durch nÚv"
-"39";"00:00:49:05";"00:00:49:05";"FABst8eue Vorgaben zu belasten.ÿÿ)ª¾"
-"40";"00:00:49:05";"00:00:53:13";"die Wirtschaft nicht stÈandig
+38;00:00:49:05;00:00:49:05;FABstd die Wirtschaft nicht ständig( ( durch nÚv
+39;00:00:49:05;00:00:49:05;FABst8eue Vorgaben zu belasten.ÿÿ)ª¾
+40;00:00:49:05;00:00:53:13;"die Wirtschaft nicht stÈandig
 
 durch neue Vorgaben zu belasten."
-"41";"00:00:54:14";"00:00:54:14";"FABstdAufwärts soll es für die CDU gehen,( ( su("
-"42";"00:00:54:14";"00:00:54:14";"FABst>o will es ihr Vorsitzender -+Ó¶"
-"43";"00:00:54:14";"00:00:58:09";"AufwÈarts soll es fÈur die CDU gehen,
+41;00:00:54:14;00:00:54:14;FABstdAufwärts soll es für die CDU gehen,( ( su(
+42;00:00:54:14;00:00:54:14;FABst>o will es ihr Vorsitzender -+Ó¶
+43;00:00:54:14;00:00:58:09;"AufwÈarts soll es fÈur die CDU gehen,
 
 so will es ihr Vorsitzender -"
-"44";"00:00:58:13";"00:00:58:13";"FABstN in Umfragen und Landtagswahlen.Ð"
-"45";"00:00:58:13";"00:01:00:10";"in Umfragen und Landtagswahlen."
-"46";"00:01:00:12";"00:01:00:12";"FABstN Noch profitiert die Union nichtÿÿÃR"
-"47";"00:01:00:12";"00:01:02:09";"Noch profitiert die Union nicht"
-"48";"00:01:02:11";"00:01:02:11";"FABstd vom Ärger vieler Wähler( ( über ¾"
-"49";"00:01:02:11";"00:01:02:11";"FABst.die Ampel-Regierung.ÿÿ3¼"
-"50";"00:01:02:11";"00:01:05:06";"vom ÈArger vieler WÈahler
+44;00:00:58:13;00:00:58:13;FABstN in Umfragen und Landtagswahlen.Ð
+45;00:00:58:13;00:01:00:10;in Umfragen und Landtagswahlen.
+46;00:01:00:12;00:01:00:12;FABstN Noch profitiert die Union nichtÿÿÃR
+47;00:01:00:12;00:01:02:09;Noch profitiert die Union nicht
+48;00:01:02:11;00:01:02:11;FABstd vom Ärger vieler Wähler( ( über ¾
+49;00:01:02:11;00:01:02:11;FABst.die Ampel-Regierung.ÿÿ3¼
+50;00:01:02:11;00:01:05:06;"vom ÈArger vieler WÈahler
 
 Èuber die Ampel-Regierung."
-"51";"00:01:05:10";"00:01:05:10";"FABstd Deren jüngstes Streitthema:( ( dieÿf"
-"52";"00:01:05:10";"00:01:05:10";"FABst2 Kindergrundsicherung.ÿÿ/Ñè"
-"53";"00:01:05:10";"00:01:08:11";"Deren jÈungstes Streitthema:
+51;00:01:05:10;00:01:05:10;FABstd Deren jüngstes Streitthema:( ( dieÿf
+52;00:01:05:10;00:01:05:10;FABst2 Kindergrundsicherung.ÿÿ/Ñè
+53;00:01:05:10;00:01:08:11;"Deren jÈungstes Streitthema:
 
 die Kindergrundsicherung."
-"54";"00:01:08:15";"00:01:08:15";"FABstd Auch Merz will etwas( ( gegen 9H"
-"55";"00:01:08:15";"00:01:08:15";"FABst&Kinderarmut tun,ÿÿ;Ó"
-"56";"00:01:08:15";"00:01:11:05";"Auch Merz will etwas
+54;00:01:08:15;00:01:08:15;FABstd Auch Merz will etwas( ( gegen 9H
+55;00:01:08:15;00:01:08:15;"FABst&Kinderarmut tun,ÿÿ;Ó"
+56;00:01:08:15;00:01:11:05;"Auch Merz will etwas
 
 gegen Kinderarmut tun,"
-"57";"00:01:11:09";"00:01:11:09";"FABstd aber nicht zuerst( ( mit mehr0þ"
-"58";"00:01:11:09";"00:01:11:09";"FABst( Geld für Eltern.ÿÿ9Z"
-"59";"00:01:11:09";"00:01:14:05";"aber nicht zuerst
+57;00:01:11:09;00:01:11:09;FABstd aber nicht zuerst( ( mit mehr0þ
+58;00:01:11:09;00:01:11:09;FABst( Geld für Eltern.ÿÿ9Z
+59;00:01:11:09;00:01:14:05;"aber nicht zuerst
 
 mit mehr Geld fÈur Eltern."
-"60";"00:01:15:01";"00:01:15:01";"FABstF Die bessere Lösung wäre±@"
-"61";"00:01:15:01";"00:01:16:20";"Die bessere LÈosung wÈare"
-"62";"00:01:16:22";"00:01:16:22";"FABstd bessere Bildungseinrichtungen,( ( besserú"
-"63";"00:01:16:22";"00:01:16:22";"FABst:e Betreuungsmöglichkeiten./RX"
-"64";"00:01:16:22";"00:01:21:00";"bessere Bildungseinrichtungen,
+60;00:01:15:01;00:01:15:01;FABstF Die bessere Lösung wäre±@
+61;00:01:15:01;00:01:16:20;Die bessere LÈosung wÈare
+62;00:01:16:22;00:01:16:22;FABstd bessere Bildungseinrichtungen,( ( besserú
+63;00:01:16:22;00:01:16:22;FABst:e Betreuungsmöglichkeiten./RX
+64;00:01:16:22;00:01:21:00;"bessere Bildungseinrichtungen,
 
 bessere BetreuungsmÈoglichkeiten."
-"65";"00:01:21:04";"00:01:21:04";"FABstd Höhere Transferleistungen( ( löse="
-"66";"00:01:21:04";"00:01:21:04";"FABst0n das Problem nicht. ÿÿ1é"
-"67";"00:01:21:04";"00:01:24:19";"HÈohere Transferleistungen
+65;00:01:21:04;00:01:21:04;FABstd Höhere Transferleistungen( ( löse=
+66;00:01:21:04;00:01:21:04;FABst0n das Problem nicht. ÿÿ1é
+67;00:01:21:04;00:01:24:19;"HÈohere Transferleistungen
 
 lÈosen das Problem nicht."
-"68";"00:01:25:06";"00:01:25:06";"FABstd Merz versucht, als Kämpfer( ( gegen ê"
-"69";"00:01:25:06";"00:01:25:06";"FABst2Bürokratie zu punkten.ÿÿ/>"
-"70";"00:01:25:06";"00:01:28:15";"Merz versucht, als KÈampfer
+68;00:01:25:06;00:01:25:06;FABstd Merz versucht, als Kämpfer( ( gegen ê
+69;00:01:25:06;00:01:25:06;FABst2Bürokratie zu punkten.ÿÿ/>
+70;00:01:25:06;00:01:28:15;"Merz versucht, als KÈampfer
 
 gegen BÈurokratie zu punkten."
-"71";"00:01:28:19";"00:01:28:19";"FABstd Er will zentrale Projekte( ( der q"
-"72";"00:01:28:19";"00:01:28:19";"FABst0Regierung aufhalten. ÿÿ1øh"
-"73";"00:01:28:19";"00:01:31:16";"Er will zentrale Projekte
+71;00:01:28:19;00:01:28:19;FABstd Er will zentrale Projekte( ( der q
+72;00:01:28:19;00:01:28:19;FABst0Regierung aufhalten. ÿÿ1øh
+73;00:01:28:19;00:01:31:16;"Er will zentrale Projekte
 
 der Regierung aufhalten."
-"74";"00:01:31:20";"00:01:31:20";"FABst> Seine Forderung:ÿÿâ"
-"75";"00:01:31:20";"00:01:32:24";"Seine Forderung:"
-"76";"00:01:33:01";"00:01:33:01";"FABstd Schluss mit Gesetzen,( ( die zusätzl´4"
-"77";"00:01:33:01";"00:01:33:01";"FABst6iche Bürokratie bringen.ÿÿ+ü"
-"78";"00:01:33:01";"00:01:36:16";"Schluss mit Gesetzen,
+74;00:01:31:20;00:01:31:20;FABst> Seine Forderung:ÿÿâ
+75;00:01:31:20;00:01:32:24;Seine Forderung:
+76;00:01:33:01;00:01:33:01;FABstd Schluss mit Gesetzen,( ( die zusätzl´4
+77;00:01:33:01;00:01:33:01;FABst6iche Bürokratie bringen.ÿÿ+ü
+78;00:01:33:01;00:01:36:16;"Schluss mit Gesetzen,
 
 die zusÈatzliche BÈurokratie bringen."
-"79";"00:01:37:09";"00:01:37:09";"FABstd Dass das Heizungsgesetz ( ( nicht)R"
-"80";"00:01:37:09";"00:01:37:09";"FABst, verabschiedet wirdÿÿ5"
-"81";"00:01:37:09";"00:01:40:11";"Dass das Heizungsgesetz
+79;00:01:37:09;00:01:37:09;FABstd Dass das Heizungsgesetz ( ( nicht)R
+80;00:01:37:09;00:01:37:09;FABst, verabschiedet wirdÿÿ5
+81;00:01:37:09;00:01:40:11;"Dass das Heizungsgesetz
 
 nicht verabschiedet wird"
-"82";"00:01:40:15";"00:01:40:15";"FABstJ und dieses Cannabis-Gesetz.ÿÿðj"
-"83";"00:01:40:15";"00:01:42:10";"und dieses Cannabis-Gesetz."
-"84";"00:01:42:14";"00:01:42:14";"FABst dDass alle Gesetze geprüft werden,( ( wasÁ°"
-"85";"00:01:42:14";"00:01:42:14";"FABst> sie an Bürokratie auslösen.ÿÿ#*"
-"86";"00:01:42:14";"00:01:47:00";"Dass alle Gesetze geprÈuft werden,
+82;00:01:40:15;00:01:40:15;FABstJ und dieses Cannabis-Gesetz.ÿÿðj
+83;00:01:40:15;00:01:42:10;und dieses Cannabis-Gesetz.
+84;00:01:42:14;00:01:42:14;FABst dDass alle Gesetze geprüft werden,( ( wasÁ°
+85;00:01:42:14;00:01:42:14;FABst> sie an Bürokratie auslösen.ÿÿ#*
+86;00:01:42:14;00:01:47:00;"Dass alle Gesetze geprÈuft werden,
 
 was sie an BÈurokratie auslÈosen."
-"87";"00:01:48:23";"00:01:48:23";"FABst!d Im Format "Frag selbst"( ( tritt JensAÞ"
-"88";"00:01:48:23";"00:01:48:23";"FABst2 Spahn für die CDU an.ÿÿ/gl"
-"89";"00:01:48:23";"00:01:52:17";"Im Format "Frag selbst"
+87;00:01:48:23;00:01:48:23;"FABst!d Im Format ""Frag selbst""( ( tritt JensAÞ"
+88;00:01:48:23;00:01:48:23;FABst2 Spahn für die CDU an.ÿÿ/gl
+89;00:01:48:23;00:01:52:17;"Im Format ""Frag selbst""
 
 tritt Jens Spahn fÈur die CDU an."
-"90";"00:01:52:21";"00:01:52:21";"FABst"d Er fordert in der( ( Asyl- und _J"
-"91";"00:01:52:21";"00:01:52:21";"FABst,Flüchtlingspolitik,ÿÿ5b^"
-"92";"00:01:52:21";"00:01:55:15";"Er fordert in der
+90;00:01:52:21;00:01:52:21;"FABst""d Er fordert in der( ( Asyl- und _J"
+91;00:01:52:21;00:01:52:21;FABst,Flüchtlingspolitik,ÿÿ5b^
+92;00:01:52:21;00:01:55:15;"Er fordert in der
 
 Asyl- und FlÈuchtlingspolitik,"
-"93";"00:01:55:17";"00:01:55:17";"FABst#d Migranten an den EU-Außengrenzen( ( §°"
-"94";"00:01:55:17";"00:01:55:17";"FABst& abzuweisen.ÿÿ;ñÆ"
-"95";"00:01:55:17";"00:01:58:07";"Migranten an den EU-Auûengrenzen
+93;00:01:55:17;00:01:55:17;FABst#d Migranten an den EU-Außengrenzen( ( §°
+94;00:01:55:17;00:01:55:17;"FABst& abzuweisen.ÿÿ;ñÆ"
+95;00:01:55:17;00:01:58:07;"Migranten an den EU-Auûengrenzen
 
 abzuweisen."
-"96";"00:01:58:11";"00:01:58:11";"FABst$dStattdessen bis zu 400.000 Menschen( ( ge°"
-"97";"00:01:58:11";"00:01:58:11";"FABst>zielt in die EU aufzunehmen.ÿÿ#·*"
-"98";"00:01:58:11";"00:02:02:16";"Stattdessen bis zu 400.000 Menschen
+96;00:01:58:11;00:01:58:11;FABst$dStattdessen bis zu 400.000 Menschen( ( ge°
+97;00:01:58:11;00:01:58:11;FABst>zielt in die EU aufzunehmen.ÿÿ#·*
+98;00:01:58:11;00:02:02:16;"Stattdessen bis zu 400.000 Menschen
 
 gezielt in die EU aufzunehmen."
-"99";"00:02:03:07";"00:02:03:07";"FABst%N Dann aber auch Frauen, Kinder -´@"
-"100";"00:02:03:07";"00:02:05:12";"Dann aber auch Frauen, Kinder -"
-"101";"00:02:05:16";"00:02:05:16";"FABst&d Menschen,( ( die es am dringen'"
-"102";"00:02:05:16";"00:02:05:16";"FABst$dsten brauchen.Eûr"
-"103";"00:02:05:16";"00:02:08:06";"Menschen,
+99;00:02:03:07;00:02:03:07;FABst%N Dann aber auch Frauen, Kinder -´@
+100;00:02:03:07;00:02:05:12;Dann aber auch Frauen, Kinder -
+101;00:02:05:16;00:02:05:16;FABst&d Menschen,( ( die es am dringen'
+102;00:02:05:16;00:02:05:16;FABst$dsten brauchen.Eûr
+103;00:02:05:16;00:02:08:06;"Menschen,
 
 die es am dringendsten brauchen."
-"104";"00:02:08:10";"00:02:08:10";"FABst'd Im Moment( ( sind es meistensz"
-"105";"00:02:08:10";"00:02:08:10";"FABst" junge Männer.G~"
-"106";"00:02:08:10";"00:02:10:20";"Im Moment
+104;00:02:08:10;00:02:08:10;FABst'd Im Moment( ( sind es meistensz
+105;00:02:08:10;00:02:08:10;"FABst"" junge Männer.G~"
+106;00:02:08:10;00:02:10:20;"Im Moment
 
 sind es meistens junge MÈanner."
-"107";"00:02:10:24";"00:02:10:24";"FABst(d Wer es nach Europa schafft,( ( x"
-"108";"00:02:10:24";"00:02:10:24";"FABst$ der bleibt.ÿÿ="
-"109";"00:02:10:24";"00:02:13:22";"Wer es nach Europa schafft,
+107;00:02:10:24;00:02:10:24;FABst(d Wer es nach Europa schafft,( ( x
+108;00:02:10:24;00:02:10:24;FABst$ der bleibt.ÿÿ=
+109;00:02:10:24;00:02:13:22;"Wer es nach Europa schafft,
 
 der bleibt."
-"110";"00:02:14:21";"00:02:14:21";"FABst)d FDP-Chef Lindner( ( ist im ZDF-Somqî"
-"111";"00:02:14:21";"00:02:14:21";"FABst0merinterview zu Gast.ÿÿ1ÿ""
-"112";"00:02:14:21";"00:02:18:08";"FDP-Chef Lindner
+110;00:02:14:21;00:02:14:21;FABst)d FDP-Chef Lindner( ( ist im ZDF-Somqî
+111;00:02:14:21;00:02:14:21;"FABst0merinterview zu Gast.ÿÿ1ÿ"""
+112;00:02:14:21;00:02:18:08;"FDP-Chef Lindner
 
 ist im ZDF-Sommerinterview zu Gast."
-"113";"00:02:18:12";"00:02:18:12";"FABst*N Auch er will weniger Bürokratie.ÿÿp"
-"114";"00:02:18:12";"00:02:20:21";"Auch er will weniger BÈurokratie."
-"115";"00:02:21:05";"00:02:21:05";"FABst+d Seine Ansage an die Partner( ( iny\"
-"116";"00:02:21:05";"00:02:21:05";"FABst0 der Ampel-Koalition:ÿÿ1</i>2"
-"117";"00:02:21:05";"00:02:24:18";"Seine Ansage an die Partner
+113;00:02:18:12;00:02:18:12;FABst*N Auch er will weniger Bürokratie.ÿÿp
+114;00:02:18:12;00:02:20:21;Auch er will weniger BÈurokratie.
+115;00:02:21:05;00:02:21:05;FABst+d Seine Ansage an die Partner( ( iny\
+116;00:02:21:05;00:02:21:05;FABst0 der Ampel-Koalition:ÿÿ1</i>2
+117;00:02:21:05;00:02:24:18;"Seine Ansage an die Partner
 
 in der Ampel-Koalition:"
-"118";"00:02:25:10";"00:02:25:10";"FABst,L Teile des KoalitionsvertragesñÒ"
-"119";"00:02:25:10";"00:02:27:08";"Teile des Koalitionsvertrages"
-"120";"00:02:27:14";"00:02:27:14";"FABst-d sind tatsächlich( ( aus der Íz"
-"121";"00:02:27:14";"00:02:27:14";"FABst"Zeit gefallen.G¿"
-"122";"00:02:27:14";"00:02:29:22";"sind tatsÈachlich
+118;00:02:25:10;00:02:25:10;FABst,L Teile des KoalitionsvertragesñÒ
+119;00:02:25:10;00:02:27:08;Teile des Koalitionsvertrages
+120;00:02:27:14;00:02:27:14;FABst-d sind tatsächlich( ( aus der Íz
+121;00:02:27:14;00:02:27:14;"FABst""Zeit gefallen.G¿"
+122;00:02:27:14;00:02:29:22;"sind tatsÈachlich
 
 aus der Zeit gefallen."
-"123";"00:02:29:24";"00:02:29:24";"FABst.RDa müssen alle ein Einsehen haben.ÿÿf"
-"124";"00:02:29:24";"00:02:32:01";"Da mÈussen alle ein Einsehen haben."
-"125";"00:02:32:03";"00:02:32:03";"FABst/d Zum Ampel-Streit( ( zur Kindergru"
-"126";"00:02:32:03";"00:02:32:03";"FABst.ndsicherung sagt er:ÿÿ3¬Ê"
-"127";"00:02:32:03";"00:02:35:03";"Zum Ampel-Streit
+123;00:02:29:24;00:02:29:24;FABst.RDa müssen alle ein Einsehen haben.ÿÿf
+124;00:02:29:24;00:02:32:01;Da mÈussen alle ein Einsehen haben.
+125;00:02:32:03;00:02:32:03;FABst/d Zum Ampel-Streit( ( zur Kindergru
+126;00:02:32:03;00:02:32:03;FABst.ndsicherung sagt er:ÿÿ3¬Ê
+127;00:02:32:03;00:02:35:03;"Zum Ampel-Streit
 
 zur Kindergrundsicherung sagt er:"
-"128";"00:02:35:07";"00:02:35:07";"FABst0d Er rechne sehr kurzfristig( ( mit eine>"
-"129";"00:02:35:07";"00:02:35:07";"FABst8r Einigung auf Eckpunkte.ÿÿ)ì"
-"130";"00:02:35:07";"00:02:39:01";"Er rechne sehr kurzfristig
+128;00:02:35:07;00:02:35:07;FABst0d Er rechne sehr kurzfristig( ( mit eine>
+129;00:02:35:07;00:02:35:07;FABst8r Einigung auf Eckpunkte.ÿÿ)ì
+130;00:02:35:07;00:02:39:01;"Er rechne sehr kurzfristig
 
 mit einer Einigung auf Eckpunkte."
-"131";"00:02:40:05";"00:02:40:05";"FABst1dUm die Kindergrundsicherung geht es ( ( ernà"
-"132";"00:02:40:05";"00:02:40:05";"FABstHeut bei Gesprächen im Kanzleramt.ÿÿâ"
-"133";"00:02:40:05";"00:02:44:18";"Um die Kindergrundsicherung geht es
+131;00:02:40:05;00:02:40:05;FABst1dUm die Kindergrundsicherung geht es ( ( ernà
+132;00:02:40:05;00:02:40:05;FABstHeut bei Gesprächen im Kanzleramt.ÿÿâ
+133;00:02:40:05;00:02:44:18;"Um die Kindergrundsicherung geht es
 
 erneut bei GesprÈachen im Kanzleramt."
-"134";"00:02:44:22";"00:02:44:22";"FABst2N Kanzler Scholz will eine Lösungÿÿ^"
-"135";"00:02:44:22";"00:02:46:24";"Kanzler Scholz will eine LÈosung"
-"136";"00:02:47:01";"00:02:47:01";"FABst3d im regierungsinternen Konflikt( ( 6"
-"137";"00:02:47:01";"00:02:47:01";"FABst$ erreichen.ÿÿ="
-"138";"00:02:47:01";"00:02:49:20";"im regierungsinternen Konflikt
+134;00:02:44:22;00:02:44:22;FABst2N Kanzler Scholz will eine Lösungÿÿ^
+135;00:02:44:22;00:02:46:24;Kanzler Scholz will eine LÈosung
+136;00:02:47:01;00:02:47:01;FABst3d im regierungsinternen Konflikt( ( 6
+137;00:02:47:01;00:02:47:01;FABst$ erreichen.ÿÿ=
+138;00:02:47:01;00:02:49:20;"im regierungsinternen Konflikt
 
 erreichen."
-"139";"00:02:50:00";"00:02:50:00";"FABst4d Familienministerin Paus ( ( und Fi}"
-"140";"00:02:50:00";"00:02:50:00";"FABst.nanzminister Lindnerÿÿ3t"
-"141";"00:02:50:00";"00:02:53:09";"Familienministerin Paus
+139;00:02:50:00;00:02:50:00;FABst4d Familienministerin Paus ( ( und Fi}
+140;00:02:50:00;00:02:50:00;FABst.nanzminister Lindnerÿÿ3t
+141;00:02:50:00;00:02:53:09;"Familienministerin Paus
 
 und Finanzminister Lindner"
-"142";"00:02:53:14";"00:02:53:14";"FABst5d streiten über die Finanzierung( ( der  Â"
-"143";"00:02:53:14";"00:02:53:14";"FABst6neuen Familienleistung. ÿÿ+Ò"
-"144";"00:02:53:14";"00:02:57:15";"streiten Èuber die Finanzierung
+142;00:02:53:14;00:02:53:14;FABst5d streiten über die Finanzierung( ( der  Â
+143;00:02:53:14;00:02:53:14;FABst6neuen Familienleistung. ÿÿ+Ò
+144;00:02:53:14;00:02:57:15;"streiten Èuber die Finanzierung
 
 der neuen Familienleistung."
-"145";"00:02:58:12";"00:02:58:12";"FABst6dDer FDP-Chef will die zusätzlichen( ( Ausga</i>f"
-"146";"00:02:58:12";"00:02:58:12";"FABst@ben bei 2 Mrd. Euro deckeln. ÿÿ!¡6"
-"147";"00:02:58:12";"00:03:02:24";"Der FDP-Chef will die zusÈatzlichen
+145;00:02:58:12;00:02:58:12;FABst6dDer FDP-Chef will die zusätzlichen( ( Ausga</i>f
+146;00:02:58:12;00:02:58:12;FABst@ben bei 2 Mrd. Euro deckeln. ÿÿ!¡6
+147;00:02:58:12;00:03:02:24;"Der FDP-Chef will die zusÈatzlichen
 
 Ausgaben bei 2 Mrd. Euro deckeln."
-"148";"00:03:03:04";"00:03:03:04";"FABst7d Die Grünen-Politikerin( ( forderte¬z"
-"149";"00:03:03:04";"00:03:03:04";"FABst0 stets deutlich mehr.ÿÿ1Ô"
-"150";"00:03:03:04";"00:03:06:21";"Die GrÈunen-Politikerin
+148;00:03:03:04;00:03:03:04;FABst7d Die Grünen-Politikerin( ( forderte¬z
+149;00:03:03:04;00:03:03:04;FABst0 stets deutlich mehr.ÿÿ1Ô
+150;00:03:03:04;00:03:06:21;"Die GrÈunen-Politikerin
 
 forderte stets deutlich mehr."
-"151";"00:03:09:03";"00:03:09:03";"FABst8D Tina Hassel in Berlin:ÿÿ±"
-"152";"00:03:09:03";"00:03:10:15";"Tina Hassel in Berlin:"
-"153";"00:03:10:19";"00:03:10:19";"FABst9d Seit 17 Uhr sitzt man zusammen.( ( V"
-"154";"00:03:10:19";"00:03:10:19";"FABst* Was hören Sie?ÿÿ72Þ"
-"155";"00:03:10:19";"00:03:14:05";"Seit 17 Uhr sitzt man zusammen.
+151;00:03:09:03;00:03:09:03;FABst8D Tina Hassel in Berlin:ÿÿ±
+152;00:03:09:03;00:03:10:15;Tina Hassel in Berlin:
+153;00:03:10:19;00:03:10:19;FABst9d Seit 17 Uhr sitzt man zusammen.( ( V
+154;00:03:10:19;00:03:10:19;FABst* Was hören Sie?ÿÿ72Þ
+155;00:03:10:19;00:03:14:05;"Seit 17 Uhr sitzt man zusammen.
 
 Was hÈoren Sie?"
-"156";"00:03:16:15";"00:03:16:15";"FABst:D Noch wird verhandelt.!º"
-"157";"00:03:16:15";"00:03:18:08";"Noch wird verhandelt."
-"158";"00:03:18:10";"00:03:18:10";"FABst;d Die vierte Runde im Kanzleramt( ( ,,"
-"159";"00:03:18:10";"00:03:18:10";"FABst(in einer Woche:A^"
-"160";"00:03:18:10";"00:03:21:03";"Die vierte Runde im Kanzleramt
+156;00:03:16:15;00:03:16:15;FABst:D Noch wird verhandelt.!º
+157;00:03:16:15;00:03:18:08;Noch wird verhandelt.
+158;00:03:18:10;00:03:18:10;"FABst;d Die vierte Runde im Kanzleramt( ( ,,"
+159;00:03:18:10;00:03:18:10;FABst(in einer Woche:A^
+160;00:03:18:10;00:03:21:03;"Die vierte Runde im Kanzleramt
 
 in einer Woche:"
-"161";"00:03:21:07";"00:03:21:07";"FABst<dDas zeigt, der Druck ist gewaltig,( ( sic"
-"162";"00:03:21:07";"00:03:21:07";"FABstDh gesichtswahrend zu einigen - %ãØ"
-"163";"00:03:21:07";"00:03:25:12";"Das zeigt, der Druck ist gewaltig,
+161;00:03:21:07;00:03:21:07;FABst<dDas zeigt, der Druck ist gewaltig,( ( sic
+162;00:03:21:07;00:03:21:07;FABstDh gesichtswahrend zu einigen - %ãØ
+163;00:03:21:07;00:03:25:12;"Das zeigt, der Druck ist gewaltig,
 
 sich gesichtswahrend zu einigen -"
-"164";"00:03:25:16";"00:03:25:16";"FABst=d vor der Kabinettsklausur( ( 4"
-"165";"00:03:25:16";"00:03:25:16";"FABst in Meseberg.ÿÿA¢B"
-"166";"00:03:25:16";"00:03:27:19";"vor der Kabinettsklausur
+164;00:03:25:16;00:03:25:16;FABst=d vor der Kabinettsklausur( ( 4
+165;00:03:25:16;00:03:25:16;FABst in Meseberg.ÿÿA¢B
+166;00:03:25:16;00:03:27:19;"vor der Kabinettsklausur
 
 in Meseberg."
-"167";"00:03:27:23";"00:03:27:23";"FABst>dVor allem für die Familienministerin( ( b"
-"168";"00:03:27:23";"00:03:27:23";"FABst8 geht es um viel.ÿÿ)Ô<"
-"169";"00:03:27:23";"00:03:31:01";"Vor allem fÈur die Familienministerin
+167;00:03:27:23;00:03:27:23;FABst>dVor allem für die Familienministerin( ( b
+168;00:03:27:23;00:03:27:23;FABst8 geht es um viel.ÿÿ)Ô<
+169;00:03:27:23;00:03:31:01;"Vor allem fÈur die Familienministerin
 
 geht es um viel."
-"170";"00:03:31:03";"00:03:31:03";"FABst?d Paus hatte ursprünglich( ( einen BetÄ""
-"171";"00:03:31:03";"00:03:31:03";"FABst8rag von 12 Mrd. gefordertÿÿ)÷,"
-"172";"00:03:31:03";"00:03:34:13";"Paus hatte ursprÈunglich
+170;00:03:31:03;00:03:31:03;"FABst?d Paus hatte ursprünglich( ( einen BetÄ"""
+171;00:03:31:03;00:03:31:03;FABst8rag von 12 Mrd. gefordertÿÿ)÷,
+172;00:03:31:03;00:03:34:13;"Paus hatte ursprÈunglich
 
 einen Betrag von 12 Mrd. gefordert"
-"173";"00:03:34:15";"00:03:34:15";"FABst@d und deswegen das( ( WachstumschaI"
-"174";"00:03:34:15";"00:03:34:15";"FABst2ncengesetz angehalten.ÿÿ/õ¼"
-"175";"00:03:34:15";"00:03:37:19";"und deswegen das
+173;00:03:34:15;00:03:34:15;FABst@d und deswegen das( ( WachstumschaI
+174;00:03:34:15;00:03:34:15;FABst2ncengesetz angehalten.ÿÿ/õ¼
+175;00:03:34:15;00:03:37:19;"und deswegen das
 
 Wachstumschancengesetz angehalten."
-"176";"00:03:37:23";"00:03:37:23";"FABstAB Was wir hören, ist:ÿÿMª"
-"177";"00:03:37:23";"00:03:39:07";"Was wir hÈoren, ist:"
-"178";"00:03:39:11";"00:03:39:11";"FABstBTMan wird sich vor Dienstag einigen,ÿÿ<i>ð"
-"179";"00:03:39:11";"00:03:41:17";"Man wird sich vor Dienstag einigen,"
-"180";"00:03:41:19";"00:03:41:19";"FABstCd aber der große Wurf ( ( ist ni¬"
-"181";"00:03:41:19";"00:03:41:19";"FABst&cht zu erwarten.ÿÿ;¢ò"
-"182";"00:03:41:19";"00:03:44:05";"aber der groûe Wurf
+176;00:03:37:23;00:03:37:23;FABstAB Was wir hören, ist:ÿÿMª
+177;00:03:37:23;00:03:39:07;Was wir hÈoren, ist:
+178;00:03:39:11;00:03:39:11;FABstBTMan wird sich vor Dienstag einigen,ÿÿ<i>ð
+179;00:03:39:11;00:03:41:17;Man wird sich vor Dienstag einigen,
+180;00:03:41:19;00:03:41:19;FABstCd aber der große Wurf ( ( ist ni¬
+181;00:03:41:19;00:03:41:19;"FABst&cht zu erwarten.ÿÿ;¢ò"
+182;00:03:41:19;00:03:44:05;"aber der groûe Wurf
 
 ist nicht zu erwarten."
-"183";"00:03:44:09";"00:03:44:09";"FABstDd Es dürfte nur wenig mehr( ( als di<u>t"
-"184";"00:03:44:09";"00:03:44:09";"FABst.e 2 Mrd. Euro geben,ÿÿ3¸("
-"185";"00:03:44:09";"00:03:47:10";"Es dÈurfte nur wenig mehr
+183;00:03:44:09;00:03:44:09;FABstDd Es dürfte nur wenig mehr( ( als di<u>t
+184;00:03:44:09;00:03:44:09;FABst.e 2 Mrd. Euro geben,ÿÿ3¸(
+185;00:03:44:09;00:03:47:10;"Es dÈurfte nur wenig mehr
 
 als die 2 Mrd. Euro geben,"
-"186";"00:03:47:14";"00:03:47:14";"FABstEd die der Finanzminister( ( im Hauseü"
-"187";"00:03:47:14";"00:03:47:14";"FABst.halt vorgesehen hat.ÿÿ3®Ø"
-"188";"00:03:47:14";"00:03:50:13";"die der Finanzminister
+186;00:03:47:14;00:03:47:14;FABstEd die der Finanzminister( ( im Hauseü
+187;00:03:47:14;00:03:47:14;FABst.halt vorgesehen hat.ÿÿ3®Ø
+188;00:03:47:14;00:03:50:13;"die der Finanzminister
 
 im Haushalt vorgesehen hat."
-"189";"00:03:50:17";"00:03:50:17";"FABstFd Deshalb werden die Grünen( ( den Syst"
-"190";"00:03:50:17";"00:03:50:17";"FABst2emumstieg hervorheben:ÿÿ/æ¤"
-"191";"00:03:50:17";"00:03:54:11";"Deshalb werden die GrÈunen
+189;00:03:50:17;00:03:50:17;FABstFd Deshalb werden die Grünen( ( den Syst
+190;00:03:50:17;00:03:50:17;FABst2emumstieg hervorheben:ÿÿ/æ¤
+191;00:03:50:17;00:03:54:11;"Deshalb werden die GrÈunen
 
 den Systemumstieg hervorheben:"
-"192";"00:03:54:15";"00:03:54:15";"FABstGdErstmals werden alle Leistungen ( ( für bâ"
-"193";"00:03:54:15";"00:03:54:15";"FABst<edürftige Kinder gebündelt,ÿÿ%ú"
-"194";"00:03:54:15";"00:03:58:23";"Erstmals werden alle Leistungen
+192;00:03:54:15;00:03:54:15;FABstGdErstmals werden alle Leistungen ( ( für bâ
+193;00:03:54:15;00:03:54:15;FABst<edürftige Kinder gebündelt,ÿÿ%ú
+194;00:03:54:15;00:03:58:23;"Erstmals werden alle Leistungen
 
 fÈur bedÈurftige Kinder gebÈundelt,"
-"195";"00:03:59:02";"00:03:59:02";"FABstHd und auf Dauer soll mehr Geld( ( bei þ"
-"196";"00:03:59:02";"00:03:59:02";"FABst2den Familien ankommen.ÿÿ/"
-"197";"00:03:59:02";"00:04:02:19";"und auf Dauer soll mehr Geld
+195;00:03:59:02;00:03:59:02;FABstHd und auf Dauer soll mehr Geld( ( bei þ
+196;00:03:59:02;00:03:59:02;FABst2den Familien ankommen.ÿÿ/
+197;00:03:59:02;00:04:02:19;"und auf Dauer soll mehr Geld
 
 bei den Familien ankommen."
-"198";"00:04:02:23";"00:04:02:23";"FABstId Die Einigung( ( wird aber nur s""
-"199";"00:04:02:23";"00:04:02:23";"FABst.Eckpunkte betreffen,ÿÿ3Ï"
-"200";"00:04:02:23";"00:04:05:18";"Die Einigung
+198;00:04:02:23;00:04:02:23;"FABstId Die Einigung( ( wird aber nur s"""
+199;00:04:02:23;00:04:02:23;FABst.Eckpunkte betreffen,ÿÿ3Ï
+200;00:04:02:23;00:04:05:18;"Die Einigung
 
 wird aber nur Eckpunkte betreffen,"
-"201";"00:04:05:22";"00:04:05:22";"FABstJH mit vielen offenen Fragen.ÿÿá"
-"202";"00:04:05:22";"00:04:07:14";"mit vielen offenen Fragen."
-"203";"00:04:07:18";"00:04:07:18";"FABstKd Die werden erst mit Verbänden( ( und E"
-"204";"00:04:07:18";"00:04:07:18";"FABstBxperten beraten werden müssen.ÿÿ"
-"205";"00:04:07:18";"00:04:11:13";"Die werden erst mit VerbÈanden
+201;00:04:05:22;00:04:05:22;FABstJH mit vielen offenen Fragen.ÿÿá
+202;00:04:05:22;00:04:07:14;mit vielen offenen Fragen.
+203;00:04:07:18;00:04:07:18;FABstKd Die werden erst mit Verbänden( ( und E
+204;00:04:07:18;00:04:07:18;FABstBxperten beraten werden müssen.ÿÿ
+205;00:04:07:18;00:04:11:13;"Die werden erst mit VerbÈanden
 
 und Experten beraten werden mÈussen."
-"206";"00:04:11:17";"00:04:11:17";"FABstLdDie Ampel will nicht noch einmal( ( ei$<i>"
-"207";"00:04:11:17";"00:04:11:17";"FABst6nen Kompromiss erzielen,ÿÿ+ª"
-"208";"00:04:11:17";"00:04:15:24";"Die Ampel will nicht noch einmal
+206;00:04:11:17;00:04:11:17;FABstLdDie Ampel will nicht noch einmal( ( ei$<i>
+207;00:04:11:17;00:04:11:17;FABst6nen Kompromiss erzielen,ÿÿ+ª
+208;00:04:11:17;00:04:15:24;"Die Ampel will nicht noch einmal
 
 einen Kompromiss erzielen,"
-"209";"00:04:16:03";"00:04:16:03";"FABstMd die sofort danach( ( in neue<p"
-"210";"00:04:16:03";"00:04:16:03";"FABst&m Streit mündet.ÿÿ;"
-"211";"00:04:16:03";"00:04:19:02";"die sofort danach
+209;00:04:16:03;00:04:16:03;FABstMd die sofort danach( ( in neue<p
+210;00:04:16:03;00:04:16:03;"FABst&m Streit mündet.ÿÿ;"
+211;00:04:16:03;00:04:19:02;"die sofort danach
 
 in neuem Streit mÈundet."
-"212";"00:04:21:07";"00:04:21:07";"FABstNL Danke, Tina Hassel in Berlin.ÿÿº¦"
-"213";"00:04:21:07";"00:04:23:10";"Danke, Tina Hassel in Berlin."
-"214";"00:04:25:02";"00:04:25:02";"FABstOd Russische Behörden ( ( best¯d"
-"215";"00:04:25:02";"00:04:25:02";"FABst$ätigten den Todÿÿ=%H"
-"216";"00:04:25:02";"00:04:27:11";"Russische BehÈorden
+212;00:04:21:07;00:04:21:07;FABstNL Danke, Tina Hassel in Berlin.ÿÿº¦
+213;00:04:21:07;00:04:23:10;Danke, Tina Hassel in Berlin.
+214;00:04:25:02;00:04:25:02;FABstOd Russische Behörden ( ( best¯d
+215;00:04:25:02;00:04:25:02;FABst$ätigten den Todÿÿ=%H
+216;00:04:25:02;00:04:27:11;"Russische BehÈorden
 
 bestÈatigten den Tod"
-"217";"00:04:27:14";"00:04:27:14";"FABstPd von Wagner-Chef Prigoschin (62)( ( beT"
-"218";"00:04:27:14";"00:04:27:14";"FABst6i einem Flugzeugabsturz.ÿÿ+¾"
-"219";"00:04:27:14";"00:04:31:01";"von Wagner-Chef Prigoschin (62)
+217;00:04:27:14;00:04:27:14;FABstPd von Wagner-Chef Prigoschin (62)( ( beT
+218;00:04:27:14;00:04:27:14;FABst6i einem Flugzeugabsturz.ÿÿ+¾
+219;00:04:27:14;00:04:31:01;"von Wagner-Chef Prigoschin (62)
 
 bei einem Flugzeugabsturz."
-"220";"00:04:31:05";"00:04:31:05";"FABstQd DNA-Tests hätten ergeben,( ( dass er æ"
-"221";"00:04:31:05";"00:04:31:05";"FABst6 an Bord der am Mittwochÿÿ+¬"
-"222";"00:04:31:05";"00:04:34:18";"DNA-Tests hÈatten ergeben,
+220;00:04:31:05;00:04:31:05;FABstQd DNA-Tests hätten ergeben,( ( dass er æ
+221;00:04:31:05;00:04:31:05;FABst6 an Bord der am Mittwochÿÿ+¬
+222;00:04:31:05;00:04:34:18;"DNA-Tests hÈatten ergeben,
 
 dass er an Bord der am Mittwoch"
-"223";"00:04:34:22";"00:04:34:22";"FABstRd verunglückten Maschine war,( ( erkt"
-"224";"00:04:34:22";"00:04:34:22";"FABst2lärten die Ermittler. ÿÿ/[p"
-"225";"00:04:34:22";"00:04:38:05";"verunglÈuckten Maschine war,
+223;00:04:34:22;00:04:34:22;FABstRd verunglückten Maschine war,( ( erkt
+224;00:04:34:22;00:04:34:22;FABst2lärten die Ermittler. ÿÿ/[p
+225;00:04:34:22;00:04:38:05;"verunglÈuckten Maschine war,
 
 erklÈarten die Ermittler."
-"226";"00:04:38:14";"00:04:38:14";"FABstSd Warum das Flugzeug zwischen( ( Moskau up"
-"227";"00:04:38:14";"00:04:38:14";"FABst>nd St. Petersburg abstürzte,ÿÿ#9æ"
-"228";"00:04:38:14";"00:04:42:19";"Warum das Flugzeug zwischen
+226;00:04:38:14;00:04:38:14;FABstSd Warum das Flugzeug zwischen( ( Moskau up
+227;00:04:38:14;00:04:38:14;FABst>nd St. Petersburg abstürzte,ÿÿ#9æ
+228;00:04:38:14;00:04:42:19;"Warum das Flugzeug zwischen
 
 Moskau und St. Petersburg abstÈurzte,"
-"229";"00:04:43:08";"00:04:43:08";"FABstT@ ist weiter unklar.ÿÿ»L"
-"230";"00:04:43:08";"00:04:44:23";"ist weiter unklar."
-"231";"00:04:46:09";"00:04:46:09";"FABstUdNach dem bewaffneten Wagner-Aufstand( ( T("
-"232";"00:04:46:09";"00:04:46:09";"FABst4 vor zwei Monatenÿÿ-ì "
-"233";"00:04:46:09";"00:04:49:18";"Nach dem bewaffneten Wagner-Aufstand
+229;00:04:43:08;00:04:43:08;FABstT@ ist weiter unklar.ÿÿ»L
+230;00:04:43:08;00:04:44:23;ist weiter unklar.
+231;00:04:46:09;00:04:46:09;FABstUdNach dem bewaffneten Wagner-Aufstand( ( T(
+232;00:04:46:09;00:04:46:09;FABst4 vor zwei Monatenÿÿ-ì 
+233;00:04:46:09;00:04:49:18;"Nach dem bewaffneten Wagner-Aufstand
 
 vor zwei Monaten"
-"234";"00:04:49:21";"00:04:49:21";"FABstVd bezeichnete Präsident Putin( ( PriÛ8"
-"235";"00:04:49:21";"00:04:49:21";"FABst2goschin als Verräter. ÿÿ/C<u>"
-"236";"00:04:49:21";"00:04:53:06";"bezeichnete PrÈasident Putin
+234;00:04:49:21;00:04:49:21;FABstVd bezeichnete Präsident Putin( ( PriÛ8
+235;00:04:49:21;00:04:49:21;FABst2goschin als Verräter. ÿÿ/C<u>
+236;00:04:49:21;00:04:53:06;"bezeichnete PrÈasident Putin
 
 Prigoschin als VerrÈater."
-"237";"00:04:53:12";"00:04:53:12";"FABstWd Der Kreml bestreitet,( ( in seinen d¦"
-"238";"00:04:53:12";"00:04:53:12";"FABst4Tod verwickelt zu sein.ÿÿ-±&"
-"239";"00:04:53:12";"00:04:57:04";"Der Kreml bestreitet,
+237;00:04:53:12;00:04:53:12;FABstWd Der Kreml bestreitet,( ( in seinen d¦
+238;00:04:53:12;00:04:53:12;FABst4Tod verwickelt zu sein.ÿÿ-±&
+239;00:04:53:12;00:04:57:04;"Der Kreml bestreitet,
 
 in seinen Tod verwickelt zu sein."
-"240";"00:04:58:11";"00:04:58:11";"FABstXd An der Grenze zu Polen( ( registri@Ô"
-"241";"00:04:58:11";"00:04:58:11";"FABst0ert die Bundespolizeiÿÿ1 t"
-"242";"00:04:58:11";"00:05:01:18";"An der Grenze zu Polen
+240;00:04:58:11;00:04:58:11;FABstXd An der Grenze zu Polen( ( registri@Ô
+241;00:04:58:11;00:04:58:11;FABst0ert die Bundespolizeiÿÿ1 t
+242;00:04:58:11;00:05:01:18;"An der Grenze zu Polen
 
 registriert die Bundespolizei"
-"243";"00:05:01:22";"00:05:01:22";"FABstYVeine Zunahme der Schleusungsversuche.ÿÿf"
-"244";"00:05:01:22";"00:05:04:10";"eine Zunahme der Schleusungsversuche."
-"245";"00:05:04:14";"00:05:04:14";"FABstZd Im ersten Halbjahr wurden an den( ( OstgrF*"
-"246";"00:05:04:14";"00:05:04:14";"FABstDenzen Brandenburgs und Sachsensÿÿ<u>ü"
-"247";"00:05:04:14";"00:05:08:14";"Im ersten Halbjahr wurden an den
+243;00:05:01:22;00:05:01:22;FABstYVeine Zunahme der Schleusungsversuche.ÿÿf
+244;00:05:01:22;00:05:04:10;eine Zunahme der Schleusungsversuche.
+245;00:05:04:14;00:05:04:14;FABstZd Im ersten Halbjahr wurden an den( ( OstgrF*
+246;00:05:04:14;00:05:04:14;FABstDenzen Brandenburgs und Sachsensÿÿ<u>ü
+247;00:05:04:14;00:05:08:14;"Im ersten Halbjahr wurden an den
 
 Ostgrenzen Brandenburgs und Sachsens"
-"248";"00:05:08:18";"00:05:08:18";"FABst[d mehr als 12.000 Migranten( ( ohne Einr`ò"
-"249";"00:05:08:18";"00:05:08:18";"FABst<eisedokumente aufgegriffen.ÿÿ%´"
-"250";"00:05:08:18";"00:05:12:15";"mehr als 12.000 Migranten
+248;00:05:08:18;00:05:08:18;FABst[d mehr als 12.000 Migranten( ( ohne Einr`ò
+249;00:05:08:18;00:05:08:18;FABst<eisedokumente aufgegriffen.ÿÿ%´
+250;00:05:08:18;00:05:12:15;"mehr als 12.000 Migranten
 
 ohne Einreisedokumente aufgegriffen."
-"251";"00:05:12:20";"00:05:12:20";"FABst\TDas sind im Schnitt fast 70 pro Tag.ÿÿÏ."
-"252";"00:05:12:20";"00:05:15:09";"Das sind im Schnitt fast 70 pro Tag."
-"253";"00:05:15:13";"00:05:15:13";"FABst]d Die Landesregierungen( ( fordern mehl "
-"254";"00:05:15:13";"00:05:15:13";"FABst8r Unterstützung vom Bund.ÿÿ)"
-"255";"00:05:15:13";"00:05:19:10";"Die Landesregierungen
+251;00:05:12:20;00:05:12:20;FABst\TDas sind im Schnitt fast 70 pro Tag.ÿÿÏ.
+252;00:05:12:20;00:05:15:09;Das sind im Schnitt fast 70 pro Tag.
+253;00:05:15:13;00:05:15:13;FABst]d Die Landesregierungen( ( fordern mehl 
+254;00:05:15:13;00:05:15:13;FABst8r Unterstützung vom Bund.ÿÿ)
+255;00:05:15:13;00:05:19:10;"Die Landesregierungen
 
 fordern mehr UnterstÈutzung vom Bund."
-"256";"00:05:21:09";"00:05:21:09";"FABst^d Ein Einsatz der Bundespolizei( ( in G!H"
-"257";"00:05:21:09";"00:05:21:09";"FABst8örlitz Anfang der Woche: 1@¬"
-"258";"00:05:21:09";"00:05:24:23";"Ein Einsatz der Bundespolizei
+256;00:05:21:09;00:05:21:09;FABst^d Ein Einsatz der Bundespolizei( ( in G!H
+257;00:05:21:09;00:05:21:09;FABst8örlitz Anfang der Woche: 1@¬
+258;00:05:21:09;00:05:24:23;"Ein Einsatz der Bundespolizei
 
 in GÈorlitz Anfang der Woche:"
-"259";"00:05:25:00";"00:05:25:00";"FABst_d In einem Transporter werden( ( 27 Menscþ"
-"260";"00:05:25:00";"00:05:25:00";"FABst6hen aus Syrien entdeckt.3Ï<u>"
-"261";"00:05:25:00";"00:05:28:18";"In einem Transporter werden
+259;00:05:25:00;00:05:25:00;FABst_d In einem Transporter werden( ( 27 Menscþ
+260;00:05:25:00;00:05:25:00;FABst6hen aus Syrien entdeckt.3Ï<u>
+261;00:05:25:00;00:05:28:18;"In einem Transporter werden
 
 27 Menschen aus Syrien entdeckt."
-"262";"00:05:28:22";"00:05:28:22";"FABst`P Die Fahrerin (41) aus der UkraineÿÿâÚ"
-"263";"00:05:28:22";"00:05:31:03";"Die Fahrerin (41) aus der Ukraine"
-"264";"00:05:31:08";"00:05:31:08";"FABstad wird wegen des Verdachts( ( der EinsX("
-"265";"00:05:31:08";"00:05:31:08";"FABst4chleusung festgenommen.ÿÿ-¸"
-"266";"00:05:31:08";"00:05:34:16";"wird wegen des Verdachts
+262;00:05:28:22;00:05:28:22;FABst`P Die Fahrerin (41) aus der UkraineÿÿâÚ
+263;00:05:28:22;00:05:31:03;Die Fahrerin (41) aus der Ukraine
+264;00:05:31:08;00:05:31:08;FABstad wird wegen des Verdachts( ( der EinsX(
+265;00:05:31:08;00:05:31:08;FABst4chleusung festgenommen.ÿÿ-¸
+266;00:05:31:08;00:05:34:16;"wird wegen des Verdachts
 
 der Einschleusung festgenommen."
-"267";"00:05:34:20";"00:05:34:20";"FABstbd Fast täglich( ( werden derzeit ò"
-"268";"00:05:34:20";"00:05:34:20";"FABst*illegale Einreisenÿÿ7<"
-"269";"00:05:34:20";"00:05:37:12";"Fast tÈaglich
+267;00:05:34:20;00:05:34:20;FABstbd Fast täglich( ( werden derzeit ò
+268;00:05:34:20;00:05:34:20;FABst*illegale Einreisenÿÿ7<
+269;00:05:34:20;00:05:37:12;"Fast tÈaglich
 
 werden derzeit illegale Einreisen"
-"270";"00:05:37:16";"00:05:37:16";"FABstcd im Grenzraum( ( zu Polen und Ts0"
-"271";"00:05:37:16";"00:05:37:16";"FABst2chechien festgestellt.ÿÿ/éÈ"
-"272";"00:05:37:16";"00:05:40:15";"im Grenzraum
+270;00:05:37:16;00:05:37:16;FABstcd im Grenzraum( ( zu Polen und Ts0
+271;00:05:37:16;00:05:37:16;FABst2chechien festgestellt.ÿÿ/éÈ
+272;00:05:37:16;00:05:40:15;"im Grenzraum
 
 zu Polen und Tschechien festgestellt."
-"273";"00:05:40:19";"00:05:40:19";"FABstdd Die Bundespolizei ( ( ist imh"
-"274";"00:05:40:19";"00:05:40:19";"FABst" Dauereinsatz.ÿÿ?ÇX"
-"275";"00:05:40:19";"00:05:43:08";"Die Bundespolizei
+273;00:05:40:19;00:05:40:19;FABstdd Die Bundespolizei ( ( ist imh
+274;00:05:40:19;00:05:40:19;"FABst"" Dauereinsatz.ÿÿ?ÇX"
+275;00:05:40:19;00:05:43:08;"Die Bundespolizei
 
 ist im Dauereinsatz."
-"276";"00:05:43:16";"00:05:43:16";"FABsteF Besonders problematischõ"
-"277";"00:05:43:16";"00:05:45:17";"Besonders problematisch"
-"278";"00:05:46:04";"00:05:46:04";"FABstfd ist die Skrupellosigkeit( ( der SchWH"
-"279";"00:05:46:04";"00:05:46:04";"FABst2leuser-Organisationen.7ßh"
-"280";"00:05:46:04";"00:05:49:20";"ist die Skrupellosigkeit
+276;00:05:43:16;00:05:43:16;FABsteF Besonders problematischõ
+277;00:05:43:16;00:05:45:17;Besonders problematisch
+278;00:05:46:04;00:05:46:04;FABstfd ist die Skrupellosigkeit( ( der SchWH
+279;00:05:46:04;00:05:46:04;FABst2leuser-Organisationen.7ßh
+280;00:05:46:04;00:05:49:20;"ist die Skrupellosigkeit
 
 der Schleuser-Organisationen."
-"281";"00:05:49:24";"00:05:49:24";"FABstgPWir haben vielfach FeststellungenöÈ"
-"282";"00:05:49:24";"00:05:52:11";"Wir haben vielfach Feststellungen"
-"283";"00:05:52:15";"00:05:52:15";"FABsthd von sogenannten( ( Behältnis¡Ø"
-"284";"00:05:52:15";"00:05:52:15";"FABst schleusungen.ÿÿA¢Z"
-"285";"00:05:52:15";"00:05:55:06";"von sogenannten
+281;00:05:49:24;00:05:49:24;FABstgPWir haben vielfach FeststellungenöÈ
+282;00:05:49:24;00:05:52:11;Wir haben vielfach Feststellungen
+283;00:05:52:15;00:05:52:15;FABsthd von sogenannten( ( Behältnis¡Ø
+284;00:05:52:15;00:05:52:15;FABst schleusungen.ÿÿA¢Z
+285;00:05:52:15;00:05:55:06;"von sogenannten
 
 BehÈaltnisschleusungen."
-"286";"00:05:55:11";"00:05:55:11";"FABstid In denen werden Menschen( ( teilweise^È"
-"287";"00:05:55:11";"00:05:55:11";"FABst6 wie Ware transportiert.ÿÿ+Í¸"
-"288";"00:05:55:11";"00:05:59:09";"In denen werden Menschen
+286;00:05:55:11;00:05:55:11;FABstid In denen werden Menschen( ( teilweise^È
+287;00:05:55:11;00:05:55:11;FABst6 wie Ware transportiert.ÿÿ+Í¸
+288;00:05:55:11;00:05:59:09;"In denen werden Menschen
 
 teilweise wie Ware transportiert."
-"289";"00:05:59:17";"00:05:59:17";"FABstjd Sie befinden sich ungesichert ( ( im KoQâ"
-"290";"00:05:59:17";"00:05:59:17";"FABst8fferraum eines Fahrzeugesÿÿ)²4"
-"291";"00:05:59:17";"00:06:04:01";"Sie befinden sich ungesichert
+289;00:05:59:17;00:05:59:17;FABstjd Sie befinden sich ungesichert ( ( im KoQâ
+290;00:05:59:17;00:05:59:17;FABst8fferraum eines Fahrzeugesÿÿ)²4
+291;00:05:59:17;00:06:04:01;"Sie befinden sich ungesichert
 
 im Kofferraum eines Fahrzeuges"
-"292";"00:06:04:05";"00:06:04:05";"FABstkd oder werden auf der Ladefläche( ( eines¶º"
-"293";"00:06:04:05";"00:06:04:05";"FABstB Transporters "transportiert".ÿÿÐ"
-"294";"00:06:04:05";"00:06:08:22";"oder werden auf der LadeflÈache
+292;00:06:04:05;00:06:04:05;FABstkd oder werden auf der Ladefläche( ( eines¶º
+293;00:06:04:05;00:06:04:05;"FABstB Transporters ""transportiert"".ÿÿÐ"
+294;00:06:04:05;00:06:08:22;"oder werden auf der LadeflÈache
 
-eines Transporters "transportiert"."
-"295";"00:06:09:10";"00:06:09:10";"FABstld Deutschlandweit( ( wurden al9"
-"296";"00:06:09:10";"00:06:09:10";"FABst leine im JuliÿÿAÙ®"
-"297";"00:06:09:10";"00:06:11:23";"Deutschlandweit
+eines Transporters ""transportiert""."
+295;00:06:09:10;00:06:09:10;FABstld Deutschlandweit( ( wurden al9
+296;00:06:09:10;00:06:09:10;FABst leine im JuliÿÿAÙ®
+297;00:06:09:10;00:06:11:23;"Deutschlandweit
 
 wurden alleine im Juli"
-"298";"00:06:12:01";"00:06:12:01";"FABstmd 10.714 illegale Einreisen( ( ô"
-"299";"00:06:12:01";"00:06:12:01";"FABst"registriert.ÿÿ?¸¬"
-"300";"00:06:12:01";"00:06:14:17";"10.714 illegale Einreisen
+298;00:06:12:01;00:06:12:01;FABstmd 10.714 illegale Einreisen( ( ô
+299;00:06:12:01;00:06:12:01;"FABst""registriert.ÿÿ?¸¬"
+300;00:06:12:01;00:06:14:17;"10.714 illegale Einreisen
 
 registriert."
-"301";"00:06:14:21";"00:06:14:21";"FABstnd 6900 waren es( ( im selben Mona5v"
-"302";"00:06:14:21";"00:06:14:21";"FABst&t des Vorjahres.ÿÿ;2"
-"303";"00:06:14:21";"00:06:17:23";"6900 waren es
+301;00:06:14:21;00:06:14:21;FABstnd 6900 waren es( ( im selben Mona5v
+302;00:06:14:21;00:06:14:21;"FABst&t des Vorjahres.ÿÿ;2"
+303;00:06:14:21;00:06:17:23;"6900 waren es
 
 im selben Monat des Vorjahres."
-"304";"00:06:18:12";"00:06:18:12";"FABstod Laut Sachsens Innenminister( ( dürftenäÔ"
-"305";"00:06:18:12";"00:06:18:12";"FABstB die Zahlen im Herbst steigen.ÿÿ»ò"
-"306";"00:06:18:12";"00:06:22:17";"Laut Sachsens Innenminister
+304;00:06:18:12;00:06:18:12;FABstod Laut Sachsens Innenminister( ( dürftenäÔ
+305;00:06:18:12;00:06:18:12;FABstB die Zahlen im Herbst steigen.ÿÿ»ò
+306;00:06:18:12;00:06:22:17;"Laut Sachsens Innenminister
 
 dÈurften die Zahlen im Herbst steigen."
-"307";"00:06:22:21";"00:06:22:21";"FABstpd Die zugangsstärksten( ( Migrä"
-"308";"00:06:22:21";"00:06:22:21";"FABst"ations-Monate G¢""
-"309";"00:06:22:21";"00:06:25:22";"Die zugangsstÈarksten
+307;00:06:22:21;00:06:22:21;FABstpd Die zugangsstärksten( ( Migrä
+308;00:06:22:21;00:06:22:21;"FABst""ations-Monate G¢"""
+309;00:06:22:21;00:06:25:22;"Die zugangsstÈarksten
 
 Migrations-Monate"
-"310";"00:06:26:08";"00:06:26:08";"FABstqd sind seit Jahren( ( im September,|"
-"311";"00:06:26:08";"00:06:26:08";"FABst, Oktober, November.=`"
-"312";"00:06:26:08";"00:06:29:21";"sind seit Jahren
+310;00:06:26:08;00:06:26:08;FABstqd sind seit Jahren( ( im September,|
+311;00:06:26:08;00:06:26:08;FABst, Oktober, November.=`
+312;00:06:26:08;00:06:29:21;"sind seit Jahren
 
 im September, Oktober, November."
-"313";"00:06:30:22";"00:06:30:22";"FABstrd Seit Monaten warnen wir ( ( die Bu.d"
-"314";"00:06:30:22";"00:06:30:22";"FABst.ndesinnenministerin,ÿÿ3¶*"
-"315";"00:06:30:22";"00:06:34:14";"Seit Monaten warnen wir
+313;00:06:30:22;00:06:30:22;FABstrd Seit Monaten warnen wir ( ( die Bu.d
+314;00:06:30:22;00:06:30:22;FABst.ndesinnenministerin,ÿÿ3¶*
+315;00:06:30:22;00:06:34:14;"Seit Monaten warnen wir
 
 die Bundesinnenministerin,"
-"316";"00:06:34:19";"00:06:34:19";"FABstsd sie möge sich( ( auf diese Mo½h"
-"317";"00:06:34:19";"00:06:34:19";"FABst(nate vorbereiten.ÿÿ9</i>"
-"318";"00:06:34:19";"00:06:37:23";"sie mÈoge sich
+316;00:06:34:19;00:06:34:19;FABstsd sie möge sich( ( auf diese Mo½h
+317;00:06:34:19;00:06:34:19;FABst(nate vorbereiten.ÿÿ9</i>
+318;00:06:34:19;00:06:37:23;"sie mÈoge sich
 
 auf diese Monate vorbereiten."
-"319";"00:06:39:23";"00:06:39:23";"FABsttdEine Reaktion des Innenministeriums( ( dº"
-"320";"00:06:39:23";"00:06:39:23";"FABst0 steht noch aus.ÿÿ1Ñ@"
-"321";"00:06:39:23";"00:06:43:04";"Eine Reaktion des Innenministeriums
+319;00:06:39:23;00:06:39:23;FABsttdEine Reaktion des Innenministeriums( ( dº
+320;00:06:39:23;00:06:39:23;FABst0 steht noch aus.ÿÿ1Ñ@
+321;00:06:39:23;00:06:43:04;"Eine Reaktion des Innenministeriums
 
 steht noch aus."
-"322";"00:06:43:09";"00:06:43:09";"FABstuTUnsere Nachfrage sei zu kurzfristig.ÿÿÂ"
-"323";"00:06:43:09";"00:06:45:15";"Unsere Nachfrage sei zu kurzfristig."
-"324";"00:06:45:19";"00:06:45:19";"FABstvd Seit Monaten( ( fordern SachseqB"
-"325";"00:06:45:19";"00:06:45:19";"FABst(n und Brandenburgÿÿ9¿"
-"326";"00:06:45:19";"00:06:48:10";"Seit Monaten
+322;00:06:43:09;00:06:43:09;FABstuTUnsere Nachfrage sei zu kurzfristig.ÿÿÂ
+323;00:06:43:09;00:06:45:15;Unsere Nachfrage sei zu kurzfristig.
+324;00:06:45:19;00:06:45:19;FABstvd Seit Monaten( ( fordern SachseqB
+325;00:06:45:19;00:06:45:19;FABst(n und Brandenburgÿÿ9¿
+326;00:06:45:19;00:06:48:10;"Seit Monaten
 
 fordern Sachsen und Brandenburg"
-"327";"00:06:48:12";"00:06:48:12";"FABstwH mehr Engagement vom Bund.ÿÿ"
-"328";"00:06:48:12";"00:06:50:05";"mehr Engagement vom Bund."
-"329";"00:06:50:07";"00:06:50:07";"FABstxdSachsen unterstützt die Bundespolizei( ( ØÖ"
-"330";"00:06:50:07";"00:06:50:07";"FABst: mit eigenen Beamten.ÿÿ'N"
-"331";"00:06:50:07";"00:06:53:19";"Sachsen unterstÈutzt die Bundespolizei
+327;00:06:48:12;00:06:48:12;FABstwH mehr Engagement vom Bund.ÿÿ
+328;00:06:48:12;00:06:50:05;mehr Engagement vom Bund.
+329;00:06:50:07;00:06:50:07;FABstxdSachsen unterstützt die Bundespolizei( ( ØÖ
+330;00:06:50:07;00:06:50:07;FABst: mit eigenen Beamten.ÿÿ'N
+331;00:06:50:07;00:06:53:19;"Sachsen unterstÈutzt die Bundespolizei
 
 mit eigenen Beamten."
-"332";"00:06:53:21";"00:06:53:21";"FABstyH Das soll ausgebaut werden.ÿÿí""
-"333";"00:06:53:21";"00:06:55:12";"Das soll ausgebaut werden."
-"334";"00:06:56:17";"00:06:56:17";"FABstzd Die Arktis erwärmt sich schneller( ( al<i>"
-"335";"00:06:56:17";"00:06:56:17";"FABst<s andere Regionen der Erde.ÿÿ%Æ"
-"336";"00:06:56:17";"00:07:00:17";"Die Arktis erwÈarmt sich schneller
+332;00:06:53:21;00:06:53:21;"FABstyH Das soll ausgebaut werden.ÿÿí"""
+333;00:06:53:21;00:06:55:12;Das soll ausgebaut werden.
+334;00:06:56:17;00:06:56:17;FABstzd Die Arktis erwärmt sich schneller( ( al<i>
+335;00:06:56:17;00:06:56:17;FABst<s andere Regionen der Erde.ÿÿ%Æ
+336;00:06:56:17;00:07:00:17;"Die Arktis erwÈarmt sich schneller
 
 als andere Regionen der Erde."
-"337";"00:07:00:21";"00:07:00:21";"FABst{d Durch den Klimawandel( ( schmilzt¶"
-"338";"00:07:00:21";"00:07:00:21";"FABst0 dort der Permafrost,ÿÿ1©â"
-"339";"00:07:00:21";"00:07:04:06";"Durch den Klimawandel
+337;00:07:00:21;00:07:00:21;FABst{d Durch den Klimawandel( ( schmilzt¶
+338;00:07:00:21;00:07:00:21;FABst0 dort der Permafrost,ÿÿ1©â
+339;00:07:00:21;00:07:04:06;"Durch den Klimawandel
 
 schmilzt dort der Permafrost,"
-"340";"00:07:04:10";"00:07:04:10";"FABst|Tdicke Schichten gefrorenes Erdreich.ÿÿß"
-"341";"00:07:04:10";"00:07:06:23";"dicke Schichten gefrorenes Erdreich."
-"342";"00:07:07:02";"00:07:07:02";"FABst}d Besonders deutlich ist das ( ( im NC´"
-"343";"00:07:07:02";"00:07:07:02";"FABst4orden Kanadas zu sehen.ÿÿ-¡n"
-"344";"00:07:07:02";"00:07:10:13";"Besonders deutlich ist das
+340;00:07:04:10;00:07:04:10;FABst|Tdicke Schichten gefrorenes Erdreich.ÿÿß
+341;00:07:04:10;00:07:06:23;dicke Schichten gefrorenes Erdreich.
+342;00:07:07:02;00:07:07:02;FABst}d Besonders deutlich ist das ( ( im NC´
+343;00:07:07:02;00:07:07:02;FABst4orden Kanadas zu sehen.ÿÿ-¡n
+344;00:07:07:02;00:07:10:13;"Besonders deutlich ist das
 
 im Norden Kanadas zu sehen."
-"345";"00:07:10:17";"00:07:10:17";"FABst~dIm Dorf Tuktoyaktuk sackt der Boden( ( E<i>"
-"346";"00:07:10:17";"00:07:10:17";"FABst6unter den Häusern ein.ÿÿ+X"
-"347";"00:07:10:17";"00:07:14:18";"Im Dorf Tuktoyaktuk sackt der Boden
+345;00:07:10:17;00:07:10:17;FABst~dIm Dorf Tuktoyaktuk sackt der Boden( ( E<i>
+346;00:07:10:17;00:07:10:17;FABst6unter den Häusern ein.ÿÿ+X
+347;00:07:10:17;00:07:14:18;"Im Dorf Tuktoyaktuk sackt der Boden
 
 unter den HÈausern ein."
-"348";"00:07:14:22";"00:07:14:22";"FABstTViele könnten ihr Zuhause verlieren.ÿÿ²"
-"349";"00:07:14:22";"00:07:17:11";"Viele kÈonnten ihr Zuhause verlieren."
-"350";"00:07:19:12";"00:07:19:12";"FABst<i>d Aus der Luft erkennt man( ( die ïä"
-"351";"00:07:19:12";"00:07:19:12";"FABst*Erosion am besten,?\"
-"352";"00:07:19:12";"00:07:22:06";"Aus der Luft erkennt man
+348;00:07:14:22;00:07:14:22;FABstTViele könnten ihr Zuhause verlieren.ÿÿ²
+349;00:07:14:22;00:07:17:11;Viele kÈonnten ihr Zuhause verlieren.
+350;00:07:19:12;00:07:19:12;FABst<i>d Aus der Luft erkennt man( ( die ïä
+351;00:07:19:12;00:07:19:12;FABst*Erosion am besten,?\
+352;00:07:19:12;00:07:22:06;"Aus der Luft erkennt man
 
 die Erosion am besten,"
-"353";"00:07:22:08";"00:07:22:08";"FABst</i>B sagt Dustin Whalen.#7P"
-"354";"00:07:22:08";"00:07:23:15";"sagt Dustin Whalen."
-"355";"00:07:23:16";"00:07:23:16";"FABst<u>d Der kanadische Wissenschaftler( ( forschµ"
-"356";"00:07:23:16";"00:07:23:16";"FABstDt seit 20 Jahren in der Arktis.ÿÿj"
-"357";"00:07:23:16";"00:07:27:14";"Der kanadische Wissenschaftler
+353;00:07:22:08;00:07:22:08;FABst</i>B sagt Dustin Whalen.#7P
+354;00:07:22:08;00:07:23:15;sagt Dustin Whalen.
+355;00:07:23:16;00:07:23:16;FABst<u>d Der kanadische Wissenschaftler( ( forschµ
+356;00:07:23:16;00:07:23:16;FABstDt seit 20 Jahren in der Arktis.ÿÿj
+357;00:07:23:16;00:07:27:14;"Der kanadische Wissenschaftler
 
 forscht seit 20 Jahren in der Arktis."
-"358";"00:07:27:18";"00:07:27:18";"FABst</u>d Noch nie taute der Permafrost( ( éF"
-"359";"00:07:27:18";"00:07:27:18";"FABst0so schnell wie jetzt.ÿÿ1</u>Ü"
-"360";"00:07:27:18";"00:07:30:18";"Noch nie taute der Permafrost
+358;00:07:27:18;00:07:27:18;FABst</u>d Noch nie taute der Permafrost( ( éF
+359;00:07:27:18;00:07:27:18;FABst0so schnell wie jetzt.ÿÿ1</u>Ü
+360;00:07:27:18;00:07:30:18;"Noch nie taute der Permafrost
 
 so schnell wie jetzt."
-"361";"00:07:30:22";"00:07:30:22";"FABstd Riesige Eisplatten sind schutzlos( ( ¿¬"
-"362";"00:07:30:22";"00:07:30:22";"FABst4der Sonne ausgesetzt.ÿÿ-ù`"
-"363";"00:07:30:22";"00:07:34:02";"Riesige Eisplatten sind schutzlos
+361;00:07:30:22;00:07:30:22;FABstd Riesige Eisplatten sind schutzlos( ( ¿¬
+362;00:07:30:22;00:07:30:22;FABst4der Sonne ausgesetzt.ÿÿ-ù`
+363;00:07:30:22;00:07:34:02;"Riesige Eisplatten sind schutzlos
 
 der Sonne ausgesetzt."
-"364";"00:07:34:06";"00:07:34:06";"FABstd Der Boden darüber( ( sackt im7<i>"
-"365";"00:07:34:06";"00:07:34:06";"FABst"mer weiter ab.ÿÿ?¿"
-"366";"00:07:34:06";"00:07:36:22";"Der Boden darÈuber
+364;00:07:34:06;00:07:34:06;FABstd Der Boden darüber( ( sackt im7<i>
+365;00:07:34:06;00:07:34:06;"FABst""mer weiter ab.ÿÿ?¿"
+366;00:07:34:06;00:07:36:22;"Der Boden darÈuber
 
 sackt immer weiter ab."
-"367";"00:07:37:18";"00:07:37:18";"FABstB Man muss verstehen,#"L"
-"368";"00:07:37:18";"00:07:39:03";"Man muss verstehen,"
-"369";"00:07:39:07";"00:07:39:07";"FABstd was an Orten mit( ( so extremer Ðà"
-"370";"00:07:39:07";"00:07:39:07";"FABst4Küstenerosion passiert.54$"
-"371";"00:07:39:07";"00:07:42:14";"was an Orten mit
+367;00:07:37:18;00:07:37:18;"FABstB Man muss verstehen,#""L"
+368;00:07:37:18;00:07:39:03;Man muss verstehen,
+369;00:07:39:07;00:07:39:07;FABstd was an Orten mit( ( so extremer Ðà
+370;00:07:39:07;00:07:39:07;FABst4Küstenerosion passiert.54$
+371;00:07:39:07;00:07:42:14;"was an Orten mit
 
 so extremer KÈustenerosion passiert."
-"372";"00:07:42:18";"00:07:42:18";"FABstTJedes Jahr brechen sechs Meter weg.y"
-"373";"00:07:42:18";"00:07:45:06";"Jedes Jahr brechen sechs Meter weg."
-"374";"00:07:45:10";"00:07:45:10";"FABstTDaraus lassen sich Folgen ableiten,ÿÿò"
-"375";"00:07:45:10";"00:07:47:19";"Daraus lassen sich Folgen ableiten,"
-"376";"00:07:47:21";"00:07:47:21";"FABst
+372;00:07:42:18;00:07:42:18;FABstTJedes Jahr brechen sechs Meter weg.y
+373;00:07:42:18;00:07:45:06;Jedes Jahr brechen sechs Meter weg.
+374;00:07:45:10;00:07:45:10;FABstTDaraus lassen sich Folgen ableiten,ÿÿò
+375;00:07:45:10;00:07:47:19;Daraus lassen sich Folgen ableiten,
+376;00:07:47:21;00:07:47:21;"FABst
 d die der tauende Permafrost( ( g"
-"377";"00:07:47:21";"00:07:47:21";"FABst(lobal haben kann.ÿÿ9ÔÄ"
-"378";"00:07:47:21";"00:07:50:18";"die der tauende Permafrost
+377;00:07:47:21;00:07:47:21;FABst(lobal haben kann.ÿÿ9ÔÄ
+378;00:07:47:21;00:07:50:18;"die der tauende Permafrost
 
 global haben kann."
-"379";"00:07:50:22";"00:07:50:22";"FABstd Tuktoyaktuk hoch im Norden:( ( Hier beË*"
-"380";"00:07:50:22";"00:07:50:22";"FABst:ginnt der arktische Ozean.ÿÿ'ÐP"
-"381";"00:07:50:22";"00:07:55:03";"Tuktoyaktuk hoch im Norden:
+379;00:07:50:22;00:07:50:22;FABstd Tuktoyaktuk hoch im Norden:( ( Hier beË*
+380;00:07:50:22;00:07:50:22;FABst:ginnt der arktische Ozean.ÿÿ'ÐP
+381;00:07:50:22;00:07:55:03;"Tuktoyaktuk hoch im Norden:
 
 Hier beginnt der arktische Ozean."
-"382";"00:07:55:09";"00:07:55:09";"FABstd Es könnte der erste Ort( ( nÜ"
-"383";"00:07:55:09";"00:07:55:09";"FABst$in Kanada sein,ÿÿ=îZ"
-"384";"00:07:55:09";"00:07:58:05";"Es kÈonnte der erste Ort
+382;00:07:55:09;00:07:55:09;FABstd Es könnte der erste Ort( ( nÜ
+383;00:07:55:09;00:07:55:09;FABst$in Kanada sein,ÿÿ=îZ
+384;00:07:55:09;00:07:58:05;"Es kÈonnte der erste Ort
 
 in Kanada sein,"
-"385";"00:07:58:10";"00:07:58:10";"FABstJ der komplett umziehen muss.ÿÿI"
-"386";"00:07:58:10";"00:08:00:08";"der komplett umziehen muss."
-"387";"00:08:00:12";"00:08:00:12";"FABstd Der Permafrost,( ( der das Lan"
-"388";"00:08:00:12";"00:08:00:12";"FABst$d zusammenhält,ÿÿ="
-"389";"00:08:00:12";"00:08:03:03";"Der Permafrost,
+385;00:07:58:10;00:07:58:10;FABstJ der komplett umziehen muss.ÿÿI
+386;00:07:58:10;00:08:00:08;der komplett umziehen muss.
+387;00:08:00:12;00:08:00:12;FABstd Der Permafrost,( ( der das Lan
+388;00:08:00:12;00:08:00:12;FABst$d zusammenhält,ÿÿ=
+389;00:08:00:12;00:08:03:03;"Der Permafrost,
 
 der das Land zusammenhÈalt,"
-"390";"00:08:03:07";"00:08:03:07";"FABstH taut gefährlich stark weg.ÿÿ³¨"
-"391";"00:08:03:07";"00:08:05:06";"taut gefÈahrlich stark weg."
-"392";"00:08:05:10";"00:08:05:10";"FABstJ Ungewöhnlich heiße 30 Grad:ÿÿkê"
-"393";"00:08:05:10";"00:08:07:14";"UngewÈohnlich heiûe 30 Grad:"
-"394";"00:08:07:18";"00:08:07:18";"FABstd Paul Overduin( ( forscht ers¥@"
-"395";"00:08:07:18";"00:08:07:18";"FABst&tmals in Shorts.ÿÿ;"
-"396";"00:08:07:18";"00:08:10:16";"Paul Overduin
+390;00:08:03:07;00:08:03:07;FABstH taut gefährlich stark weg.ÿÿ³¨
+391;00:08:03:07;00:08:05:06;taut gefÈahrlich stark weg.
+392;00:08:05:10;00:08:05:10;FABstJ Ungewöhnlich heiße 30 Grad:ÿÿkê
+393;00:08:05:10;00:08:07:14;UngewÈohnlich heiûe 30 Grad:
+394;00:08:07:18;00:08:07:18;FABstd Paul Overduin( ( forscht ers¥@
+395;00:08:07:18;00:08:07:18;"FABst&tmals in Shorts.ÿÿ;"
+396;00:08:07:18;00:08:10:16;"Paul Overduin
 
 forscht erstmals in Shorts."
-"397";"00:08:10:20";"00:08:10:20";"FABstd Die höheren Temperaturen könnten ( ( nicht¿®"
-"398";"00:08:10:20";"00:08:10:20";"FABstB nur das Leben hier verändern.ÿÿ"
-"399";"00:08:10:20";"00:08:14:23";"Die hÈoheren Temperaturen kÈonnten
+397;00:08:10:20;00:08:10:20;FABstd Die höheren Temperaturen könnten ( ( nicht¿®
+398;00:08:10:20;00:08:10:20;FABstB nur das Leben hier verändern.ÿÿ
+399;00:08:10:20;00:08:14:23;"Die hÈoheren Temperaturen kÈonnten
 
 nicht nur das Leben hier verÈandern."
-"400";"00:08:15:03";"00:08:15:03";"FABstd Permafrost-Auftau in der Arktis( ( kannÄÜ"
-"401";"00:08:15:03";"00:08:15:03";"FABst< Treibhausgase freisetzen. -»º"
-"402";"00:08:15:03";"00:08:19:12";"Permafrost-Auftau in der Arktis
+400;00:08:15:03;00:08:15:03;FABstd Permafrost-Auftau in der Arktis( ( kannÄÜ
+401;00:08:15:03;00:08:15:03;FABst< Treibhausgase freisetzen. -»º
+402;00:08:15:03;00:08:19:12;"Permafrost-Auftau in der Arktis
 
 kann Treibhausgase freisetzen."
-"403";"00:08:19:16";"00:08:19:16";"FABstd Und die können zur Verstärkung ( ( des g­"
-"404";"00:08:19:16";"00:08:19:16";"FABst>lobalen Klimawandels führen.+f"
-"405";"00:08:19:16";"00:08:23:15";"Und die kÈonnen zur VerstÈarkung
+403;00:08:19:16;00:08:19:16;FABstd Und die können zur Verstärkung ( ( des g­
+404;00:08:19:16;00:08:19:16;FABst>lobalen Klimawandels führen.+f
+405;00:08:19:16;00:08:23:15;"Und die kÈonnen zur VerstÈarkung
 
 des globalen Klimawandels fÈuhren."
-"406";"00:08:23:19";"00:08:23:19";"FABstd Was hier passiert,( ( trifft unÆÚ"
-"407";"00:08:23:19";"00:08:23:19";"FABst(s auch in Europa.ÿÿ9¥,"
-"408";"00:08:23:19";"00:08:26:16";"Was hier passiert,
+406;00:08:23:19;00:08:23:19;FABstd Was hier passiert,( ( trifft unÆÚ
+407;00:08:23:19;00:08:23:19;FABst(s auch in Europa.ÿÿ9¥,
+408;00:08:23:19;00:08:26:16;"Was hier passiert,
 
 trifft uns auch in Europa."
-"409";"00:08:26:21";"00:08:26:21";"FABstd Sie ist eine der Ersten,( ( die»J"
-"410";"00:08:26:21";"00:08:26:21";"FABst( umziehen musste.ÿÿ9Öl"
-"411";"00:08:26:21";"00:08:29:18";"Sie ist eine der Ersten,
+409;00:08:26:21;00:08:26:21;FABstd Sie ist eine der Ersten,( ( die»J
+410;00:08:26:21;00:08:26:21;FABst( umziehen musste.ÿÿ9Öl
+411;00:08:26:21;00:08:29:18;"Sie ist eine der Ersten,
 
 die umziehen musste."
-"412";"00:08:29:22";"00:08:29:22";"FABstd Hier stand das Haus( ( von ôî"
-"413";"00:08:29:22";"00:08:29:22";"FABst$Noella Cockney.ÿÿ=|"
-"414";"00:08:29:22";"00:08:32:06";"Hier stand das Haus
+412;00:08:29:22;00:08:29:22;FABstd Hier stand das Haus( ( von ôî
+413;00:08:29:22;00:08:29:22;FABst$Noella Cockney.ÿÿ=|
+414;00:08:29:22;00:08:32:06;"Hier stand das Haus
 
 von Noella Cockney."
-"415";"00:08:32:10";"00:08:32:10";"FABstd Der Permafrost darunter( ( wurde immerëP"
-"416";"00:08:32:10";"00:08:32:10";"FABst4 weicher und sackte ab.ÿÿ-Ê"
-"417";"00:08:32:10";"00:08:36:08";"Der Permafrost darunter
+415;00:08:32:10;00:08:32:10;FABstd Der Permafrost darunter( ( wurde immerëP
+416;00:08:32:10;00:08:32:10;FABst4 weicher und sackte ab.ÿÿ-Ê
+417;00:08:32:10;00:08:36:08;"Der Permafrost darunter
 
 wurde immer weicher und sackte ab."
-"418";"00:08:37:12";"00:08:37:12";"FABstL Es ist hart, das zu begreifen.ÿÿ}2"
-"419";"00:08:37:12";"00:08:39:20";"Es ist hart, das zu begreifen."
-"420";"00:08:39:24";"00:08:39:24";"FABstd Viele Menschen werden wegen des( ( KlimË"
-"421";"00:08:39:24";"00:08:39:24";"FABstDawandels ihre Heimat verlieren.ÿÿïÂ"
-"422";"00:08:39:24";"00:08:44:06";"Viele Menschen werden wegen des
+418;00:08:37:12;00:08:37:12;FABstL Es ist hart, das zu begreifen.ÿÿ}2
+419;00:08:37:12;00:08:39:20;Es ist hart, das zu begreifen.
+420;00:08:39:24;00:08:39:24;FABstd Viele Menschen werden wegen des( ( KlimË
+421;00:08:39:24;00:08:39:24;FABstDawandels ihre Heimat verlieren.ÿÿïÂ
+422;00:08:39:24;00:08:44:06;"Viele Menschen werden wegen des
 
 Klimawandels ihre Heimat verlieren."
-"423";"00:08:44:21";"00:08:44:21";"FABstd Tuktoyaktuk hat 36 Mio. Euro( ( von </u><u>"
-"424";"00:08:44:21";"00:08:44:21";"FABst2der Regierung bekommenÿÿ/Ù"
-"425";"00:08:44:21";"00:08:49:00";"Tuktoyaktuk hat 36 Mio. Euro
+423;00:08:44:21;00:08:44:21;FABstd Tuktoyaktuk hat 36 Mio. Euro( ( von </u><u>
+424;00:08:44:21;00:08:44:21;FABst2der Regierung bekommenÿÿ/Ù
+425;00:08:44:21;00:08:49:00;"Tuktoyaktuk hat 36 Mio. Euro
 
 von der Regierung bekommen"
-"426";"00:08:49:15";"00:08:49:15";"FABstD für den Küstenschutz.ÿÿÆ"
-"427";"00:08:49:15";"00:08:51:06";"fÈur den KÈustenschutz."
-"428";"00:08:51:11";"00:08:51:11";"FABstd Doch auch das wird die Erosion ( ( nur kâ"
-"429";"00:08:51:11";"00:08:51:11";"FABst>urz aufhalten, fürchten sie.ÿÿ#$â"
-"430";"00:08:51:11";"00:08:55:24";"Doch auch das wird die Erosion
+426;00:08:49:15;00:08:49:15;FABstD für den Küstenschutz.ÿÿÆ
+427;00:08:49:15;00:08:51:06;fÈur den KÈustenschutz.
+428;00:08:51:11;00:08:51:11;FABstd Doch auch das wird die Erosion ( ( nur kâ
+429;00:08:51:11;00:08:51:11;FABst>urz aufhalten, fürchten sie.ÿÿ#$â
+430;00:08:51:11;00:08:55:24;"Doch auch das wird die Erosion
 
 nur kurz aufhalten, fÈurchten sie."
-"431";"00:08:57:20";"00:08:57:20";"FABstD Gerhard Richter zähltÿÿô"
-"432";"00:08:57:20";"00:08:59:10";"Gerhard Richter zÈahlt"
-"433";"00:08:59:14";"00:08:59:14";"FABstd zu den bekanntesten( ( deutschen KünRæ"
-"434";"00:08:59:14";"00:08:59:14";"FABst0stlern der Gegenwart.ÿÿ1ýL"
-"435";"00:08:59:14";"00:09:02:21";"zu den bekanntesten
+431;00:08:57:20;00:08:57:20;FABstD Gerhard Richter zähltÿÿô
+432;00:08:57:20;00:08:59:10;Gerhard Richter zÈahlt
+433;00:08:59:14;00:08:59:14;FABstd zu den bekanntesten( ( deutschen KünRæ
+434;00:08:59:14;00:08:59:14;FABst0stlern der Gegenwart.ÿÿ1ýL
+435;00:08:59:14;00:09:02:21;"zu den bekanntesten
 
 deutschen KÈunstlern der Gegenwart."
-"436";"00:09:03:00";"00:09:03:00";"FABst D Im Dresdner Albertinumÿÿ2 "
-"437";"00:09:03:00";"00:09:04:13";"Im Dresdner Albertinum"
-"438";"00:09:04:17";"00:09:04:17";"FABst¡dwurde am Wochenende die Ausstellung( ( "Übtä"
-"439";"00:09:04:17";"00:09:04:17";"FABstBermalte Fotografien" eröffnet.ÿÿh"
-"440";"00:09:04:17";"00:09:08:18";"wurde am Wochenende die Ausstellung
+436;00:09:03:00;00:09:03:00;FABst D Im Dresdner Albertinumÿÿ2 
+437;00:09:03:00;00:09:04:13;Im Dresdner Albertinum
+438;00:09:04:17;00:09:04:17;"FABst¡dwurde am Wochenende die Ausstellung( ( ""Übtä"
+439;00:09:04:17;00:09:04:17;"FABstBermalte Fotografien"" eröffnet.ÿÿh"
+440;00:09:04:17;00:09:08:18;"wurde am Wochenende die Ausstellung
 
-"ÈUbermalte Fotografien" erÈoffnet."
-"441";"00:09:08:22";"00:09:08:22";"FABst¢RDie Werke entstanden eher zufällig.ÿÿ·t"
-"442";"00:09:08:22";"00:09:11:16";"Die Werke entstanden eher zufÈallig."
-"443";"00:09:11:20";"00:09:11:20";"FABst£d Es sind von Richter aufgenommene,( ( kÎ"
-"444";"00:09:11:20";"00:09:11:20";"FABst:leinformatige Fotografien,ÿÿ'ØÆ"
-"445";"00:09:11:20";"00:09:16:03";"Es sind von Richter aufgenommene,
+""ÈUbermalte Fotografien"" erÈoffnet."
+441;00:09:08:22;00:09:08:22;FABst¢RDie Werke entstanden eher zufällig.ÿÿ·t
+442;00:09:08:22;00:09:11:16;Die Werke entstanden eher zufÈallig.
+443;00:09:11:20;00:09:11:20;FABst£d Es sind von Richter aufgenommene,( ( kÎ
+444;00:09:11:20;00:09:11:20;FABst:leinformatige Fotografien,ÿÿ'ØÆ
+445;00:09:11:20;00:09:16:03;"Es sind von Richter aufgenommene,
 
 kleinformatige Fotografien,"
-"446";"00:09:16:08";"00:09:16:08";"FABst¤Vdie der Künstler durch Farbreste zog.ÿÿøÆ"
-"447";"00:09:16:08";"00:09:19:07";"die der KÈunstler durch Farbreste zog."
-"448";"00:09:22:13";"00:09:22:13";"FABst¥d Der Andrang( ( im Dresdner Albe</u>X"
-"449";"00:09:22:13";"00:09:22:13";"FABst&rtinum ist groß,CcZ"
-"450";"00:09:22:13";"00:09:25:03";"Der Andrang
+446;00:09:16:08;00:09:16:08;FABst¤Vdie der Künstler durch Farbreste zog.ÿÿøÆ
+447;00:09:16:08;00:09:19:07;die der KÈunstler durch Farbreste zog.
+448;00:09:22:13;00:09:22:13;FABst¥d Der Andrang( ( im Dresdner Albe</u>X
+449;00:09:22:13;00:09:22:13;FABst&rtinum ist groß,CcZ
+450;00:09:22:13;00:09:25:03;"Der Andrang
 
 im Dresdner Albertinum ist groû,"
-"451";"00:09:25:05";"00:09:25:05";"FABst¦d die Bilder sind sehr klein -( ( 10¸"
-"452";"00:09:25:05";"00:09:25:05";"FABst, mal 15 Zentimeter.=¤ "
-"453";"00:09:25:05";"00:09:28:19";"die Bilder sind sehr klein -
+451;00:09:25:05;00:09:25:05;FABst¦d die Bilder sind sehr klein -( ( 10¸
+452;00:09:25:05;00:09:25:05;FABst, mal 15 Zentimeter.=¤ 
+453;00:09:25:05;00:09:28:19;"die Bilder sind sehr klein -
 
 10 mal 15 Zentimeter."
-"454";"00:09:28:23";"00:09:28:23";"FABst§d Doch die selten gezeigten Objekte( ( voÐ"
-"455";"00:09:28:23";"00:09:28:23";"FABst<n Gerhard Richter beweisen,ÿÿ%z"
-"456";"00:09:28:23";"00:09:32:17";"Doch die selten gezeigten Objekte
+454;00:09:28:23;00:09:28:23;FABst§d Doch die selten gezeigten Objekte( ( voÐ
+455;00:09:28:23;00:09:28:23;FABst<n Gerhard Richter beweisen,ÿÿ%z
+456;00:09:28:23;00:09:32:17;"Doch die selten gezeigten Objekte
 
 von Gerhard Richter beweisen,"
-"457";"00:09:32:21";"00:09:32:21";"FABst¨d dass große Kunst( ( auf kleinstem"
-"458";"00:09:32:21";"00:09:32:21";"FABst.Format funktioniert.ÿÿ3ÝZ"
-"459";"00:09:32:21";"00:09:36:07";"dass groûe Kunst
+457;00:09:32:21;00:09:32:21;FABst¨d dass große Kunst( ( auf kleinstem
+458;00:09:32:21;00:09:32:21;FABst.Format funktioniert.ÿÿ3ÝZ
+459;00:09:32:21;00:09:36:07;"dass groûe Kunst
 
 auf kleinstem Format funktioniert."
-"460";"00:09:37:24";"00:09:37:24";"FABst©d Alles, was Gerhard Richter( ( in seineïX"
-"461";"00:09:37:24";"00:09:37:24";"FABst8r Malerei entwickelt hat,1½\"
-"462";"00:09:37:24";"00:09:41:13";"Alles, was Gerhard Richter
+460;00:09:37:24;00:09:37:24;FABst©d Alles, was Gerhard Richter( ( in seineïX
+461;00:09:37:24;00:09:37:24;FABst8r Malerei entwickelt hat,1½\
+462;00:09:37:24;00:09:41:13;"Alles, was Gerhard Richter
 
 in seiner Malerei entwickelt hat,"
-"463";"00:09:41:17";"00:09:41:17";"FABstªd findet sich( ( in diesem kleineô"
-"464";"00:09:41:17";"00:09:41:17";"FABst&n Format wieder.Cö"
-"465";"00:09:41:17";"00:09:44:09";"findet sich
+463;00:09:41:17;00:09:41:17;FABstªd findet sich( ( in diesem kleineô
+464;00:09:41:17;00:09:41:17;FABst&n Format wieder.Cö
+465;00:09:41:17;00:09:44:09;"findet sich
 
 in diesem kleinen Format wieder."
-"466";"00:09:44:11";"00:09:44:11";"FABst«d Das Spiel zwischen( ( Realität)"
-"467";"00:09:44:11";"00:09:44:11";"FABst( und Abstraktion,ÿÿ9ï"
-"468";"00:09:44:11";"00:09:47:01";"Das Spiel zwischen
+466;00:09:44:11;00:09:44:11;FABst«d Das Spiel zwischen( ( Realität)
+467;00:09:44:11;00:09:44:11;FABst( und Abstraktion,ÿÿ9ï
+468;00:09:44:11;00:09:47:01;"Das Spiel zwischen
 
 RealitÈat und Abstraktion,"
-"469";"00:09:47:03";"00:09:47:03";"FABst¬d Fotografie und Malerei( ( kulminieô"
-"470";"00:09:47:03";"00:09:47:03";"FABst0rt in diesen Bildern.ÿÿ1©"
-"471";"00:09:47:03";"00:09:50:18";"Fotografie und Malerei
+469;00:09:47:03;00:09:47:03;FABst¬d Fotografie und Malerei( ( kulminieô
+470;00:09:47:03;00:09:47:03;FABst0rt in diesen Bildern.ÿÿ1©
+471;00:09:47:03;00:09:50:18;"Fotografie und Malerei
 
 kulminiert in diesen Bildern."
-"472";"00:09:50:22";"00:09:50:22";"FABst­d Richter gestaltete( ( seine abså"
-"473";"00:09:50:22";"00:09:50:22";"FABst*trakten Kunstwerkeÿÿ7î"
-"474";"00:09:50:22";"00:09:54:00";"Richter gestaltete
+472;00:09:50:22;00:09:50:22;FABst­d Richter gestaltete( ( seine abså
+473;00:09:50:22;00:09:50:22;FABst*trakten Kunstwerkeÿÿ7î
+474;00:09:50:22;00:09:54:00;"Richter gestaltete
 
 seine abstrakten Kunstwerke"
-"475";"00:09:54:04";"00:09:54:04";"FABst®d oft mit der Rakel -( ( einer Art \"
-"476";"00:09:54:04";"00:09:54:04";"FABst*großem Abstreifer.ÿÿ7x"
-"477";"00:09:54:04";"00:09:57:10";"oft mit der Rakel -
+475;00:09:54:04;00:09:54:04;FABst®d oft mit der Rakel -( ( einer Art \
+476;00:09:54:04;00:09:54:04;FABst*großem Abstreifer.ÿÿ7x
+477;00:09:54:04;00:09:57:10;"oft mit der Rakel -
 
 einer Art groûem Abstreifer."
-"478";"00:09:57:14";"00:09:57:14";"FABst¯d Am Ende seines Arbeitstags( ( zog er üb9"
-"479";"00:09:57:14";"00:09:57:14";"FABst8er die feuchten Farbresteÿÿ)ãj"
-"480";"00:09:57:14";"00:10:01:09";"Am Ende seines Arbeitstags
+478;00:09:57:14;00:09:57:14;FABst¯d Am Ende seines Arbeitstags( ( zog er üb9
+479;00:09:57:14;00:09:57:14;FABst8er die feuchten Farbresteÿÿ)ãj
+480;00:09:57:14;00:10:01:09;"Am Ende seines Arbeitstags
 
 zog er Èuber die feuchten Farbreste"
-"481";"00:10:01:13";"00:10:01:13";"FABst°d auf der Rakel( ( zufällig ausgewf"
-"482";"00:10:01:13";"00:10:01:13";"FABst.ählte private Fotos.ÿÿ3"
-"483";"00:10:01:13";"00:10:04:15";"auf der Rakel
+481;00:10:01:13;00:10:01:13;FABst°d auf der Rakel( ( zufällig ausgewf
+482;00:10:01:13;00:10:01:13;FABst.ählte private Fotos.ÿÿ3
+483;00:10:01:13;00:10:04:15;"auf der Rakel
 
 zufÈallig ausgewÈahlte private Fotos."
-"484";"00:10:04:19";"00:10:04:19";"FABst±d Eine Art künstlerisches ( ( Upcyc8"
-"485";"00:10:04:19";"00:10:04:19";"FABst,ling der Farbreste.ÿÿ5ç"
-"486";"00:10:04:19";"00:10:08:04";"Eine Art kÈunstlerisches
+484;00:10:04:19;00:10:04:19;FABst±d Eine Art künstlerisches ( ( Upcyc8
+485;00:10:04:19;00:10:04:19;FABst,ling der Farbreste.ÿÿ5ç
+486;00:10:04:19;00:10:08:04;"Eine Art kÈunstlerisches
 
 Upcycling der Farbreste."
-"487";"00:10:08:10";"00:10:08:10";"FABst²d Das ist einerseits Zufall,( ( aber aÁæ"
-"488";"00:10:08:10";"00:10:08:10";"FABst2uch von ihm gesteuert.7àÜ"
-"489";"00:10:08:10";"00:10:12:15";"Das ist einerseits Zufall,
+487;00:10:08:10;00:10:08:10;FABst²d Das ist einerseits Zufall,( ( aber aÁæ
+488;00:10:08:10;00:10:08:10;FABst2uch von ihm gesteuert.7àÜ
+489;00:10:08:10;00:10:12:15;"Das ist einerseits Zufall,
 
 aber auch von ihm gesteuert."
-"490";"00:10:14:21";"00:10:14:21";"FABst³VMal ist es getupft, mal ist es zart.ÿÿz²"
-"491";"00:10:14:21";"00:10:17:10";"Mal ist es getupft, mal ist es zart."
-"492";"00:10:17:14";"00:10:17:14";"FABst´d Man erkennt an den Bildern,( ( wie er Öæ"
-"493";"00:10:17:14";"00:10:17:14";"FABst<durch Gestik gesteuert hat.ÿÿ%¾"
-"494";"00:10:17:14";"00:10:21:05";"Man erkennt an den Bildern,
+490;00:10:14:21;00:10:14:21;FABst³VMal ist es getupft, mal ist es zart.ÿÿz²
+491;00:10:14:21;00:10:17:10;Mal ist es getupft, mal ist es zart.
+492;00:10:17:14;00:10:17:14;FABst´d Man erkennt an den Bildern,( ( wie er Öæ
+493;00:10:17:14;00:10:17:14;FABst<durch Gestik gesteuert hat.ÿÿ%¾
+494;00:10:17:14;00:10:21:05;"Man erkennt an den Bildern,
 
 wie er durch Gestik gesteuert hat."
-"495";"00:10:21:08";"00:10:21:08";"FABstµdDie ersten Werke verschickte Richter( ( ¥F"
-"496";"00:10:21:08";"00:10:21:08";"FABst>als Postkarten an Freunde.ÿÿ#û^"
-"497";"00:10:21:08";"00:10:25:18";"Die ersten Werke verschickte Richter
+495;00:10:21:08;00:10:21:08;FABstµdDie ersten Werke verschickte Richter( ( ¥F
+496;00:10:21:08;00:10:21:08;FABst>als Postkarten an Freunde.ÿÿ#û^
+497;00:10:21:08;00:10:25:18;"Die ersten Werke verschickte Richter
 
 als Postkarten an Freunde."
-"498";"00:10:25:22";"00:10:25:22";"FABst¶J Erst Mitte der 1990er-JahreÿÿGR"
-"499";"00:10:25:22";"00:10:27:21";"Erst Mitte der 1990er-Jahre"
-"500";"00:10:28:00";"00:10:28:00";"FABst·d erkannte er den Wert( ( seiner e£"
-"501";"00:10:28:00";"00:10:28:00";"FABst*igenen Kleinkunst.ÿÿ7Â&"
-"502";"00:10:28:00";"00:10:31:09";"erkannte er den Wert
+498;00:10:25:22;00:10:25:22;FABst¶J Erst Mitte der 1990er-JahreÿÿGR
+499;00:10:25:22;00:10:27:21;Erst Mitte der 1990er-Jahre
+500;00:10:28:00;00:10:28:00;FABst·d erkannte er den Wert( ( seiner e£
+501;00:10:28:00;00:10:28:00;FABst*igenen Kleinkunst.ÿÿ7Â&
+502;00:10:28:00;00:10:31:09;"erkannte er den Wert
 
 seiner eigenen Kleinkunst."
-"503";"00:10:31:15";"00:10:31:15";"FABst¸d Das reizt dazu,( ( jedes Bild Ñ"
-"504";"00:10:31:15";"00:10:31:15";"FABst*lange anzuschauen.?å"
-"505";"00:10:31:15";"00:10:35:03";"Das reizt dazu,
+503;00:10:31:15;00:10:31:15;FABst¸d Das reizt dazu,( ( jedes Bild Ñ
+504;00:10:31:15;00:10:31:15;FABst*lange anzuschauen.?å
+505;00:10:31:15;00:10:35:03;"Das reizt dazu,
 
 jedes Bild lange anzuschauen."
-"506";"00:10:35:18";"00:10:35:18";"FABst¹d Es hat eine enorme Wirkung,( ( ~"
-"507";"00:10:35:18";"00:10:35:18";"FABst,ich bin begeistert.=ÈÈ"
-"508";"00:10:35:18";"00:10:39:02";"Es hat eine enorme Wirkung,
+506;00:10:35:18;00:10:35:18;FABst¹d Es hat eine enorme Wirkung,( ( ~
+507;00:10:35:18;00:10:35:18;FABst,ich bin begeistert.=ÈÈ
+508;00:10:35:18;00:10:39:02;"Es hat eine enorme Wirkung,
 
 ich bin begeistert."
-"509";"00:10:39:13";"00:10:39:13";"FABstºd Die 72 Miniaturen sind bis( ( Mitte Nov "
-"510";"00:10:39:13";"00:10:39:13";"FABst:ember in Dresden zu sehen.ÿÿ'Ü"
-"511";"00:10:39:13";"00:10:43:21";"Die 72 Miniaturen sind bis
+509;00:10:39:13;00:10:39:13;FABstºd Die 72 Miniaturen sind bis( ( Mitte Nov 
+510;00:10:39:13;00:10:39:13;FABst:ember in Dresden zu sehen.ÿÿ'Ü
+511;00:10:39:13;00:10:43:21;"Die 72 Miniaturen sind bis
 
 Mitte November in Dresden zu sehen."
-"512";"00:10:46:01";"00:10:46:01";"FABst»d In der Fußball-Bundesliga( ( ge"
-"513";"00:10:46:01";"00:10:46:01";"FABst,lang Bayern Münchenÿÿ5N"
-"514";"00:10:46:01";"00:10:49:04";"In der Fuûball-Bundesliga
+512;00:10:46:01;00:10:46:01;FABst»d In der Fußball-Bundesliga( ( ge
+513;00:10:46:01;00:10:46:01;FABst,lang Bayern Münchenÿÿ5N
+514;00:10:46:01;00:10:49:04;"In der Fuûball-Bundesliga
 
 gelang Bayern MÈunchen"
-"515";"00:10:49:08";"00:10:49:08";"FABst¼d am zweiten Spieltag( ( der»"
-"516";"00:10:49:08";"00:10:49:08";"FABst" zweite Sieg. ÿÿ?ÖØ"
-"517";"00:10:49:08";"00:10:51:21";"am zweiten Spieltag
+515;00:10:49:08;00:10:49:08;FABst¼d am zweiten Spieltag( ( der»
+516;00:10:49:08;00:10:49:08;"FABst"" zweite Sieg. ÿÿ?ÖØ"
+517;00:10:49:08;00:10:51:21;"am zweiten Spieltag
 
 der zweite Sieg."
-"518";"00:10:52:00";"00:10:52:00";"FABst½d Der Rekordmeister gewann( ( gegen deÖ"
-"519";"00:10:52:00";"00:10:52:00";"FABst2n FC Augsburg mit 3:1.ÿÿ/ß "
-"520";"00:10:52:00";"00:10:55:14";"Der Rekordmeister gewann
+518;00:10:52:00;00:10:52:00;FABst½d Der Rekordmeister gewann( ( gegen deÖ
+519;00:10:52:00;00:10:52:00;FABst2n FC Augsburg mit 3:1.ÿÿ/ß 
+520;00:10:52:00;00:10:55:14;"Der Rekordmeister gewann
 
 gegen den FC Augsburg mit 3:1."
-"521";"00:10:55:18";"00:10:55:18";"FABst¾d Das Spiel Mainz gegen Frankfurt( ( Æ¼"
-"522";"00:10:55:18";"00:10:55:18";"FABst( endete 1:1.ÿÿ9Óî"
-"523";"00:10:55:18";"00:10:58:18";"Das Spiel Mainz gegen Frankfurt
+521;00:10:55:18;00:10:55:18;FABst¾d Das Spiel Mainz gegen Frankfurt( ( Æ¼
+522;00:10:55:18;00:10:55:18;FABst( endete 1:1.ÿÿ9Óî
+523;00:10:55:18;00:10:58:18;"Das Spiel Mainz gegen Frankfurt
 
 endete 1:1."
-"524";"00:11:01:18";"00:11:01:18";"FABst¿L Ein Remis, zwei Gefühlswelten:á,"
-"525";"00:11:01:18";"00:11:03:18";"Ein Remis, zwei GefÈuhlswelten:"
-"526";"00:11:03:22";"00:11:03:22";"FABstÀd Frust pur bei Mainz 05( ( über u."
-"527";"00:11:03:22";"00:11:03:22";"FABst(nur einen Zähler,ÿÿ9}<i>"
-"528";"00:11:03:22";"00:11:06:17";"Frust pur bei Mainz 05
+524;00:11:01:18;00:11:01:18;FABst¿L Ein Remis, zwei Gefühlswelten:á,
+525;00:11:01:18;00:11:03:18;Ein Remis, zwei GefÈuhlswelten:
+526;00:11:03:22;00:11:03:22;FABstÀd Frust pur bei Mainz 05( ( über u.
+527;00:11:03:22;00:11:03:22;FABst(nur einen Zähler,ÿÿ9}<i>
+528;00:11:03:22;00:11:06:17;"Frust pur bei Mainz 05
 
 Èuber nur einen ZÈahler,"
-"529";"00:11:06:21";"00:11:06:21";"FABstÁd während Frankfurt diesen( ( wie <"
-"530";"00:11:06:21";"00:11:06:21";"FABst*einen Sieg feiert.ÿÿ7Ê"
-"531";"00:11:06:21";"00:11:09:23";"wÈahrend Frankfurt diesen
+529;00:11:06:21;00:11:06:21;FABstÁd während Frankfurt diesen( ( wie <
+530;00:11:06:21;00:11:06:21;FABst*einen Sieg feiert.ÿÿ7Ê
+531;00:11:06:21;00:11:09:23;"wÈahrend Frankfurt diesen
 
 wie einen Sieg feiert."
-"532";"00:11:10:10";"00:11:10:10";"FABstÂd Die Rheinhessen( ( in der ersteâp"
-"533";"00:11:10:10";"00:11:10:10";"FABst,n Halbzeit aktiver,ÿÿ5å"
-"534";"00:11:10:10";"00:11:13:16";"Die Rheinhessen
+532;00:11:10:10;00:11:10:10;FABstÂd Die Rheinhessen( ( in der ersteâp
+533;00:11:10:10;00:11:10:10;FABst,n Halbzeit aktiver,ÿÿ5å
+534;00:11:10:10;00:11:13:16;"Die Rheinhessen
 
 in der ersten Halbzeit aktiver,"
-"535";"00:11:13:20";"00:11:13:20";"FABstÃd gingen in der 25. Minute( ( durch Jaè:"
-"536";"00:11:13:20";"00:11:13:20";"FABst2e Sung Lee in Führung.ÿÿ/F"
-"537";"00:11:13:20";"00:11:17:15";"gingen in der 25. Minute
+535;00:11:13:20;00:11:13:20;FABstÃd gingen in der 25. Minute( ( durch Jaè:
+536;00:11:13:20;00:11:13:20;FABst2e Sung Lee in Führung.ÿÿ/F
+537;00:11:13:20;00:11:17:15;"gingen in der 25. Minute
 
 durch Jae Sung Lee in FÈuhrung."
-"538";"00:11:18:17";"00:11:18:17";"FABstÄdDie Eintracht-Abwehr samt Torhüter( ( r®"
-"539";"00:11:18:17";"00:11:18:17";"FABst4in dieser Szene uneins.ÿÿ-¼6"
-"540";"00:11:18:17";"00:11:23:01";"Die Eintracht-Abwehr samt TorhÈuter
+538;00:11:18:17;00:11:18:17;FABstÄdDie Eintracht-Abwehr samt Torhüter( ( r®
+539;00:11:18:17;00:11:18:17;FABst4in dieser Szene uneins.ÿÿ-¼6
+540;00:11:18:17;00:11:23:01;"Die Eintracht-Abwehr samt TorhÈuter
 
 in dieser Szene uneins."
-"541";"00:11:29:04";"00:11:29:04";"FABstÅd Und es kam noch bitterer( ( fp"
-"542";"00:11:29:04";"00:11:29:04";"FABst"ür die Hessen.ÿÿ?Ê"
-"543";"00:11:29:04";"00:11:31:15";"Und es kam noch bitterer
+541;00:11:29:04;00:11:29:04;FABstÅd Und es kam noch bitterer( ( fp
+542;00:11:29:04;00:11:29:04;"FABst""ür die Hessen.ÿÿ?Ê"
+543;00:11:29:04;00:11:31:15;"Und es kam noch bitterer
 
 fÈur die Hessen."
-"544";"00:11:31:19";"00:11:31:19";"FABstÆd Nach der Pause sah( ( der mit GeB"
-"545";"00:11:31:19";"00:11:31:19";"FABst,lb verwarnte Knauffÿÿ5±ú"
-"546";"00:11:31:19";"00:11:34:19";"Nach der Pause sah
+544;00:11:31:19;00:11:31:19;FABstÆd Nach der Pause sah( ( der mit GeB
+545;00:11:31:19;00:11:31:19;FABst,lb verwarnte Knauffÿÿ5±ú
+546;00:11:31:19;00:11:34:19;"Nach der Pause sah
 
 der mit Gelb verwarnte Knauff"
-"547";"00:11:34:21";"00:11:34:21";"FABstÇd nach dieser Aktion gegen Barreiro( ( ²"
-"548";"00:11:34:21";"00:11:34:21";"FABst2die gelb-rote Karte.ÿÿ/ÒL"
-"549";"00:11:34:21";"00:11:38:12";"nach dieser Aktion gegen Barreiro
+547;00:11:34:21;00:11:34:21;FABstÇd nach dieser Aktion gegen Barreiro( ( ²
+548;00:11:34:21;00:11:34:21;FABst2die gelb-rote Karte.ÿÿ/ÒL
+549;00:11:34:21;00:11:38:12;"nach dieser Aktion gegen Barreiro
 
 die gelb-rote Karte."
-"550";"00:11:40:21";"00:11:40:21";"FABstÈd Doch trotz Unterzahl( ( zeigteÿ"
-"551";"00:11:40:21";"00:11:40:21";"FABst& Frankfurt Moralÿÿ;èÂ"
-"552";"00:11:40:21";"00:11:43:18";"Doch trotz Unterzahl
+550;00:11:40:21;00:11:40:21;FABstÈd Doch trotz Unterzahl( ( zeigteÿ
+551;00:11:40:21;00:11:40:21;"FABst& Frankfurt Moralÿÿ;èÂ"
+552;00:11:40:21;00:11:43:18;"Doch trotz Unterzahl
 
 zeigte Frankfurt Moral"
-"553";"00:11:43:22";"00:11:43:22";"FABstÉdund kam noch zum verdienten Ausgleich( ( Ýº"
-"554";"00:11:43:22";"00:11:43:22";"FABst< in der Nachspielzeit.ÿÿ%ë"
-"555";"00:11:43:22";"00:11:47:15";"und kam noch zum verdienten Ausgleich
+553;00:11:43:22;00:11:43:22;FABstÉdund kam noch zum verdienten Ausgleich( ( Ýº
+554;00:11:43:22;00:11:43:22;FABst< in der Nachspielzeit.ÿÿ%ë
+555;00:11:43:22;00:11:47:15;"und kam noch zum verdienten Ausgleich
 
 in der Nachspielzeit."
-"556";"00:11:48:14";"00:11:48:14";"FABstÊd Neuzugang Omar Marmoush( ( mitÐd"
-"557";"00:11:48:14";"00:11:48:14";"FABst* dem 1:1-Endstand.ÿÿ7°"
-"558";"00:11:48:14";"00:11:51:18";"Neuzugang Omar Marmoush
+556;00:11:48:14;00:11:48:14;FABstÊd Neuzugang Omar Marmoush( ( mitÐd
+557;00:11:48:14;00:11:48:14;FABst* dem 1:1-Endstand.ÿÿ7°
+558;00:11:48:14;00:11:51:18;"Neuzugang Omar Marmoush
 
 mit dem 1:1-Endstand."
-"559";"00:11:53:00";"00:11:53:00";"FABstËd Die Eintracht( ( bleibt damit wøh"
-"560";"00:11:53:00";"00:11:53:00";"FABst,eiter ungeschlagen.ÿÿ5"
-"561";"00:11:53:00";"00:11:56:21";"Die Eintracht
+559;00:11:53:00;00:11:53:00;FABstËd Die Eintracht( ( bleibt damit wøh
+560;00:11:53:00;00:11:53:00;FABst,eiter ungeschlagen.ÿÿ5
+561;00:11:53:00;00:11:56:21;"Die Eintracht
 
 bleibt damit weiter ungeschlagen."
-"562";"00:11:58:03";"00:11:58:03";"FABstÌd Bei der Kanu-WM in Duisburg( ( sorgÇ""
-"563";"00:11:58:03";"00:11:58:03";"FABst4te der Canadier-Zweier ÿÿ-¢"
-"564";"00:11:58:03";"00:12:01:18";"Bei der Kanu-WM in Duisburg
+562;00:11:58:03;00:11:58:03;"FABstÌd Bei der Kanu-WM in Duisburg( ( sorgÇ"""
+563;00:11:58:03;00:11:58:03;FABst4te der Canadier-Zweier ÿÿ-¢
+564;00:11:58:03;00:12:01:18;"Bei der Kanu-WM in Duisburg
 
 sorgte der Canadier-Zweier"
-"565";"00:12:01:22";"00:12:01:22";"FABstÍdmit Peter Kretschmer und Tim Hecker( ( f­²"
-"566";"00:12:01:22";"00:12:01:22";"FABst>ür einen goldenen Abschluss.ÿÿ#[¦"
-"567";"00:12:01:22";"00:12:06:13";"mit Peter Kretschmer und Tim Hecker
+565;00:12:01:22;00:12:01:22;FABstÍdmit Peter Kretschmer und Tim Hecker( ( f­²
+566;00:12:01:22;00:12:01:22;FABst>ür einen goldenen Abschluss.ÿÿ#[¦
+567;00:12:01:22;00:12:06:13;"mit Peter Kretschmer und Tim Hecker
 
 fÈur einen goldenen Abschluss."
-"568";"00:12:06:18";"00:12:06:18";"FABstÎd Das Duo aus Leipzig und Berlin( ( legýT"
-"569";"00:12:06:18";"00:12:06:18";"FABst2te ein furioses Finaleÿÿ/"
-"570";"00:12:06:18";"00:12:10:19";"Das Duo aus Leipzig und Berlin
+568;00:12:06:18;00:12:06:18;FABstÎd Das Duo aus Leipzig und Berlin( ( legýT
+569;00:12:06:18;00:12:06:18;FABst2te ein furioses Finaleÿÿ/
+570;00:12:06:18;00:12:10:19;"Das Duo aus Leipzig und Berlin
 
 legte ein furioses Finale"
-"571";"00:12:10:23";"00:12:10:23";"FABstÏd über die 500 Meter hin und holte( ( den T6l"
-"572";"00:12:10:23";"00:12:10:23";"FABst<i>tel vor China und Spanien.ÿÿ%Ù^"
-"573";"00:12:10:23";"00:12:15:18";"Èuber die 500 Meter hin und holte
+571;00:12:10:23;00:12:10:23;FABstÏd über die 500 Meter hin und holte( ( den T6l
+572;00:12:10:23;00:12:10:23;FABst<i>tel vor China und Spanien.ÿÿ%Ù^
+573;00:12:10:23;00:12:15:18;"Èuber die 500 Meter hin und holte
 
 den Titel vor China und Spanien."
-"574";"00:12:18:16";"00:12:18:16";"FABstÐd Im Kajak-Zweier( ( holten Jule Ha°"
-"575";"00:12:18:16";"00:12:18:16";"FABst0ke und Paulina Paszekÿÿ1Åº"
-"576";"00:12:18:16";"00:12:22:12";"Im Kajak-Zweier
+574;00:12:18:16;00:12:18:16;FABstÐd Im Kajak-Zweier( ( holten Jule Ha°
+575;00:12:18:16;00:12:18:16;FABst0ke und Paulina Paszekÿÿ1Åº
+576;00:12:18:16;00:12:22:12;"Im Kajak-Zweier
 
 holten Jule Hake und Paulina Paszek"
-"577";"00:12:22:22";"00:12:22:22";"FABstÑD über 500 Meter Bronze.ÿÿ¾^"
-"578";"00:12:22:22";"00:12:24:16";"Èuber 500 Meter Bronze."
-"579";"00:12:26:19";"00:12:26:19";"FABstÒd Deutschland hat( ( bei der Baske¤"
-"580";"00:12:26:19";"00:12:26:19";"FABst(tball-WM in Asienÿÿ9ëä"
-"581";"00:12:26:19";"00:12:30:08";"Deutschland hat
+577;00:12:22:22;00:12:22:22;FABstÑD über 500 Meter Bronze.ÿÿ¾^
+578;00:12:22:22;00:12:24:16;Èuber 500 Meter Bronze.
+579;00:12:26:19;00:12:26:19;FABstÒd Deutschland hat( ( bei der Baske¤
+580;00:12:26:19;00:12:26:19;FABst(tball-WM in Asienÿÿ9ëä
+581;00:12:26:19;00:12:30:08;"Deutschland hat
 
 bei der Basketball-WM in Asien"
-"582";"00:12:30:12";"00:12:30:12";"FABstÓRdas zweite Vorrundenspiel gewonnen.ÿÿ8"
-"583";"00:12:30:12";"00:12:32:24";"das zweite Vorrundenspiel gewonnen."
-"584";"00:12:33:03";"00:12:33:03";"FABstÔd Gegen Mitfavorit Australien( ( setzte"
-"585";"00:12:33:03";"00:12:33:03";"FABstBsich das Team mit 85:82 durch.ÿÿÁÖ"
-"586";"00:12:33:03";"00:12:37:20";"Gegen Mitfavorit Australien
+582;00:12:30:12;00:12:30:12;FABstÓRdas zweite Vorrundenspiel gewonnen.ÿÿ8
+583;00:12:30:12;00:12:32:24;das zweite Vorrundenspiel gewonnen.
+584;00:12:33:03;00:12:33:03;FABstÔd Gegen Mitfavorit Australien( ( setzte
+585;00:12:33:03;00:12:33:03;FABstBsich das Team mit 85:82 durch.ÿÿÁÖ
+586;00:12:33:03;00:12:37:20;"Gegen Mitfavorit Australien
 
 setzte sich das Team mit 85:82 durch."
-"587";"00:12:39:16";"00:12:39:16";"FABstÕdEine WM-Medaille holte Deutschland( ( ýÖ"
-"588";"00:12:39:16";"00:12:39:16";"FABst4zuletzt vor 21 Jahren.ÿÿ-ß¾"
-"589";"00:12:39:16";"00:12:43:20";"Eine WM-Medaille holte Deutschland
+587;00:12:39:16;00:12:39:16;FABstÕdEine WM-Medaille holte Deutschland( ( ýÖ
+588;00:12:39:16;00:12:39:16;FABst4zuletzt vor 21 Jahren.ÿÿ-ß¾
+589;00:12:39:16;00:12:43:20;"Eine WM-Medaille holte Deutschland
 
 zuletzt vor 21 Jahren."
-"590";"00:12:45:20";"00:12:45:20";"FABstÖd Erleichterung( ( bei der deutsÌT"
-"591";"00:12:45:20";"00:12:45:20";"FABst$chen MannschaftEÂ"
-"592";"00:12:45:20";"00:12:48:08";"Erleichterung
+590;00:12:45:20;00:12:45:20;FABstÖd Erleichterung( ( bei der deutsÌT
+591;00:12:45:20;00:12:45:20;FABst$chen MannschaftEÂ
+592;00:12:45:20;00:12:48:08;"Erleichterung
 
 bei der deutschen Mannschaft"
-"593";"00:12:48:12";"00:12:48:12";"FABst×d nach einer der besten Leistungen( ( Ùö"
-"594";"00:12:48:12";"00:12:48:12";"FABst.der letzten Jahre:;t"
-"595";"00:12:48:12";"00:12:51:14";"nach einer der besten Leistungen
+593;00:12:48:12;00:12:48:12;FABst×d nach einer der besten Leistungen( ( Ùö
+594;00:12:48:12;00:12:48:12;"FABst.der letzten Jahre:;t"
+595;00:12:48:12;00:12:51:14;"nach einer der besten Leistungen
 
 der letzten Jahre:"
-"596";"00:12:51:18";"00:12:51:18";"FABstØd Ich bin sehr glücklich( ( über die Ô"
-"597";"00:12:51:18";"00:12:51:18";"FABst0Performance des Teams9X"
-"598";"00:12:51:18";"00:12:54:22";"Ich bin sehr glÈucklich
+596;00:12:51:18;00:12:51:18;FABstØd Ich bin sehr glücklich( ( über die Ô
+597;00:12:51:18;00:12:51:18;FABst0Performance des Teams9X
+598;00:12:51:18;00:12:54:22;"Ich bin sehr glÈucklich
 
 Èuber die Performance des Teams"
-"599";"00:12:55:01";"00:12:55:01";"FABstÙd und dass wir gegen( ( so eine ManÏ<i>"
-"600";"00:12:55:01";"00:12:55:01";"FABst4nschaft gewonnen haben.5Ã"
-"601";"00:12:55:01";"00:12:58:19";"und dass wir gegen
+599;00:12:55:01;00:12:55:01;FABstÙd und dass wir gegen( ( so eine ManÏ<i>
+600;00:12:55:01;00:12:55:01;FABst4nschaft gewonnen haben.5Ã
+601;00:12:55:01;00:12:58:19;"und dass wir gegen
 
 so eine Mannschaft gewonnen haben."
-"602";"00:12:58:23";"00:12:58:23";"FABstÚH Australien ist sehr tough.ÿÿb@"
-"603";"00:12:58:23";"00:13:00:22";"Australien ist sehr tough."
-"604";"00:13:01:12";"00:13:01:12";"FABstÛd Gegen Australien( ( zeigt die då`"
-"605";"00:13:01:12";"00:13:01:12";"FABst*eutsche Mannschaftÿÿ72"
-"606";"00:13:01:12";"00:13:04:05";"Gegen Australien
+602;00:12:58:23;00:12:58:23;FABstÚH Australien ist sehr tough.ÿÿb@
+603;00:12:58:23;00:13:00:22;Australien ist sehr tough.
+604;00:13:01:12;00:13:01:12;FABstÛd Gegen Australien( ( zeigt die då`
+605;00:13:01:12;00:13:01:12;FABst*eutsche Mannschaftÿÿ72
+606;00:13:01:12;00:13:04:05;"Gegen Australien
 
 zeigt die deutsche Mannschaft"
-"607";"00:13:04:07";"00:13:04:07";"FABstÜdauch ohne den verletzten Franz Wagner( ( ç°"
-"608";"00:13:04:07";"00:13:04:07";"FABst> ein spektakuläres Spiel.ÿÿ#ì"
-"609";"00:13:04:07";"00:13:07:24";"auch ohne den verletzten Franz Wagner
+607;00:13:04:07;00:13:04:07;FABstÜdauch ohne den verletzten Franz Wagner( ( ç°
+608;00:13:04:07;00:13:04:07;FABst> ein spektakuläres Spiel.ÿÿ#ì
+609;00:13:04:07;00:13:07:24;"auch ohne den verletzten Franz Wagner
 
 ein spektakulÈares Spiel."
-"610";"00:13:08:03";"00:13:08:03";"FABstÝd Australien gelingt( ( kurz vor Scól"
-"611";"00:13:08:03";"00:13:08:03";"FABst.hluss der Ausgleich.ÿÿ3"
-"612";"00:13:08:03";"00:13:11:19";"Australien gelingt
+610;00:13:08:03;00:13:08:03;FABstÝd Australien gelingt( ( kurz vor Scól
+611;00:13:08:03;00:13:08:03;FABst.hluss der Ausgleich.ÿÿ3
+612;00:13:08:03;00:13:11:19;"Australien gelingt
 
 kurz vor Schluss der Ausgleich."
-"613";"00:13:12:00";"00:13:12:00";"FABstÞdDennis Schröder ist mit 30 Punkten( ( d[ö"
-"614";"00:13:12:00";"00:13:12:00";"FABst6er Topscorer des Spiels.ÿÿ+ú¼"
-"615";"00:13:12:00";"00:13:15:15";"Dennis SchrÈoder ist mit 30 Punkten
+613;00:13:12:00;00:13:12:00;FABstÞdDennis Schröder ist mit 30 Punkten( ( d[ö
+614;00:13:12:00;00:13:12:00;FABst6er Topscorer des Spiels.ÿÿ+ú¼
+615;00:13:12:00;00:13:15:15;"Dennis SchrÈoder ist mit 30 Punkten
 
 der Topscorer des Spiels."
-"616";"00:13:15:20";"00:13:15:20";"FABstßd Er erzielt in Anwesenheit( ( von BasÓ4"
-"617";"00:13:15:20";"00:13:15:20";"FABst6ketball-Legende Nowitzkiÿÿ+óV"
-"618";"00:13:15:20";"00:13:19:04";"Er erzielt in Anwesenheit
+616;00:13:15:20;00:13:15:20;FABstßd Er erzielt in Anwesenheit( ( von BasÓ4
+617;00:13:15:20;00:13:15:20;FABst6ketball-Legende Nowitzkiÿÿ+óV
+618;00:13:15:20;00:13:19:04;"Er erzielt in Anwesenheit
 
 von Basketball-Legende Nowitzki"
-"619";"00:13:19:08";"00:13:19:08";"FABstàH wieder die knappe Führung.ÿÿë>"
-"620";"00:13:19:08";"00:13:20:22";"wieder die knappe FÈuhrung."
-"621";"00:13:21:01";"00:13:21:01";"FABstádDie Entscheidung fällt kurz vor Ende( ( du=Ø"
-"622";"00:13:21:01";"00:13:21:01";"FABstFrch Maodo Lo zum 85:82-Endstand.ÿÿÝ:"
-"623";"00:13:21:01";"00:13:25:13";"Die Entscheidung fÈallt kurz vor Ende
+619;00:13:19:08;00:13:19:08;FABstàH wieder die knappe Führung.ÿÿë>
+620;00:13:19:08;00:13:20:22;wieder die knappe FÈuhrung.
+621;00:13:21:01;00:13:21:01;FABstádDie Entscheidung fällt kurz vor Ende( ( du=Ø
+622;00:13:21:01;00:13:21:01;FABstFrch Maodo Lo zum 85:82-Endstand.ÿÿÝ:
+623;00:13:21:01;00:13:25:13;"Die Entscheidung fÈallt kurz vor Ende
 
 durch Maodo Lo zum 85:82-Endstand."
-"624";"00:13:25:16";"00:13:25:16";"FABstâd Deutschland gewinnt( ( das zweitá~"
-"625";"00:13:25:16";"00:13:25:16";"FABst.e WM-Vorrundenspiel.ÿÿ3<u>*"
-"626";"00:13:25:16";"00:13:28:18";"Deutschland gewinnt
+624;00:13:25:16;00:13:25:16;FABstâd Deutschland gewinnt( ( das zweitá~
+625;00:13:25:16;00:13:25:16;FABst.e WM-Vorrundenspiel.ÿÿ3<u>*
+626;00:13:25:16;00:13:28:18;"Deutschland gewinnt
 
 das zweite WM-Vorrundenspiel."
-"627";"00:13:28:22";"00:13:28:22";"FABstãL Nächster Gegner ist Finnland.ÿÿ¾Î"
-"628";"00:13:28:22";"00:13:30:20";"NÈachster Gegner ist Finnland."
-"629";"00:13:32:03";"00:13:32:03";"FABstäd In mehreren Regionen Deutschlands( ( g¢¤"
-"630";"00:13:32:03";"00:13:32:03";"FABst:ab es auch heute Unwetter.ÿÿ'</u>Þ"
-"631";"00:13:32:03";"00:13:36:04";"In mehreren Regionen Deutschlands
+627;00:13:28:22;00:13:28:22;FABstãL Nächster Gegner ist Finnland.ÿÿ¾Î
+628;00:13:28:22;00:13:30:20;NÈachster Gegner ist Finnland.
+629;00:13:32:03;00:13:32:03;FABstäd In mehreren Regionen Deutschlands( ( g¢¤
+630;00:13:32:03;00:13:32:03;FABst:ab es auch heute Unwetter.ÿÿ'</u>Þ
+631;00:13:32:03;00:13:36:04;"In mehreren Regionen Deutschlands
 
 gab es auch heute Unwetter."
-"632";"00:13:36:08";"00:13:36:08";"FABståd Gestern entstanden( ( in Bayern sÁº"
-"633";"00:13:36:08";"00:13:36:08";"FABst.chwere Sturmschäden.ÿÿ3N<u>"
-"634";"00:13:36:08";"00:13:39:23";"Gestern entstanden
+632;00:13:36:08;00:13:36:08;FABståd Gestern entstanden( ( in Bayern sÁº
+633;00:13:36:08;00:13:36:08;FABst.chwere Sturmschäden.ÿÿ3N<u>
+634;00:13:36:08;00:13:39:23;"Gestern entstanden
 
 in Bayern schwere SturmschÈaden."
-"635";"00:13:40:05";"00:13:40:05";"FABstæd Die Gemeinde Bad Bayersoien( ( im Landk©"
-"636";"00:13:40:05";"00:13:40:05";"FABst<reis Garmisch-Partenkirchen-<i>"
-"637";"00:13:40:05";"00:13:44:08";"Die Gemeinde Bad Bayersoien
+635;00:13:40:05;00:13:40:05;FABstæd Die Gemeinde Bad Bayersoien( ( im Landk©
+636;00:13:40:05;00:13:40:05;FABst<reis Garmisch-Partenkirchen-<i>
+637;00:13:40:05;00:13:44:08;"Die Gemeinde Bad Bayersoien
 
 im Landkreis Garmisch-Partenkirchen"
-"638";"00:13:44:12";"00:13:44:12";"FABstçL rief den Katastrophenfall aus.m¶"
-"639";"00:13:44:12";"00:13:46:21";"rief den Katastrophenfall aus."
-"640";"00:13:47:11";"00:13:47:11";"FABstèd THW, Bergwacht und Polizei( ( ð"
-"641";"00:13:47:11";"00:13:47:11";"FABst&sind im Einsatz.ÿÿ;4"
-"642";"00:13:47:11";"00:13:50:14";"THW, Bergwacht und Polizei
+638;00:13:44:12;00:13:44:12;FABstçL rief den Katastrophenfall aus.m¶
+639;00:13:44:12;00:13:46:21;rief den Katastrophenfall aus.
+640;00:13:47:11;00:13:47:11;FABstèd THW, Bergwacht und Polizei( ( ð
+641;00:13:47:11;00:13:47:11;"FABst&sind im Einsatz.ÿÿ;4"
+642;00:13:47:11;00:13:50:14;"THW, Bergwacht und Polizei
 
 sind im Einsatz."
-"643";"00:13:50:16";"00:13:50:16";"FABstéd 80 Prozent der Gebäude im Ort( ( wur"
-"644";"00:13:50:16";"00:13:50:16";"FABst4rden schwer beschädigt.5W"
-"645";"00:13:50:16";"00:13:54:21";"80 Prozent der GebÈaude im Ort
+643;00:13:50:16;00:13:50:16;FABstéd 80 Prozent der Gebäude im Ort( ( wur
+644;00:13:50:16;00:13:50:16;FABst4rden schwer beschädigt.5W
+645;00:13:50:16;00:13:54:21;"80 Prozent der GebÈaude im Ort
 
 wurden schwer beschÈadigt."
-"646";"00:13:55:07";"00:13:55:07";"FABstêd Die Aufräumarbeiten( ( dürften noch$"
-"647";"00:13:55:07";"00:13:55:07";"FABst4 mehrere Tage andauern.ÿÿ-«z"
-"648";"00:13:55:07";"00:13:59:10";"Die AufrÈaumarbeiten
+646;00:13:55:07;00:13:55:07;FABstêd Die Aufräumarbeiten( ( dürften noch$
+647;00:13:55:07;00:13:55:07;FABst4 mehrere Tage andauern.ÿÿ-«z
+648;00:13:55:07;00:13:59:10;"Die AufrÈaumarbeiten
 
 dÈurften noch mehrere Tage andauern."
-"649";"00:14:01:21";"00:14:01:21";"FABstëd Die Wettervorhersage für morgen,( ( M ô"
-"650";"00:14:01:21";"00:14:01:21";"FABst2ontag, den 28. August:ÿÿ/ßF"
-"651";"00:14:01:21";"00:14:06:02";"Die Wettervorhersage fÈur morgen,
+649;00:14:01:21;00:14:01:21;FABstëd Die Wettervorhersage für morgen,( ( M ô
+650;00:14:01:21;00:14:01:21;FABst2ontag, den 28. August:ÿÿ/ßF
+651;00:14:01:21;00:14:06:02;"Die Wettervorhersage fÈur morgen,
 
 Montag, den 28. August:"
-"652";"00:14:09:09";"00:14:09:09";"FABstìH Das Tief über Norditalienÿÿð"
-"653";"00:14:09:09";"00:14:10:24";"Das Tief Èuber Norditalien"
-"654";"00:14:11:03";"00:14:11:03";"FABstíd sorgt im Süden weiterhin( ( für unweõ"
-"655";"00:14:11:03";"00:14:11:03";"FABst4tterartigen Dauerregen.ÿÿ-³¾"
-"656";"00:14:11:03";"00:14:14:19";"sorgt im SÈuden weiterhin
+652;00:14:09:09;00:14:09:09;FABstìH Das Tief über Norditalienÿÿð
+653;00:14:09:09;00:14:10:24;Das Tief Èuber Norditalien
+654;00:14:11:03;00:14:11:03;FABstíd sorgt im Süden weiterhin( ( für unweõ
+655;00:14:11:03;00:14:11:03;FABst4tterartigen Dauerregen.ÿÿ-³¾
+656;00:14:11:03;00:14:14:19;"sorgt im SÈuden weiterhin
 
 fÈur unwetterartigen Dauerregen."
-"657";"00:14:14:23";"00:14:14:23";"FABstîd Es bestehen Warnungen( ( des Deutæº"
-"658";"00:14:14:23";"00:14:14:23";"FABst0schen Wetterdienstes.ÿÿ1£R"
-"659";"00:14:14:23";"00:14:18:05";"Es bestehen Warnungen
+657;00:14:14:23;00:14:14:23;FABstîd Es bestehen Warnungen( ( des Deutæº
+658;00:14:14:23;00:14:14:23;FABst0schen Wetterdienstes.ÿÿ1£R
+659;00:14:14:23;00:14:18:05;"Es bestehen Warnungen
 
 des Deutschen Wetterdienstes."
-"660";"00:14:18:09";"00:14:18:09";"FABstïd Richtung Nordwesten in der Nacht( ( teüf"
-"661";"00:14:18:09";"00:14:18:09";"FABst4ils klar, teils wolkig,ÿÿ-ÀR"
-"662";"00:14:18:09";"00:14:21:18";"Richtung Nordwesten in der Nacht
+660;00:14:18:09;00:14:18:09;FABstïd Richtung Nordwesten in der Nacht( ( teüf
+661;00:14:18:09;00:14:18:09;FABst4ils klar, teils wolkig,ÿÿ-ÀR
+662;00:14:18:09;00:14:21:18;"Richtung Nordwesten in der Nacht
 
 teils klar, teils wolkig,"
-"663";"00:14:21:20";"00:14:21:20";"FABstðN in Nordseenähe einzelne Schauer.ÿÿÿ<i>"
-"664";"00:14:21:20";"00:14:23:19";"in NordseenÈahe einzelne Schauer."
-"665";"00:14:23:21";"00:14:23:21";"FABstñd Am Tag im Süden ergiebiger Regen,( ( s_\"
-"666";"00:14:23:21";"00:14:23:21";"FABst:onst ein Sonne-Wolken-Mix,ÿÿ'Ô"
-"667";"00:14:23:21";"00:14:28:00";"Am Tag im SÈuden ergiebiger Regen,
+663;00:14:21:20;00:14:21:20;FABstðN in Nordseenähe einzelne Schauer.ÿÿÿ<i>
+664;00:14:21:20;00:14:23:19;in NordseenÈahe einzelne Schauer.
+665;00:14:23:21;00:14:23:21;FABstñd Am Tag im Süden ergiebiger Regen,( ( s_\
+666;00:14:23:21;00:14:23:21;FABst:onst ein Sonne-Wolken-Mix,ÿÿ'Ô
+667;00:14:23:21;00:14:28:00;"Am Tag im SÈuden ergiebiger Regen,
 
 sonst ein Sonne-Wolken-Mix,"
-"668";"00:14:28:04";"00:14:28:04";"FABstòTim Westen und Norden einige Schauer.ÿÿoþ"
-"669";"00:14:28:04";"00:14:30:23";"im Westen und Norden einige Schauer."
-"670";"00:14:43:20";"00:14:43:20";"FABstód Dienstag breitet sich der Regen( ( </u>¦"
-"671";"00:14:43:20";"00:14:43:20";"FABst.bis zur Mitte aus,ÿÿ3ß¤"
-"672";"00:14:43:20";"00:14:46:21";"Dienstag breitet sich der Regen
+668;00:14:28:04;00:14:28:04;FABstòTim Westen und Norden einige Schauer.ÿÿoþ
+669;00:14:28:04;00:14:30:23;im Westen und Norden einige Schauer.
+670;00:14:43:20;00:14:43:20;FABstód Dienstag breitet sich der Regen( ( </u>¦
+671;00:14:43:20;00:14:43:20;FABst.bis zur Mitte aus,ÿÿ3ß¤
+672;00:14:43:20;00:14:46:21;"Dienstag breitet sich der Regen
 
 bis zur Mitte aus,"
-"673";"00:14:46:23";"00:14:46:23";"FABstôd sonst nur einzelne Schauer,( ( am freuº"
-"674";"00:14:46:23";"00:14:46:23";"FABst:ndlichsten in Nordseenähe.ÿÿ'R"
-"675";"00:14:46:23";"00:14:50:12";"sonst nur einzelne Schauer,
+673;00:14:46:23;00:14:46:23;FABstôd sonst nur einzelne Schauer,( ( am freuº
+674;00:14:46:23;00:14:46:23;FABst:ndlichsten in Nordseenähe.ÿÿ'R
+675;00:14:46:23;00:14:50:12;"sonst nur einzelne Schauer,
 
 am freundlichsten in NordseenÈahe."
-"676";"00:14:50:14";"00:14:50:14";"FABstõd Mittwoch ist der Dauerregen( ( ÿò"
-"677";"00:14:50:14";"00:14:50:14";"FABst*im Süden zu Ende.ÿÿ7`"
-"678";"00:14:50:14";"00:14:53:06";"Mittwoch ist der Dauerregen
+676;00:14:50:14;00:14:50:14;FABstõd Mittwoch ist der Dauerregen( ( ÿò
+677;00:14:50:14;00:14:50:14;FABst*im Süden zu Ende.ÿÿ7`
+678;00:14:50:14;00:14:53:06;"Mittwoch ist der Dauerregen
 
 im SÈuden zu Ende."
-"679";"00:14:53:08";"00:14:53:08";"FABstöd Donnerstag dort( ( auch mal®*"
-"680";"00:14:53:08";"00:14:53:08";"FABst$ länger sonnig,ÿÿ=\("
-"681";"00:14:53:08";"00:14:55:16";"Donnerstag dort
+679;00:14:53:08;00:14:53:08;FABstöd Donnerstag dort( ( auch mal®*
+680;00:14:53:08;00:14:53:08;FABst$ länger sonnig,ÿÿ=\(
+681;00:14:53:08;00:14:55:16;"Donnerstag dort
 
 auch mal lÈanger sonnig,"
-"682";"00:14:55:18";"00:14:55:18";"FABst÷d Richtung Norden dichtere Wolken( ( ðä"
-"683";"00:14:55:18";"00:14:55:18";"FABst& und nass.ÿÿ;®ê"
-"684";"00:14:55:18";"00:14:58:07";"Richtung Norden dichtere Wolken
+682;00:14:55:18;00:14:55:18;FABst÷d Richtung Norden dichtere Wolken( ( ðä
+683;00:14:55:18;00:14:55:18;"FABst& und nass.ÿÿ;®ê"
+684;00:14:55:18;00:14:58:07;"Richtung Norden dichtere Wolken
 
 und nass."
-"685";"00:15:00:22";"00:15:00:22";"FABstød In den tagesthemen um 23.40 Uhr( ( mitÐÚ"
-"686";"00:15:00:22";"00:15:00:22";"FABst: Caren Miosga schauen wir ÿÿ'¾ä"
-"687";"00:15:00:22";"00:15:04:17";"In den tagesthemen um 23.40 Uhr
+685;00:15:00:22;00:15:00:22;FABstød In den tagesthemen um 23.40 Uhr( ( mitÐÚ
+686;00:15:00:22;00:15:00:22;FABst: Caren Miosga schauen wir ÿÿ'¾ä
+687;00:15:00:22;00:15:04:17;"In den tagesthemen um 23.40 Uhr
 
 mit Caren Miosga schauen wir"
-"688";"00:15:04:22";"00:15:04:22";"FABstùd auf des Gezerre der Ampel( ( bei deßÐ"
-"689";"00:15:04:22";"00:15:04:22";"FABst4r Kindergrundsicherung.ÿÿ-§¾"
-"690";"00:15:04:22";"00:15:08:03";"auf des Gezerre der Ampel
+688;00:15:04:22;00:15:04:22;FABstùd auf des Gezerre der Ampel( ( bei deßÐ
+689;00:15:04:22;00:15:04:22;FABst4r Kindergrundsicherung.ÿÿ-§¾
+690;00:15:04:22;00:15:08:03;"auf des Gezerre der Ampel
 
 bei der Kindergrundsicherung."
-"691";"00:15:08:07";"00:15:08:07";"FABstúd Bringt das Spitzentreffen( ( im Kanø"
-"692";"00:15:08:07";"00:15:08:07";"FABst4zleramt den Durchbruch?ÿÿ-û°"
-"693";"00:15:08:07";"00:15:11:17";"Bringt das Spitzentreffen
+691;00:15:08:07;00:15:08:07;FABstúd Bringt das Spitzentreffen( ( im Kanø
+692;00:15:08:07;00:15:08:07;FABst4zleramt den Durchbruch?ÿÿ-û°
+693;00:15:08:07;00:15:11:17;"Bringt das Spitzentreffen
 
 im Kanzleramt den Durchbruch?"
-"694";"00:15:11:21";"00:15:11:21";"FABstû8 Außerdem:ÿÿ%¾"
-"695";"00:15:11:21";"00:15:12:24";"Auûerdem:"
-"696";"00:15:13:03";"00:15:13:03";"FABstüP Milliarden für Spitzenfußballer -ÿÿ'h"
-"697";"00:15:13:03";"00:15:15:05";"Milliarden fÈur Spitzenfuûballer -"
-"698";"00:15:15:07";"00:15:15:07";"FABstýd welches Ziel Saudi-Arabien( ( bei seinù"
-"699";"00:15:15:07";"00:15:15:07";"FABst8er Einkaufstour verfolgt.ÿÿ)æ"
-"700";"00:15:15:07";"00:15:19:03";"welches Ziel Saudi-Arabien
+694;00:15:11:21;00:15:11:21;FABstû8 Außerdem:ÿÿ%¾
+695;00:15:11:21;00:15:12:24;Auûerdem:
+696;00:15:13:03;00:15:13:03;FABstüP Milliarden für Spitzenfußballer -ÿÿ'h
+697;00:15:13:03;00:15:15:05;Milliarden fÈur Spitzenfuûballer -
+698;00:15:15:07;00:15:15:07;FABstýd welches Ziel Saudi-Arabien( ( bei seinù
+699;00:15:15:07;00:15:15:07;FABst8er Einkaufstour verfolgt.ÿÿ)æ
+700;00:15:15:07;00:15:19:03;"welches Ziel Saudi-Arabien
 
 bei seiner Einkaufstour verfolgt."
-"701";"00:15:19:07";"00:15:19:07";"FABstþd Ich wünsche Ihnen( ( noch ein_Ì"
-"702";"00:15:19:07";"00:15:19:07";"FABst(en schönen Abend.ÿÿ9~¨"
-"703";"00:15:19:07";"00:15:22:04";"Ich wÈunsche Ihnen
+701;00:15:19:07;00:15:19:07;FABstþd Ich wünsche Ihnen( ( noch ein_Ì
+702;00:15:19:07;00:15:19:07;FABst(en schönen Abend.ÿÿ9~¨
+703;00:15:19:07;00:15:22:04;"Ich wÈunsche Ihnen
 
 noch einen schÈonen Abend."
-"704";"00:15:27:17";"00:15:27:17";"FABstÿLCopyright Untertitel: NDR 2023ÿÿb:"
-"705";"00:15:27:17";"00:15:29:21";"Copyright Untertitel: NDR 2023"
+704;00:15:27:17;00:15:27:17;FABstÿLCopyright Untertitel: NDR 2023ÿÿb:
+705;00:15:27:17;00:15:29:21;Copyright Untertitel: NDR 2023

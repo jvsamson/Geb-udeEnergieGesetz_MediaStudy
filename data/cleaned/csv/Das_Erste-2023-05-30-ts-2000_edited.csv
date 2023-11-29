@@ -1,1080 +1,1080 @@
-No.;Timecode In;Timecode Out;Subtitle
-"1";"00:00:03:00";"00:00:03:00";"FABst6 * Gong *ÿÿZZZZZZZZZZ¥¥ã¥¥¥¥¥6"
-"2";"00:00:03:00";"00:00:03:00";"FABst¥¥¥á¥¥à¥ã¥¥¥¥§ª¦ªîªªªGÌ"
-"3";"00:00:03:00";"00:00:04:03";"* Gong *"
-"4";"00:00:04:11";"00:00:04:11";"FABstdHier ist das Erste Deutsche Fernsehen( ( 9"
-"5";"00:00:04:11";"00:00:04:11";"FABst: mit der tagesschau.ÿÿ'õþ"
-"6";"00:00:04:11";"00:00:08:10";"Hier ist das Erste Deutsche Fernsehen
+﻿No.;Timecode In;Timecode Out;Subtitle
+1;00:00:03:00;00:00:03:00;FABst6 * Gong *ÿÿZZZZZZZZZZ¥¥ã¥¥¥¥¥6
+2;00:00:03:00;00:00:03:00;FABst¥¥¥á¥¥à¥ã¥¥¥¥§ª¦ªîªªªGÌ
+3;00:00:03:00;00:00:04:03;* Gong *
+4;00:00:04:11;00:00:04:11;FABstdHier ist das Erste Deutsche Fernsehen( ( 9
+5;00:00:04:11;00:00:04:11;FABst: mit der tagesschau.ÿÿ'õþ
+6;00:00:04:11;00:00:08:10;"Hier ist das Erste Deutsche Fernsehen
 
 mit der tagesschau."
-"7";"00:00:08:13";"00:00:08:13";"FABstd Diese Sendung wurde vom NDR( ( live Af"
-"8";"00:00:08:13";"00:00:08:13";"FABst6untertitelt (30.05.2023)ÿÿ+¸°"
-"9";"00:00:08:13";"00:00:12:22";"Diese Sendung wurde vom NDR
+7;00:00:08:13;00:00:08:13;FABstd Diese Sendung wurde vom NDR( ( live Af
+8;00:00:08:13;00:00:08:13;FABst6untertitelt (30.05.2023)ÿÿ+¸°
+9;00:00:08:13;00:00:12:22;"Diese Sendung wurde vom NDR
 
 live untertitelt (30.05.2023)"
-"10";"00:00:15:11";"00:00:15:11";"FABstd Heute im Studio:( ( Constanü"
-"11";"00:00:15:11";"00:00:15:11";"FABst"tin Schreiber.ÿÿ?ÞN"
-"12";"00:00:15:11";"00:00:17:24";"Heute im Studio:
+10;00:00:15:11;00:00:15:11;FABstd Heute im Studio:( ( Constanü
+11;00:00:15:11;00:00:15:11;"FABst""tin Schreiber.ÿÿ?ÞN"
+12;00:00:15:11;00:00:17:24;"Heute im Studio:
 
 Constantin Schreiber."
-"13";"00:00:18:07";"00:00:18:07";"FABstd Guten Abend,( ( ich begrüße Si3¦"
-"14";"00:00:18:07";"00:00:18:07";"FABst(e zur tagesschau.A¯R"
-"15";"00:00:18:07";"00:00:21:02";"Guten Abend,
+13;00:00:18:07;00:00:18:07;FABstd Guten Abend,( ( ich begrüße Si3¦
+14;00:00:18:07;00:00:18:07;FABst(e zur tagesschau.A¯R
+15;00:00:18:07;00:00:21:02;"Guten Abend,
 
 ich begrÈuûe Sie zur tagesschau."
-"16";"00:00:22:05";"00:00:22:05";"FABstd Erstmals seit Beginn( ( des Angriffô"
-"17";"00:00:22:05";"00:00:22:05";"FABst8skriegs gegen die Ukraineÿÿ)ç`"
-"18";"00:00:22:05";"00:00:26:05";"Erstmals seit Beginn
+16;00:00:22:05;00:00:22:05;FABstd Erstmals seit Beginn( ( des Angriffô
+17;00:00:22:05;00:00:22:05;FABst8skriegs gegen die Ukraineÿÿ)ç`
+18;00:00:22:05;00:00:26:05;"Erstmals seit Beginn
 
 des Angriffskriegs gegen die Ukraine"
-"19";"00:00:26:10";"00:00:26:10";"FABstd wurde Moskau offenbar Ziel( ( eines gs"
-"20";"00:00:26:10";"00:00:26:10";"FABst6rößeren Drohnenangriffs.ÿÿ+í>"
-"21";"00:00:26:10";"00:00:30:12";"wurde Moskau offenbar Ziel
+19;00:00:26:10;00:00:26:10;FABstd wurde Moskau offenbar Ziel( ( eines gs
+20;00:00:26:10;00:00:26:10;FABst6rößeren Drohnenangriffs.ÿÿ+í>
+21;00:00:26:10;00:00:30:12;"wurde Moskau offenbar Ziel
 
 eines grÈoûeren Drohnenangriffs."
-"22";"00:00:30:15";"00:00:30:15";"FABstd Mehrere Gebäude( ( seien beschäd$"
-"23";"00:00:30:15";"00:00:30:15";"FABst.igt worden, hieß es.ÿÿ3"
-"24";"00:00:30:15";"00:00:34:01";"Mehrere GebÈaude
+22;00:00:30:15;00:00:30:15;FABstd Mehrere Gebäude( ( seien beschäd$
+23;00:00:30:15;00:00:30:15;FABst.igt worden, hieß es.ÿÿ3
+24;00:00:30:15;00:00:34:01;"Mehrere GebÈaude
 
 seien beschÈadigt worden, hieû es."
-"25";"00:00:34:04";"00:00:34:04";"FABstL Laut Verteidigungsministeriumÿÿ£"
-"26";"00:00:34:04";"00:00:36:06";"Laut Verteidigungsministerium"
-"27";"00:00:36:10";"00:00:36:10";"FABstd hat die Flugabwehr( ( einige O}ú"
-"28";"00:00:36:10";"00:00:36:10";"FABst&bjekte zerstört.ÿÿ;sN"
-"29";"00:00:36:10";"00:00:39:10";"hat die Flugabwehr
+25;00:00:34:04;00:00:34:04;FABstL Laut Verteidigungsministeriumÿÿ£
+26;00:00:34:04;00:00:36:06;Laut Verteidigungsministerium
+27;00:00:36:10;00:00:36:10;FABstd hat die Flugabwehr( ( einige O}ú
+28;00:00:36:10;00:00:36:10;"FABst&bjekte zerstört.ÿÿ;sN"
+29;00:00:36:10;00:00:39:10;"hat die Flugabwehr
 
 einige Objekte zerstÈort."
-"30";"00:00:39:14";"00:00:39:14";"FABstJ Präsident Putin kündigte an,ÿÿ`"
-"31";"00:00:39:14";"00:00:41:10";"PrÈasident Putin kÈundigte an,"
-"32";"00:00:41:13";"00:00:41:13";"FABstd die Luftverteidigung ( ( versEÌ"
-"33";"00:00:41:13";"00:00:41:13";"FABst(tärken zu wollen.ÿÿ9Lt"
-"34";"00:00:41:13";"00:00:44:01";"die Luftverteidigung
+30;00:00:39:14;00:00:39:14;FABstJ Präsident Putin kündigte an,ÿÿ`
+31;00:00:39:14;00:00:41:10;PrÈasident Putin kÈundigte an,
+32;00:00:41:13;00:00:41:13;FABstd die Luftverteidigung ( ( versEÌ
+33;00:00:41:13;00:00:41:13;FABst(tärken zu wollen.ÿÿ9Lt
+34;00:00:41:13;00:00:44:01;"die Luftverteidigung
 
 verstÈarken zu wollen."
-"35";"00:00:44:03";"00:00:44:03";"FABstd Er wies der Ukraine( ( die SchuldT"
-"36";"00:00:44:03";"00:00:44:03";"FABst* an dem Vorfall zuÿÿ7Ðº"
-"37";"00:00:44:03";"00:00:47:00";"Er wies der Ukraine
+35;00:00:44:03;00:00:44:03;FABstd Er wies der Ukraine( ( die SchuldT
+36;00:00:44:03;00:00:44:03;FABst* an dem Vorfall zuÿÿ7Ðº
+37;00:00:44:03;00:00:47:00;"Er wies der Ukraine
 
 die Schuld an dem Vorfall zu"
-"38";"00:00:47:02";"00:00:47:02";"FABstP und sprach von einer Provokation.ÿÿä"
-"39";"00:00:47:02";"00:00:49:09";"und sprach von einer Provokation."
-"40";"00:00:50:17";"00:00:50:17";"FABstd Schäden an einem mehrstöckigen( ( W7ª"
-"41";"00:00:50:17";"00:00:50:17";"FABst0ohngebäude in Moskau,9m"
-"42";"00:00:50:17";"00:00:54:04";"SchÈaden an einem mehrstÈockigen
+38;00:00:47:02;00:00:47:02;FABstP und sprach von einer Provokation.ÿÿä
+39;00:00:47:02;00:00:49:09;und sprach von einer Provokation.
+40;00:00:50:17;00:00:50:17;FABstd Schäden an einem mehrstöckigen( ( W7ª
+41;00:00:50:17;00:00:50:17;FABst0ohngebäude in Moskau,9m
+42;00:00:50:17;00:00:54:04;"SchÈaden an einem mehrstÈockigen
 
 WohngebÈaude in Moskau,"
-"43";"00:00:54:06";"00:00:54:06";"FABstd offenbar verursacht( ( vonn"
-"44";"00:00:54:06";"00:00:54:06";"FABst" einer Drohne.Gü&"
-"45";"00:00:54:06";"00:00:56:14";"offenbar verursacht
+43;00:00:54:06;00:00:54:06;FABstd offenbar verursacht( ( vonn
+44;00:00:54:06;00:00:54:06;"FABst"" einer Drohne.Gü&"
+45;00:00:54:06;00:00:56:14;"offenbar verursacht
 
 von einer Drohne."
-"46";"00:00:56:20";"00:00:56:20";"FABstd Die Bewohner mehrerer Häuser( ( in Moskò²"
-"47";"00:00:56:20";"00:00:56:20";"FABstBau wurden am Morgen evakuiert.ÿÿÃZ"
-"48";"00:00:56:20";"00:01:01:07";"Die Bewohner mehrerer HÈauser
+46;00:00:56:20;00:00:56:20;FABstd Die Bewohner mehrerer Häuser( ( in Moskò²
+47;00:00:56:20;00:00:56:20;FABstBau wurden am Morgen evakuiert.ÿÿÃZ
+48;00:00:56:20;00:01:01:07;"Die Bewohner mehrerer HÈauser
 
 in Moskau wurden am Morgen evakuiert."
-"49";"00:01:01:12";"00:01:01:12";"FABstPDer Schock bei Anwohnern ist groß.ÿÿ%T"
-"50";"00:01:01:12";"00:01:03:19";"Der Schock bei Anwohnern ist groû."
-"51";"00:01:04:11";"00:01:04:11";"FABstd Zunächst einmal( ( ist es beÐ"
-"52";"00:01:04:11";"00:01:04:11";"FABst&sorgniserregend.CÆú"
-"53";"00:01:04:11";"00:01:07:02";"ZunÈachst einmal
+49;00:01:01:12;00:01:01:12;FABstPDer Schock bei Anwohnern ist groß.ÿÿ%T
+50;00:01:01:12;00:01:03:19;Der Schock bei Anwohnern ist groû.
+51;00:01:04:11;00:01:04:11;FABstd Zunächst einmal( ( ist es beÐ
+52;00:01:04:11;00:01:04:11;FABst&sorgniserregend.CÆú
+53;00:01:04:11;00:01:07:02;"ZunÈachst einmal
 
 ist es besorgniserregend."
-"54";"00:01:07:03";"00:01:07:03";"FABstJ Wir dachten so etwas nicht."
-"55";"00:01:07:03";"00:01:08:23";"Wir dachten so etwas nicht."
-"56";"00:01:09:00";"00:01:09:00";"FABstd Es schien immer weit weg,( ( je"
-"57";"00:01:09:00";"00:01:09:00";"FABst*tzt es ist Moskau.ÿÿ7Òz"
-"58";"00:01:09:00";"00:01:12:02";"Es schien immer weit weg,
+54;00:01:07:03;00:01:07:03;FABstJ Wir dachten so etwas nicht.
+55;00:01:07:03;00:01:08:23;Wir dachten so etwas nicht.
+56;00:01:09:00;00:01:09:00;FABstd Es schien immer weit weg,( ( je
+57;00:01:09:00;00:01:09:00;FABst*tzt es ist Moskau.ÿÿ7Òz
+58;00:01:09:00;00:01:12:02;"Es schien immer weit weg,
 
 jetzt es ist Moskau."
-"59";"00:01:12:18";"00:01:12:18";"FABstd Die russische Regierung( ( m%\"
-"60";"00:01:12:18";"00:01:12:18";"FABst&acht die Ukraineÿÿ;Éî"
-"61";"00:01:12:18";"00:01:15:04";"Die russische Regierung
+59;00:01:12:18;00:01:12:18;FABstd Die russische Regierung( ( m%\
+60;00:01:12:18;00:01:12:18;"FABst&acht die Ukraineÿÿ;Éî"
+61;00:01:12:18;00:01:15:04;"Die russische Regierung
 
 macht die Ukraine"
-"62";"00:01:15:06";"00:01:15:06";"FABstd für die Drohnenangriffe( ( Â"
-"63";"00:01:15:06";"00:01:15:06";"FABst$verantwortlich.ÿÿ=Ð<i>"
-"64";"00:01:15:06";"00:01:17:14";"fÈur die Drohnenangriffe
+62;00:01:15:06;00:01:15:06;FABstd für die Drohnenangriffe( ( Â
+63;00:01:15:06;00:01:15:06;FABst$verantwortlich.ÿÿ=Ð<i>
+64;00:01:15:06;00:01:17:14;"fÈur die Drohnenangriffe
 
 verantwortlich."
-"65";"00:01:17:16";"00:01:17:16";"FABstD Kiew bestreitet dies.ÿÿþ"
-"66";"00:01:17:16";"00:01:19:00";"Kiew bestreitet dies."
-"67";"00:01:19:01";"00:01:19:01";"FABstd Moskau, das die Ukraine( ( seit überÿ<i>"
-"68";"00:01:19:01";"00:01:19:01";"FABst0 einem Jahr angreift,ÿÿ1¿"
-"69";"00:01:19:01";"00:01:22:05";"Moskau, das die Ukraine
+65;00:01:17:16;00:01:17:16;FABstD Kiew bestreitet dies.ÿÿþ
+66;00:01:17:16;00:01:19:00;Kiew bestreitet dies.
+67;00:01:19:01;00:01:19:01;FABstd Moskau, das die Ukraine( ( seit überÿ<i>
+68;00:01:19:01;00:01:19:01;FABst0 einem Jahr angreift,ÿÿ1¿
+69;00:01:19:01;00:01:22:05;"Moskau, das die Ukraine
 
 seit Èuber einem Jahr angreift,"
-"70";"00:01:22:07";"00:01:22:07";"FABstPwirft der Ukraine Terrorismus vor.ÿÿø*"
-"71";"00:01:22:07";"00:01:24:12";"wirft der Ukraine Terrorismus vor."
-"72";"00:01:25:09";"00:01:25:09";"FABstd Das Kiewer Regime( ( hat einen anWÌ"
-"73";"00:01:25:09";"00:01:25:09";"FABst*deren Weg gewählt.?^"
-"74";"00:01:25:09";"00:01:28:10";"Das Kiewer Regime
+70;00:01:22:07;00:01:22:07;FABstPwirft der Ukraine Terrorismus vor.ÿÿø*
+71;00:01:22:07;00:01:24:12;wirft der Ukraine Terrorismus vor.
+72;00:01:25:09;00:01:25:09;FABstd Das Kiewer Regime( ( hat einen anWÌ
+73;00:01:25:09;00:01:25:09;FABst*deren Weg gewählt.?^
+74;00:01:25:09;00:01:28:10;"Das Kiewer Regime
 
 hat einen anderen Weg gewÈahlt."
-"75";"00:01:28:12";"00:01:28:12";"FABstd Sie versuchen, Russland,( ( unsere BKÞ"
-"76";"00:01:28:12";"00:01:28:12";"FABst4ürger, zu verängstigen.5È"
-"77";"00:01:28:12";"00:01:32:15";"Sie versuchen, Russland,
+75;00:01:28:12;00:01:28:12;FABstd Sie versuchen, Russland,( ( unsere BKÞ
+76;00:01:28:12;00:01:28:12;FABst4ürger, zu verängstigen.5È
+77;00:01:28:12;00:01:32:15;"Sie versuchen, Russland,
 
 unsere BÈurger, zu verÈangstigen."
-"78";"00:01:33:18";"00:01:33:18";"FABstd Offiziell spricht die( ( russische"
-"79";"00:01:33:18";"00:01:33:18";"FABst<Regierung von acht Drohnen,ÿÿ%V"
-"80";"00:01:33:18";"00:01:37:09";"Offiziell spricht die
+78;00:01:33:18;00:01:33:18;FABstd Offiziell spricht die( ( russische
+79;00:01:33:18;00:01:33:18;FABst<Regierung von acht Drohnen,ÿÿ%V
+80;00:01:33:18;00:01:37:09;"Offiziell spricht die
 
 russische Regierung von acht Drohnen,"
-"81";"00:01:37:11";"00:01:37:11";"FABstH Todesopfer gäbe es keine.ÿÿQ"
-"82";"00:01:37:11";"00:01:39:06";"Todesopfer gÈabe es keine."
-"83";"00:01:40:14";"00:01:40:14";"FABst> Anders in Kiew.ÿÿí"
-"84";"00:01:40:14";"00:01:41:21";"Anders in Kiew."
-"85";"00:01:41:23";"00:01:41:23";"FABst P Auch hier brennt es heute Morgen.ÿÿÝ."
-"86";"00:01:41:23";"00:01:43:22";"Auch hier brennt es heute Morgen."
-"87";"00:01:43:24";"00:01:43:24";"FABst!J Ein mehrstöckiges Wohnhaus -ÿÿ0&"
-"88";"00:01:43:24";"00:01:45:18";"Ein mehrstÈockiges Wohnhaus -"
-"89";"00:01:45:20";"00:01:45:20";"FABst"d getroffen von den Trümmern( ( einer ab¸¼"
-"90";"00:01:45:20";"00:01:45:20";"FABst@gefangenen russischen Drohne.ÿÿ!r"
-"91";"00:01:45:20";"00:01:49:23";"getroffen von den TrÈummern
+81;00:01:37:11;00:01:37:11;FABstH Todesopfer gäbe es keine.ÿÿQ
+82;00:01:37:11;00:01:39:06;Todesopfer gÈabe es keine.
+83;00:01:40:14;00:01:40:14;FABst> Anders in Kiew.ÿÿí
+84;00:01:40:14;00:01:41:21;Anders in Kiew.
+85;00:01:41:23;00:01:41:23;FABst P Auch hier brennt es heute Morgen.ÿÿÝ.
+86;00:01:41:23;00:01:43:22;Auch hier brennt es heute Morgen.
+87;00:01:43:24;00:01:43:24;FABst!J Ein mehrstöckiges Wohnhaus -ÿÿ0&
+88;00:01:43:24;00:01:45:18;Ein mehrstÈockiges Wohnhaus -
+89;00:01:45:20;00:01:45:20;"FABst""d getroffen von den Trümmern( ( einer ab¸¼"
+90;00:01:45:20;00:01:45:20;FABst@gefangenen russischen Drohne.ÿÿ!r
+91;00:01:45:20;00:01:49:23;"getroffen von den TrÈummern
 
 einer abgefangenen russischen Drohne."
-"92";"00:01:50:00";"00:01:50:00";"FABst#H Die ukrainischen BehördenÿÿG "
-"93";"00:01:50:00";"00:01:51:15";"Die ukrainischen BehÈorden"
-"94";"00:01:51:17";"00:01:51:17";"FABst$d sprechen von einem Toten( ( und !"
-"95";"00:01:51:17";"00:01:51:17";"FABst*vielen Verletzten.ÿÿ7Úö"
-"96";"00:01:51:17";"00:01:54:13";"sprechen von einem Toten
+92;00:01:50:00;00:01:50:00;FABst#H Die ukrainischen BehördenÿÿG 
+93;00:01:50:00;00:01:51:15;Die ukrainischen BehÈorden
+94;00:01:51:17;00:01:51:17;FABst$d sprechen von einem Toten( ( und !
+95;00:01:51:17;00:01:51:17;FABst*vielen Verletzten.ÿÿ7Úö
+96;00:01:51:17;00:01:54:13;"sprechen von einem Toten
 
 und vielen Verletzten."
-"97";"00:01:55:16";"00:01:55:16";"FABst%d Es ist Terrorismus.( ( Natürlich â4"
-"98";"00:01:55:16";"00:01:55:16";"FABst*ist jeder besorgt.?«"
-"99";"00:01:55:16";"00:01:59:11";"Es ist Terrorismus.
+97;00:01:55:16;00:01:55:16;FABst%d Es ist Terrorismus.( ( Natürlich â4
+98;00:01:55:16;00:01:55:16;FABst*ist jeder besorgt.?«
+99;00:01:55:16;00:01:59:11;"Es ist Terrorismus.
 
 NatÈurlich ist jeder besorgt."
-"100";"00:01:59:21";"00:01:59:21";"FABst&d Die Russen wollen das Land ( ( in eu<i>"
-"101";"00:01:59:21";"00:01:59:21";"FABst4ine Depression stürzen.5cF"
-"102";"00:01:59:21";"00:02:03:12";"Die Russen wollen das Land
+100;00:01:59:21;00:01:59:21;FABst&d Die Russen wollen das Land ( ( in eu<i>
+101;00:01:59:21;00:01:59:21;FABst4ine Depression stürzen.5cF
+102;00:01:59:21;00:02:03:12;"Die Russen wollen das Land
 
 in eine Depression stÈurzen."
-"103";"00:02:03:14";"00:02:03:14";"FABst'd Aber statt schwermütig( ( sind di¬"
-"104";"00:02:03:14";"00:02:03:14";"FABst.e Leute hier wütend.ÿÿ3P"
-"105";"00:02:03:14";"00:02:07:15";"Aber statt schwermÈutig
+103;00:02:03:14;00:02:03:14;FABst'd Aber statt schwermütig( ( sind di¬
+104;00:02:03:14;00:02:03:14;FABst.e Leute hier wütend.ÿÿ3P
+105;00:02:03:14;00:02:07:15;"Aber statt schwermÈutig
 
 sind die Leute hier wÈutend."
-"106";"00:02:09:05";"00:02:09:05";"FABst(dDie massiven russischen Luftangriffe( ( aä"
-"107";"00:02:09:05";"00:02:09:05";"FABstBuf Kiew, wie vergangene Nacht,ÿÿ¸ì"
-"108";"00:02:09:05";"00:02:13:07";"Die massiven russischen Luftangriffe
+106;00:02:09:05;00:02:09:05;FABst(dDie massiven russischen Luftangriffe( ( aä
+107;00:02:09:05;00:02:09:05;FABstBuf Kiew, wie vergangene Nacht,ÿÿ¸ì
+108;00:02:09:05;00:02:13:07;"Die massiven russischen Luftangriffe
 
 auf Kiew, wie vergangene Nacht,"
-"109";"00:02:13:09";"00:02:13:09";"FABst)D dauern seit Tagen an.ÿÿëþ"
-"110";"00:02:13:09";"00:02:14:23";"dauern seit Tagen an."
-"111";"00:02:16:15";"00:02:16:15";"FABst*d Angesichts des Ukraine-Krieges( ( r"
-"112";"00:02:16:15";"00:02:16:15";"FABst( drängt Litauenÿÿ9=N"
-"113";"00:02:16:15";"00:02:19:10";"Angesichts des Ukraine-Krieges
+109;00:02:13:09;00:02:13:09;FABst)D dauern seit Tagen an.ÿÿëþ
+110;00:02:13:09;00:02:14:23;dauern seit Tagen an.
+111;00:02:16:15;00:02:16:15;FABst*d Angesichts des Ukraine-Krieges( ( r
+112;00:02:16:15;00:02:16:15;FABst( drängt Litauenÿÿ9=N
+113;00:02:16:15;00:02:19:10;"Angesichts des Ukraine-Krieges
 
 drÈangt Litauen"
-"114";"00:02:19:12";"00:02:19:12";"FABst+d auf eine stärkere NATO-Präsenz( ( Z"
-"115";"00:02:19:12";"00:02:19:12";"FABst*an der Ostflanke.ÿÿ7êÀ"
-"116";"00:02:19:12";"00:02:22:15";"auf eine stÈarkere NATO-PrÈasenz
+114;00:02:19:12;00:02:19:12;FABst+d auf eine stärkere NATO-Präsenz( ( Z
+115;00:02:19:12;00:02:19:12;FABst*an der Ostflanke.ÿÿ7êÀ
+116;00:02:19:12;00:02:22:15;"auf eine stÈarkere NATO-PrÈasenz
 
 an der Ostflanke."
-"117";"00:02:22:17";"00:02:22:17";"FABst,d Bei einem Staatsbesuch( ( von Bunde:¨"
-"118";"00:02:22:17";"00:02:22:17";"FABst0spräsident Steinmeierÿÿ1kÎ"
-"119";"00:02:22:17";"00:02:25:22";"Bei einem Staatsbesuch
+117;00:02:22:17;00:02:22:17;FABst,d Bei einem Staatsbesuch( ( von Bunde:¨
+118;00:02:22:17;00:02:22:17;FABst0spräsident Steinmeierÿÿ1kÎ
+119;00:02:22:17;00:02:25:22;"Bei einem Staatsbesuch
 
 von BundesprÈasident Steinmeier"
-"120";"00:02:25:24";"00:02:25:24";"FABst-d äußerte Präsident Nauseda( ( seine EÍN"
-"121";"00:02:25:24";"00:02:25:24";"FABst6rwartung an Deutschland:ÿÿ+Ò"
-"122";"00:02:25:24";"00:02:29:11";"Èauûerte PrÈasident Nauseda
+120;00:02:25:24;00:02:25:24;FABst-d äußerte Präsident Nauseda( ( seine EÍN
+121;00:02:25:24;00:02:25:24;FABst6rwartung an Deutschland:ÿÿ+Ò
+122;00:02:25:24;00:02:29:11;"Èauûerte PrÈasident Nauseda
 
 seine Erwartung an Deutschland:"
-"123";"00:02:29:13";"00:02:29:13";"FABst.d Mit möglichst vielen Soldaten( ( ü"
-"124";"00:02:29:13";"00:02:29:13";"FABst*präsent zu sein.ÿÿ7*"
-"125";"00:02:29:13";"00:02:32:09";"Mit mÈoglichst vielen Soldaten
+123;00:02:29:13;00:02:29:13;FABst.d Mit möglichst vielen Soldaten( ( ü
+124;00:02:29:13;00:02:29:13;FABst*präsent zu sein.ÿÿ7*
+125;00:02:29:13;00:02:32:09;"Mit mÈoglichst vielen Soldaten
 
 prÈasent zu sein."
-"126";"00:02:32:11";"00:02:32:11";"FABst/d Litauen grenzt an Russland,( ( ist Mfr"
-"127";"00:02:32:11";"00:02:32:11";"FABst6itglied von NATO und EU.ÿÿ+¬æ"
-"128";"00:02:32:11";"00:02:36:12";"Litauen grenzt an Russland,
+126;00:02:32:11;00:02:32:11;FABst/d Litauen grenzt an Russland,( ( ist Mfr
+127;00:02:32:11;00:02:32:11;FABst6itglied von NATO und EU.ÿÿ+¬æ
+128;00:02:32:11;00:02:36:12;"Litauen grenzt an Russland,
 
 ist Mitglied von NATO und EU."
-"129";"00:02:36:24";"00:02:36:24";"FABst0PIm Rahmen eines NATO-Kampfverbandsÿÿ¶"
-"130";"00:02:36:24";"00:02:39:07";"Im Rahmen eines NATO-Kampfverbands"
-"131";"00:02:39:09";"00:02:39:09";"FABst1dsind zurzeit 800 deutsche Soldaten( ( fä"
-"132";"00:02:39:09";"00:02:39:09";"FABst. dort stationiert.ÿÿ3£z"
-"133";"00:02:39:09";"00:02:43:00";"sind zurzeit 800 deutsche Soldaten
+129;00:02:36:24;00:02:36:24;FABst0PIm Rahmen eines NATO-Kampfverbandsÿÿ¶
+130;00:02:36:24;00:02:39:07;Im Rahmen eines NATO-Kampfverbands
+131;00:02:39:09;00:02:39:09;FABst1dsind zurzeit 800 deutsche Soldaten( ( fä
+132;00:02:39:09;00:02:39:09;FABst. dort stationiert.ÿÿ3£z
+133;00:02:39:09;00:02:43:00;"sind zurzeit 800 deutsche Soldaten
 
 dort stationiert."
-"134";"00:02:44:18";"00:02:44:18";"FABst2d Die NATO verstärkt ihre Präsenz( ( im@t"
-"135";"00:02:44:18";"00:02:44:18";"FABst6 Kosovo um 700 Soldaten.ÿÿ+ú¬"
-"136";"00:02:44:18";"00:02:49:00";"Die NATO verstÈarkt ihre PrÈasenz
+134;00:02:44:18;00:02:44:18;FABst2d Die NATO verstärkt ihre Präsenz( ( im@t
+135;00:02:44:18;00:02:44:18;FABst6 Kosovo um 700 Soldaten.ÿÿ+ú¬
+136;00:02:44:18;00:02:49:00;"Die NATO verstÈarkt ihre PrÈasenz
 
 im Kosovo um 700 Soldaten."
-"137";"00:02:50:00";"00:02:50:00";"FABst3d Die Allianz( ( reagiert damit aæ"
-"138";"00:02:50:00";"00:02:50:00";"FABst&uf Zusammenstößeÿÿ;¾n"
-"139";"00:02:50:00";"00:02:53:01";"Die Allianz
+137;00:02:50:00;00:02:50:00;FABst3d Die Allianz( ( reagiert damit aæ
+138;00:02:50:00;00:02:50:00;"FABst&uf Zusammenstößeÿÿ;¾n"
+139;00:02:50:00;00:02:53:01;"Die Allianz
 
 reagiert damit auf ZusammenstÈoûe"
-"140";"00:02:53:03";"00:02:53:03";"FABst4dzwischen serbischen Demonstranten und( ( KT*"
-"141";"00:02:53:03";"00:02:53:03";"FABstJFOR-Soldaten im Norden des Landes.ÿÿ¹0"
-"142";"00:02:53:03";"00:02:58:19";"zwischen serbischen Demonstranten und
+140;00:02:53:03;00:02:53:03;FABst4dzwischen serbischen Demonstranten und( ( KT*
+141;00:02:53:03;00:02:53:03;FABstJFOR-Soldaten im Norden des Landes.ÿÿ¹0
+142;00:02:53:03;00:02:58:19;"zwischen serbischen Demonstranten und
 
 KFOR-Soldaten im Norden des Landes."
-"143";"00:02:59:04";"00:02:59:04";"FABst5d Der Kosovo ist seit 2008( ( unabhOú"
-"144";"00:02:59:04";"00:02:59:04";"FABst,ängig von Serbien, ÿÿ5("
-"145";"00:02:59:04";"00:03:02:17";"Der Kosovo ist seit 2008
+143;00:02:59:04;00:02:59:04;FABst5d Der Kosovo ist seit 2008( ( unabhOú
+144;00:02:59:04;00:02:59:04;FABst,ängig von Serbien, ÿÿ5(
+145;00:02:59:04;00:03:02:17;"Der Kosovo ist seit 2008
 
 unabhÈangig von Serbien,"
-"146";"00:03:02:19";"00:03:02:19";"FABst6Pdas die Loslösung nicht anerkennt.ÿÿaN"
-"147";"00:03:02:19";"00:03:05:08";"das die LoslÈosung nicht anerkennt."
-"148";"00:03:05:10";"00:03:05:10";"FABst7dDie Bevölkerung besteht überwiegend( ( aus GL"
-"149";"00:03:05:10";"00:03:05:10";"FABstDalbanisch-stämmigen Einwohnern.ÿÿ%°"
-"150";"00:03:05:10";"00:03:09:14";"Die BevÈolkerung besteht Èuberwiegend
+146;00:03:02:19;00:03:02:19;FABst6Pdas die Loslösung nicht anerkennt.ÿÿaN
+147;00:03:02:19;00:03:05:08;das die LoslÈosung nicht anerkennt.
+148;00:03:05:10;00:03:05:10;FABst7dDie Bevölkerung besteht überwiegend( ( aus GL
+149;00:03:05:10;00:03:05:10;FABstDalbanisch-stämmigen Einwohnern.ÿÿ%°
+150;00:03:05:10;00:03:09:14;"Die BevÈolkerung besteht Èuberwiegend
 
 aus albanisch-stÈammigen Einwohnern."
-"151";"00:03:09:16";"00:03:09:16";"FABst8d Im Norden des Landes( ( lebt eine l\"
-"152";"00:03:09:16";"00:03:09:16";"FABst0serbische Minderheit.ÿÿ1¹f"
-"153";"00:03:09:16";"00:03:12:19";"Im Norden des Landes
+151;00:03:09:16;00:03:09:16;FABst8d Im Norden des Landes( ( lebt eine l\
+152;00:03:09:16;00:03:09:16;FABst0serbische Minderheit.ÿÿ1¹f
+153;00:03:09:16;00:03:12:19;"Im Norden des Landes
 
 lebt eine serbische Minderheit."
-"154";"00:03:12:21";"00:03:12:21";"FABst9P Nach Ende des Kosovo-Krieges 1999ÿÿ*"
-"155";"00:03:12:21";"00:03:15:11";"Nach Ende des Kosovo-Krieges 1999"
-"156";"00:03:15:13";"00:03:15:13";"FABst:d stationierte die NATO( ( die KFOR-Sc!V"
-"157";"00:03:15:13";"00:03:15:13";"FABst8hutztruppe in der Region.ÿÿ)»|"
-"158";"00:03:15:13";"00:03:19:09";"stationierte die NATO
+154;00:03:12:21;00:03:12:21;FABst9P Nach Ende des Kosovo-Krieges 1999ÿÿ*
+155;00:03:12:21;00:03:15:11;Nach Ende des Kosovo-Krieges 1999
+156;00:03:15:13;00:03:15:13;FABst:d stationierte die NATO( ( die KFOR-Sc!V
+157;00:03:15:13;00:03:15:13;FABst8hutztruppe in der Region.ÿÿ)»|
+158;00:03:15:13;00:03:19:09;"stationierte die NATO
 
 die KFOR-Schutztruppe in der Region."
-"159";"00:03:19:11";"00:03:19:11";"FABst;d Zuletzt waren etwa( ( 3800 KFOR#¬"
-"160";"00:03:19:11";"00:03:19:11";"FABst*-Soldaten vor Ort.ÿÿ7ûx"
-"161";"00:03:19:11";"00:03:23:03";"Zuletzt waren etwa
+159;00:03:19:11;00:03:19:11;"FABst;d Zuletzt waren etwa( ( 3800 KFOR#¬"
+160;00:03:19:11;00:03:19:11;FABst*-Soldaten vor Ort.ÿÿ7ûx
+161;00:03:19:11;00:03:23:03;"Zuletzt waren etwa
 
 3800 KFOR-Soldaten vor Ort."
-"162";"00:03:25:11";"00:03:25:11";"FABst<dDie Straßenschlachten im Nord-Kosovo( ( ½B"
-"163";"00:03:25:11";"00:03:25:11";"FABst>haben Spuren hinterlassen.+"
-"164";"00:03:25:11";"00:03:29:11";"Die Straûenschlachten im Nord-Kosovo
+162;00:03:25:11;00:03:25:11;FABst<dDie Straßenschlachten im Nord-Kosovo( ( ½B
+163;00:03:25:11;00:03:25:11;FABst>haben Spuren hinterlassen.+
+164;00:03:25:11;00:03:29:11;"Die Straûenschlachten im Nord-Kosovo
 
 haben Spuren hinterlassen."
-"165";"00:03:29:13";"00:03:29:13";"FABst=d Trotzdem versammeln sich wieder( ( Bewoh[°"
-"166";"00:03:29:13";"00:03:29:13";"FABst>ner der serbischen Gemeinden+|"
-"167";"00:03:29:13";"00:03:33:06";"Trotzdem versammeln sich wieder
+165;00:03:29:13;00:03:29:13;FABst=d Trotzdem versammeln sich wieder( ( Bewoh[°
+166;00:03:29:13;00:03:29:13;FABst>ner der serbischen Gemeinden+|
+167;00:03:29:13;00:03:33:06;"Trotzdem versammeln sich wieder
 
 Bewohner der serbischen Gemeinden"
-"168";"00:03:33:09";"00:03:33:09";"FABst>B zu Demonstrationen.#àf"
-"169";"00:03:33:09";"00:03:34:13";"zu Demonstrationen."
-"170";"00:03:34:15";"00:03:34:15";"FABst?d Streng bewacht von Soldaten ( ( der N?r"
-"171";"00:03:34:15";"00:03:34:15";"FABst4ATO-Einsatztruppe KFOR.ÿÿ-Õ"
-"172";"00:03:34:15";"00:03:38:02";"Streng bewacht von Soldaten
+168;00:03:33:09;00:03:33:09;FABst>B zu Demonstrationen.#àf
+169;00:03:33:09;00:03:34:13;zu Demonstrationen.
+170;00:03:34:15;00:03:34:15;FABst?d Streng bewacht von Soldaten ( ( der N?r
+171;00:03:34:15;00:03:34:15;FABst4ATO-Einsatztruppe KFOR.ÿÿ-Õ
+172;00:03:34:15;00:03:38:02;"Streng bewacht von Soldaten
 
 der NATO-Einsatztruppe KFOR."
-"173";"00:03:38:04";"00:03:38:04";"FABst@d Die Situation eskalierte gestern,( ( als hð"
-"174";"00:03:38:04";"00:03:38:04";"FABst@ein albanischer Bürgermeisterÿÿ!Eú"
-"175";"00:03:38:04";"00:03:42:07";"Die Situation eskalierte gestern,
+173;00:03:38:04;00:03:38:04;FABst@d Die Situation eskalierte gestern,( ( als hð
+174;00:03:38:04;00:03:38:04;FABst@ein albanischer Bürgermeisterÿÿ!Eú
+175;00:03:38:04;00:03:42:07;"Die Situation eskalierte gestern,
 
 als ein albanischer BÈurgermeister"
-"176";"00:03:42:09";"00:03:42:09";"FABstAd im Rathaus( ( seinen Dienst a`þ"
-"177";"00:03:42:09";"00:03:42:09";"FABst$ntreten wollte.ÿÿ=</i>"
-"178";"00:03:42:09";"00:03:44:21";"im Rathaus
+176;00:03:42:09;00:03:42:09;FABstAd im Rathaus( ( seinen Dienst a`þ
+177;00:03:42:09;00:03:42:09;FABst$ntreten wollte.ÿÿ=</i>
+178;00:03:42:09;00:03:44:21;"im Rathaus
 
 seinen Dienst antreten wollte."
-"179";"00:03:44:23";"00:03:44:23";"FABstBd Die serbische Bevölkerung hatte( ( die Bü<"
-"180";"00:03:44:23";"00:03:44:23";"FABstBrgermeisterwahlen boykottiert.ÿÿ®X"
-"181";"00:03:44:23";"00:03:48:22";"Die serbische BevÈolkerung hatte
+179;00:03:44:23;00:03:44:23;FABstBd Die serbische Bevölkerung hatte( ( die Bü<
+180;00:03:44:23;00:03:44:23;FABstBrgermeisterwahlen boykottiert.ÿÿ®X
+181;00:03:44:23;00:03:48:22;"Die serbische BevÈolkerung hatte
 
 die BÈurgermeisterwahlen boykottiert."
-"182";"00:03:48:24";"00:03:48:24";"FABstCd Sie demonstriert( ( gegen den Þ"
-"183";"00:03:48:24";"00:03:48:24";"FABst(neuen Amtsinhaberÿÿ9ù"
-"184";"00:03:48:24";"00:03:51:15";"Sie demonstriert
+182;00:03:48:24;00:03:48:24;FABstCd Sie demonstriert( ( gegen den Þ
+183;00:03:48:24;00:03:48:24;FABst(neuen Amtsinhaberÿÿ9ù
+184;00:03:48:24;00:03:51:15;"Sie demonstriert
 
 gegen den neuen Amtsinhaber"
-"185";"00:03:51:17";"00:03:51:17";"FABstDd und die Präsenz( ( der kosovarÆ"
-"186";"00:03:51:17";"00:03:51:17";"FABst$ischen Polizei.ÿÿ=¬*"
-"187";"00:03:51:17";"00:03:54:13";"und die PrÈasenz
+185;00:03:51:17;00:03:51:17;FABstDd und die Präsenz( ( der kosovarÆ
+186;00:03:51:17;00:03:51:17;FABst$ischen Polizei.ÿÿ=¬*
+187;00:03:51:17;00:03:54:13;"und die PrÈasenz
 
 der kosovarischen Polizei."
-"188";"00:03:54:22";"00:03:54:22";"FABstEdDie Situation schaukelt sich hoch,( ( es fl+ò"
-"189";"00:03:54:22";"00:03:54:22";"FABst@iegen Steine und Brandsätze. ÿÿ!:î"
-"190";"00:03:54:22";"00:03:59:12";"Die Situation schaukelt sich hoch,
+188;00:03:54:22;00:03:54:22;FABstEdDie Situation schaukelt sich hoch,( ( es fl+ò
+189;00:03:54:22;00:03:54:22;FABst@iegen Steine und Brandsätze. ÿÿ!:î
+190;00:03:54:22;00:03:59:12;"Die Situation schaukelt sich hoch,
 
 es fliegen Steine und BrandsÈatze."
-"191";"00:04:03:19";"00:04:03:19";"FABstFd 30 Soldaten werden verletzt,( ( einü"
-"192";"00:04:03:19";"00:04:03:19";"FABst0ige von ihnen schwer,ÿÿ1<i>ü"
-"193";"00:04:03:19";"00:04:07:01";"30 Soldaten werden verletzt,
+191;00:04:03:19;00:04:03:19;FABstFd 30 Soldaten werden verletzt,( ( einü
+192;00:04:03:19;00:04:03:19;FABst0ige von ihnen schwer,ÿÿ1<i>ü
+193;00:04:03:19;00:04:07:01;"30 Soldaten werden verletzt,
 
 einige von ihnen schwer,"
-"194";"00:04:07:03";"00:04:07:03";"FABstGD ebenso etwa 50 Serben.ÿÿÎ"
-"195";"00:04:07:03";"00:04:08:21";"ebenso etwa 50 Serben."
-"196";"00:04:10:15";"00:04:10:15";"FABstHd Präsident Vucic setzt daraufhin( ( die ¼n"
-"197";"00:04:10:15";"00:04:10:15";"FABst<Armee in Alarmbereitschaft.ÿÿ%Öü"
-"198";"00:04:10:15";"00:04:14:15";"PrÈasident Vucic setzt daraufhin
+194;00:04:07:03;00:04:07:03;FABstGD ebenso etwa 50 Serben.ÿÿÎ
+195;00:04:07:03;00:04:08:21;ebenso etwa 50 Serben.
+196;00:04:10:15;00:04:10:15;FABstHd Präsident Vucic setzt daraufhin( ( die ¼n
+197;00:04:10:15;00:04:10:15;FABst<Armee in Alarmbereitschaft.ÿÿ%Öü
+198;00:04:10:15;00:04:14:15;"PrÈasident Vucic setzt daraufhin
 
 die Armee in Alarmbereitschaft."
-"199";"00:04:14:17";"00:04:14:17";"FABstId Er sorge sich um die Sicherheit( ( YÆ"
-"200";"00:04:14:17";"00:04:14:17";"FABst2der Serben im Kosovo,ÿÿ/8"
-"201";"00:04:14:17";"00:04:17:20";"Er sorge sich um die Sicherheit
+199;00:04:14:17;00:04:14:17;FABstId Er sorge sich um die Sicherheit( ( YÆ
+200;00:04:14:17;00:04:14:17;FABst2der Serben im Kosovo,ÿÿ/8
+201;00:04:14:17;00:04:17:20;"Er sorge sich um die Sicherheit
 
 der Serben im Kosovo,"
-"202";"00:04:17:22";"00:04:17:22";"FABstJRspricht von einem drohenden Pogrom.ÿÿÿÄ"
-"203";"00:04:17:22";"00:04:20:02";"spricht von einem drohenden Pogrom."
-"204";"00:04:20:18";"00:04:20:18";"FABstKd Mit unserer Armee( ( haben wir vi)v"
-"205";"00:04:20:18";"00:04:20:18";"FABst*ele Orte im Blick.?èz"
-"206";"00:04:20:18";"00:04:23:17";"Mit unserer Armee
+202;00:04:17:22;00:04:17:22;FABstJRspricht von einem drohenden Pogrom.ÿÿÿÄ
+203;00:04:17:22;00:04:20:02;spricht von einem drohenden Pogrom.
+204;00:04:20:18;00:04:20:18;FABstKd Mit unserer Armee( ( haben wir vi)v
+205;00:04:20:18;00:04:20:18;FABst*ele Orte im Blick.?èz
+206;00:04:20:18;00:04:23:17;"Mit unserer Armee
 
 haben wir viele Orte im Blick."
-"207";"00:04:23:19";"00:04:23:19";"FABstLd Ein Pogrom an der serbischen( ( Bevölke"
-"208";"00:04:23:19";"00:04:23:19";"FABst8rung lassen wir nicht zu.1Ì:"
-"209";"00:04:23:19";"00:04:27:23";"Ein Pogrom an der serbischen
+207;00:04:23:19;00:04:23:19;FABstLd Ein Pogrom an der serbischen( ( Bevölke
+208;00:04:23:19;00:04:23:19;FABst8rung lassen wir nicht zu.1Ì:
+209;00:04:23:19;00:04:27:23;"Ein Pogrom an der serbischen
 
 BevÈolkerung lassen wir nicht zu."
-"210";"00:04:29:17";"00:04:29:17";"FABstMd Unterstützung für Vucic( ( ko-l"
-"211";"00:04:29:17";"00:04:29:17";"FABst(mmt aus Russland.ÿÿ9á"
-"212";"00:04:29:17";"00:04:32:09";"UnterstÈutzung fÈur Vucic
+210;00:04:29:17;00:04:29:17;FABstMd Unterstützung für Vucic( ( ko-l
+211;00:04:29:17;00:04:29:17;FABst(mmt aus Russland.ÿÿ9á
+212;00:04:29:17;00:04:32:09;"UnterstÈutzung fÈur Vucic
 
 kommt aus Russland."
-"213";"00:04:32:11";"00:04:32:11";"FABstNdDie Entscheidung, nach den Krawallen( ( dieHÞ"
-"214";"00:04:32:11";"00:04:32:11";"FABstH Armee an die Grenze zu verlegen,ÿÿ</u>"
-"215";"00:04:32:11";"00:04:36:18";"Die Entscheidung, nach den Krawallen
+213;00:04:32:11;00:04:32:11;FABstNdDie Entscheidung, nach den Krawallen( ( dieHÞ
+214;00:04:32:11;00:04:32:11;FABstH Armee an die Grenze zu verlegen,ÿÿ</u>
+215;00:04:32:11;00:04:36:18;"Die Entscheidung, nach den Krawallen
 
 die Armee an die Grenze zu verlegen,"
-"216";"00:04:36:20";"00:04:36:20";"FABstOd sei richtig,( ( so der enge VerFâ"
-"217";"00:04:36:20";"00:04:36:20";"FABst(bündete Serbiens.ÿÿ9%"
-"218";"00:04:36:20";"00:04:39:16";"sei richtig,
+216;00:04:36:20;00:04:36:20;FABstOd sei richtig,( ( so der enge VerFâ
+217;00:04:36:20;00:04:36:20;FABst(bündete Serbiens.ÿÿ9%
+218;00:04:36:20;00:04:39:16;"sei richtig,
 
 so der enge VerbÈundete Serbiens."
-"219";"00:04:40:07";"00:04:40:07";"FABstPd Ein großer Ausbruch braut sich( ( im Z¡t"
-"220";"00:04:40:07";"00:04:40:07";"FABst6entrum Europas zusammen.38"
-"221";"00:04:40:07";"00:04:43:23";"Ein groûer Ausbruch braut sich
+219;00:04:40:07;00:04:40:07;FABstPd Ein großer Ausbruch braut sich( ( im Z¡t
+220;00:04:40:07;00:04:40:07;FABst6entrum Europas zusammen.38
+221;00:04:40:07;00:04:43:23;"Ein groûer Ausbruch braut sich
 
 im Zentrum Europas zusammen."
-"222";"00:04:44:00";"00:04:44:00";"FABstQJ Dort, wo 1999 NATO-SoldatenñN"
-"223";"00:04:44:00";"00:04:46:03";"Dort, wo 1999 NATO-Soldaten"
-"224";"00:04:46:05";"00:04:46:05";"FABstRd ihre Aggression( ( gegen Jugosl+<i>"
-"225";"00:04:46:05";"00:04:46:05";"FABst,awien durchführten.ÿÿ5Þ"
-"226";"00:04:46:05";"00:04:49:14";"ihre Aggression
+222;00:04:44:00;00:04:44:00;FABstQJ Dort, wo 1999 NATO-SoldatenñN
+223;00:04:44:00;00:04:46:03;Dort, wo 1999 NATO-Soldaten
+224;00:04:46:05;00:04:46:05;FABstRd ihre Aggression( ( gegen Jugosl+<i>
+225;00:04:46:05;00:04:46:05;FABst,awien durchführten.ÿÿ5Þ
+226;00:04:46:05;00:04:49:14;"ihre Aggression
 
 gegen Jugoslawien durchfÈuhrten."
-"227";"00:04:51:20";"00:04:51:20";"FABstSd Der EU-Außenbeauftragte Borrell( ( æ"
-"228";"00:04:51:20";"00:04:51:20";"FABst2verurteilt die Szenen.ÿÿ/J"
-"229";"00:04:51:20";"00:04:55:15";"Der EU-Auûenbeauftragte Borrell
+227;00:04:51:20;00:04:51:20;FABstSd Der EU-Außenbeauftragte Borrell( ( æ
+228;00:04:51:20;00:04:51:20;FABst2verurteilt die Szenen.ÿÿ/J
+229;00:04:51:20;00:04:55:15;"Der EU-Auûenbeauftragte Borrell
 
 verurteilt die Szenen."
-"230";"00:04:55:17";"00:04:55:17";"FABstTd Angriffe auf KFOR-Soldaten( ( se&Î"
-"231";"00:04:55:17";"00:04:55:17";"FABst(ien inakzeptabel.ÿÿ9¦"
-"232";"00:04:55:17";"00:04:59:09";"Angriffe auf KFOR-Soldaten
+230;00:04:55:17;00:04:55:17;FABstTd Angriffe auf KFOR-Soldaten( ( se&Î
+231;00:04:55:17;00:04:55:17;FABst(ien inakzeptabel.ÿÿ9¦
+232;00:04:55:17;00:04:59:09;"Angriffe auf KFOR-Soldaten
 
 seien inakzeptabel."
-"233";"00:05:01:11";"00:05:01:11";"FABstUd Wir haben schon( ( zu viel Gi¢"
-"234";"00:05:01:11";"00:05:01:11";"FABst&ewalt in Europa.Cã"
-"235";"00:05:01:11";"00:05:04:20";"Wir haben schon
+233;00:05:01:11;00:05:01:11;FABstUd Wir haben schon( ( zu viel Gi¢
+234;00:05:01:11;00:05:01:11;FABst&ewalt in Europa.Cã
+235;00:05:01:11;00:05:04:20;"Wir haben schon
 
 zu viel Gewalt in Europa."
-"236";"00:05:05:22";"00:05:05:22";"FABstVd Wir können uns( ( keinen weitereH"
-"237";"00:05:05:22";"00:05:05:22";"FABst,n Konflikt leisten.=ó"
-"238";"00:05:05:22";"00:05:09:15";"Wir kÈonnen uns
+236;00:05:05:22;00:05:05:22;FABstVd Wir können uns( ( keinen weitereH
+237;00:05:05:22;00:05:05:22;FABst,n Konflikt leisten.=ó
+238;00:05:05:22;00:05:09:15;"Wir kÈonnen uns
 
 keinen weiteren Konflikt leisten."
-"239";"00:05:09:18";"00:05:09:18";"FABstWTIch hoffe, meine Stimme wird gehörtÿÿÊ"
-"240";"00:05:09:18";"00:05:11:22";"Ich hoffe, meine Stimme wird gehÈort"
-"241";"00:05:11:24";"00:05:11:24";"FABstXd und die Menschen( ( kommen meinM"
-"242";"00:05:11:24";"00:05:11:24";"FABst*er Forderung nach.ÿÿ7°"
-"243";"00:05:11:24";"00:05:15:15";"und die Menschen
+239;00:05:09:18;00:05:09:18;FABstWTIch hoffe, meine Stimme wird gehörtÿÿÊ
+240;00:05:09:18;00:05:11:22;Ich hoffe, meine Stimme wird gehÈort
+241;00:05:11:24;00:05:11:24;FABstXd und die Menschen( ( kommen meinM
+242;00:05:11:24;00:05:11:24;FABst*er Forderung nach.ÿÿ7°
+243;00:05:11:24;00:05:15:15;"und die Menschen
 
 kommen meiner Forderung nach."
-"244";"00:05:16:17";"00:05:16:17";"FABstYd Die Fronten in der Region( ( sinT|"
-"245";"00:05:16:17";"00:05:16:17";"FABst.d wieder verhärtet. ÿÿ3hÞ"
-"246";"00:05:16:17";"00:05:19:16";"Die Fronten in der Region
+244;00:05:16:17;00:05:16:17;FABstYd Die Fronten in der Region( ( sinT|
+245;00:05:16:17;00:05:16:17;FABst.d wieder verhärtet. ÿÿ3hÞ
+246;00:05:16:17;00:05:19:16;"Die Fronten in der Region
 
 sind wieder verhÈartet."
-"247";"00:05:19:18";"00:05:19:18";"FABstZdEinen Tag nach den Ausschreitungen( ( _ "
-"248";"00:05:19:18";"00:05:19:18";"FABst2kündigt die NATO an,ÿÿ/h"
-"249";"00:05:19:18";"00:05:22:24";"Einen Tag nach den Ausschreitungen
+247;00:05:19:18;00:05:19:18;FABstZdEinen Tag nach den Ausschreitungen( ( _ 
+248;00:05:19:18;00:05:19:18;FABst2kündigt die NATO an,ÿÿ/h
+249;00:05:19:18;00:05:22:24;"Einen Tag nach den Ausschreitungen
 
 kÈundigt die NATO an,"
-"250";"00:05:23:01";"00:05:23:01";"FABst[Vihre Truppen im Kosovo zu verstärken.ÿÿ"
-"251";"00:05:23:01";"00:05:25:07";"ihre Truppen im Kosovo zu verstÈarken."
-"252";"00:05:26:07";"00:05:26:07";"FABst\D Deutschland und Polenÿÿ¼"
-"253";"00:05:26:07";"00:05:27:19";"Deutschland und Polen"
-"254";"00:05:27:21";"00:05:27:21";"FABst]d haben mehr Kontrollen( ( an der gemÂ"
-"255";"00:05:27:21";"00:05:27:21";"FABst<einsamen Grenze vereinbart.ÿÿ%ë"
-"256";"00:05:27:21";"00:05:31:09";"haben mehr Kontrollen
+250;00:05:23:01;00:05:23:01;FABst[Vihre Truppen im Kosovo zu verstärken.ÿÿ
+251;00:05:23:01;00:05:25:07;ihre Truppen im Kosovo zu verstÈarken.
+252;00:05:26:07;00:05:26:07;FABst\D Deutschland und Polenÿÿ¼
+253;00:05:26:07;00:05:27:19;Deutschland und Polen
+254;00:05:27:21;00:05:27:21;FABst]d haben mehr Kontrollen( ( an der gemÂ
+255;00:05:27:21;00:05:27:21;FABst<einsamen Grenze vereinbart.ÿÿ%ë
+256;00:05:27:21;00:05:31:09;"haben mehr Kontrollen
 
 an der gemeinsamen Grenze vereinbart."
-"257";"00:05:31:11";"00:05:31:11";"FABst^d Innenministerin Faeser und der( ( polnis2À"
-"258";"00:05:31:11";"00:05:31:11";"FABstDche Vize-Innenminister Grodeckiÿÿ¼Ø"
-"259";"00:05:31:11";"00:05:36:03";"Innenministerin Faeser und der
+257;00:05:31:11;00:05:31:11;FABst^d Innenministerin Faeser und der( ( polnis2À
+258;00:05:31:11;00:05:31:11;FABstDche Vize-Innenminister Grodeckiÿÿ¼Ø
+259;00:05:31:11;00:05:36:03;"Innenministerin Faeser und der
 
 polnische Vize-Innenminister Grodecki"
-"260";"00:05:36:06";"00:05:36:06";"FABst_d verwiesen auf( ( steigende FlüÈ6"
-"261";"00:05:36:06";"00:05:36:06";"FABst$chtlingszahlen.ÿÿ=Î "
-"262";"00:05:36:06";"00:05:39:11";"verwiesen auf
+260;00:05:36:06;00:05:36:06;FABst_d verwiesen auf( ( steigende FlüÈ6
+261;00:05:36:06;00:05:36:06;FABst$chtlingszahlen.ÿÿ=Î 
+262;00:05:36:06;00:05:39:11;"verwiesen auf
 
 steigende FlÈuchtlingszahlen."
-"263";"00:05:39:20";"00:05:39:20";"FABst`d Brandenburg und Sachsen fordern ( ( feste þ"
-"264";"00:05:39:20";"00:05:39:20";"FABst>stationäre Grenzkontrollen -ÿÿ#p"
-"265";"00:05:39:20";"00:05:44:06";"Brandenburg und Sachsen fordern
+263;00:05:39:20;00:05:39:20;FABst`d Brandenburg und Sachsen fordern ( ( feste þ
+264;00:05:39:20;00:05:39:20;FABst>stationäre Grenzkontrollen -ÿÿ#p
+265;00:05:39:20;00:05:44:06;"Brandenburg und Sachsen fordern
 
 feste stationÈare Grenzkontrollen -"
-"266";"00:05:44:08";"00:05:44:08";"FABstaL die soll es aber nicht geben.ÿÿT"
-"267";"00:05:44:08";"00:05:46:15";"die soll es aber nicht geben."
-"268";"00:05:48:13";"00:05:48:13";"FABstbD Guben in Brandenburg:!ãH"
-"269";"00:05:48:13";"00:05:50:04";"Guben in Brandenburg:"
-"270";"00:05:50:10";"00:05:50:10";"FABstcdRegelmäßig queren hier Geflüchtete( ( dà"
-"271";"00:05:50:10";"00:05:50:10";"FABst6ie Grenze über die Neiße3Éæ"
-"272";"00:05:50:10";"00:05:54:11";"RegelmÈaûig queren hier GeflÈuchtete
+266;00:05:44:08;00:05:44:08;FABstaL die soll es aber nicht geben.ÿÿT
+267;00:05:44:08;00:05:46:15;die soll es aber nicht geben.
+268;00:05:48:13;00:05:48:13;FABstbD Guben in Brandenburg:!ãH
+269;00:05:48:13;00:05:50:04;Guben in Brandenburg:
+270;00:05:50:10;00:05:50:10;FABstcdRegelmäßig queren hier Geflüchtete( ( dà
+271;00:05:50:10;00:05:50:10;FABst6ie Grenze über die Neiße3Éæ
+272;00:05:50:10;00:05:54:11;"RegelmÈaûig queren hier GeflÈuchtete
 
 die Grenze Èuber die Neiûe"
-"273";"00:05:54:13";"00:05:54:13";"FABstdJ von Polen nach Deutschland.ÿÿ¢^"
-"274";"00:05:54:13";"00:05:56:07";"von Polen nach Deutschland."
-"275";"00:05:56:09";"00:05:56:09";"FABsted Der Bürgermeister spricht von( ( einer d"
-"276";"00:05:56:09";"00:05:56:09";"FABstDnicht mehr tragbaren Situation.ÿÿì¨"
-"277";"00:05:56:09";"00:06:00:06";"Der BÈurgermeister spricht von
+273;00:05:54:13;00:05:54:13;FABstdJ von Polen nach Deutschland.ÿÿ¢^
+274;00:05:54:13;00:05:56:07;von Polen nach Deutschland.
+275;00:05:56:09;00:05:56:09;FABsted Der Bürgermeister spricht von( ( einer d
+276;00:05:56:09;00:05:56:09;FABstDnicht mehr tragbaren Situation.ÿÿì¨
+277;00:05:56:09;00:06:00:06;"Der BÈurgermeister spricht von
 
 einer nicht mehr tragbaren Situation."
-"278";"00:06:00:08";"00:06:00:08";"FABstfd Er fordert( ( stationäre Grh"
-"279";"00:06:00:08";"00:06:00:08";"FABst"enzkontrollen.ÿÿ?§ò"
-"280";"00:06:00:08";"00:06:02:14";"Er fordert
+278;00:06:00:08;00:06:00:08;FABstfd Er fordert( ( stationäre Grh
+279;00:06:00:08;00:06:00:08;"FABst""enzkontrollen.ÿÿ?§ò"
+280;00:06:00:08;00:06:02:14;"Er fordert
 
 stationÈare Grenzkontrollen."
-"281";"00:06:03:13";"00:06:03:13";"FABstgd Mit einer Grenzkontrolle( ( wäre es Å>"
-"282";"00:06:03:13";"00:06:03:13";"FABst4möglich zurückzuweisen.5<i>4"
-"283";"00:06:03:13";"00:06:07:17";"Mit einer Grenzkontrolle
+281;00:06:03:13;00:06:03:13;FABstgd Mit einer Grenzkontrolle( ( wäre es Å>
+282;00:06:03:13;00:06:03:13;FABst4möglich zurückzuweisen.5<i>4
+283;00:06:03:13;00:06:07:17;"Mit einer Grenzkontrolle
 
 wÈare es mÈoglich zurÈuckzuweisen."
-"284";"00:06:07:19";"00:06:07:19";"FABsthd Das ist präventiv,( ( aber es wî¼"
-"285";"00:06:07:19";"00:06:07:19";"FABst*äre eine Maßnahme,?©t"
-"286";"00:06:07:19";"00:06:11:10";"Das ist prÈaventiv,
+284;00:06:07:19;00:06:07:19;FABsthd Das ist präventiv,( ( aber es wî¼
+285;00:06:07:19;00:06:07:19;FABst*äre eine Maßnahme,?©t
+286;00:06:07:19;00:06:11:10;"Das ist prÈaventiv,
 
 aber es wÈare eine Maûnahme,"
-"287";"00:06:11:12";"00:06:11:12";"FABstid die den Menschen( ( in der RegioN¸"
-"288";"00:06:11:12";"00:06:11:12";"FABst*n das Gefühl gibt,ÿÿ7@Ú"
-"289";"00:06:11:12";"00:06:15:03";"die den Menschen
+287;00:06:11:12;00:06:11:12;FABstid die den Menschen( ( in der RegioN¸
+288;00:06:11:12;00:06:11:12;FABst*n das Gefühl gibt,ÿÿ7@Ú
+289;00:06:11:12;00:06:15:03;"die den Menschen
 
 in der Region das GefÈuhl gibt,"
-"290";"00:06:15:05";"00:06:15:05";"FABstjL dass man die Lage ernst nimmt.ÿÿÒÚ"
-"291";"00:06:15:05";"00:06:17:12";"dass man die Lage ernst nimmt."
-"292";"00:06:18:04";"00:06:18:04";"FABstkRLaut Brandenburger Innenministeriumÿÿv"
-"293";"00:06:18:04";"00:06:20:10";"Laut Brandenburger Innenministerium"
-"294";"00:06:20:12";"00:06:20:12";"FABstldstieg die Zahl der Grenzübertritte( ( Ô>"
-"295";"00:06:20:12";"00:06:20:12";"FABst. zuletzt stark an.ÿÿ3òd"
-"296";"00:06:20:12";"00:06:24:09";"stieg die Zahl der GrenzÈubertritte
+290;00:06:15:05;00:06:15:05;FABstjL dass man die Lage ernst nimmt.ÿÿÒÚ
+291;00:06:15:05;00:06:17:12;dass man die Lage ernst nimmt.
+292;00:06:18:04;00:06:18:04;FABstkRLaut Brandenburger Innenministeriumÿÿv
+293;00:06:18:04;00:06:20:10;Laut Brandenburger Innenministerium
+294;00:06:20:12;00:06:20:12;FABstldstieg die Zahl der Grenzübertritte( ( Ô>
+295;00:06:20:12;00:06:20:12;FABst. zuletzt stark an.ÿÿ3òd
+296;00:06:20:12;00:06:24:09;"stieg die Zahl der GrenzÈubertritte
 
 zuletzt stark an."
-"297";"00:06:25:02";"00:06:25:02";"FABstmTVon 200 im Februar zu 1000 im April.ÿÿ£d"
-"298";"00:06:25:02";"00:06:28:04";"Von 200 im Februar zu 1000 im April."
-"299";"00:06:29:09";"00:06:29:09";"FABstndDie Innenministerin bleibt beim Nein( ( zusb"
-"300";"00:06:29:09";"00:06:29:09";"FABstF fest stationierten Kontrollen. ÿÿÉ"
-"301";"00:06:29:09";"00:06:34:02";"Die Innenministerin bleibt beim Nein
+297;00:06:25:02;00:06:25:02;FABstmTVon 200 im Februar zu 1000 im April.ÿÿ£d
+298;00:06:25:02;00:06:28:04;Von 200 im Februar zu 1000 im April.
+299;00:06:29:09;00:06:29:09;FABstndDie Innenministerin bleibt beim Nein( ( zusb
+300;00:06:29:09;00:06:29:09;FABstF fest stationierten Kontrollen. ÿÿÉ
+301;00:06:29:09;00:06:34:02;"Die Innenministerin bleibt beim Nein
 
 zu fest stationierten Kontrollen."
-"302";"00:06:34:04";"00:06:34:04";"FABstod Faeser will das Personal( ( deæ"
-"303";"00:06:34:04";"00:06:34:04";"FABst$r Bundespolizeiÿÿ=áª"
-"304";"00:06:34:04";"00:06:37:03";"Faeser will das Personal
+302;00:06:34:04;00:06:34:04;FABstod Faeser will das Personal( ( deæ
+303;00:06:34:04;00:06:34:04;FABst$r Bundespolizeiÿÿ=áª
+304;00:06:34:04;00:06:37:03;"Faeser will das Personal
 
 der Bundespolizei"
-"305";"00:06:37:05";"00:06:37:05";"FABstpH an der Grenze aufstocken.ÿÿ¢Æ"
-"306";"00:06:37:05";"00:06:39:00";"an der Grenze aufstocken."
-"307";"00:06:39:02";"00:06:39:02";"FABstqJ Um mehrere Hundertschaften.ÿÿï®"
-"308";"00:06:39:02";"00:06:40:20";"Um mehrere Hundertschaften."
-"309";"00:06:40:22";"00:06:40:22";"FABstrd Und die Zusammenarbeit( ( mit Pm>"
-"310";"00:06:40:22";"00:06:40:22";"FABst(olen verstärken. ÿÿ9J"
-"311";"00:06:40:22";"00:06:43:12";"Und die Zusammenarbeit
+305;00:06:37:05;00:06:37:05;FABstpH an der Grenze aufstocken.ÿÿ¢Æ
+306;00:06:37:05;00:06:39:00;an der Grenze aufstocken.
+307;00:06:39:02;00:06:39:02;FABstqJ Um mehrere Hundertschaften.ÿÿï®
+308;00:06:39:02;00:06:40:20;Um mehrere Hundertschaften.
+309;00:06:40:22;00:06:40:22;FABstrd Und die Zusammenarbeit( ( mit Pm>
+310;00:06:40:22;00:06:40:22;FABst(olen verstärken. ÿÿ9J
+311;00:06:40:22;00:06:43:12;"Und die Zusammenarbeit
 
 mit Polen verstÈarken."
-"312";"00:06:43:17";"00:06:43:17";"FABstsd Wenn man die stationären( ( GrenzkoÛ2"
-"313";"00:06:43:17";"00:06:43:17";"FABst@ntrollen so ins Fenster hängt)Yæ"
-"314";"00:06:43:17";"00:06:47:09";"Wenn man die stationÈaren
+312;00:06:43:17;00:06:43:17;FABstsd Wenn man die stationären( ( GrenzkoÛ2
+313;00:06:43:17;00:06:43:17;FABst@ntrollen so ins Fenster hängt)Yæ
+314;00:06:43:17;00:06:47:09;"Wenn man die stationÈaren
 
 Grenzkontrollen so ins Fenster hÈangt"
-"315";"00:06:47:11";"00:06:47:11";"FABsttPund meint, das würde alles lösen:ëb"
-"316";"00:06:47:11";"00:06:49:12";"und meint, das wÈurde alles lÈosen:"
-"317";"00:06:49:14";"00:06:49:14";"FABstud Das löst Enttäuschung aus, ( ( wenn N¤"
-"318";"00:06:49:14";"00:06:49:14";"FABst6es am Ende nicht so ist.ÿÿ+Ä"
-"319";"00:06:49:14";"00:06:52:22";"Das lÈost EnttÈauschung aus,
+315;00:06:47:11;00:06:47:11;FABsttPund meint, das würde alles lösen:ëb
+316;00:06:47:11;00:06:49:12;und meint, das wÈurde alles lÈosen:
+317;00:06:49:14;00:06:49:14;FABstud Das löst Enttäuschung aus, ( ( wenn N¤
+318;00:06:49:14;00:06:49:14;FABst6es am Ende nicht so ist.ÿÿ+Ä
+319;00:06:49:14;00:06:52:22;"Das lÈost EnttÈauschung aus,
 
 wenn es am Ende nicht so ist."
-"320";"00:06:52:24";"00:06:52:24";"FABstvL Wir müssen Kräfte verstärken,ÿÿ-|"
-"321";"00:06:52:24";"00:06:54:21";"Wir mÈussen KrÈafte verstÈarken,"
-"322";"00:06:54:23";"00:06:54:23";"FABstwd die dafür sorgen,( ( dass der Migþ4"
-"323";"00:06:54:23";"00:06:54:23";"FABst0rationsdruck abnimmt.ÿÿ1Z"
-"324";"00:06:54:23";"00:06:58:02";"die dafÈur sorgen,
+320;00:06:52:24;00:06:52:24;FABstvL Wir müssen Kräfte verstärken,ÿÿ-|
+321;00:06:52:24;00:06:54:21;Wir mÈussen KrÈafte verstÈarken,
+322;00:06:54:23;00:06:54:23;FABstwd die dafür sorgen,( ( dass der Migþ4
+323;00:06:54:23;00:06:54:23;FABst0rationsdruck abnimmt.ÿÿ1Z
+324;00:06:54:23;00:06:58:02;"die dafÈur sorgen,
 
 dass der Migrationsdruck abnimmt."
-"325";"00:06:58:04";"00:06:58:04";"FABstxd Ihre Kritiker scheint das( ( nich\®"
-"326";"00:06:58:04";"00:06:58:04";"FABst0t zufriedenzustellen.ÿÿ12"
-"327";"00:06:58:04";"00:07:01:04";"Ihre Kritiker scheint das
+325;00:06:58:04;00:06:58:04;FABstxd Ihre Kritiker scheint das( ( nich\®
+326;00:06:58:04;00:06:58:04;FABst0t zufriedenzustellen.ÿÿ12
+327;00:06:58:04;00:07:01:04;"Ihre Kritiker scheint das
 
 nicht zufriedenzustellen."
-"328";"00:07:01:06";"00:07:01:06";"FABstyd Darunter( ( der sächsische ©4"
-"329";"00:07:01:06";"00:07:01:06";"FABst"Innenminister.ÿÿ?<"
-"330";"00:07:01:06";"00:07:03:14";"Darunter
+328;00:07:01:06;00:07:01:06;FABstyd Darunter( ( der sächsische ©4
+329;00:07:01:06;00:07:01:06;"FABst""Innenminister.ÿÿ?<"
+330;00:07:01:06;00:07:03:14;"Darunter
 
 der sÈachsische Innenminister."
-"331";"00:07:04:22";"00:07:04:22";"FABstzd Die Bundesregierung( ( hat die Hof("
-"332";"00:07:04:22";"00:07:04:22";"FABst2fnung, dass die Zahlen7Ü."
-"333";"00:07:04:22";"00:07:08:13";"Die Bundesregierung
+331;00:07:04:22;00:07:04:22;FABstzd Die Bundesregierung( ( hat die Hof(
+332;00:07:04:22;00:07:04:22;FABst2fnung, dass die Zahlen7Ü.
+333;00:07:04:22;00:07:08:13;"Die Bundesregierung
 
 hat die Hoffnung, dass die Zahlen"
-"334";"00:07:08:15";"00:07:08:15";"FABst{d an der polnischen Grenze durch( ( die j|<i>"
-"335";"00:07:08:15";"00:07:08:15";"FABstBetzigen Maßnahmen runtergehen.'D"
-"336";"00:07:08:15";"00:07:14:02";"an der polnischen Grenze durch
+334;00:07:08:15;00:07:08:15;FABst{d an der polnischen Grenze durch( ( die j|<i>
+335;00:07:08:15;00:07:08:15;FABstBetzigen Maßnahmen runtergehen.'D
+336;00:07:08:15;00:07:14:02;"an der polnischen Grenze durch
 
 die jetzigen Maûnahmen runtergehen."
-"337";"00:07:16:13";"00:07:16:13";"FABst|L Die Hoffnung teile ich nicht.ÿÿÿÔ"
-"338";"00:07:16:13";"00:07:18:24";"Die Hoffnung teile ich nicht."
-"339";"00:07:20:17";"00:07:20:17";"FABst}dAuch Brandenburgs Ministerpräsident( (  ä"
-"340";"00:07:20:17";"00:07:20:17";"FABst<drängt auf mehr Kontrollen.ÿÿ%="
-"341";"00:07:20:17";"00:07:24:13";"Auch Brandenburgs MinisterprÈasident
+337;00:07:16:13;00:07:16:13;FABst|L Die Hoffnung teile ich nicht.ÿÿÿÔ
+338;00:07:16:13;00:07:18:24;Die Hoffnung teile ich nicht.
+339;00:07:20:17;00:07:20:17;FABst}dAuch Brandenburgs Ministerpräsident( (  ä
+340;00:07:20:17;00:07:20:17;FABst<drängt auf mehr Kontrollen.ÿÿ%=
+341;00:07:20:17;00:07:24:13;"Auch Brandenburgs MinisterprÈasident
 
 drÈangt auf mehr Kontrollen."
-"342";"00:07:24:15";"00:07:24:15";"FABst~J Der Bund sei in der Pflicht.ÿÿÅ"
-"343";"00:07:24:15";"00:07:26:16";"Der Bund sei in der Pflicht."
-"344";"00:07:28:08";"00:07:28:08";"FABstVWenn sich die Lage nicht entschärft,FÞ"
-"345";"00:07:28:08";"00:07:30:24";"Wenn sich die Lage nicht entschÈarft,"
-"346";"00:07:31:01";"00:07:31:01";"FABst<i>d kann das( ( nur ein erster ç"
-"347";"00:07:31:01";"00:07:31:01";"FABst Schritt sein.IÍ:"
-"348";"00:07:31:01";"00:07:33:21";"kann das
+342;00:07:24:15;00:07:24:15;FABst~J Der Bund sei in der Pflicht.ÿÿÅ
+343;00:07:24:15;00:07:26:16;Der Bund sei in der Pflicht.
+344;00:07:28:08;00:07:28:08;FABstVWenn sich die Lage nicht entschärft,FÞ
+345;00:07:28:08;00:07:30:24;Wenn sich die Lage nicht entschÈarft,
+346;00:07:31:01;00:07:31:01;FABst<i>d kann das( ( nur ein erster ç
+347;00:07:31:01;00:07:31:01;FABst Schritt sein.IÍ:
+348;00:07:31:01;00:07:33:21;"kann das
 
 nur ein erster Schritt sein."
-"349";"00:07:34:18";"00:07:34:18";"FABst</i>dSie hat bei den weiteren Schritten( ( îf"
-"350";"00:07:34:18";"00:07:34:18";"FABst<unsere volle Unterstützung.ÿÿ%m*"
-"351";"00:07:34:18";"00:07:38:12";"Sie hat bei den weiteren Schritten
+349;00:07:34:18;00:07:34:18;FABst</i>dSie hat bei den weiteren Schritten( ( îf
+350;00:07:34:18;00:07:34:18;FABst<unsere volle Unterstützung.ÿÿ%m*
+351;00:07:34:18;00:07:38:12;"Sie hat bei den weiteren Schritten
 
 unsere volle UnterstÈutzung."
-"352";"00:07:38:14";"00:07:38:14";"FABst<u>d Die Diskussion um Grenzkontrollen( ( </i>ü"
-"353";"00:07:38:14";"00:07:38:14";"FABst& hält an.ÿÿ;e"
-"354";"00:07:38:14";"00:07:41:13";"Die Diskussion um Grenzkontrollen
+352;00:07:38:14;00:07:38:14;FABst<u>d Die Diskussion um Grenzkontrollen( ( </i>ü
+353;00:07:38:14;00:07:38:14;"FABst& hält an.ÿÿ;e"
+354;00:07:38:14;00:07:41:13;"Die Diskussion um Grenzkontrollen
 
 hÈalt an."
-"355";"00:07:41:15";"00:07:41:15";"FABst</u>d Die Bundesregierung schließt sie( ( als ¶"
-"356";"00:07:41:15";"00:07:41:15";"FABst:letztes Mittel nicht aus. ÿÿ'´"
-"357";"00:07:41:15";"00:07:45:24";"Die Bundesregierung schlieût sie
+355;00:07:41:15;00:07:41:15;FABst</u>d Die Bundesregierung schließt sie( ( als ¶
+356;00:07:41:15;00:07:41:15;FABst:letztes Mittel nicht aus. ÿÿ'´
+357;00:07:41:15;00:07:45:24;"Die Bundesregierung schlieût sie
 
 als letztes Mittel nicht aus."
-"358";"00:07:47:04";"00:07:47:04";"FABstd Wirtschaftsminister Habeck( ( berät am/"
-"359";"00:07:47:04";"00:07:47:04";"FABst8 Abend mit Fachpolitikernÿÿ)Ù"
-"360";"00:07:47:04";"00:07:50:22";"Wirtschaftsminister Habeck
+358;00:07:47:04;00:07:47:04;FABstd Wirtschaftsminister Habeck( ( berät am/
+359;00:07:47:04;00:07:47:04;FABst8 Abend mit Fachpolitikernÿÿ)Ù
+360;00:07:47:04;00:07:50:22;"Wirtschaftsminister Habeck
 
 berÈat am Abend mit Fachpolitikern"
-"361";"00:07:51:00";"00:07:51:00";"FABstd der Ampel-Koalition über einen( ( KompromL"
-"362";"00:07:51:00";"00:07:51:00";"FABst>iss für sein Heizungsgesetz.ÿÿ#E|"
-"363";"00:07:51:00";"00:07:55:11";"der Ampel-Koalition Èuber einen
+361;00:07:51:00;00:07:51:00;FABstd der Ampel-Koalition über einen( ( KompromL
+362;00:07:51:00;00:07:51:00;FABst>iss für sein Heizungsgesetz.ÿÿ#E|
+363;00:07:51:00;00:07:55:11;"der Ampel-Koalition Èuber einen
 
 Kompromiss fÈur sein Heizungsgesetz."
-"364";"00:07:55:21";"00:07:55:21";"FABstd Vor allem bei der FDP( ( beste¹¾"
-"365";"00:07:55:21";"00:07:55:21";"FABst*ht Klärungsbedarf.ÿÿ7J2"
-"366";"00:07:55:21";"00:07:59:04";"Vor allem bei der FDP
+364;00:07:55:21;00:07:55:21;FABstd Vor allem bei der FDP( ( beste¹¾
+365;00:07:55:21;00:07:55:21;FABst*ht Klärungsbedarf.ÿÿ7J2
+366;00:07:55:21;00:07:59:04;"Vor allem bei der FDP
 
 besteht KlÈarungsbedarf."
-"367";"00:07:59:06";"00:07:59:06";"FABstd Der Minister hatte zuletzt( ( ÄnderungE"
-"368";"00:07:59:06";"00:07:59:06";"FABst6en in Aussicht gestellt,ÿÿ+Æä"
-"369";"00:07:59:06";"00:08:02:18";"Der Minister hatte zuletzt
+367;00:07:59:06;00:07:59:06;FABstd Der Minister hatte zuletzt( ( ÄnderungE
+368;00:07:59:06;00:07:59:06;FABst6en in Aussicht gestellt,ÿÿ+Æä
+369;00:07:59:06;00:08:02:18;"Der Minister hatte zuletzt
 
 ÈAnderungen in Aussicht gestellt,"
-"370";"00:08:02:20";"00:08:02:20";"FABstd etwa beim Starttermin für den( ( Austaus!R"
-"371";"00:08:02:20";"00:08:02:20";"FABst>ch von Öl- und Gasheizungen.ÿÿ#v"
-"372";"00:08:02:20";"00:08:07:08";"etwa beim Starttermin fÈur den
+370;00:08:02:20;00:08:02:20;FABstd etwa beim Starttermin für den( ( Austaus!R
+371;00:08:02:20;00:08:02:20;FABst>ch von Öl- und Gasheizungen.ÿÿ#v
+372;00:08:02:20;00:08:07:08;"etwa beim Starttermin fÈur den
 
 Austausch von ÈOl- und Gasheizungen."
-"373";"00:08:08:14";"00:08:08:14";"FABstJ Heizungsgesetz hin oder her.!Ô"
-"374";"00:08:08:14";"00:08:10:10";"Heizungsgesetz hin oder her."
-"375";"00:08:10:12";"00:08:10:12";"FABst
+373;00:08:08:14;00:08:08:14;FABstJ Heizungsgesetz hin oder her.!Ô
+374;00:08:08:14;00:08:10:10;Heizungsgesetz hin oder her.
+375;00:08:10:12;00:08:10:12;"FABst
 d Hier in Halle ist entschieden:( ( In dieL"
-"376";"00:08:10:12";"00:08:10:12";"FABstDses Haus kommt eine Wärmepumpe.%>Ê"
-"377";"00:08:10:12";"00:08:14:10";"Hier in Halle ist entschieden:
+376;00:08:10:12;00:08:10:12;FABstDses Haus kommt eine Wärmepumpe.%>Ê
+377;00:08:10:12;00:08:14:10;"Hier in Halle ist entschieden:
 
 In dieses Haus kommt eine WÈarmepumpe."
-"378";"00:08:14:12";"00:08:14:12";"FABstdEndlich, denn die Wartezeiten dafür( ( )ô"
-"379";"00:08:14:12";"00:08:14:12";"FABst* sind lang.ÿÿ7êv"
-"380";"00:08:14:12";"00:08:17:05";"Endlich, denn die Wartezeiten dafÈur
+378;00:08:14:12;00:08:14:12;FABstdEndlich, denn die Wartezeiten dafür( ( )ô
+379;00:08:14:12;00:08:14:12;FABst* sind lang.ÿÿ7êv
+380;00:08:14:12;00:08:17:05;"Endlich, denn die Wartezeiten dafÈur
 
 sind lang."
-"381";"00:08:18:02";"00:08:18:02";"FABstL Es klemmt an den Lieferzeiten.\ª"
-"382";"00:08:18:02";"00:08:20:10";"Es klemmt an den Lieferzeiten."
-"383";"00:08:21:20";"00:08:21:20";"FABstd Man braucht ein Dreiviertel( ( ®ì"
-"384";"00:08:21:20";"00:08:21:20";"FABst& bis ein Jahr,Cºä"
-"385";"00:08:21:20";"00:08:24:07";"Man braucht ein Dreiviertel
+381;00:08:18:02;00:08:18:02;FABstL Es klemmt an den Lieferzeiten.\ª
+382;00:08:18:02;00:08:20:10;Es klemmt an den Lieferzeiten.
+383;00:08:21:20;00:08:21:20;FABstd Man braucht ein Dreiviertel( ( ®ì
+384;00:08:21:20;00:08:21:20;FABst& bis ein Jahr,Cºä
+385;00:08:21:20;00:08:24:07;"Man braucht ein Dreiviertel
 
 bis ein Jahr,"
-"386";"00:08:24:10";"00:08:24:10";"FABstJ um so ein Teil zu bekommen.ÿÿJø"
-"387";"00:08:24:10";"00:08:26:01";"um so ein Teil zu bekommen."
-"388";"00:08:26:06";"00:08:26:06";"FABstd Wie schnell klappt der Abschied( ( v´¶"
-"389";"00:08:26:06";"00:08:26:06";"FABst6on Öl- und Gasheizungen?ÿÿ+:4"
-"390";"00:08:26:06";"00:08:29:16";"Wie schnell klappt der Abschied
+386;00:08:24:10;00:08:24:10;FABstJ um so ein Teil zu bekommen.ÿÿJø
+387;00:08:24:10;00:08:26:01;um so ein Teil zu bekommen.
+388;00:08:26:06;00:08:26:06;FABstd Wie schnell klappt der Abschied( ( v´¶
+389;00:08:26:06;00:08:26:06;FABst6on Öl- und Gasheizungen?ÿÿ+:4
+390;00:08:26:06;00:08:29:16;"Wie schnell klappt der Abschied
 
 von ÈOl- und Gasheizungen?"
-"391";"00:08:29:18";"00:08:29:18";"FABstTDarüber will der WirtschaftsministerÿÿèN"
-"392";"00:08:29:18";"00:08:31:22";"DarÈuber will der Wirtschaftsminister"
-"393";"00:08:31:24";"00:08:31:24";"FABstd am Abend mit Vertretern( ( von SPD, Gâ"
-"394";"00:08:31:24";"00:08:31:24";"FABst:rünen und FDP diskutieren.ÿÿ'Yf"
-"395";"00:08:31:24";"00:08:35:12";"am Abend mit Vertretern
+391;00:08:29:18;00:08:29:18;FABstTDarüber will der WirtschaftsministerÿÿèN
+392;00:08:29:18;00:08:31:22;DarÈuber will der Wirtschaftsminister
+393;00:08:31:24;00:08:31:24;FABstd am Abend mit Vertretern( ( von SPD, Gâ
+394;00:08:31:24;00:08:31:24;FABst:rünen und FDP diskutieren.ÿÿ'Yf
+395;00:08:31:24;00:08:35:12;"am Abend mit Vertretern
 
 von SPD, GrÈunen und FDP diskutieren."
-"396";"00:08:35:14";"00:08:35:14";"FABstPUnd ist offenbar kompromissbereit.ÿÿp"
-"397";"00:08:35:14";"00:08:37:17";"Und ist offenbar kompromissbereit."
-"398";"00:08:37:19";"00:08:37:19";"FABstRSo hat Habeck in Aussicht gestellt,ÿÿu´"
-"399";"00:08:37:19";"00:08:39:23";"So hat Habeck in Aussicht gestellt,"
-"400";"00:08:40:00";"00:08:40:00";"FABstddass der Start des Heizungsgesetzes( ( ú"
-"401";"00:08:40:00";"00:08:40:00";"FABst0 gestaffelt wird.ÿÿ1Ó¼"
-"402";"00:08:40:00";"00:08:43:17";"dass der Start des Heizungsgesetzes
+396;00:08:35:14;00:08:35:14;FABstPUnd ist offenbar kompromissbereit.ÿÿp
+397;00:08:35:14;00:08:37:17;Und ist offenbar kompromissbereit.
+398;00:08:37:19;00:08:37:19;FABstRSo hat Habeck in Aussicht gestellt,ÿÿu´
+399;00:08:37:19;00:08:39:23;So hat Habeck in Aussicht gestellt,
+400;00:08:40:00;00:08:40:00;FABstddass der Start des Heizungsgesetzes( ( ú
+401;00:08:40:00;00:08:40:00;FABst0 gestaffelt wird.ÿÿ1Ó¼
+402;00:08:40:00;00:08:43:17;"dass der Start des Heizungsgesetzes
 
 gestaffelt wird."
-"403";"00:08:55:21";"00:08:55:21";"FABstd Vor allem die FDP ( ( hatte öH"
-"404";"00:08:55:21";"00:08:55:21";"FABst"Druck gemacht.ÿÿ?Äx"
-"405";"00:08:55:21";"00:08:58:06";"Vor allem die FDP
+403;00:08:55:21;00:08:55:21;FABstd Vor allem die FDP ( ( hatte öH
+404;00:08:55:21;00:08:55:21;"FABst""Druck gemacht.ÿÿ?Äx"
+405;00:08:55:21;00:08:58:06;"Vor allem die FDP
 
 hatte Druck gemacht."
-"406";"00:08:58:08";"00:08:58:08";"FABstd Sie fordert,( ( das Gesetz z¸Â"
-"407";"00:08:58:08";"00:08:58:08";"FABst$u überarbeiten.ÿÿ=4"
-"408";"00:08:58:08";"00:09:01:08";"Sie fordert,
+406;00:08:58:08;00:08:58:08;FABstd Sie fordert,( ( das Gesetz z¸Â
+407;00:08:58:08;00:08:58:08;FABst$u überarbeiten.ÿÿ=4
+408;00:08:58:08;00:09:01:08;"Sie fordert,
 
 das Gesetz zu Èuberarbeiten."
-"409";"00:09:02:17";"00:09:02:17";"FABstL Wir müssen auf Anreize setzen.Æl"
-"410";"00:09:02:17";"00:09:04:16";"Wir mÈussen auf Anreize setzen."
-"411";"00:09:04:18";"00:09:04:18";"FABstd Wir müssen dafür sorgen,( ( dass die×"
-"412";"00:09:04:18";"00:09:04:18";"FABst2 Menschen entscheiden,7<i>L"
-"413";"00:09:04:18";"00:09:07:24";"Wir mÈussen dafÈur sorgen,
+409;00:09:02:17;00:09:02:17;FABstL Wir müssen auf Anreize setzen.Æl
+410;00:09:02:17;00:09:04:16;Wir mÈussen auf Anreize setzen.
+411;00:09:04:18;00:09:04:18;FABstd Wir müssen dafür sorgen,( ( dass die×
+412;00:09:04:18;00:09:04:18;FABst2 Menschen entscheiden,7<i>L
+413;00:09:04:18;00:09:07:24;"Wir mÈussen dafÈur sorgen,
 
 dass die Menschen entscheiden,"
-"414";"00:09:08:01";"00:09:08:01";"FABstd welche Heizung( ( sie einbauen"
-"415";"00:09:08:01";"00:09:08:01";"FABst(und welche nicht.ÿÿ9Å®"
-"416";"00:09:08:01";"00:09:10:16";"welche Heizung
+414;00:09:08:01;00:09:08:01;FABstd welche Heizung( ( sie einbauen
+415;00:09:08:01;00:09:08:01;FABst(und welche nicht.ÿÿ9Å®
+416;00:09:08:01;00:09:10:16;"welche Heizung
 
 sie einbauen und welche nicht."
-"417";"00:09:10:18";"00:09:10:18";"FABstd Das muss man( ( über den Pre("
-"418";"00:09:10:18";"00:09:10:18";"FABst eis gestaltenÿÿA¤r"
-"419";"00:09:10:18";"00:09:12:22";"Das muss man
+417;00:09:10:18;00:09:10:18;FABstd Das muss man( ( über den Pre(
+418;00:09:10:18;00:09:10:18;FABst eis gestaltenÿÿA¤r
+419;00:09:10:18;00:09:12:22;"Das muss man
 
 Èuber den Preis gestalten"
-"420";"00:09:12:24";"00:09:12:24";"FABstF und nicht über Verbote.ÿÿÑ"
-"421";"00:09:12:24";"00:09:14:17";"und nicht Èuber Verbote."
-"422";"00:09:17:15";"00:09:17:15";"FABstd Die Grünen( ( werfen der FDPCô"
-"423";"00:09:17:15";"00:09:17:15";"FABst$ Wortbruch vor.ÿÿ=á"
-"424";"00:09:17:15";"00:09:20:01";"Die GrÈunen
+420;00:09:12:24;00:09:12:24;FABstF und nicht über Verbote.ÿÿÑ
+421;00:09:12:24;00:09:14:17;und nicht Èuber Verbote.
+422;00:09:17:15;00:09:17:15;FABstd Die Grünen( ( werfen der FDPCô
+423;00:09:17:15;00:09:17:15;FABst$ Wortbruch vor.ÿÿ=á
+424;00:09:17:15;00:09:20:01;"Die GrÈunen
 
 werfen der FDP Wortbruch vor."
-"425";"00:09:20:03";"00:09:20:03";"FABstJ Man sei sich einig gewesen,ÿÿ%à"
-"426";"00:09:20:03";"00:09:21:20";"Man sei sich einig gewesen,"
-"427";"00:09:21:22";"00:09:21:22";"FABstd das Gesetz vor der Sommerpause( ( au°f"
-"428";"00:09:21:22";"00:09:21:22";"FABst0f den Weg zu bringen.ÿÿ1ê"
-"429";"00:09:21:22";"00:09:25:02";"das Gesetz vor der Sommerpause
+425;00:09:20:03;00:09:20:03;FABstJ Man sei sich einig gewesen,ÿÿ%à
+426;00:09:20:03;00:09:21:20;Man sei sich einig gewesen,
+427;00:09:21:22;00:09:21:22;FABstd das Gesetz vor der Sommerpause( ( au°f
+428;00:09:21:22;00:09:21:22;FABst0f den Weg zu bringen.ÿÿ1ê
+429;00:09:21:22;00:09:25:02;"das Gesetz vor der Sommerpause
 
 auf den Weg zu bringen."
-"430";"00:09:25:21";"00:09:25:21";"FABstd Es ist ärgerlich, dass wir( ( in einB"
-"431";"00:09:25:21";"00:09:25:21";"FABstBer blockierten Situation sind.'ºÄ"
-"432";"00:09:25:21";"00:09:29:19";"Es ist Èargerlich, dass wir
+430;00:09:25:21;00:09:25:21;FABstd Es ist ärgerlich, dass wir( ( in einB
+431;00:09:25:21;00:09:25:21;FABstBer blockierten Situation sind.'ºÄ
+432;00:09:25:21;00:09:29:19;"Es ist Èargerlich, dass wir
 
 in einer blockierten Situation sind."
-"433";"00:09:29:21";"00:09:29:21";"FABst d Die FDP muss den Schritt machen,( ( dasï¦"
-"434";"00:09:29:21";"00:09:29:21";"FABstHs wir wieder handlungsfähig sind.!<"
-"435";"00:09:29:21";"00:09:33:21";"Die FDP muss den Schritt machen,
+433;00:09:29:21;00:09:29:21;FABst d Die FDP muss den Schritt machen,( ( dasï¦
+434;00:09:29:21;00:09:29:21;FABstHs wir wieder handlungsfähig sind.!<
+435;00:09:29:21;00:09:33:21;"Die FDP muss den Schritt machen,
 
 dass wir wieder handlungsfÈahig sind."
-"436";"00:09:35:06";"00:09:35:06";"FABst¡RTrotz einer verfahrenden Situation:ÿÿk°"
-"437";"00:09:35:06";"00:09:37:15";"Trotz einer verfahrenden Situation:"
-"438";"00:09:37:17";"00:09:37:17";"FABst¢d Ein Machtwort des Kanzlers ( ( nicht nö-à"
-"439";"00:09:37:17";"00:09:37:17";"FABst:tig, heißt es aus der SPD.ÿÿ'""
-"440";"00:09:37:17";"00:09:41:11";"Ein Machtwort des Kanzlers Ð
+436;00:09:35:06;00:09:35:06;FABst¡RTrotz einer verfahrenden Situation:ÿÿk°
+437;00:09:35:06;00:09:37:15;Trotz einer verfahrenden Situation:
+438;00:09:37:17;00:09:37:17;FABst¢d Ein Machtwort des Kanzlers ( ( nicht nö-à
+439;00:09:37:17;00:09:37:17;"FABst:tig, heißt es aus der SPD.ÿÿ'"""
+440;00:09:37:17;00:09:41:11;"Ein Machtwort des Kanzlers Ð
 
 nicht nÈotig, heiût es aus der SPD."
-"441";"00:09:42:13";"00:09:42:13";"FABst£d Das ist Pseudostärke, ( ( wenn ePð"
-"442";"00:09:42:13";"00:09:42:13";"FABst*in Regierungschef,?ÏØ"
-"443";"00:09:42:13";"00:09:45:08";"Das ist PseudostÈarke,
+441;00:09:42:13;00:09:42:13;FABst£d Das ist Pseudostärke, ( ( wenn ePð
+442;00:09:42:13;00:09:42:13;FABst*in Regierungschef,?ÏØ
+443;00:09:42:13;00:09:45:08;"Das ist PseudostÈarke,
 
 wenn ein Regierungschef,"
-"444";"00:09:45:10";"00:09:45:10";"FABst¤dum zu zeigen, was er für ein toller( ( Fd"
-"445";"00:09:45:10";"00:09:45:10";"FABstDHengst ist, auf den Tisch haut.%¦"
-"446";"00:09:45:10";"00:09:49:10";"um zu zeigen, was er fÈur ein toller
+444;00:09:45:10;00:09:45:10;FABst¤dum zu zeigen, was er für ein toller( ( Fd
+445;00:09:45:10;00:09:45:10;FABstDHengst ist, auf den Tisch haut.%¦
+446;00:09:45:10;00:09:49:10;"um zu zeigen, was er fÈur ein toller
 
 Hengst ist, auf den Tisch haut."
-"447";"00:09:49:12";"00:09:49:12";"FABst¥dModerne Führung besteht nicht darin,( ( I"
-"448";"00:09:49:12";"00:09:49:12";"FABst< der Lauteste zu sein.ÿÿ%¼â"
-"449";"00:09:49:12";"00:09:52:21";"Moderne FÈuhrung besteht nicht darin,
+447;00:09:49:12;00:09:49:12;FABst¥dModerne Führung besteht nicht darin,( ( I
+448;00:09:49:12;00:09:49:12;FABst< der Lauteste zu sein.ÿÿ%¼â
+449;00:09:49:12;00:09:52:21;"Moderne FÈuhrung besteht nicht darin,
 
 der Lauteste zu sein."
-"450";"00:09:52:23";"00:09:52:23";"FABst¦@ Die Ampel-Parteien%5"
-"451";"00:09:52:23";"00:09:54:03";"Die Ampel-Parteien"
-"452";"00:09:54:05";"00:09:54:05";"FABst§dringen um einen gesichtswahrenden( ( Wóp"
-"453";"00:09:54:05";"00:09:54:05";"FABst:eg aus dem Heizungsstreit./ÖÔ"
-"454";"00:09:54:05";"00:09:57:20";"ringen um einen gesichtswahrenden
+450;00:09:52:23;00:09:52:23;FABst¦@ Die Ampel-Parteien%5
+451;00:09:52:23;00:09:54:03;Die Ampel-Parteien
+452;00:09:54:05;00:09:54:05;FABst§dringen um einen gesichtswahrenden( ( Wóp
+453;00:09:54:05;00:09:54:05;FABst:eg aus dem Heizungsstreit./ÖÔ
+454;00:09:54:05;00:09:57:20;"ringen um einen gesichtswahrenden
 
 Weg aus dem Heizungsstreit."
-"455";"00:09:57:22";"00:09:57:22";"FABst¨d Beim Treffen am Abend wird( ( der KnÊ`"
-"456";"00:09:57:22";"00:09:57:22";"FABstBoten nicht zerschlagen werden.ÿÿ­"
-"457";"00:09:57:22";"00:10:01:14";"Beim Treffen am Abend wird
+455;00:09:57:22;00:09:57:22;FABst¨d Beim Treffen am Abend wird( ( der KnÊ`
+456;00:09:57:22;00:09:57:22;FABstBoten nicht zerschlagen werden.ÿÿ­
+457;00:09:57:22;00:10:01:14;"Beim Treffen am Abend wird
 
 der Knoten nicht zerschlagen werden."
-"458";"00:10:01:16";"00:10:01:16";"FABst©d Im Laufe der Woche( ( soll es weitá<u>"
-"459";"00:10:01:16";"00:10:01:16";"FABst.ere Gespräche geben.ÿÿ32"
-"460";"00:10:01:16";"00:10:04:16";"Im Laufe der Woche
+458;00:10:01:16;00:10:01:16;FABst©d Im Laufe der Woche( ( soll es weitá<u>
+459;00:10:01:16;00:10:01:16;FABst.ere Gespräche geben.ÿÿ32
+460;00:10:01:16;00:10:04:16;"Im Laufe der Woche
 
 soll es weitere GesprÈache geben."
-"461";"00:10:04:18";"00:10:04:18";"FABstªd Soll das Gesetz ab 2024( ( i</u>&"
-"462";"00:10:04:18";"00:10:04:18";"FABst$n Kraft treten,ÿÿ=à6"
-"463";"00:10:04:18";"00:10:07:01";"Soll das Gesetz ab 2024
+461;00:10:04:18;00:10:04:18;FABstªd Soll das Gesetz ab 2024( ( i</u>&
+462;00:10:04:18;00:10:04:18;FABst$n Kraft treten,ÿÿ=à6
+463;00:10:04:18;00:10:07:01;"Soll das Gesetz ab 2024
 
 in Kraft treten,"
-"464";"00:10:07:03";"00:10:07:03";"FABst«Vist eine zeitnahe Einigung zwingend.ÿÿlÐ"
-"465";"00:10:07:03";"00:10:09:06";"ist eine zeitnahe Einigung zwingend."
-"466";"00:10:10:03";"00:10:10:03";"FABst¬dDie Schlüsselfigur im Cum-Ex-Skandal,( ( BeJR"
-"467";"00:10:10:03";"00:10:10:03";"FABstJrger, ist in einem zweiten Prozessÿÿv"
-"468";"00:10:10:03";"00:10:14:11";"Die SchlÈusselfigur im Cum-Ex-Skandal,
+464;00:10:07:03;00:10:07:03;FABst«Vist eine zeitnahe Einigung zwingend.ÿÿlÐ
+465;00:10:07:03;00:10:09:06;ist eine zeitnahe Einigung zwingend.
+466;00:10:10:03;00:10:10:03;FABst¬dDie Schlüsselfigur im Cum-Ex-Skandal,( ( BeJR
+467;00:10:10:03;00:10:10:03;FABstJrger, ist in einem zweiten Prozessÿÿv
+468;00:10:10:03;00:10:14:11;"Die SchlÈusselfigur im Cum-Ex-Skandal,
 
 Berger, ist in einem zweiten Prozess"
-"469";"00:10:14:13";"00:10:14:13";"FABst­dzu einer Haftstrafe von acht Jahren( ( und Àî"
-"470";"00:10:14:13";"00:10:14:13";"FABstDdrei Monaten verurteilt worden.ÿÿñ<i>"
-"471";"00:10:14:13";"00:10:18:16";"zu einer Haftstrafe von acht Jahren
+469;00:10:14:13;00:10:14:13;FABst­dzu einer Haftstrafe von acht Jahren( ( und Àî
+470;00:10:14:13;00:10:14:13;FABstDdrei Monaten verurteilt worden.ÿÿñ<i>
+471;00:10:14:13;00:10:18:16;"zu einer Haftstrafe von acht Jahren
 
 und drei Monaten verurteilt worden."
-"472";"00:10:18:18";"00:10:18:18";"FABst®H Das Landgericht Wiesbadenÿÿe¬"
-"473";"00:10:18:18";"00:10:20:08";"Das Landgericht Wiesbaden"
-"474";"00:10:20:10";"00:10:20:10";"FABst¯dsprach den 72-Jährigen in drei Fällen( ( wò"
-"475";"00:10:20:10";"00:10:20:10";"FABstJegen Steuerhinterziehung schuldig.ÿÿÒ"
-"476";"00:10:20:10";"00:10:24:17";"sprach den 72-JÈahrigen in drei FÈallen
+472;00:10:18:18;00:10:18:18;FABst®H Das Landgericht Wiesbadenÿÿe¬
+473;00:10:18:18;00:10:20:08;Das Landgericht Wiesbaden
+474;00:10:20:10;00:10:20:10;FABst¯dsprach den 72-Jährigen in drei Fällen( ( wò
+475;00:10:20:10;00:10:20:10;FABstJegen Steuerhinterziehung schuldig.ÿÿÒ
+476;00:10:20:10;00:10:24:17;"sprach den 72-JÈahrigen in drei FÈallen
 
 wegen Steuerhinterziehung schuldig."
-"477";"00:10:24:19";"00:10:24:19";"FABst°d Berger gilt als der Architekt( ( der ko"
-"478";"00:10:24:19";"00:10:24:19";"FABstDmplexen Cum-Ex-Aktiengeschäfte,ÿÿlä"
-"479";"00:10:24:19";"00:10:28:20";"Berger gilt als der Architekt
+477;00:10:24:19;00:10:24:19;FABst°d Berger gilt als der Architekt( ( der ko
+478;00:10:24:19;00:10:24:19;FABstDmplexen Cum-Ex-Aktiengeschäfte,ÿÿlä
+479;00:10:24:19;00:10:28:20;"Berger gilt als der Architekt
 
 der komplexen Cum-Ex-AktiengeschÈafte,"
-"480";"00:10:28:22";"00:10:28:22";"FABst±d bei denen nie gezahlte Steuern( ( in Mill<u>"
-"481";"00:10:28:22";"00:10:28:22";"FABst<i>onenhöhe erstattet wurden.ÿÿ%Uf"
-"482";"00:10:28:22";"00:10:32:20";"bei denen nie gezahlte Steuern
+480;00:10:28:22;00:10:28:22;FABst±d bei denen nie gezahlte Steuern( ( in Mill<u>
+481;00:10:28:22;00:10:28:22;FABst<i>onenhöhe erstattet wurden.ÿÿ%Uf
+482;00:10:28:22;00:10:32:20;"bei denen nie gezahlte Steuern
 
 in MillionenhÈohe erstattet wurden."
-"483";"00:10:32:23";"00:10:32:23";"FABst²d Berger wurde bereits ( ( in ei¤0"
-"484";"00:10:32:23";"00:10:32:23";"FABst*nem ersten Prozessÿÿ7ßî"
-"485";"00:10:32:23";"00:10:35:13";"Berger wurde bereits
+483;00:10:32:23;00:10:32:23;FABst²d Berger wurde bereits ( ( in ei¤0
+484;00:10:32:23;00:10:32:23;FABst*nem ersten Prozessÿÿ7ßî
+485;00:10:32:23;00:10:35:13;"Berger wurde bereits
 
 in einem ersten Prozess"
-"486";"00:10:35:15";"00:10:35:15";"FABst³N zu acht Jahren Haft verurteilt.ÿÿ/x"
-"487";"00:10:35:15";"00:10:37:11";"zu acht Jahren Haft verurteilt."
-"488";"00:10:37:13";"00:10:37:13";"FABst´d In beiden Verfahren( ( ist Rît"
-"489";"00:10:37:13";"00:10:37:13";"FABst&evision möglich.ÿÿ;mv"
-"490";"00:10:37:13";"00:10:39:23";"In beiden Verfahren
+486;00:10:35:15;00:10:35:15;FABst³N zu acht Jahren Haft verurteilt.ÿÿ/x
+487;00:10:35:15;00:10:37:11;zu acht Jahren Haft verurteilt.
+488;00:10:37:13;00:10:37:13;FABst´d In beiden Verfahren( ( ist Rît
+489;00:10:37:13;00:10:37:13;"FABst&evision möglich.ÿÿ;mv"
+490;00:10:37:13;00:10:39:23;"In beiden Verfahren
 
 ist Revision mÈoglich."
-"491";"00:10:41:10";"00:10:41:10";"FABstµd Der Iran hat zwei Journalistinnen( ( ôÀ"
-"492";"00:10:41:10";"00:10:41:10";"FABst4vor Gericht gestellt,ÿÿ-á"
-"493";"00:10:41:10";"00:10:44:18";"Der Iran hat zwei Journalistinnen
+491;00:10:41:10;00:10:41:10;FABstµd Der Iran hat zwei Journalistinnen( ( ôÀ
+492;00:10:41:10;00:10:41:10;FABst4vor Gericht gestellt,ÿÿ-á
+493;00:10:41:10;00:10:44:18;"Der Iran hat zwei Journalistinnen
 
 vor Gericht gestellt,"
-"494";"00:10:44:20";"00:10:44:20";"FABst¶d die über den Fall Amini( ( b,"
-"495";"00:10:44:20";"00:10:44:20";"FABst$erichtet haben.ÿÿ=
+494;00:10:44:20;00:10:44:20;FABst¶d die über den Fall Amini( ( b,
+495;00:10:44:20;00:10:44:20;"FABst$erichtet haben.ÿÿ=
 L"
-"496";"00:10:44:20";"00:10:47:05";"die Èuber den Fall Amini
+496;00:10:44:20;00:10:47:05;"die Èuber den Fall Amini
 
 berichtet haben."
-"497";"00:10:47:08";"00:10:47:08";"FABst·dNilufar Hamedi und Elaheh Mohammadi( ( ÒÐ"
-"498";"00:10:47:08";"00:10:47:08";"FABst6zählten zu den Ersten,ÿÿ+B"
-"499";"00:10:47:08";"00:10:50:19";"Nilufar Hamedi und Elaheh Mohammadi
+497;00:10:47:08;00:10:47:08;FABst·dNilufar Hamedi und Elaheh Mohammadi( ( ÒÐ
+498;00:10:47:08;00:10:47:08;FABst6zählten zu den Ersten,ÿÿ+B
+499;00:10:47:08;00:10:50:19;"Nilufar Hamedi und Elaheh Mohammadi
 
 zÈahlten zu den Ersten,"
-"500";"00:10:50:21";"00:10:50:21";"FABst¸d die den Tod der jungen Kurdin( ( ½"
-"501";"00:10:50:21";"00:10:50:21";"FABst.öffentlich machten.ÿÿ3$"
-"502";"00:10:50:21";"00:10:54:05";"die den Tod der jungen Kurdin
+500;00:10:50:21;00:10:50:21;FABst¸d die den Tod der jungen Kurdin( ( ½
+501;00:10:50:21;00:10:50:21;FABst.öffentlich machten.ÿÿ3$
+502;00:10:50:21;00:10:54:05;"die den Tod der jungen Kurdin
 
 Èoffentlich machten."
-"503";"00:10:54:11";"00:10:54:11";"FABst¹d Deshalb sitzen sie( ( seit MonÜ²"
-"504";"00:10:54:11";"00:10:54:11";"FABst(aten im Gefängnisÿÿ9;¨"
-"505";"00:10:54:11";"00:10:57:03";"Deshalb sitzen sie
+503;00:10:54:11;00:10:54:11;FABst¹d Deshalb sitzen sie( ( seit MonÜ²
+504;00:10:54:11;00:10:54:11;"FABst(aten im Gefängnisÿÿ9;¨"
+505;00:10:54:11;00:10:57:03;"Deshalb sitzen sie
 
 seit Monaten im GefÈangnis"
-"506";"00:10:57:05";"00:10:57:05";"FABstºd und werden der Propaganda ( ( gegen ñ<u>"
-"507";"00:10:57:05";"00:10:57:05";"FABst2den Staat beschuldigt.ÿÿ/<u>"
-"508";"00:10:57:05";"00:11:00:14";"und werden der Propaganda
+506;00:10:57:05;00:10:57:05;FABstºd und werden der Propaganda ( ( gegen ñ<u>
+507;00:10:57:05;00:10:57:05;FABst2den Staat beschuldigt.ÿÿ/<u>
+508;00:10:57:05;00:11:00:14;"und werden der Propaganda
 
 gegen den Staat beschuldigt."
-"509";"00:11:00:16";"00:11:00:16";"FABst»d Amini war 2022 im Iran( ( in Polizeºú"
-"510";"00:11:00:16";"00:11:00:16";"FABst0igewahrsam gestorben.ÿÿ1d"
-"511";"00:11:00:16";"00:11:04:07";"Amini war 2022 im Iran
+509;00:11:00:16;00:11:00:16;FABst»d Amini war 2022 im Iran( ( in Polizeºú
+510;00:11:00:16;00:11:00:16;FABst0igewahrsam gestorben.ÿÿ1d
+511;00:11:00:16;00:11:04:07;"Amini war 2022 im Iran
 
 in Polizeigewahrsam gestorben."
-"512";"00:11:04:20";"00:11:04:20";"FABst¼d Ihr Tod hatte eine Welle( ( der Pþ"
-"513";"00:11:04:20";"00:11:04:20";"FABst,roteste ausgelöst. ÿÿ5LÔ"
-"514";"00:11:04:20";"00:11:08:02";"Ihr Tod hatte eine Welle
+512;00:11:04:20;00:11:04:20;FABst¼d Ihr Tod hatte eine Welle( ( der Pþ
+513;00:11:04:20;00:11:04:20;FABst,roteste ausgelöst. ÿÿ5LÔ
+514;00:11:04:20;00:11:08:02;"Ihr Tod hatte eine Welle
 
 der Proteste ausgelÈost."
-"515";"00:11:09:18";"00:11:09:18";"FABst½F Iran im September 2022.gø"
-"516";"00:11:09:18";"00:11:11:15";"Iran im September 2022."
-"517";"00:11:12:01";"00:11:12:01";"FABst¾d Auf den Straßen protestieren( ( TausendeCú"
-"518";"00:11:12:01";"00:11:12:01";"FABst< Menschen gegen das Regime.-Û8"
-"519";"00:11:12:01";"00:11:15:24";"Auf den Straûen protestieren
+515;00:11:09:18;00:11:09:18;FABst½F Iran im September 2022.gø
+516;00:11:09:18;00:11:11:15;Iran im September 2022.
+517;00:11:12:01;00:11:12:01;FABst¾d Auf den Straßen protestieren( ( TausendeCú
+518;00:11:12:01;00:11:12:01;FABst< Menschen gegen das Regime.-Û8
+519;00:11:12:01;00:11:15:24;"Auf den Straûen protestieren
 
 Tausende Menschen gegen das Regime."
-"520";"00:11:16:01";"00:11:16:01";"FABst¿R"Nieder mit den Mullahs" rufen sie.ÿÿtð"
-"521";"00:11:16:01";"00:11:18:05";""Nieder mit den Mullahs" rufen sie."
-"522";"00:11:18:07";"00:11:18:07";"FABstÀd Eine landesweite Protestwelle( ( §"
-"523";"00:11:18:07";"00:11:18:07";"FABst,nimmt ihren Lauf.ÿÿ5ï¼"
-"524";"00:11:18:07";"00:11:21:01";"Eine landesweite Protestwelle
+520;00:11:16:01;00:11:16:01;"FABst¿R""Nieder mit den Mullahs"" rufen sie.ÿÿtð"
+521;00:11:16:01;00:11:18:05;"""Nieder mit den Mullahs"" rufen sie."
+522;00:11:18:07;00:11:18:07;FABstÀd Eine landesweite Protestwelle( ( §
+523;00:11:18:07;00:11:18:07;FABst,nimmt ihren Lauf.ÿÿ5ï¼
+524;00:11:18:07;00:11:21:01;"Eine landesweite Protestwelle
 
 nimmt ihren Lauf."
-"525";"00:11:21:03";"00:11:21:03";"FABstÁd Auslöser ist ihr Tod:( ( Ji"
-"526";"00:11:21:03";"00:11:21:03";"FABst$na Mahsa Amini.ÿÿ=Á¤"
-"527";"00:11:21:03";"00:11:23:21";"AuslÈoser ist ihr Tod:
+525;00:11:21:03;00:11:21:03;FABstÁd Auslöser ist ihr Tod:( ( Ji
+526;00:11:21:03;00:11:21:03;FABst$na Mahsa Amini.ÿÿ=Á¤
+527;00:11:21:03;00:11:23:21;"AuslÈoser ist ihr Tod:
 
 Jina Mahsa Amini."
-"528";"00:11:23:22";"00:11:23:22";"FABstÂd Die 22-Jährige stirbt nach ihrer( ( Festnaº"
-"529";"00:11:23:22";"00:11:23:22";"FABst>hme durch die Sittenpolizei.ÿÿ#Ãº"
-"530";"00:11:23:22";"00:11:28:09";"Die 22-JÈahrige stirbt nach ihrer
+528;00:11:23:22;00:11:23:22;FABstÂd Die 22-Jährige stirbt nach ihrer( ( Festnaº
+529;00:11:23:22;00:11:23:22;FABst>hme durch die Sittenpolizei.ÿÿ#Ãº
+530;00:11:23:22;00:11:28:09;"Die 22-JÈahrige stirbt nach ihrer
 
 Festnahme durch die Sittenpolizei."
-"531";"00:11:29:13";"00:11:29:13";"FABstÃd Dass die Welt davon erfährt,( ( lieg1¶"
-"532";"00:11:29:13";"00:11:29:13";"FABst2t auch an diesem Bild:ÿÿ/"
-"533";"00:11:29:13";"00:11:33:08";"Dass die Welt davon erfÈahrt,
+531;00:11:29:13;00:11:29:13;FABstÃd Dass die Welt davon erfährt,( ( lieg1¶
+532;00:11:29:13;00:11:29:13;FABst2t auch an diesem Bild:ÿÿ/
+533;00:11:29:13;00:11:33:08;"Dass die Welt davon erfÈahrt,
 
 liegt auch an diesem Bild:"
-"534";"00:11:33:10";"00:11:33:10";"FABstÄd Es zeigt ihre trauernden Eltern( ( ¶n"
-"535";"00:11:33:10";"00:11:33:10";"FABst, im Krankenhaus.ÿÿ5§V"
-"536";"00:11:33:10";"00:11:36:07";"Es zeigt ihre trauernden Eltern
+534;00:11:33:10;00:11:33:10;FABstÄd Es zeigt ihre trauernden Eltern( ( ¶n
+535;00:11:33:10;00:11:33:10;FABst, im Krankenhaus.ÿÿ5§V
+536;00:11:33:10;00:11:36:07;"Es zeigt ihre trauernden Eltern
 
 im Krankenhaus."
-"537";"00:11:36:09";"00:11:36:09";"FABstÅd Eingefangen und veröffentlicht( ( von de"
-"538";"00:11:36:09";"00:11:36:09";"FABstBr Journalistin Nilufar Hamedi.ÿÿ</u>"
-"539";"00:11:36:09";"00:11:40:10";"Eingefangen und verÈoffentlicht
+537;00:11:36:09;00:11:36:09;FABstÅd Eingefangen und veröffentlicht( ( von de
+538;00:11:36:09;00:11:36:09;FABstBr Journalistin Nilufar Hamedi.ÿÿ</u>
+539;00:11:36:09;00:11:40:10;"Eingefangen und verÈoffentlicht
 
 von der Journalistin Nilufar Hamedi."
-"540";"00:11:40:12";"00:11:40:12";"FABstÆd Ihre Kollegin, Elaheh Mohammadi,( ( interè^"
-"541";"00:11:40:12";"00:11:40:12";"FABstFviewt später die Familie Amini -ÿÿ)j"
-"542";"00:11:40:12";"00:11:44:18";"Ihre Kollegin, Elaheh Mohammadi,
+540;00:11:40:12;00:11:40:12;FABstÆd Ihre Kollegin, Elaheh Mohammadi,( ( interè^
+541;00:11:40:12;00:11:40:12;FABstFviewt später die Familie Amini -ÿÿ)j
+542;00:11:40:12;00:11:44:18;"Ihre Kollegin, Elaheh Mohammadi,
 
 interviewt spÈater die Familie Amini -"
-"543";"00:11:44:20";"00:11:44:20";"FABstÇD der Fall wird publik.ÿÿB"
-"544";"00:11:44:20";"00:11:46:03";"der Fall wird publik."
-"545";"00:11:46:05";"00:11:46:05";"FABstÈ@ Gift fürs Regime.ÿÿèÎ"
-"546";"00:11:46:05";"00:11:47:10";"Gift fÈurs Regime."
-"547";"00:11:48:06";"00:11:48:06";"FABstÉd Letzen Endes möchte das Regime( ( die¸"
-"548";"00:11:48:06";"00:11:48:06";"FABst2se Bilder nicht sehen.7Ü6"
-"549";"00:11:48:06";"00:11:51:14";"Letzen Endes mÈochte das Regime
+543;00:11:44:20;00:11:44:20;FABstÇD der Fall wird publik.ÿÿB
+544;00:11:44:20;00:11:46:03;der Fall wird publik.
+545;00:11:46:05;00:11:46:05;FABstÈ@ Gift fürs Regime.ÿÿèÎ
+546;00:11:46:05;00:11:47:10;Gift fÈurs Regime.
+547;00:11:48:06;00:11:48:06;FABstÉd Letzen Endes möchte das Regime( ( die¸
+548;00:11:48:06;00:11:48:06;FABst2se Bilder nicht sehen.7Ü6
+549;00:11:48:06;00:11:51:14;"Letzen Endes mÈochte das Regime
 
 diese Bilder nicht sehen."
-"550";"00:11:51:16";"00:11:51:16";"FABstÊd Nach außen nicht( ( und nacrÄ"
-"551";"00:11:51:16";"00:11:51:16";"FABst"h innen nicht.GÁ>"
-"552";"00:11:51:16";"00:11:53:22";"Nach auûen nicht
+550;00:11:51:16;00:11:51:16;FABstÊd Nach außen nicht( ( und nacrÄ
+551;00:11:51:16;00:11:51:16;"FABst""h innen nicht.GÁ>"
+552;00:11:51:16;00:11:53:22;"Nach auûen nicht
 
 und nach innen nicht."
-"553";"00:11:53:24";"00:11:53:24";"FABstËdDas machen autoritäre Staaten mit ( ( alscB"
-"554";"00:11:53:24";"00:11:53:24";"FABstD erstes in Phasen des Umbruchs:ÿÿÙV"
-"555";"00:11:53:24";"00:11:58:00";"Das machen autoritÈare Staaten mit
+553;00:11:53:24;00:11:53:24;FABstËdDas machen autoritäre Staaten mit ( ( alscB
+554;00:11:53:24;00:11:53:24;FABstD erstes in Phasen des Umbruchs:ÿÿÙV
+555;00:11:53:24;00:11:58:00;"Das machen autoritÈare Staaten mit
 
 als erstes in Phasen des Umbruchs:"
-"556";"00:11:58:02";"00:11:58:02";"FABstÌd Stürzen sich auf die freie( ( und r"
-"557";"00:11:58:02";"00:11:58:02";"FABst.unabhängige Presse. ÿÿ3*"
-"558";"00:11:58:02";"00:12:01:01";"StÈurzen sich auf die freie
+556;00:11:58:02;00:11:58:02;FABstÌd Stürzen sich auf die freie( ( und r
+557;00:11:58:02;00:11:58:02;FABst.unabhängige Presse. ÿÿ3*
+558;00:11:58:02;00:12:01:01;"StÈurzen sich auf die freie
 
 und unabhÈangige Presse."
-"559";"00:12:01:15";"00:12:01:15";"FABstÍRDas Regime nimmt beide Frauen fest,ÿÿ)à"
-"560";"00:12:01:15";"00:12:03:22";"Das Regime nimmt beide Frauen fest,"
-"561";"00:12:03:24";"00:12:03:24";"FABstÎd sie kommen ins berüchtigte( ( Evin-"
-"562";"00:12:03:24";"00:12:03:24";"FABst0Gefängnis in Teheran.ÿÿ1Y´"
-"563";"00:12:03:24";"00:12:07:02";"sie kommen ins berÈuchtigte
+559;00:12:01:15;00:12:01:15;FABstÍRDas Regime nimmt beide Frauen fest,ÿÿ)à
+560;00:12:01:15;00:12:03:22;Das Regime nimmt beide Frauen fest,
+561;00:12:03:24;00:12:03:24;FABstÎd sie kommen ins berüchtigte( ( Evin-
+562;00:12:03:24;00:12:03:24;FABst0Gefängnis in Teheran.ÿÿ1Y´
+563;00:12:03:24;00:12:07:02;"sie kommen ins berÈuchtigte
 
 Evin-GefÈangnis in Teheran."
-"564";"00:12:07:04";"00:12:07:04";"FABstÏRDie Anklage: Spionage fürs Ausland.ÿÿì"
-"565";"00:12:07:04";"00:12:09:10";"Die Anklage: Spionage fÈurs Ausland."
-"566";"00:12:09:12";"00:12:09:12";"FABstÐd Kein einziges Bild der Prozesse,( ( dÁ`"
-"567";"00:12:09:12";"00:12:09:12";"FABst2ie nun begonnen haben,ÿÿ/áv"
-"568";"00:12:09:12";"00:12:12:19";"Kein einziges Bild der Prozesse,
+564;00:12:07:04;00:12:07:04;FABstÏRDie Anklage: Spionage fürs Ausland.ÿÿì
+565;00:12:07:04;00:12:09:10;Die Anklage: Spionage fÈurs Ausland.
+566;00:12:09:12;00:12:09:12;FABstÐd Kein einziges Bild der Prozesse,( ( dÁ`
+567;00:12:09:12;00:12:09:12;FABst2ie nun begonnen haben,ÿÿ/áv
+568;00:12:09:12;00:12:12:19;"Kein einziges Bild der Prozesse,
 
 die nun begonnen haben,"
-"569";"00:12:12:21";"00:12:12:21";"FABstÑd schafft es heute( ( an die ÖE"
-"570";"00:12:12:21";"00:12:12:21";"FABst"ffentlichkeit.ÿÿ?¼"
-"571";"00:12:12:21";"00:12:15:04";"schafft es heute
+569;00:12:12:21;00:12:12:21;FABstÑd schafft es heute( ( an die ÖE
+570;00:12:12:21;00:12:12:21;"FABst""ffentlichkeit.ÿÿ?¼"
+571;00:12:12:21;00:12:15:04;"schafft es heute
 
 an die ÈOffentlichkeit."
-"572";"00:12:16:04";"00:12:16:04";"FABstÒF Transparenz fehlt total.ÿÿì"
-"573";"00:12:16:04";"00:12:17:20";"Transparenz fehlt total."
-"574";"00:12:17:22";"00:12:17:22";"FABstÓd Das bemängeln wir von( ( Reporter o?´"
-"575";"00:12:17:22";"00:12:17:22";"FABst4hne Grenzen am meisten.ÿÿ-·N"
-"576";"00:12:17:22";"00:12:21:11";"Das bemÈangeln wir von
+572;00:12:16:04;00:12:16:04;FABstÒF Transparenz fehlt total.ÿÿì
+573;00:12:16:04;00:12:17:20;Transparenz fehlt total.
+574;00:12:17:22;00:12:17:22;FABstÓd Das bemängeln wir von( ( Reporter o?´
+575;00:12:17:22;00:12:17:22;FABst4hne Grenzen am meisten.ÿÿ-·N
+576;00:12:17:22;00:12:21:11;"Das bemÈangeln wir von
 
 Reporter ohne Grenzen am meisten."
-"577";"00:12:21:13";"00:12:21:13";"FABstÔd Es ist ein Prozess( ( hinter veræF"
-"578";"00:12:21:13";"00:12:21:13";"FABst*schlossenen Türen.ÿÿ7Tø"
-"579";"00:12:21:13";"00:12:25:01";"Es ist ein Prozess
+577;00:12:21:13;00:12:21:13;FABstÔd Es ist ein Prozess( ( hinter veræF
+578;00:12:21:13;00:12:21:13;FABst*schlossenen Türen.ÿÿ7Tø
+579;00:12:21:13;00:12:25:01;"Es ist ein Prozess
 
 hinter verschlossenen TÈuren."
-"580";"00:12:25:03";"00:12:25:03";"FABstÕJ Das wird häufig so gemacht.ÿÿÆ "
-"581";"00:12:25:03";"00:12:26:20";"Das wird hÈaufig so gemacht."
-"582";"00:12:26:21";"00:12:26:21";"FABstÖd Die letzten Prozesse gegen( ( JournalÉÞ"
-"583";"00:12:26:21";"00:12:26:21";"FABst<i>sten waren Geheimprozesse.ÿÿ%ì~"
-"584";"00:12:26:21";"00:12:31:12";"Die letzten Prozesse gegen
+580;00:12:25:03;00:12:25:03;FABstÕJ Das wird häufig so gemacht.ÿÿÆ 
+581;00:12:25:03;00:12:26:20;Das wird hÈaufig so gemacht.
+582;00:12:26:21;00:12:26:21;FABstÖd Die letzten Prozesse gegen( ( JournalÉÞ
+583;00:12:26:21;00:12:26:21;FABst<i>sten waren Geheimprozesse.ÿÿ%ì~
+584;00:12:26:21;00:12:31:12;"Die letzten Prozesse gegen
 
 Journalisten waren Geheimprozesse."
-"585";"00:12:32:02";"00:12:32:02";"FABst×dNilufar Hamedi und Elaheh Mohammadi( ( ²Ð"
-"586";"00:12:32:02";"00:12:32:02";"FABst6 wurden von der UNESCOÿÿ+ê"
-"587";"00:12:32:02";"00:12:36:07";"Nilufar Hamedi und Elaheh Mohammadi
+585;00:12:32:02;00:12:32:02;FABst×dNilufar Hamedi und Elaheh Mohammadi( ( ²Ð
+586;00:12:32:02;00:12:32:02;FABst6 wurden von der UNESCOÿÿ+ê
+587;00:12:32:02;00:12:36:07;"Nilufar Hamedi und Elaheh Mohammadi
 
 wurden von der UNESCO"
-"588";"00:12:36:09";"00:12:36:09";"FABstØd für ihre Arbeit( ( mit dem Presse&4"
-"589";"00:12:36:09";"00:12:36:09";"FABst2freiheitspreis geehrt.ÿÿ/ñ¨"
-"590";"00:12:36:09";"00:12:39:15";"fÈur ihre Arbeit
+588;00:12:36:09;00:12:36:09;FABstØd für ihre Arbeit( ( mit dem Presse&4
+589;00:12:36:09;00:12:36:09;FABst2freiheitspreis geehrt.ÿÿ/ñ¨
+590;00:12:36:09;00:12:39:15;"fÈur ihre Arbeit
 
 mit dem Pressefreiheitspreis geehrt."
-"591";"00:12:39:17";"00:12:39:17";"FABstÙd In der Islamischen Republik droht( ( ihne."
-"592";"00:12:39:17";"00:12:39:17";"FABstHn dafür schlimmstenfalls der Tod.ÿÿ8"
-"593";"00:12:39:17";"00:12:44:19";"In der Islamischen Republik droht
+591;00:12:39:17;00:12:39:17;FABstÙd In der Islamischen Republik droht( ( ihne.
+592;00:12:39:17;00:12:39:17;FABstHn dafür schlimmstenfalls der Tod.ÿÿ8
+593;00:12:39:17;00:12:44:19;"In der Islamischen Republik droht
 
 ihnen dafÈur schlimmstenfalls der Tod."
-"594";"00:12:46:17";"00:12:46:17";"FABstÚd China hat zum ersten Mal( ( einen Zivi</i>D"
-"595";"00:12:46:17";"00:12:46:17";"FABst8listen ins All geschickt.ÿÿ)¡Ð"
-"596";"00:12:46:17";"00:12:51:01";"China hat zum ersten Mal
+594;00:12:46:17;00:12:46:17;FABstÚd China hat zum ersten Mal( ( einen Zivi</i>D
+595;00:12:46:17;00:12:46:17;FABst8listen ins All geschickt.ÿÿ)¡Ð
+596;00:12:46:17;00:12:51:01;"China hat zum ersten Mal
 
 einen Zivilisten ins All geschickt."
-"597";"00:12:51:08";"00:12:51:08";"FABstÛd Bisher kamen alle Raumfahrer( ( j"
-"598";"00:12:51:08";"00:12:51:08";"FABst(aus dem Militär.ÿÿ9X"
-"599";"00:12:51:08";"00:12:54:11";"Bisher kamen alle Raumfahrer
+597;00:12:51:08;00:12:51:08;FABstÛd Bisher kamen alle Raumfahrer( ( j
+598;00:12:51:08;00:12:51:08;FABst(aus dem Militär.ÿÿ9X
+599;00:12:51:08;00:12:54:11;"Bisher kamen alle Raumfahrer
 
 aus dem MilitÈar."
-"600";"00:12:54:13";"00:12:54:13";"FABstÜd Die Rakete( ( mit dem Univer<i>´"
-"601";"00:12:54:13";"00:12:54:13";"FABst$sitätsprofessorÿÿ=r"
-"602";"00:12:54:13";"00:12:57:02";"Die Rakete
+600;00:12:54:13;00:12:54:13;FABstÜd Die Rakete( ( mit dem Univer<i>´
+601;00:12:54:13;00:12:54:13;FABst$sitätsprofessorÿÿ=r
+602;00:12:54:13;00:12:57:02;"Die Rakete
 
 mit dem UniversitÈatsprofessor"
-"603";"00:12:57:04";"00:12:57:04";"FABstÝd und zwei weiteren Taikonauten ( ( start&"
-"604";"00:12:57:04";"00:12:57:04";"FABst8ete am Morgen in Jiuquan.1Á¶"
-"605";"00:12:57:04";"00:13:01:13";"und zwei weiteren Taikonauten
+603;00:12:57:04;00:12:57:04;FABstÝd und zwei weiteren Taikonauten ( ( start&
+604;00:12:57:04;00:12:57:04;FABst8ete am Morgen in Jiuquan.1Á¶
+605;00:12:57:04;00:13:01:13;"und zwei weiteren Taikonauten
 
 startete am Morgen in Jiuquan."
-"606";"00:13:01:18";"00:13:01:18";"FABstÞRAm Nachmittag dockte die Raumkapsel4ê"
-"607";"00:13:01:18";"00:13:04:06";"Am Nachmittag dockte die Raumkapsel"
-"608";"00:13:04:08";"00:13:04:08";"FABstßd an der chinesischen Raumstation( ( Åô"
-"609";"00:13:04:08";"00:13:04:08";"FABst( Tiangong an.ÿÿ9îþ"
-"610";"00:13:04:08";"00:13:07:02";"an der chinesischen Raumstation
+606;00:13:01:18;00:13:01:18;FABstÞRAm Nachmittag dockte die Raumkapsel4ê
+607;00:13:01:18;00:13:04:06;Am Nachmittag dockte die Raumkapsel
+608;00:13:04:08;00:13:04:08;FABstßd an der chinesischen Raumstation( ( Åô
+609;00:13:04:08;00:13:04:08;FABst( Tiangong an.ÿÿ9îþ
+610;00:13:04:08;00:13:07:02;"an der chinesischen Raumstation
 
 Tiangong an."
-"611";"00:13:07:04";"00:13:07:04";"FABstàd Sie war erst vor wenigen Monaten( ( |"
-"612";"00:13:07:04";"00:13:07:04";"FABst2fertiggestellt worden.ÿÿ/ä¦"
-"613";"00:13:07:04";"00:13:10:08";"Sie war erst vor wenigen Monaten
+611;00:13:07:04;00:13:07:04;FABstàd Sie war erst vor wenigen Monaten( ( |
+612;00:13:07:04;00:13:07:04;FABst2fertiggestellt worden.ÿÿ/ä¦
+613;00:13:07:04;00:13:10:08;"Sie war erst vor wenigen Monaten
 
 fertiggestellt worden."
-"614";"00:13:10:10";"00:13:10:10";"FABstáF In den kommenden Monatenÿÿ/"
-"615";"00:13:10:10";"00:13:11:23";"In den kommenden Monaten"
-"616";"00:13:12:00";"00:13:12:00";"FABstâd soll die neue Crew( ( mehrere ExpeÑÀ"
-"617";"00:13:12:00";"00:13:12:00";"FABst.rimente durchführen.ÿÿ3q8"
-"618";"00:13:12:00";"00:13:15:01";"soll die neue Crew
+614;00:13:10:10;00:13:10:10;FABstáF In den kommenden Monatenÿÿ/
+615;00:13:10:10;00:13:11:23;In den kommenden Monaten
+616;00:13:12:00;00:13:12:00;FABstâd soll die neue Crew( ( mehrere ExpeÑÀ
+617;00:13:12:00;00:13:12:00;FABst.rimente durchführen.ÿÿ3q8
+618;00:13:12:00;00:13:15:01;"soll die neue Crew
 
 mehrere Experimente durchfÈuhren."
-"619";"00:13:16:22";"00:13:16:22";"FABstãJ Trauer um Peter Simonischek.ÿÿSÖ"
-"620";"00:13:16:22";"00:13:18:23";"Trauer um Peter Simonischek."
-"621";"00:13:19:00";"00:13:19:00";"FABstäd Der österreichische Schauspieler( ( _"
-"622";"00:13:19:00";"00:13:19:00";"FABst2starb vergangene Nachtÿÿ/Ö"
-"623";"00:13:19:00";"00:13:22:05";"Der Èosterreichische Schauspieler
+619;00:13:16:22;00:13:16:22;FABstãJ Trauer um Peter Simonischek.ÿÿSÖ
+620;00:13:16:22;00:13:18:23;Trauer um Peter Simonischek.
+621;00:13:19:00;00:13:19:00;FABstäd Der österreichische Schauspieler( ( _
+622;00:13:19:00;00:13:19:00;FABst2starb vergangene Nachtÿÿ/Ö
+623;00:13:19:00;00:13:22:05;"Der Èosterreichische Schauspieler
 
 starb vergangene Nacht"
-"624";"00:13:22:07";"00:13:22:07";"FABståN in Wien im Alter von 76 Jahren.ÿÿ[J"
-"625";"00:13:22:07";"00:13:24:05";"in Wien im Alter von 76 Jahren."
-"626";"00:13:24:08";"00:13:24:08";"FABstæd Simonischeks Paraderolle( ( auf der Bóª"
-"627";"00:13:24:08";"00:13:24:08";"FABst4ühne war der Jedermann:ÿÿ-6J"
-"628";"00:13:24:08";"00:13:27:15";"Simonischeks Paraderolle
+624;00:13:22:07;00:13:22:07;FABståN in Wien im Alter von 76 Jahren.ÿÿ[J
+625;00:13:22:07;00:13:24:05;in Wien im Alter von 76 Jahren.
+626;00:13:24:08;00:13:24:08;FABstæd Simonischeks Paraderolle( ( auf der Bóª
+627;00:13:24:08;00:13:24:08;FABst4ühne war der Jedermann:ÿÿ-6J
+628;00:13:24:08;00:13:27:15;"Simonischeks Paraderolle
 
 auf der BÈuhne war der Jedermann:"
-"629";"00:13:27:17";"00:13:27:17";"FABstçd Die Geschichte( ( vom Sterben døf"
-"630";"00:13:27:17";"00:13:27:17";"FABst*es reichen Mannes,ÿÿ7Â"
-"631";"00:13:27:17";"00:13:30:10";"Die Geschichte
+629;00:13:27:17;00:13:27:17;FABstçd Die Geschichte( ( vom Sterben døf
+630;00:13:27:17;00:13:27:17;FABst*es reichen Mannes,ÿÿ7Â
+631;00:13:27:17;00:13:30:10;"Die Geschichte
 
 vom Sterben des reichen Mannes,"
-"632";"00:13:30:12";"00:13:30:12";"FABstèd der im Angesicht des Todes( ( sein aus("
-"633";"00:13:30:12";"00:13:30:12";"FABst8schweifendes Leben bereutÿÿ)±P"
-"634";"00:13:30:12";"00:13:34:00";"der im Angesicht des Todes
+632;00:13:30:12;00:13:30:12;FABstèd der im Angesicht des Todes( ( sein aus(
+633;00:13:30:12;00:13:30:12;FABst8schweifendes Leben bereutÿÿ)±P
+634;00:13:30:12;00:13:34:00;"der im Angesicht des Todes
 
 sein ausschweifendes Leben bereut"
-"635";"00:13:34:02";"00:13:34:02";"FABstéd und dem Teufel( ( von der ScÒv"
-"636";"00:13:34:02";"00:13:34:02";"FABst"hippe springt.ÿÿ?ÿò"
-"637";"00:13:34:02";"00:13:36:09";"und dem Teufel
+635;00:13:34:02;00:13:34:02;FABstéd und dem Teufel( ( von der ScÒv
+636;00:13:34:02;00:13:34:02;"FABst""hippe springt.ÿÿ?ÿò"
+637;00:13:34:02;00:13:36:09;"und dem Teufel
 
 von der Schippe springt."
-"638";"00:13:36:11";"00:13:36:11";"FABstêd Er wirkte aber auch in vielen( ( TV-PrÀR"
-"639";"00:13:36:11";"00:13:36:11";"FABst:oduktionen und Filmen mit,ÿÿ'Ô8"
-"640";"00:13:36:11";"00:13:40:00";"Er wirkte aber auch in vielen
+638;00:13:36:11;00:13:36:11;FABstêd Er wirkte aber auch in vielen( ( TV-PrÀR
+639;00:13:36:11;00:13:36:11;FABst:oduktionen und Filmen mit,ÿÿ'Ô8
+640;00:13:36:11;00:13:40:00;"Er wirkte aber auch in vielen
 
 TV-Produktionen und Filmen mit,"
-"641";"00:13:40:02";"00:13:40:02";"FABstëdetwa in der Vater-Tochter-Geschichte( ( ¡R"
-"642";"00:13:40:02";"00:13:40:02";"FABst0 Toni Erdmann.ÿÿ1</i>*"
-"643";"00:13:40:02";"00:13:43:03";"etwa in der Vater-Tochter-Geschichte
+641;00:13:40:02;00:13:40:02;FABstëdetwa in der Vater-Tochter-Geschichte( ( ¡R
+642;00:13:40:02;00:13:40:02;FABst0 Toni Erdmann.ÿÿ1</i>*
+643;00:13:40:02;00:13:43:03;"etwa in der Vater-Tochter-Geschichte
 
 Toni Erdmann."
-"644";"00:13:44:18";"00:13:44:18";"FABstìdDen Film Toni Erdmann hat das Erste( ( kurz±"
-"645";"00:13:44:18";"00:13:44:18";"FABstDfristig ins Programm genommen. ÿÿ«$"
-"646";"00:13:44:18";"00:13:48:20";"Den Film Toni Erdmann hat das Erste
+644;00:13:44:18;00:13:44:18;FABstìdDen Film Toni Erdmann hat das Erste( ( kurz±
+645;00:13:44:18;00:13:44:18;FABstDfristig ins Programm genommen. ÿÿ«$
+646;00:13:44:18;00:13:48:20;"Den Film Toni Erdmann hat das Erste
 
 kurzfristig ins Programm genommen."
-"647";"00:13:48:22";"00:13:48:22";"FABstíd Sendebeginn um 0.15 Uhr -( ( oder jedeØ"
-"648";"00:13:48:22";"00:13:48:22";"FABst<rzeit in der ARD-Mediathek.ÿÿ%Ò²"
-"649";"00:13:48:22";"00:13:53:06";"Sendebeginn um 0.15 Uhr -
+647;00:13:48:22;00:13:48:22;FABstíd Sendebeginn um 0.15 Uhr -( ( oder jedeØ
+648;00:13:48:22;00:13:48:22;FABst<rzeit in der ARD-Mediathek.ÿÿ%Ò²
+649;00:13:48:22;00:13:53:06;"Sendebeginn um 0.15 Uhr -
 
 oder jederzeit in der ARD-Mediathek."
-"650";"00:13:55:03";"00:13:55:03";"FABstîd Die Wettervorhersage für morgen,( ( Hö"
-"651";"00:13:55:03";"00:13:55:03";"FABst2Mittwoch, den 31. Mai.ÿÿ/ã<i>"
-"652";"00:13:55:03";"00:13:58:21";"Die Wettervorhersage fÈur morgen,
+650;00:13:55:03;00:13:55:03;FABstîd Die Wettervorhersage für morgen,( ( Hö
+651;00:13:55:03;00:13:55:03;FABst2Mittwoch, den 31. Mai.ÿÿ/ã<i>
+652;00:13:55:03;00:13:58:21;"Die Wettervorhersage fÈur morgen,
 
 Mittwoch, den 31. Mai."
-"653";"00:14:00:02";"00:14:00:02";"FABstïd Das Hoch mit Zentrum über Irland( ( sorgt Uü"
-"654";"00:14:00:02";"00:14:00:02";"FABst>morgen vielerorts für Sonne.ÿÿ#H|"
-"655";"00:14:00:02";"00:14:04:16";"Das Hoch mit Zentrum Èuber Irland
+653;00:14:00:02;00:14:00:02;FABstïd Das Hoch mit Zentrum über Irland( ( sorgt Uü
+654;00:14:00:02;00:14:00:02;FABst>morgen vielerorts für Sonne.ÿÿ#H|
+655;00:14:00:02;00:14:04:16;"Das Hoch mit Zentrum Èuber Irland
 
 sorgt morgen vielerorts fÈur Sonne."
-"656";"00:14:04:18";"00:14:04:18";"FABstðd Die wenigen Wolkenfelder( ( im Nordweÿ<u>"
-"657";"00:14:04:18";"00:14:04:18";"FABst>sten sowie südlich der Donauÿÿ#\"
-"658";"00:14:04:18";"00:14:08:23";"Die wenigen Wolkenfelder
+656;00:14:04:18;00:14:04:18;FABstðd Die wenigen Wolkenfelder( ( im Nordweÿ<u>
+657;00:14:04:18;00:14:04:18;FABst>sten sowie südlich der Donauÿÿ#\
+658;00:14:04:18;00:14:08:23;"Die wenigen Wolkenfelder
 
 im Nordwesten sowie sÈudlich der Donau"
-"659";"00:14:09:00";"00:14:09:00";"FABstñd lösen sich in der Nacht auf( ( c"
-"660";"00:14:09:00";"00:14:09:00";"FABst(bzw. ziehen ab.ÿÿ9æ"
-"661";"00:14:09:00";"00:14:11:24";"lÈosen sich in der Nacht auf
+659;00:14:09:00;00:14:09:00;FABstñd lösen sich in der Nacht auf( ( c
+660;00:14:09:00;00:14:09:00;FABst(bzw. ziehen ab.ÿÿ9æ
+661;00:14:09:00;00:14:11:24;"lÈosen sich in der Nacht auf
 
 bzw. ziehen ab."
-"662";"00:14:12:04";"00:14:12:04";"FABstòH Am Tag scheint die Sonne.ÿÿe"
-"663";"00:14:12:04";"00:14:14:03";"Am Tag scheint die Sonne."
-"664";"00:14:14:05";"00:14:14:05";"FABstódAn den Alpen bilden sich Quellwolken,( ( ²^"
-"665";"00:14:14:05";"00:14:14:05";"FABstB lokal Schauer und Gewitter.ÿÿô"
-"666";"00:14:14:05";"00:14:18:12";"An den Alpen bilden sich Quellwolken,
+662;00:14:12:04;00:14:12:04;FABstòH Am Tag scheint die Sonne.ÿÿe
+663;00:14:12:04;00:14:14:03;Am Tag scheint die Sonne.
+664;00:14:14:05;00:14:14:05;FABstódAn den Alpen bilden sich Quellwolken,( ( ²^
+665;00:14:14:05;00:14:14:05;FABstB lokal Schauer und Gewitter.ÿÿô
+666;00:14:14:05;00:14:18:12;"An den Alpen bilden sich Quellwolken,
 
 lokal Schauer und Gewitter."
-"667";"00:14:18:14";"00:14:18:14";"FABstôd Über den Norden( ( ziehen Sc<\"
-"668";"00:14:18:14";"00:14:18:14";"FABst hleierwolken.ÿÿA©^"
-"669";"00:14:18:14";"00:14:21:04";"ÈUber den Norden
+667;00:14:18:14;00:14:18:14;FABstôd Über den Norden( ( ziehen Sc<\
+668;00:14:18:14;00:14:18:14;FABst hleierwolken.ÿÿA©^
+669;00:14:18:14;00:14:21:04;"ÈUber den Norden
 
 ziehen Schleierwolken."
-"670";"00:14:31:23";"00:14:31:23";"FABstõdHochnebelartige Wolken lösen sich im( ( Nor2H"
-"671";"00:14:31:23";"00:14:31:23";"FABstHden im Laufe des Donnerstags auf,ÿÿÎ"
-"672";"00:14:31:23";"00:14:36:07";"Hochnebelartige Wolken lÈosen sich im
+670;00:14:31:23;00:14:31:23;FABstõdHochnebelartige Wolken lösen sich im( ( Nor2H
+671;00:14:31:23;00:14:31:23;FABstHden im Laufe des Donnerstags auf,ÿÿÎ
+672;00:14:31:23;00:14:36:07;"Hochnebelartige Wolken lÈosen sich im
 
 Norden im Laufe des Donnerstags auf,"
-"673";"00:14:36:09";"00:14:36:09";"FABstö@ sonst viel Sonne.ÿÿzN"
-"674";"00:14:36:09";"00:14:37:14";"sonst viel Sonne."
-"675";"00:14:37:16";"00:14:37:16";"FABst÷d Am Nachmittag( ( Schauer oder Ge¢"
-"676";"00:14:37:16";"00:14:37:16";"FABst.witter an den Alpen.ÿÿ3Á,"
-"677";"00:14:37:16";"00:14:40:14";"Am Nachmittag
+673;00:14:36:09;00:14:36:09;FABstö@ sonst viel Sonne.ÿÿzN
+674;00:14:36:09;00:14:37:14;sonst viel Sonne.
+675;00:14:37:16;00:14:37:16;FABst÷d Am Nachmittag( ( Schauer oder Ge¢
+676;00:14:37:16;00:14:37:16;FABst.witter an den Alpen.ÿÿ3Á,
+677;00:14:37:16;00:14:40:14;"Am Nachmittag
 
 Schauer oder Gewitter an den Alpen."
-"678";"00:14:40:16";"00:14:40:16";"FABstød Am Freitag vom Nordwesten( ( bis in dï"
-"679";"00:14:40:16";"00:14:40:16";"FABst@en Osten Wolken, sonst Sonne.ÿÿ!Þà"
-"680";"00:14:40:16";"00:14:44:10";"Am Freitag vom Nordwesten
+678;00:14:40:16;00:14:40:16;FABstød Am Freitag vom Nordwesten( ( bis in dï
+679;00:14:40:16;00:14:40:16;FABst@en Osten Wolken, sonst Sonne.ÿÿ!Þà
+680;00:14:40:16;00:14:44:10;"Am Freitag vom Nordwesten
 
 bis in den Osten Wolken, sonst Sonne."
-"681";"00:14:44:12";"00:14:44:12";"FABstùF Am Samstag meist sonnig.ÿÿeÖ"
-"682";"00:14:44:12";"00:14:46:11";"Am Samstag meist sonnig."
-"683";"00:14:50:08";"00:14:50:08";"FABstúd Um 22.15 Uhr( ( geht es in dÛ¾"
-"684";"00:14:50:08";"00:14:50:08";"FABst"en tagesthemenÿÿ? 4"
-"685";"00:14:50:08";"00:14:52:19";"Um 22.15 Uhr
+681;00:14:44:12;00:14:44:12;FABstùF Am Samstag meist sonnig.ÿÿeÖ
+682;00:14:44:12;00:14:46:11;Am Samstag meist sonnig.
+683;00:14:50:08;00:14:50:08;FABstúd Um 22.15 Uhr( ( geht es in dÛ¾
+684;00:14:50:08;00:14:50:08;"FABst""en tagesthemenÿÿ? 4"
+685;00:14:50:08;00:14:52:19;"Um 22.15 Uhr
 
 geht es in den tagesthemen"
-"686";"00:14:52:21";"00:14:52:21";"FABstûd um steigende Flüchtlingszahlen( ( und den`"
-"687";"00:14:52:21";"00:14:52:21";"FABst< Streit um Grenzkontrollen.ÿÿ%</u>&"
-"688";"00:14:52:21";"00:14:57:06";"um steigende FlÈuchtlingszahlen
+686;00:14:52:21;00:14:52:21;FABstûd um steigende Flüchtlingszahlen( ( und den`
+687;00:14:52:21;00:14:52:21;FABst< Streit um Grenzkontrollen.ÿÿ%</u>&
+688;00:14:52:21;00:14:57:06;"um steigende FlÈuchtlingszahlen
 
 und den Streit um Grenzkontrollen."
-"689";"00:14:57:15";"00:14:57:15";"FABstüd Fragen von Caren Miosga an den( ( sächsisu"
-"690";"00:14:57:15";"00:14:57:15";"FABst>chen Innenminister Schuster.ÿÿ#²"
-"691";"00:14:57:15";"00:15:01:13";"Fragen von Caren Miosga an den
+689;00:14:57:15;00:14:57:15;FABstüd Fragen von Caren Miosga an den( ( sächsisu
+690;00:14:57:15;00:14:57:15;FABst>chen Innenminister Schuster.ÿÿ#²
+691;00:14:57:15;00:15:01:13;"Fragen von Caren Miosga an den
 
 sÈachsischen Innenminister Schuster."
-"692";"00:15:01:16";"00:15:01:16";"FABstý2 Und:ÿÿ+Dâ"
-"693";"00:15:01:16";"00:15:02:18";"Und:"
-"694";"00:15:02:20";"00:15:02:20";"FABstþd Warum der Konflikt( ( im Kosovoõ"
-"695";"00:15:02:20";"00:15:02:20";"FABst( jetzt eskaliert.ÿÿ9Ýv"
-"696";"00:15:02:20";"00:15:05:12";"Warum der Konflikt
+692;00:15:01:16;00:15:01:16;FABstý2 Und:ÿÿ+Dâ
+693;00:15:01:16;00:15:02:18;Und:
+694;00:15:02:20;00:15:02:20;FABstþd Warum der Konflikt( ( im Kosovoõ
+695;00:15:02:20;00:15:02:20;FABst( jetzt eskaliert.ÿÿ9Ýv
+696;00:15:02:20;00:15:05:12;"Warum der Konflikt
 
 im Kosovo jetzt eskaliert."
-"697";"00:15:05:14";"00:15:05:14";"FABstÿd Ich wünsche Ihnen ( ( einen _`"
-"698";"00:15:05:14";"00:15:05:14";"FABst"schönen Abend.ÿÿ?Yf"
-"699";"00:15:05:14";"00:15:08:04";"Ich wÈunsche Ihnen
+697;00:15:05:14;00:15:05:14;FABstÿd Ich wünsche Ihnen ( ( einen _`
+698;00:15:05:14;00:15:05:14;"FABst""schönen Abend.ÿÿ?Yf"
+699;00:15:05:14;00:15:08:04;"Ich wÈunsche Ihnen
 
 einen schÈonen Abend."
-"700";"00:15:11:19";"00:15:11:19";"FABstLCopyright Untertitel: NDR 2023ÿÿþ"
-"701";"00:15:11:19";"00:15:13:19";"Copyright Untertitel: NDR 2023"
+700;00:15:11:19;00:15:11:19;FABstLCopyright Untertitel: NDR 2023ÿÿþ
+701;00:15:11:19;00:15:13:19;Copyright Untertitel: NDR 2023

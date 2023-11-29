@@ -1,1402 +1,1402 @@
-No.;Timecode In;Timecode Out;Subtitle
-"1";"00:00:17:17";"00:00:17:17";"FABst6 * Gong *ÿÿZZZZZZZZZZ¥¥ã¥¥¥¥¥6"
-"2";"00:00:17:17";"00:00:17:17";"FABst¥¥¥á¥¥à¥ã¥¥¥¥§ª¦ªîªªªGÌ"
-"3";"00:00:17:17";"00:00:18:18";"* Gong *"
-"4";"00:00:18:22";"00:00:18:22";"FABstdHier ist das Erste Deutsche Fernsehen( ( 9"
-"5";"00:00:18:22";"00:00:18:22";"FABst: mit den tagesthemen.ÿÿ'ºð"
-"6";"00:00:18:22";"00:00:22:09";"Hier ist das Erste Deutsche Fernsehen
+﻿No.;Timecode In;Timecode Out;Subtitle
+1;00:00:17:17;00:00:17:17;FABst6 * Gong *ÿÿZZZZZZZZZZ¥¥ã¥¥¥¥¥6
+2;00:00:17:17;00:00:17:17;FABst¥¥¥á¥¥à¥ã¥¥¥¥§ª¦ªîªªªGÌ
+3;00:00:17:17;00:00:18:18;* Gong *
+4;00:00:18:22;00:00:18:22;FABstdHier ist das Erste Deutsche Fernsehen( ( 9
+5;00:00:18:22;00:00:18:22;FABst: mit den tagesthemen.ÿÿ'ºð
+6;00:00:18:22;00:00:22:09;"Hier ist das Erste Deutsche Fernsehen
 
 mit den tagesthemen."
-"7";"00:00:22:13";"00:00:22:13";"FABstd Diese Sendung wurde vom NDR( ( live Af"
-"8";"00:00:22:13";"00:00:22:13";"FABst6untertitelt (22.04.2023)ÿÿ+º®"
-"9";"00:00:22:13";"00:00:25:21";"Diese Sendung wurde vom NDR
+7;00:00:22:13;00:00:22:13;FABstd Diese Sendung wurde vom NDR( ( live Af
+8;00:00:22:13;00:00:22:13;FABst6untertitelt (22.04.2023)ÿÿ+º®
+9;00:00:22:13;00:00:25:21;"Diese Sendung wurde vom NDR
 
 live untertitelt (22.04.2023)"
-"10";"00:00:25:24";"00:00:25:24";"FABstL Heute im Studio: Aline Abboud.ÿÿ¥"
-"11";"00:00:25:24";"00:00:27:24";"Heute im Studio: Aline Abboud."
-"12";"00:00:28:02";"00:00:28:02";"FABstd Willkommen zu den tagesthemen.( ( Schn2"
-"13";"00:00:28:02";"00:00:28:02";"FABst4ön, das Sie dabei sind.ÿÿ-<ô"
-"14";"00:00:28:02";"00:00:31:12";"Willkommen zu den tagesthemen.
+10;00:00:25:24;00:00:25:24;FABstL Heute im Studio: Aline Abboud.ÿÿ¥
+11;00:00:25:24;00:00:27:24;Heute im Studio: Aline Abboud.
+12;00:00:28:02;00:00:28:02;FABstd Willkommen zu den tagesthemen.( ( Schn2
+13;00:00:28:02;00:00:28:02;FABst4ön, das Sie dabei sind.ÿÿ-<ô
+14;00:00:28:02;00:00:31:12;"Willkommen zu den tagesthemen.
 
 SchÈon, das Sie dabei sind."
-"15";"00:00:31:16";"00:00:31:16";"FABstd Für die Nachrichten( ( ist heute ýp"
-"16";"00:00:31:16";"00:00:31:16";"FABst8Julia dabei.Guten Abend.ÿÿ)Êr"
-"17";"00:00:31:16";"00:00:35:10";"FÈur die Nachrichten
+15;00:00:31:16;00:00:31:16;FABstd Für die Nachrichten( ( ist heute ýp
+16;00:00:31:16;00:00:31:16;FABst8Julia dabei.Guten Abend.ÿÿ)Êr
+17;00:00:31:16;00:00:35:10;"FÈur die Nachrichten
 
 ist heute Julia dabei.Guten Abend."
-"18";"00:00:35:14";"00:00:35:14";"FABstVUnd den Sport hat Okka.Guten Abend.ÿÿº "
-"19";"00:00:35:14";"00:00:37:18";"Und den Sport hat Okka.Guten Abend."
-"20";"00:00:38:23";"00:00:38:23";"FABstJ "Machen, was wichtig wird."ÿÿ"
-"21";"00:00:38:23";"00:00:40:17";""Machen, was wichtig wird.""
-"22";"00:00:40:21";"00:00:40:21";"FABstd Das ist das Motto( ( des Parteº"
-"23";"00:00:40:21";"00:00:40:21";"FABst$itages der FDP,ÿÿ=ô"
-"24";"00:00:40:21";"00:00:43:19";"Das ist das Motto
+18;00:00:35:14;00:00:35:14;FABstVUnd den Sport hat Okka.Guten Abend.ÿÿº 
+19;00:00:35:14;00:00:37:18;Und den Sport hat Okka.Guten Abend.
+20;00:00:38:23;00:00:38:23;"FABstJ ""Machen, was wichtig wird.""ÿÿ"
+21;00:00:38:23;00:00:40:17;"""Machen, was wichtig wird."""
+22;00:00:40:21;00:00:40:21;FABstd Das ist das Motto( ( des Parteº
+23;00:00:40:21;00:00:40:21;FABst$itages der FDP,ÿÿ=ô
+24;00:00:40:21;00:00:43:19;"Das ist das Motto
 
 des Parteitages der FDP,"
-"25";"00:00:43:23";"00:00:43:23";"FABstN der bis morgen in Berlin läuft.ÿÿGð"
-"26";"00:00:43:23";"00:00:45:20";"der bis morgen in Berlin lÈauft."
-"27";"00:00:46:19";"00:00:46:19";"FABstd Wichtig ist für die FDP( ( vor alle ¬"
-"28";"00:00:46:19";"00:00:46:19";"FABst<m das politische Überleben.-/Ø"
-"29";"00:00:46:19";"00:00:50:08";"Wichtig ist fÈur die FDP
+25;00:00:43:23;00:00:43:23;FABstN der bis morgen in Berlin läuft.ÿÿGð
+26;00:00:43:23;00:00:45:20;der bis morgen in Berlin lÈauft.
+27;00:00:46:19;00:00:46:19;FABstd Wichtig ist für die FDP( ( vor alle ¬
+28;00:00:46:19;00:00:46:19;FABst<m das politische Überleben.-/Ø
+29;00:00:46:19;00:00:50:08;"Wichtig ist fÈur die FDP
 
 vor allem das politische ÈUberleben."
-"30";"00:00:50:12";"00:00:50:12";"FABstd Die letzten fünf Landtagswahlen ( ( lief Ä"
-"31";"00:00:50:12";"00:00:50:12";"FABstBen schlecht für die Liberalen.'`"
-"32";"00:00:50:12";"00:00:54:12";"Die letzten fÈunf Landtagswahlen
+30;00:00:50:12;00:00:50:12;FABstd Die letzten fünf Landtagswahlen ( ( lief Ä
+31;00:00:50:12;00:00:50:12;FABstBen schlecht für die Liberalen.'`
+32;00:00:50:12;00:00:54:12;"Die letzten fÈunf Landtagswahlen
 
 liefen schlecht fÈur die Liberalen."
-"33";"00:00:54:16";"00:00:54:16";"FABstd Im Bund stehen sie( ( aktuv,"
-"34";"00:00:54:16";"00:00:54:16";"FABstell bei 7 %.ÿÿC§""
-"35";"00:00:54:16";"00:00:56:16";"Im Bund stehen sie
+33;00:00:54:16;00:00:54:16;FABstd Im Bund stehen sie( ( aktuv,
+34;00:00:54:16;00:00:54:16;"FABstell bei 7 %.ÿÿC§"""
+35;00:00:54:16;00:00:56:16;"Im Bund stehen sie
 
 aktuell bei 7 %."
-"36";"00:00:56:20";"00:00:56:20";"FABstdDer Kurs der FDP als Teil der Ampel-( ( K~ú"
-"37";"00:00:56:20";"00:00:56:20";"FABstJoalition verfängt scheinbar nicht.ÿÿ$þ"
-"38";"00:00:56:20";"00:01:01:01";"Der Kurs der FDP als Teil der Ampel-
+36;00:00:56:20;00:00:56:20;FABstdDer Kurs der FDP als Teil der Ampel-( ( K~ú
+37;00:00:56:20;00:00:56:20;FABstJoalition verfängt scheinbar nicht.ÿÿ$þ
+38;00:00:56:20;00:01:01:01;"Der Kurs der FDP als Teil der Ampel-
 
 Koalition verfÈangt scheinbar nicht."
-"39";"00:01:01:05";"00:01:01:05";"FABstJ Frust unter den Mitgliedern.ÿÿ \"
-"40";"00:01:01:05";"00:01:03:03";"Frust unter den Mitgliedern."
-"41";"00:01:03:07";"00:01:03:07";"FABstdAuf ihrem Parteitag betont die FDP( ( [¬"
-"42";"00:01:03:07";"00:01:03:07";"FABst6 nun Eigenständigkeitÿÿ+®"
-"43";"00:01:03:07";"00:01:06:13";"Auf ihrem Parteitag betont die FDP
+39;00:01:01:05;00:01:01:05;FABstJ Frust unter den Mitgliedern.ÿÿ \
+40;00:01:01:05;00:01:03:03;Frust unter den Mitgliedern.
+41;00:01:03:07;00:01:03:07;FABstdAuf ihrem Parteitag betont die FDP( ( [¬
+42;00:01:03:07;00:01:03:07;FABst6 nun Eigenständigkeitÿÿ+®
+43;00:01:03:07;00:01:06:13;"Auf ihrem Parteitag betont die FDP
 
 nun EigenstÈandigkeit"
-"44";"00:01:06:18";"00:01:06:18";"FABstd und distanziert sich von( ( "links-6â"
-"45";"00:01:06:18";"00:01:06:18";"FABst0grünen Stuhlkreisen".ÿÿ1w0"
-"46";"00:01:06:18";"00:01:10:03";"und distanziert sich von
+44;00:01:06:18;00:01:06:18;"FABstd und distanziert sich von( ( ""links-6â"
+45;00:01:06:18;00:01:06:18;"FABst0grünen Stuhlkreisen"".ÿÿ1w0"
+46;00:01:06:18;00:01:10:03;"und distanziert sich von
 
-"links-grÈunen Stuhlkreisen"."
-"47";"00:01:10:07";"00:01:10:07";"FABstd Bei einem Thema( ( zeigte sich e8"
-"48";"00:01:10:07";"00:01:10:07";"FABst6der Ärger über die Ampelÿÿ+ñ"
-"49";"00:01:10:07";"00:01:13:13";"Bei einem Thema
+""links-grÈunen Stuhlkreisen""."
+47;00:01:10:07;00:01:10:07;FABstd Bei einem Thema( ( zeigte sich e8
+48;00:01:10:07;00:01:10:07;FABst6der Ärger über die Ampelÿÿ+ñ
+49;00:01:10:07;00:01:13:13;"Bei einem Thema
 
 zeigte sich der ÈArger Èuber die Ampel"
-"50";"00:01:13:17";"00:01:13:17";"FABstB besonders deutlich.ÿÿüú"
-"51";"00:01:13:17";"00:01:15:03";"besonders deutlich."
-"52";"00:01:15:07";"00:01:15:07";"FABst< Nils Crauser.ÿÿ!J"
-"53";"00:01:15:07";"00:01:16:12";"Nils Crauser."
-"54";"00:01:18:12";"00:01:18:12";"FABstL Es ist einer der Augenblicke,°"
-"55";"00:01:18:12";"00:01:20:12";"Es ist einer der Augenblicke,"
-"56";"00:01:20:16";"00:01:20:16";"FABstd auf den viele beim( ( FDP-Bundespar{ö"
-"57";"00:01:20:16";"00:01:20:16";"FABst2teitag gewartet haben.7ºì"
-"58";"00:01:20:16";"00:01:23:23";"auf den viele beim
+50;00:01:13:17;00:01:13:17;FABstB besonders deutlich.ÿÿüú
+51;00:01:13:17;00:01:15:03;besonders deutlich.
+52;00:01:15:07;00:01:15:07;FABst< Nils Crauser.ÿÿ!J
+53;00:01:15:07;00:01:16:12;Nils Crauser.
+54;00:01:18:12;00:01:18:12;FABstL Es ist einer der Augenblicke,°
+55;00:01:18:12;00:01:20:12;Es ist einer der Augenblicke,
+56;00:01:20:16;00:01:20:16;FABstd auf den viele beim( ( FDP-Bundespar{ö
+57;00:01:20:16;00:01:20:16;FABst2teitag gewartet haben.7ºì
+58;00:01:20:16;00:01:23:23;"auf den viele beim
 
 FDP-Bundesparteitag gewartet haben."
-"59";"00:01:24:02";"00:01:24:02";"FABstd Frank Schäffler( ( aus Ostwe"
-"60";"00:01:24:02";"00:01:24:02";"FABst stfalen-LippeÿÿA¤"
-"61";"00:01:24:02";"00:01:26:12";"Frank SchÈaffler
+59;00:01:24:02;00:01:24:02;FABstd Frank Schäffler( ( aus Ostwe
+60;00:01:24:02;00:01:24:02;FABst stfalen-LippeÿÿA¤
+61;00:01:24:02;00:01:26:12;"Frank SchÈaffler
 
 aus Ostwestfalen-Lippe"
-"62";"00:01:26:16";"00:01:26:16";"FABstd bringt seinen Dringlichkeitsantrag( ( gegeh"
-"63";"00:01:26:16";"00:01:26:16";"FABstHn das Gebäude-Energie-Gesetz ein.ÿÿuö"
-"64";"00:01:26:16";"00:01:30:22";"bringt seinen Dringlichkeitsantrag
+62;00:01:26:16;00:01:26:16;FABstd bringt seinen Dringlichkeitsantrag( ( gegeh
+63;00:01:26:16;00:01:26:16;FABstHn das Gebäude-Energie-Gesetz ein.ÿÿuö
+64;00:01:26:16;00:01:30:22;"bringt seinen Dringlichkeitsantrag
 
 gegen das GebÈaude-Energie-Gesetz ein."
-"65";"00:01:31:01";"00:01:31:01";"FABstd Die Bürger dürften( ( bei der WC"
-"66";"00:01:31:01";"00:01:31:01";"FABst(ahl ihrer Heizungÿÿ9¿"
-"67";"00:01:31:01";"00:01:33:16";"Die BÈurger dÈurften
+65;00:01:31:01;00:01:31:01;FABstd Die Bürger dürften( ( bei der WC
+66;00:01:31:01;00:01:31:01;FABst(ahl ihrer Heizungÿÿ9¿
+67;00:01:31:01;00:01:33:16;"Die BÈurger dÈurften
 
 bei der Wahl ihrer Heizung"
-"68";"00:01:33:18";"00:01:33:18";"FABstJ nicht eingeschränkt werden.ÿÿ@"
-"69";"00:01:33:18";"00:01:35:12";"nicht eingeschrÈankt werden."
-"70";"00:01:35:16";"00:01:35:16";"FABstdWir sollten den Menschen überlassen,( ( úP"
-"71";"00:01:35:16";"00:01:35:16";"FABst: wie sie investieren/¯"
-"72";"00:01:35:16";"00:01:38:23";"Wir sollten den Menschen Èuberlassen,
+68;00:01:33:18;00:01:33:18;FABstJ nicht eingeschränkt werden.ÿÿ@
+69;00:01:33:18;00:01:35:12;nicht eingeschrÈankt werden.
+70;00:01:35:16;00:01:35:16;FABstdWir sollten den Menschen überlassen,( ( úP
+71;00:01:35:16;00:01:35:16;FABst: wie sie investieren/¯
+72;00:01:35:16;00:01:38:23;"Wir sollten den Menschen Èuberlassen,
 
 wie sie investieren"
-"73";"00:01:39:02";"00:01:39:02";"FABstH und sie nicht bevormunden.l"
-"74";"00:01:39:02";"00:01:41:05";"und sie nicht bevormunden."
-"75";"00:01:44:09";"00:01:44:09";"FABstd Das muss die liberale Botschaft( ( fþ"
-"76";"00:01:44:09";"00:01:44:09";"FABst4dieses Parteitags sein.ÿÿ-üÀ"
-"77";"00:01:44:09";"00:01:48:03";"Das muss die liberale Botschaft
+73;00:01:39:02;00:01:39:02;FABstH und sie nicht bevormunden.l
+74;00:01:39:02;00:01:41:05;und sie nicht bevormunden.
+75;00:01:44:09;00:01:44:09;FABstd Das muss die liberale Botschaft( ( fþ
+76;00:01:44:09;00:01:44:09;FABst4dieses Parteitags sein.ÿÿ-üÀ
+77;00:01:44:09;00:01:48:03;"Das muss die liberale Botschaft
 
 dieses Parteitags sein."
-"78";"00:01:49:12";"00:01:49:12";"FABstd Der Antrag fordert die( ( BundestagsK^"
-"79";"00:01:49:12";"00:01:49:12";"FABst4fraktion u.a. dazu auf,ÿÿ-È"
-"80";"00:01:49:12";"00:01:53:05";"Der Antrag fordert die
+78;00:01:49:12;00:01:49:12;FABstd Der Antrag fordert die( ( BundestagsK^
+79;00:01:49:12;00:01:49:12;FABst4fraktion u.a. dazu auf,ÿÿ-È
+80;00:01:49:12;00:01:53:05;"Der Antrag fordert die
 
 Bundestagsfraktion u.a. dazu auf,"
-"81";"00:01:53:09";"00:01:53:09";"FABstd sich gegen die Festlegung( ( auf eine\,"
-"82";"00:01:53:09";"00:01:53:09";"FABst8 Technologie einzusetzen.ÿÿ)ÿ"
-"83";"00:01:53:09";"00:01:56:21";"sich gegen die Festlegung
+81;00:01:53:09;00:01:53:09;FABstd sich gegen die Festlegung( ( auf eine\,
+82;00:01:53:09;00:01:53:09;FABst8 Technologie einzusetzen.ÿÿ)ÿ
+83;00:01:53:09;00:01:56:21;"sich gegen die Festlegung
 
 auf eine Technologie einzusetzen."
-"84";"00:01:57:00";"00:01:57:00";"FABst d Am Ende geht der( ( mit großer¾d"
-"85";"00:01:57:00";"00:01:57:00";"FABst& Mehrheit durch.ÿÿ;J"
-"86";"00:01:57:00";"00:01:59:21";"Am Ende geht der
+84;00:01:57:00;00:01:57:00;FABst d Am Ende geht der( ( mit großer¾d
+85;00:01:57:00;00:01:57:00;"FABst& Mehrheit durch.ÿÿ;J"
+86;00:01:57:00;00:01:59:21;"Am Ende geht der
 
 mit groûer Mehrheit durch."
-"87";"00:02:00:00";"00:02:00:00";"FABst!RDie Bundestagsfraktion begrüßt das,ÿÿÂ."
-"88";"00:02:00:00";"00:02:02:06";"Die Bundestagsfraktion begrÈuût das,"
-"89";"00:02:02:10";"00:02:02:10";"FABst"d weist aber auch( ( auf ihre Verh/¦"
-"90";"00:02:02:10";"00:02:02:10";"FABst.andlungserfolge hin.ÿÿ3éZ"
-"91";"00:02:02:10";"00:02:05:11";"weist aber auch
+87;00:02:00:00;00:02:00:00;FABst!RDie Bundestagsfraktion begrüßt das,ÿÿÂ.
+88;00:02:00:00;00:02:02:06;Die Bundestagsfraktion begrÈuût das,
+89;00:02:02:10;00:02:02:10;"FABst""d weist aber auch( ( auf ihre Verh/¦"
+90;00:02:02:10;00:02:02:10;FABst.andlungserfolge hin.ÿÿ3éZ
+91;00:02:02:10;00:02:05:11;"weist aber auch
 
 auf ihre Verhandlungserfolge hin."
-"92";"00:02:05:15";"00:02:05:15";"FABst#d Der ursprüngliche Plan,( ( bestehendÒF"
-"93";"00:02:05:15";"00:02:05:15";"FABst8e Heizungen rauszureißen,1Aò"
-"94";"00:02:05:15";"00:02:09:05";"Der ursprÈungliche Plan,
+92;00:02:05:15;00:02:05:15;FABst#d Der ursprüngliche Plan,( ( bestehendÒF
+93;00:02:05:15;00:02:05:15;FABst8e Heizungen rauszureißen,1Aò
+94;00:02:05:15;00:02:09:05;"Der ursprÈungliche Plan,
 
 bestehende Heizungen rauszureiûen,"
-"95";"00:02:09:09";"00:02:09:09";"FABst$< war vom Tisch.)¼"
-"96";"00:02:09:09";"00:02:10:20";"war vom Tisch."
-"97";"00:02:11:11";"00:02:11:11";"FABst%d Wir konzentrieren uns darauf,( ( was2Z"
-"98";"00:02:11:11";"00:02:11:11";"FABst6 in Zukunft möglich ist.ÿÿ+J"
-"99";"00:02:11:11";"00:02:15:04";"Wir konzentrieren uns darauf,
+95;00:02:09:09;00:02:09:09;FABst$< war vom Tisch.)¼
+96;00:02:09:09;00:02:10:20;war vom Tisch.
+97;00:02:11:11;00:02:11:11;FABst%d Wir konzentrieren uns darauf,( ( was2Z
+98;00:02:11:11;00:02:11:11;FABst6 in Zukunft möglich ist.ÿÿ+J
+99;00:02:11:11;00:02:15:04;"Wir konzentrieren uns darauf,
 
 was in Zukunft mÈoglich ist."
-"100";"00:02:15:08";"00:02:15:08";"FABst&d Zum Beispiel Gasheizungen,( ( die WasC"
-"101";"00:02:15:08";"00:02:15:08";"FABst<serstoff verbrennen können.ÿÿ%_d"
-"102";"00:02:15:08";"00:02:19:16";"Zum Beispiel Gasheizungen,
+100;00:02:15:08;00:02:15:08;FABst&d Zum Beispiel Gasheizungen,( ( die WasC
+101;00:02:15:08;00:02:15:08;FABst<serstoff verbrennen können.ÿÿ%_d
+102;00:02:15:08;00:02:19:16;"Zum Beispiel Gasheizungen,
 
 die Wasserstoff verbrennen kÈonnen."
-"103";"00:02:21:17";"00:02:21:17";"FABst'd Bereits am Mittag( ( hatte de<u>"
-"104";"00:02:21:17";"00:02:21:17";"FABst(r Generalsekretärÿÿ9p"
-"105";"00:02:21:17";"00:02:24:08";"Bereits am Mittag
+103;00:02:21:17;00:02:21:17;FABst'd Bereits am Mittag( ( hatte de<u>
+104;00:02:21:17;00:02:21:17;FABst(r Generalsekretärÿÿ9p
+105;00:02:21:17;00:02:24:08;"Bereits am Mittag
 
 hatte der GeneralsekretÈar"
-"106";"00:02:24:12";"00:02:24:12";"FABst(dden Leitantrag des Bundesvorstands( ( miBô"
-"107";"00:02:24:12";"00:02:24:12";"FABst:t seiner Rede eingebracht.ÿÿ'Ôl"
-"108";"00:02:24:12";"00:02:28:09";"den Leitantrag des Bundesvorstands
+106;00:02:24:12;00:02:24:12;FABst(dden Leitantrag des Bundesvorstands( ( miBô
+107;00:02:24:12;00:02:24:12;FABst:t seiner Rede eingebracht.ÿÿ'Ôl
+108;00:02:24:12;00:02:28:09;"den Leitantrag des Bundesvorstands
 
 mit seiner Rede eingebracht."
-"109";"00:02:28:13";"00:02:28:13";"FABst)d Es ist die klassische FDP-Agenda:( ( InnoWþ"
-"110";"00:02:28:13";"00:02:28:13";"FABst@vation und Wachstum fördern. ÿÿ!Ê"
-"111";"00:02:28:13";"00:02:32:07";"Es ist die klassische FDP-Agenda:
+109;00:02:28:13;00:02:28:13;FABst)d Es ist die klassische FDP-Agenda:( ( InnoWþ
+110;00:02:28:13;00:02:28:13;FABst@vation und Wachstum fördern. ÿÿ!Ê
+111;00:02:28:13;00:02:32:07;"Es ist die klassische FDP-Agenda:
 
 Innovation und Wachstum fÈordern."
-"112";"00:02:32:11";"00:02:32:11";"FABst*dUnd wieder die Abgrenzung vom grünen( ( KoåÚ"
-"113";"00:02:32:11";"00:02:32:11";"FABstFalitionspartner per Seitenhieb. ÿÿª"
-"114";"00:02:32:11";"00:02:36:20";"Und wieder die Abgrenzung vom grÈunen
+112;00:02:32:11;00:02:32:11;FABst*dUnd wieder die Abgrenzung vom grünen( ( KoåÚ
+113;00:02:32:11;00:02:32:11;FABstFalitionspartner per Seitenhieb. ÿÿª
+114;00:02:32:11;00:02:36:20;"Und wieder die Abgrenzung vom grÈunen
 
 Koalitionspartner per Seitenhieb."
-"115";"00:02:36:24";"00:02:36:24";"FABst+d Wohlstand( ( muss verdient u2""
-"116";"00:02:36:24";"00:02:36:24";"FABst0nd erarbeitet werden.9Õ"
-"117";"00:02:36:24";"00:02:39:19";"Wohlstand
+115;00:02:36:24;00:02:36:24;"FABst+d Wohlstand( ( muss verdient u2"""
+116;00:02:36:24;00:02:36:24;FABst0nd erarbeitet werden.9Õ
+117;00:02:36:24;00:02:39:19;"Wohlstand
 
 muss verdient und erarbeitet werden."
-"118";"00:02:39:23";"00:02:39:23";"FABst,d Das Philosophieren( ( über Ç¨"
-"119";"00:02:39:23";"00:02:39:23";"FABst Null-WachstumI¥,"
-"120";"00:02:39:23";"00:02:42:13";"Das Philosophieren
+118;00:02:39:23;00:02:39:23;FABst,d Das Philosophieren( ( über Ç¨
+119;00:02:39:23;00:02:39:23;FABst Null-WachstumI¥,
+120;00:02:39:23;00:02:42:13;"Das Philosophieren
 
 Èuber Null-Wachstum"
-"121";"00:02:42:16";"00:02:42:16";"FABst-d mag links-grüne Stuhlkreise( ( ¸d"
-"122";"00:02:42:16";"00:02:42:16";"FABst$ faszinieren.ÿÿ=ò"
-"123";"00:02:42:16";"00:02:46:01";"mag links-grÈune Stuhlkreise
+121;00:02:42:16;00:02:42:16;FABst-d mag links-grüne Stuhlkreise( ( ¸d
+122;00:02:42:16;00:02:42:16;FABst$ faszinieren.ÿÿ=ò
+123;00:02:42:16;00:02:46:01;"mag links-grÈune Stuhlkreise
 
 faszinieren."
-"124";"00:02:47:01";"00:02:47:01";"FABst.d Für uns ist es aber ( ( kein üÔ"
-"125";"00:02:47:01";"00:02:47:01";"FABst$Zukunftsmodell.ÿÿ=ç~"
-"126";"00:02:47:01";"00:02:50:08";"FÈur uns ist es aber
+124;00:02:47:01;00:02:47:01;FABst.d Für uns ist es aber ( ( kein üÔ
+125;00:02:47:01;00:02:47:01;FABst$Zukunftsmodell.ÿÿ=ç~
+126;00:02:47:01;00:02:50:08;"FÈur uns ist es aber
 
 kein Zukunftsmodell."
-"127";"00:02:52:03";"00:02:52:03";"FABst/J Auch kein Modell für die FDPÿÿTä"
-"128";"00:02:52:03";"00:02:55:02";"Auch kein Modell fÈur die FDP"
-"129";"00:02:55:06";"00:02:55:06";"FABst0d ist ein allgemeines Tempo 30( ( þ"
-"130";"00:02:55:06";"00:02:55:06";"FABst(in Innenstädten.ÿÿ9DÔ"
-"131";"00:02:55:06";"00:02:58:03";"ist ein allgemeines Tempo 30
+127;00:02:52:03;00:02:52:03;FABst/J Auch kein Modell für die FDPÿÿTä
+128;00:02:52:03;00:02:55:02;Auch kein Modell fÈur die FDP
+129;00:02:55:06;00:02:55:06;FABst0d ist ein allgemeines Tempo 30( ( þ
+130;00:02:55:06;00:02:55:06;FABst(in Innenstädten.ÿÿ9DÔ
+131;00:02:55:06;00:02:58:03;"ist ein allgemeines Tempo 30
 
 in InnenstÈadten."
-"132";"00:02:58:07";"00:02:58:07";"FABst1d So haben es Klima-Aktivisten( ( und d<"
-"133";"00:02:58:07";"00:02:58:07";"FABst4er Städtetag gefordert.ÿÿ-wÈ"
-"134";"00:02:58:07";"00:03:01:19";"So haben es Klima-Aktivisten
+132;00:02:58:07;00:02:58:07;FABst1d So haben es Klima-Aktivisten( ( und d<
+133;00:02:58:07;00:02:58:07;FABst4er Städtetag gefordert.ÿÿ-wÈ
+134;00:02:58:07;00:03:01:19;"So haben es Klima-Aktivisten
 
 und der StÈadtetag gefordert."
-"135";"00:03:01:23";"00:03:01:23";"FABst2d Eine klare Absage( ( vom Bundel"
-"136";"00:03:01:23";"00:03:01:23";"FABst*sverkehrsminister.ÿÿ7¸¦"
-"137";"00:03:01:23";"00:03:04:14";"Eine klare Absage
+135;00:03:01:23;00:03:01:23;FABst2d Eine klare Absage( ( vom Bundel
+136;00:03:01:23;00:03:01:23;FABst*sverkehrsminister.ÿÿ7¸¦
+137;00:03:01:23;00:03:04:14;"Eine klare Absage
 
 vom Bundesverkehrsminister."
-"138";"00:03:04:18";"00:03:04:18";"FABst3d Ich will nicht, dass( ( Durchfahrts[Ì"
-"139";"00:03:04:18";"00:03:04:18";"FABst2traßen Tempo 30 haben.7`¦"
-"140";"00:03:04:18";"00:03:08:23";"Ich will nicht, dass
+138;00:03:04:18;00:03:04:18;FABst3d Ich will nicht, dass( ( Durchfahrts[Ì
+139;00:03:04:18;00:03:04:18;FABst2traßen Tempo 30 haben.7`¦
+140;00:03:04:18;00:03:08:23;"Ich will nicht, dass
 
 Durchfahrtstraûen Tempo 30 haben."
-"141";"00:03:09:20";"00:03:09:20";"FABst4d Das berührt( ( die Interesse<i>"
-"142";"00:03:09:20";"00:03:09:20";"FABst n der Bürger,ÿÿA:"
-"143";"00:03:09:20";"00:03:12:23";"Das berÈuhrt
+141;00:03:09:20;00:03:09:20;FABst4d Das berührt( ( die Interesse<i>
+142;00:03:09:20;00:03:09:20;FABst n der Bürger,ÿÿA:
+143;00:03:09:20;00:03:12:23;"Das berÈuhrt
 
 die Interessen der BÈurger,"
-"144";"00:03:13:02";"00:03:13:02";"FABst5Ndie durch Gemeinden durchfahren.ÿÿ D"
-"145";"00:03:13:02";"00:03:17:00";"die durch Gemeinden durchfahren."
-"146";"00:03:17:04";"00:03:17:04";"FABst6d Das muss man( ( in einen Aus,"
-"147";"00:03:17:04";"00:03:17:04";"FABst$gleich bringen.ÿÿ=N"
-"148";"00:03:17:04";"00:03:19:21";"Das muss man
+144;00:03:13:02;00:03:13:02;FABst5Ndie durch Gemeinden durchfahren.ÿÿ D
+145;00:03:13:02;00:03:17:00;die durch Gemeinden durchfahren.
+146;00:03:17:04;00:03:17:04;FABst6d Das muss man( ( in einen Aus,
+147;00:03:17:04;00:03:17:04;FABst$gleich bringen.ÿÿ=N
+148;00:03:17:04;00:03:19:21;"Das muss man
 
 in einen Ausgleich bringen."
-"149";"00:03:20:21";"00:03:20:21";"FABst7d Die FDP zeigt sich( ( auf ihrem Par$"
-"150";"00:03:20:21";"00:03:20:21";"FABst0teitag selbstbewusst.ÿÿ1B"
-"151";"00:03:20:21";"00:03:24:01";"Die FDP zeigt sich
+149;00:03:20:21;00:03:20:21;FABst7d Die FDP zeigt sich( ( auf ihrem Par$
+150;00:03:20:21;00:03:20:21;FABst0teitag selbstbewusst.ÿÿ1B
+151;00:03:20:21;00:03:24:01;"Die FDP zeigt sich
 
 auf ihrem Parteitag selbstbewusst."
-"152";"00:03:24:05";"00:03:24:05";"FABst8d Die Stimmung in der Ampel( ( dürft¬"
-"153";"00:03:24:05";"00:03:24:05";"FABst2e das nicht befördern.ÿÿ/m`"
-"154";"00:03:24:05";"00:03:27:12";"Die Stimmung in der Ampel
+152;00:03:24:05;00:03:24:05;FABst8d Die Stimmung in der Ampel( ( dürft¬
+153;00:03:24:05;00:03:24:05;FABst2e das nicht befördern.ÿÿ/m`
+154;00:03:24:05;00:03:27:12;"Die Stimmung in der Ampel
 
 dÈurfte das nicht befÈordern."
-"155";"00:03:29:02";"00:03:29:02";"FABst9VDie FDP und ihre Rolle in der Ampel.ÿÿÊ"
-"156";"00:03:29:02";"00:03:31:09";"Die FDP und ihre Rolle in der Ampel."
-"157";"00:03:31:13";"00:03:31:13";"FABst:d Dazu hat Frank Jahn vom NDR( ( â"
-"158";"00:03:31:13";"00:03:31:13";"FABst&diese Meinung.ÿÿ;Ó"
-"159";"00:03:31:13";"00:03:34:13";"Dazu hat Frank Jahn vom NDR
+155;00:03:29:02;00:03:29:02;FABst9VDie FDP und ihre Rolle in der Ampel.ÿÿÊ
+156;00:03:29:02;00:03:31:09;Die FDP und ihre Rolle in der Ampel.
+157;00:03:31:13;00:03:31:13;FABst:d Dazu hat Frank Jahn vom NDR( ( â
+158;00:03:31:13;00:03:31:13;"FABst&diese Meinung.ÿÿ;Ó"
+159;00:03:31:13;00:03:34:13;"Dazu hat Frank Jahn vom NDR
 
 diese Meinung."
-"160";"00:03:37:00";"00:03:37:00";"FABst;d Ohne die FDP wäre es vermutlich( ( rÙÎ"
-"161";"00:03:37:00";"00:03:37:00";"FABst6uhiger in der Regierung.ÿÿ+Üà"
-"162";"00:03:37:00";"00:03:41:03";"Ohne die FDP wÈare es vermutlich
+160;00:03:37:00;00:03:37:00;"FABst;d Ohne die FDP wäre es vermutlich( ( rÙÎ"
+161;00:03:37:00;00:03:37:00;FABst6uhiger in der Regierung.ÿÿ+Üà
+162;00:03:37:00;00:03:41:03;"Ohne die FDP wÈare es vermutlich
 
 ruhiger in der Regierung."
-"163";"00:03:41:07";"00:03:41:07";"FABst<d Aber wäre leiser( ( auch besô<"
-"164";"00:03:41:07";"00:03:41:07";"FABst"ser fürs Land?ÿÿ?¶"
-"165";"00:03:41:07";"00:03:43:12";"Aber wÈare leiser
+163;00:03:41:07;00:03:41:07;FABst<d Aber wäre leiser( ( auch besô<
+164;00:03:41:07;00:03:41:07;"FABst""ser fürs Land?ÿÿ?¶"
+165;00:03:41:07;00:03:43:12;"Aber wÈare leiser
 
 auch besser fÈurs Land?"
-"166";"00:03:43:16";"00:03:43:16";"FABst=J Nicht unbedingt, finde ich.ÿÿÐ"
-"167";"00:03:43:16";"00:03:45:05";"Nicht unbedingt, finde ich."
-"168";"00:03:45:09";"00:03:45:09";"FABst>d Es ist gut, dass der FDP-Chef( ( siö"
-"169";"00:03:45:09";"00:03:45:09";"FABst2eine Schlüsselposition7~"
-"170";"00:03:45:09";"00:03:48:12";"Es ist gut, dass der FDP-Chef
+166;00:03:43:16;00:03:43:16;FABst=J Nicht unbedingt, finde ich.ÿÿÐ
+167;00:03:43:16;00:03:45:05;Nicht unbedingt, finde ich.
+168;00:03:45:09;00:03:45:09;FABst>d Es ist gut, dass der FDP-Chef( ( siö
+169;00:03:45:09;00:03:45:09;FABst2eine Schlüsselposition7~
+170;00:03:45:09;00:03:48:12;"Es ist gut, dass der FDP-Chef
 
 seine SchlÈusselposition"
-"171";"00:03:48:16";"00:03:48:16";"FABst?d als Finanzminister nutzt und( ( die Sch_,"
-"172";"00:03:48:16";"00:03:48:16";"FABst@uldenbremse quietschen lässt.)4ª"
-"173";"00:03:48:16";"00:03:52:23";"als Finanzminister nutzt und
+171;00:03:48:16;00:03:48:16;FABst?d als Finanzminister nutzt und( ( die Sch_,
+172;00:03:48:16;00:03:48:16;FABst@uldenbremse quietschen lässt.)4ª
+173;00:03:48:16;00:03:52:23;"als Finanzminister nutzt und
 
 die Schuldenbremse quietschen lÈasst."
-"174";"00:03:53:02";"00:03:53:02";"FABst@d Sonst würden die Ausgabenwünsche( ( ,Ò"
-"175";"00:03:53:02";"00:03:53:02";"FABst, der Ampelpartnerÿÿ5¼º"
-"176";"00:03:53:02";"00:03:56:00";"Sonst wÈurden die AusgabenwÈunsche
+174;00:03:53:02;00:03:53:02;FABst@d Sonst würden die Ausgabenwünsche( ( ,Ò
+175;00:03:53:02;00:03:53:02;FABst, der Ampelpartnerÿÿ5¼º
+176;00:03:53:02;00:03:56:00;"Sonst wÈurden die AusgabenwÈunsche
 
 der Ampelpartner"
-"177";"00:03:56:04";"00:03:56:04";"FABstAdkünftigen Generationen wohl noch mehr( ( º¨"
-"178";"00:03:56:04";"00:03:56:04";"FABstFerdrückende Schulden aufbürden.ÿÿµ¾"
-"179";"00:03:56:04";"00:04:00:04";"kÈunftigen Generationen wohl noch mehr
+177;00:03:56:04;00:03:56:04;FABstAdkünftigen Generationen wohl noch mehr( ( º¨
+178;00:03:56:04;00:03:56:04;FABstFerdrückende Schulden aufbürden.ÿÿµ¾
+179;00:03:56:04;00:04:00:04;"kÈunftigen Generationen wohl noch mehr
 
 erdrÈuckende Schulden aufbÈurden."
-"180";"00:04:00:08";"00:04:00:08";"FABstBd Viele Berufspendler( ( dürfûÜ"
-"181";"00:04:00:08";"00:04:00:08";"FABst$ten froh sein, ÿÿ=Ä"
-"182";"00:04:00:08";"00:04:02:18";"Viele Berufspendler
+180;00:04:00:08;00:04:00:08;FABstBd Viele Berufspendler( ( dürfûÜ
+181;00:04:00:08;00:04:00:08;FABst$ten froh sein, ÿÿ=Ä
+182;00:04:00:08;00:04:02:18;"Viele Berufspendler
 
 dÈurften froh sein,"
-"183";"00:04:02:22";"00:04:02:22";"FABstCd dass dank FDP der Straßenbau( ( bei deÐ"
-"184";"00:04:02:22";"00:04:02:22";"FABst6r Planungsbeschleunigungÿÿ+</i>Z"
-"185";"00:04:02:22";"00:04:06:11";"dass dank FDP der Straûenbau
+183;00:04:02:22;00:04:02:22;FABstCd dass dank FDP der Straßenbau( ( bei deÐ
+184;00:04:02:22;00:04:02:22;FABst6r Planungsbeschleunigungÿÿ+</i>Z
+185;00:04:02:22;00:04:06:11;"dass dank FDP der Straûenbau
 
 bei der Planungsbeschleunigung"
-"186";"00:04:06:15";"00:04:06:15";"FABstDH nicht hinten runterfällt.ÿÿf$"
-"187";"00:04:06:15";"00:04:08:09";"nicht hinten runterfÈallt."
-"188";"00:04:08:14";"00:04:08:14";"FABstEd Und dass die Liberalen( ( beim Heiz("
-"189";"00:04:08:14";"00:04:08:14";"FABst0ungstausch fürs Klimaÿÿ1"R"
-"190";"00:04:08:14";"00:04:11:16";"Und dass die Liberalen
+186;00:04:06:15;00:04:06:15;FABstDH nicht hinten runterfällt.ÿÿf$
+187;00:04:06:15;00:04:08:09;nicht hinten runterfÈallt.
+188;00:04:08:14;00:04:08:14;FABstEd Und dass die Liberalen( ( beim Heiz(
+189;00:04:08:14;00:04:08:14;"FABst0ungstausch fürs Klimaÿÿ1""R"
+190;00:04:08:14;00:04:11:16;"Und dass die Liberalen
 
 beim Heizungstausch fÈurs Klima"
-"191";"00:04:11:20";"00:04:11:20";"FABstFd die Härten entschärfen wollen,( ( lässÓ<i>"
-"192";"00:04:11:20";"00:04:11:20";"FABst6t ebenso viele aufatmen.ÿÿ+è¼"
-"193";"00:04:11:20";"00:04:15:11";"die HÈarten entschÈarfen wollen,
+191;00:04:11:20;00:04:11:20;FABstFd die Härten entschärfen wollen,( ( lässÓ<i>
+192;00:04:11:20;00:04:11:20;FABst6t ebenso viele aufatmen.ÿÿ+è¼
+193;00:04:11:20;00:04:15:11;"die HÈarten entschÈarfen wollen,
 
 lÈasst ebenso viele aufatmen."
-"194";"00:04:15:15";"00:04:15:15";"FABstGd Die Grünen werfen deshalb( ( ihrem KoaÒì"
-"195";"00:04:15:15";"00:04:15:15";"FABst4litionspartner FDP vor,ÿÿ-åê"
-"196";"00:04:15:15";"00:04:19:20";"Die GrÈunen werfen deshalb
+194;00:04:15:15;00:04:15:15;FABstGd Die Grünen werfen deshalb( ( ihrem KoaÒì
+195;00:04:15:15;00:04:15:15;FABst4litionspartner FDP vor,ÿÿ-åê
+196;00:04:15:15;00:04:19:20;"Die GrÈunen werfen deshalb
 
 ihrem Koalitionspartner FDP vor,"
-"197";"00:04:20:01";"00:04:20:01";"FABstHL den Fortschritt zu blockieren.ÿÿÎ&"
-"198";"00:04:20:01";"00:04:22:06";"den Fortschritt zu blockieren."
-"199";"00:04:22:10";"00:04:22:10";"FABstId Ich sage, die FDP( ( verhindert mi7"
-"200";"00:04:22:10";"00:04:22:10";"FABst2tunter das Schlimmste.ÿÿ/P"
-"201";"00:04:22:10";"00:04:26:01";"Ich sage, die FDP
+197;00:04:20:01;00:04:20:01;FABstHL den Fortschritt zu blockieren.ÿÿÎ&
+198;00:04:20:01;00:04:22:06;den Fortschritt zu blockieren.
+199;00:04:22:10;00:04:22:10;FABstId Ich sage, die FDP( ( verhindert mi7
+200;00:04:22:10;00:04:22:10;FABst2tunter das Schlimmste.ÿÿ/P
+201;00:04:22:10;00:04:26:01;"Ich sage, die FDP
 
 verhindert mitunter das Schlimmste."
-"202";"00:04:27:03";"00:04:27:03";"FABstJd Aber Verhindern allein( ( kann nicht+@"
-"203";"00:04:27:03";"00:04:27:03";"FABst< der Anspruch der FDP sein.ÿÿ%8"
-"204";"00:04:27:03";"00:04:30:16";"Aber Verhindern allein
+202;00:04:27:03;00:04:27:03;FABstJd Aber Verhindern allein( ( kann nicht+@
+203;00:04:27:03;00:04:27:03;FABst< der Anspruch der FDP sein.ÿÿ%8
+204;00:04:27:03;00:04:30:16;"Aber Verhindern allein
 
 kann nicht der Anspruch der FDP sein."
-"205";"00:04:30:20";"00:04:30:20";"FABstKd Voranbringen muss sie das Land( ( a4¬"
-"206";"00:04:30:20";"00:04:30:20";"FABst.ls Regierungspartei.ÿÿ3Ûh"
-"207";"00:04:30:20";"00:04:33:21";"Voranbringen muss sie das Land
+205;00:04:30:20;00:04:30:20;FABstKd Voranbringen muss sie das Land( ( a4¬
+206;00:04:30:20;00:04:30:20;FABst.ls Regierungspartei.ÿÿ3Ûh
+207;00:04:30:20;00:04:33:21;"Voranbringen muss sie das Land
 
 als Regierungspartei."
-"208";"00:04:33:24";"00:04:33:24";"FABstLRAuf ihrem Parteitag fordert sie nunÿÿÆ8"
-"209";"00:04:33:24";"00:04:36:02";"Auf ihrem Parteitag fordert sie nun"
-"210";"00:04:36:05";"00:04:36:05";"FABstMd eine neue Dynamik für( ( Wirtschaftswän"
-"211";"00:04:36:05";"00:04:36:05";"FABst2achstum und Wohlstand.ÿÿ/j"
-"212";"00:04:36:05";"00:04:39:12";"eine neue Dynamik fÈur
+208;00:04:33:24;00:04:33:24;FABstLRAuf ihrem Parteitag fordert sie nunÿÿÆ8
+209;00:04:33:24;00:04:36:02;Auf ihrem Parteitag fordert sie nun
+210;00:04:36:05;00:04:36:05;FABstMd eine neue Dynamik für( ( Wirtschaftswän
+211;00:04:36:05;00:04:36:05;FABst2achstum und Wohlstand.ÿÿ/j
+212;00:04:36:05;00:04:39:12;"eine neue Dynamik fÈur
 
 Wirtschaftswachstum und Wohlstand."
-"213";"00:04:39:16";"00:04:39:16";"FABstNd Doch dafür braucht sie( ( ihre ú"
-"214";"00:04:39:16";"00:04:39:16";"FABst(Koalitionspartnerÿÿ9½à"
-"215";"00:04:39:16";"00:04:42:10";"Doch dafÈur braucht sie
+213;00:04:39:16;00:04:39:16;FABstNd Doch dafür braucht sie( ( ihre ú
+214;00:04:39:16;00:04:39:16;FABst(Koalitionspartnerÿÿ9½à
+215;00:04:39:16;00:04:42:10;"Doch dafÈur braucht sie
 
 ihre Koalitionspartner"
-"216";"00:04:42:14";"00:04:42:14";"FABstOd und sollte( ( deshalb Kompr^"
-"217";"00:04:42:14";"00:04:42:14";"FABst"omisse machen.ÿÿ?ü"
-"218";"00:04:42:14";"00:04:44:19";"und sollte
+216;00:04:42:14;00:04:42:14;FABstOd und sollte( ( deshalb Kompr^
+217;00:04:42:14;00:04:42:14;"FABst""omisse machen.ÿÿ?ü"
+218;00:04:42:14;00:04:44:19;"und sollte
 
 deshalb Kompromisse machen."
-"219";"00:04:44:21";"00:04:44:21";"FABstPd Die Grünen akzeptierten( ( etwas l«"
-"220";"00:04:44:21";"00:04:44:21";"FABst2ängere AKW-Laufzeiten.`/P"
-"221";"00:04:44:21";"00:04:48:02";"Die GrÈunen akzeptierten
+219;00:04:44:21;00:04:44:21;FABstPd Die Grünen akzeptierten( ( etwas l«
+220;00:04:44:21;00:04:44:21;FABst2ängere AKW-Laufzeiten.`/P
+221;00:04:44:21;00:04:48:02;"Die GrÈunen akzeptierten
 
 etwas lÈangere AKW-Laufzeiten."
-"222";"00:04:49:00";"00:04:49:00";"FABstQdSie nahmen hin, dass klimaneutrale( ( ô"
-"223";"00:04:49:00";"00:04:49:00";"FABst0Verbrennungsmotoren`1ÁÜ"
-"224";"00:04:49:00";"00:04:52:08";"Sie nahmen hin, dass klimaneutrale
+222;00:04:49:00;00:04:49:00;FABstQdSie nahmen hin, dass klimaneutrale( ( ô
+223;00:04:49:00;00:04:49:00;FABst0Verbrennungsmotoren`1ÁÜ
+224;00:04:49:00;00:04:52:08;"Sie nahmen hin, dass klimaneutrale
 
 Verbrennungsmotoren"
-"225";"00:04:52:11";"00:04:52:11";"FABstRH eine Zukunft haben sollen.ÿÿÙR"
-"226";"00:04:52:11";"00:04:54:04";"eine Zukunft haben sollen."
-"227";"00:04:54:08";"00:04:54:08";"FABstSD Ist es da unzumutbar,ÿÿö"
-"228";"00:04:54:08";"00:04:56:05";"Ist es da unzumutbar,"
-"229";"00:04:56:09";"00:04:56:09";"FABstTd dass die FDP ein Stück( ( über ihren <Ø"
-"230";"00:04:56:09";"00:04:56:09";"FABst6Steuer-Schatten springt?ÿÿ+µ"
-"231";"00:04:56:09";"00:04:59:20";"dass die FDP ein StÈuck
+225;00:04:52:11;00:04:52:11;FABstRH eine Zukunft haben sollen.ÿÿÙR
+226;00:04:52:11;00:04:54:04;eine Zukunft haben sollen.
+227;00:04:54:08;00:04:54:08;FABstSD Ist es da unzumutbar,ÿÿö
+228;00:04:54:08;00:04:56:05;Ist es da unzumutbar,
+229;00:04:56:09;00:04:56:09;FABstTd dass die FDP ein Stück( ( über ihren <Ø
+230;00:04:56:09;00:04:56:09;FABst6Steuer-Schatten springt?ÿÿ+µ
+231;00:04:56:09;00:04:59:20;"dass die FDP ein StÈuck
 
 Èuber ihren Steuer-Schatten springt?"
-"232";"00:04:59:24";"00:04:59:24";"FABstUd Die größten Vermögen ( ( könnBò"
-"233";"00:04:59:24";"00:04:59:24";"FABst(ten mehr abgeben.ÿÿ9×º"
-"234";"00:04:59:24";"00:05:02:11";"Die grÈoûten VermÈogen
+232;00:04:59:24;00:04:59:24;FABstUd Die größten Vermögen ( ( könnBò
+233;00:04:59:24;00:04:59:24;FABst(ten mehr abgeben.ÿÿ9×º
+234;00:04:59:24;00:05:02:11;"Die grÈoûten VermÈogen
 
 kÈonnten mehr abgeben."
-"235";"00:05:02:15";"00:05:02:15";"FABstVVDas fordern selbst manche Millionäre.ÿÿP"
-"236";"00:05:02:15";"00:05:05:01";"Das fordern selbst manche MillionÈare."
-"237";"00:05:05:05";"00:05:05:05";"FABstWd Es brächte Hunderte Millionen( ( fürL"
-"238";"00:05:05:05";"00:05:05:05";"FABst6 Fortschrittsprojekte - ÿÿ+Ú®"
-"239";"00:05:05:05";"00:05:08:09";"Es brÈachte Hunderte Millionen
+235;00:05:02:15;00:05:02:15;FABstVVDas fordern selbst manche Millionäre.ÿÿP
+236;00:05:02:15;00:05:05:01;Das fordern selbst manche MillionÈare.
+237;00:05:05:05;00:05:05:05;FABstWd Es brächte Hunderte Millionen( ( fürL
+238;00:05:05:05;00:05:05:05;FABst6 Fortschrittsprojekte - ÿÿ+Ú®
+239;00:05:05:05;00:05:08:09;"Es brÈachte Hunderte Millionen
 
 fÈur Fortschrittsprojekte -"
-"240";"00:05:08:13";"00:05:08:13";"FABstXd und vermutlich( ( etwas Frieden$"
-"241";"00:05:08:13";"00:05:08:13";"FABst* in der Koalition.ÿÿ7Ö´"
-"242";"00:05:08:13";"00:05:11:06";"und vermutlich
+240;00:05:08:13;00:05:08:13;FABstXd und vermutlich( ( etwas Frieden$
+241;00:05:08:13;00:05:08:13;FABst* in der Koalition.ÿÿ7Ö´
+242;00:05:08:13;00:05:11:06;"und vermutlich
 
 etwas Frieden in der Koalition."
-"243";"00:05:11:10";"00:05:11:10";"FABstYJ Liberale tun dem Land gut -ÿÿ"
-"244";"00:05:11:10";"00:05:13:00";"Liberale tun dem Land gut -"
-"245";"00:05:13:02";"00:05:13:02";"FABstZd solange ihr Selbstbewusstsein( ( niÖ"
-"246";"00:05:13:02";"00:05:13:02";"FABst2cht zu Starrsinn wird.ÿÿ/Ú<"
-"247";"00:05:13:02";"00:05:16:05";"solange ihr Selbstbewusstsein
+243;00:05:11:10;00:05:11:10;FABstYJ Liberale tun dem Land gut -ÿÿ
+244;00:05:11:10;00:05:13:00;Liberale tun dem Land gut -
+245;00:05:13:02;00:05:13:02;FABstZd solange ihr Selbstbewusstsein( ( niÖ
+246;00:05:13:02;00:05:13:02;FABst2cht zu Starrsinn wird.ÿÿ/Ú<
+247;00:05:13:02;00:05:16:05;"solange ihr Selbstbewusstsein
 
 nicht zu Starrsinn wird."
-"248";"00:05:18:01";"00:05:18:01";"FABst[J Die Meinung von Frank Jahn.ÿÿþ´"
-"249";"00:05:18:01";"00:05:19:19";"Die Meinung von Frank Jahn."
-"250";"00:05:20:19";"00:05:20:19";"FABst\d Kommen wir zu einem finsteren( ( Kapite5x"
-"251";"00:05:20:19";"00:05:20:19";"FABst<l der deutschen Geschichte.ÿÿ%¿4"
-"252";"00:05:20:19";"00:05:24:10";"Kommen wir zu einem finsteren
+248;00:05:18:01;00:05:18:01;FABst[J Die Meinung von Frank Jahn.ÿÿþ´
+249;00:05:18:01;00:05:19:19;Die Meinung von Frank Jahn.
+250;00:05:20:19;00:05:20:19;FABst\d Kommen wir zu einem finsteren( ( Kapite5x
+251;00:05:20:19;00:05:20:19;FABst<l der deutschen Geschichte.ÿÿ%¿4
+252;00:05:20:19;00:05:24:10;"Kommen wir zu einem finsteren
 
 Kapitel der deutschen Geschichte."
-"253";"00:05:24:14";"00:05:24:14";"FABst]d Von 1884 bis 1915 war Deutsch-( ( Südweþ"
-"254";"00:05:24:14";"00:05:24:14";"FABstBstafrika, das heutige Namibia,ÿÿÑ"
-"255";"00:05:24:14";"00:05:28:11";"Von 1884 bis 1915 war Deutsch-
+253;00:05:24:14;00:05:24:14;FABst]d Von 1884 bis 1915 war Deutsch-( ( Südweþ
+254;00:05:24:14;00:05:24:14;FABstBstafrika, das heutige Namibia,ÿÿÑ
+255;00:05:24:14;00:05:28:11;"Von 1884 bis 1915 war Deutsch-
 
 SÈudwestafrika, das heutige Namibia,"
-"256";"00:05:28:15";"00:05:28:15";"FABst^@ deutsche Kolonie.ÿÿ¶¨"
-"257";"00:05:28:15";"00:05:30:05";"deutsche Kolonie."
-"258";"00:05:32:23";"00:05:32:23";"FABst_d Für die Volksgruppen der Herero( ( und ÅÊ"
-"259";"00:05:32:23";"00:05:32:23";"FABstDNama eine Zeit von großem Leid:ÿÿV¦"
-"260";"00:05:32:23";"00:05:37:14";"FÈur die Volksgruppen der Herero
+256;00:05:28:15;00:05:28:15;FABst^@ deutsche Kolonie.ÿÿ¶¨
+257;00:05:28:15;00:05:30:05;deutsche Kolonie.
+258;00:05:32:23;00:05:32:23;FABst_d Für die Volksgruppen der Herero( ( und ÅÊ
+259;00:05:32:23;00:05:32:23;FABstDNama eine Zeit von großem Leid:ÿÿV¦
+260;00:05:32:23;00:05:37:14;"FÈur die Volksgruppen der Herero
 
 und Nama eine Zeit von groûem Leid:"
-"261";"00:05:37:18";"00:05:37:18";"FABst`NNach Schätzungen von Historikernÿÿ4¢"
-"262";"00:05:37:18";"00:05:39:20";"Nach SchÈatzungen von Historikern"
-"263";"00:05:39:24";"00:05:39:24";"FABstadwurden mindestens 75.000 von ihnen( ( v²"
-"264";"00:05:39:24";"00:05:39:24";"FABst>on den Deutschen umgebracht.ÿÿ#×Â"
-"265";"00:05:39:24";"00:05:44:00";"wurden mindestens 75.000 von ihnen
+261;00:05:37:18;00:05:37:18;FABst`NNach Schätzungen von Historikernÿÿ4¢
+262;00:05:37:18;00:05:39:20;Nach SchÈatzungen von Historikern
+263;00:05:39:24;00:05:39:24;FABstadwurden mindestens 75.000 von ihnen( ( v²
+264;00:05:39:24;00:05:39:24;FABst>on den Deutschen umgebracht.ÿÿ#×Â
+265;00:05:39:24;00:05:44:00;"wurden mindestens 75.000 von ihnen
 
 von den Deutschen umgebracht."
-"266";"00:05:44:04";"00:05:44:04";"FABstb> Ein Völkermord.ÿÿh"
-"267";"00:05:44:04";"00:05:45:10";"Ein VÈolkermord."
-"268";"00:05:45:14";"00:05:45:14";"FABstcJ Namibia bekommt jetzt Gelderÿÿ"
-"269";"00:05:45:14";"00:05:47:24";"Namibia bekommt jetzt Gelder"
-"270";"00:05:48:03";"00:05:48:03";"FABstdd für Entwicklungs-( ( und VersöÄ"
-"271";"00:05:48:03";"00:05:48:03";"FABst$hnungsprojekte.ÿÿ=Ë"
-"272";"00:05:48:03";"00:05:52:03";"fÈur Entwicklungs-
+266;00:05:44:04;00:05:44:04;FABstb> Ein Völkermord.ÿÿh
+267;00:05:44:04;00:05:45:10;Ein VÈolkermord.
+268;00:05:45:14;00:05:45:14;FABstcJ Namibia bekommt jetzt Gelderÿÿ
+269;00:05:45:14;00:05:47:24;Namibia bekommt jetzt Gelder
+270;00:05:48:03;00:05:48:03;FABstdd für Entwicklungs-( ( und VersöÄ
+271;00:05:48:03;00:05:48:03;FABst$hnungsprojekte.ÿÿ=Ë
+272;00:05:48:03;00:05:52:03;"fÈur Entwicklungs-
 
 und VersÈohnungsprojekte."
-"273";"00:05:55:21";"00:05:55:21";"FABstedDoch bei den Nachfahren der Opfer( ( |v"
-"274";"00:05:55:21";"00:05:55:21";"FABst4kommt davon wenig an.ÿÿ-"
-"275";"00:05:55:21";"00:05:59:15";"Doch bei den Nachfahren der Opfer
+273;00:05:55:21;00:05:55:21;FABstedDoch bei den Nachfahren der Opfer( ( |v
+274;00:05:55:21;00:05:55:21;FABst4kommt davon wenig an.ÿÿ-
+275;00:05:55:21;00:05:59:15;"Doch bei den Nachfahren der Opfer
 
 kommt davon wenig an."
-"276";"00:05:59:19";"00:05:59:19";"FABstfdHeute enthüllten sie auf dem Gelände( ( eMH"
-"277";"00:05:59:19";"00:05:59:19";"FABstLines ehemaligen Internierungslagersÿÿýì"
-"278";"00:05:59:19";"00:06:04:02";"Heute enthÈullten sie auf dem GelÈande
+276;00:05:59:19;00:05:59:19;FABstfdHeute enthüllten sie auf dem Gelände( ( eMH
+277;00:05:59:19;00:05:59:19;FABstLines ehemaligen Internierungslagersÿÿýì
+278;00:05:59:19;00:06:04:02;"Heute enthÈullten sie auf dem GelÈande
 
 eines ehemaligen Internierungslagers"
-"279";"00:06:04:06";"00:06:04:06";"FABstg: ein Mahnmal.ÿÿ#»,"
-"280";"00:06:04:06";"00:06:05:14";"ein Mahnmal."
-"281";"00:06:05:22";"00:06:05:22";"FABsth< Richard Klug.ÿÿ!êÄ"
-"282";"00:06:05:22";"00:06:07:02";"Richard Klug."
-"283";"00:06:11:15";"00:06:11:15";"FABstidMit Musik sagen sie bei Tagesanbruch( ( -"
-"284";"00:06:11:15";"00:06:11:15";"FABst@den Geistern ihrer Vorfahren,)þþ"
-"285";"00:06:11:15";"00:06:15:12";"Mit Musik sagen sie bei Tagesanbruch
+279;00:06:04:06;00:06:04:06;FABstg: ein Mahnmal.ÿÿ#»,
+280;00:06:04:06;00:06:05:14;ein Mahnmal.
+281;00:06:05:22;00:06:05:22;FABsth< Richard Klug.ÿÿ!êÄ
+282;00:06:05:22;00:06:07:02;Richard Klug.
+283;00:06:11:15;00:06:11:15;FABstidMit Musik sagen sie bei Tagesanbruch( ( -
+284;00:06:11:15;00:06:11:15;FABst@den Geistern ihrer Vorfahren,)þþ
+285;00:06:11:15;00:06:15:12;"Mit Musik sagen sie bei Tagesanbruch
 
 den Geistern ihrer Vorfahren,"
-"286";"00:06:15:16";"00:06:15:16";"FABstj@ was sie vorhaben.%à$"
-"287";"00:06:15:16";"00:06:17:02";"was sie vorhaben."
-"288";"00:06:17:06";"00:06:17:06";"FABstkPSo will es die Tradition der Nama.ÿÿ§<"
-"289";"00:06:17:06";"00:06:19:22";"So will es die Tradition der Nama."
-"290";"00:06:21:21";"00:06:21:21";"FABstlJ Wir weinen um unsere Toten.ÿÿÉP"
-"291";"00:06:21:21";"00:06:23:17";"Wir weinen um unsere Toten."
-"292";"00:06:23:21";"00:06:23:21";"FABstmd Wir weinen um das Blut, ( ( das s@"
-"293";"00:06:23:21";"00:06:23:21";"FABst,ie vergossen haben.ÿÿ5Ô"
-"294";"00:06:23:21";"00:06:26:21";"Wir weinen um das Blut,
+286;00:06:15:16;00:06:15:16;FABstj@ was sie vorhaben.%à$
+287;00:06:15:16;00:06:17:02;was sie vorhaben.
+288;00:06:17:06;00:06:17:06;FABstkPSo will es die Tradition der Nama.ÿÿ§<
+289;00:06:17:06;00:06:19:22;So will es die Tradition der Nama.
+290;00:06:21:21;00:06:21:21;FABstlJ Wir weinen um unsere Toten.ÿÿÉP
+291;00:06:21:21;00:06:23:17;Wir weinen um unsere Toten.
+292;00:06:23:21;00:06:23:21;FABstmd Wir weinen um das Blut, ( ( das s@
+293;00:06:23:21;00:06:23:21;FABst,ie vergossen haben.ÿÿ5Ô
+294;00:06:23:21;00:06:26:21;"Wir weinen um das Blut,
 
 das sie vergossen haben."
-"295";"00:06:28:19";"00:06:28:19";"FABstnN Der Gedenkstein - noch verhüllt.ÿÿrü"
-"296";"00:06:28:19";"00:06:30:21";"Der Gedenkstein - noch verhÈullt."
-"297";"00:06:31:00";"00:06:31:00";"FABstoVEndlich, so sagen sie, haben wir ihn.ÿÿÊ"
-"298";"00:06:31:00";"00:06:33:22";"Endlich, so sagen sie, haben wir ihn."
-"299";"00:06:34:01";"00:06:34:01";"FABstpd Am Vormittag machen sie sich ( ( auf º"
-"300";"00:06:34:01";"00:06:34:01";"FABst8den Weg zur Gedenkstätte.ÿÿ)â"
-"301";"00:06:34:01";"00:06:38:05";"Am Vormittag machen sie sich
+295;00:06:28:19;00:06:28:19;FABstnN Der Gedenkstein - noch verhüllt.ÿÿrü
+296;00:06:28:19;00:06:30:21;Der Gedenkstein - noch verhÈullt.
+297;00:06:31:00;00:06:31:00;FABstoVEndlich, so sagen sie, haben wir ihn.ÿÿÊ
+298;00:06:31:00;00:06:33:22;Endlich, so sagen sie, haben wir ihn.
+299;00:06:34:01;00:06:34:01;FABstpd Am Vormittag machen sie sich ( ( auf º
+300;00:06:34:01;00:06:34:01;FABst8den Weg zur Gedenkstätte.ÿÿ)â
+301;00:06:34:01;00:06:38:05;"Am Vormittag machen sie sich
 
 auf den Weg zur GedenkstÈatte."
-"302";"00:06:39:12";"00:06:39:12";"FABstqd An der Spitze der Kolonne( ( eine->"
-"303";"00:06:39:12";"00:06:39:12";"FABst0 Anführerin der Nama:ÿÿ1*"
-"304";"00:06:39:12";"00:06:42:18";"An der Spitze der Kolonne
+302;00:06:39:12;00:06:39:12;FABstqd An der Spitze der Kolonne( ( eine->
+303;00:06:39:12;00:06:39:12;FABst0 Anführerin der Nama:ÿÿ1*
+304;00:06:39:12;00:06:42:18;"An der Spitze der Kolonne
 
 eine AnfÈuhrerin der Nama:"
-"305";"00:06:42:22";"00:06:42:22";"FABstr< Sima Luipert.ÿÿ!Ñ"
-"306";"00:06:42:22";"00:06:44:02";"Sima Luipert."
-"307";"00:06:44:09";"00:06:44:09";"FABstsd Die Vorfahren dieser Menschen( ( h¨"
-"308";"00:06:44:09";"00:06:44:09";"FABst& waren dabei,ÿÿ;øì"
-"309";"00:06:44:09";"00:06:46:22";"Die Vorfahren dieser Menschen
+305;00:06:42:22;00:06:42:22;FABstr< Sima Luipert.ÿÿ!Ñ
+306;00:06:42:22;00:06:44:02;Sima Luipert.
+307;00:06:44:09;00:06:44:09;FABstsd Die Vorfahren dieser Menschen( ( h¨
+308;00:06:44:09;00:06:44:09;"FABst& waren dabei,ÿÿ;øì"
+309;00:06:44:09;00:06:46:22;"Die Vorfahren dieser Menschen
 
 waren dabei,"
-"310";"00:06:46:24";"00:06:46:24";"FABsttdals das Deutsche Kaiserreich einen ( ( Vernb<i>"
-"311";"00:06:46:24";"00:06:46:24";"FABstDichtungskrieg gegen sie befahl.ÿÿÄè"
-"312";"00:06:46:24";"00:06:51:05";"als das Deutsche Kaiserreich einen
+310;00:06:46:24;00:06:46:24;FABsttdals das Deutsche Kaiserreich einen ( ( Vernb<i>
+311;00:06:46:24;00:06:46:24;FABstDichtungskrieg gegen sie befahl.ÿÿÄè
+312;00:06:46:24;00:06:51:05;"als das Deutsche Kaiserreich einen
 
 Vernichtungskrieg gegen sie befahl."
-"313";"00:06:51:07";"00:06:51:07";"FABstud 1904 hatten sich die Herero ( ( gegen|Ð"
-"314";"00:06:51:07";"00:06:51:07";"FABst4 die Deutschen erhoben.ÿÿ-¸l"
-"315";"00:06:51:07";"00:06:54:16";"1904 hatten sich die Herero
+313;00:06:51:07;00:06:51:07;FABstud 1904 hatten sich die Herero ( ( gegen|Ð
+314;00:06:51:07;00:06:51:07;FABst4 die Deutschen erhoben.ÿÿ-¸l
+315;00:06:51:07;00:06:54:16;"1904 hatten sich die Herero
 
 gegen die Deutschen erhoben."
-"316";"00:06:54:20";"00:06:54:20";"FABstvL Ein Jahr später auch die Nama.ÿÿc"
-"317";"00:06:54:20";"00:06:56:21";"Ein Jahr spÈater auch die Nama."
-"318";"00:06:57:00";"00:06:57:00";"FABstwdDie deutschen Kolonialherren schlugen( ( ]."
-"319";"00:06:57:00";"00:06:57:00";"FABstBdie Aufstände brutal nieder.ÿÿB"
-"320";"00:06:57:00";"00:07:00:23";"Die deutschen Kolonialherren schlugen
+316;00:06:54:20;00:06:54:20;FABstvL Ein Jahr später auch die Nama.ÿÿc
+317;00:06:54:20;00:06:56:21;Ein Jahr spÈater auch die Nama.
+318;00:06:57:00;00:06:57:00;FABstwdDie deutschen Kolonialherren schlugen( ( ].
+319;00:06:57:00;00:06:57:00;FABstBdie Aufstände brutal nieder.ÿÿB
+320;00:06:57:00;00:07:00:23;"Die deutschen Kolonialherren schlugen
 
 die AufstÈande brutal nieder."
-"321";"00:07:01:02";"00:07:01:02";"FABstxd Tausende Herero( ( wurden in dÄ"
-"322";"00:07:01:02";"00:07:01:02";"FABst*ie Wüste getriebenÿÿ7T"
-"323";"00:07:01:02";"00:07:03:19";"Tausende Herero
+321;00:07:01:02;00:07:01:02;FABstxd Tausende Herero( ( wurden in dÄ
+322;00:07:01:02;00:07:01:02;FABst*ie Wüste getriebenÿÿ7T
+323;00:07:01:02;00:07:03:19;"Tausende Herero
 
 wurden in die WÈuste getrieben"
-"324";"00:07:03:22";"00:07:03:22";"FABstyD und verdursteten dort.ÿÿ<u>"
-"325";"00:07:03:22";"00:07:05:14";"und verdursteten dort."
-"326";"00:07:05:18";"00:07:05:18";"FABstzd Die Überlebenden( ( wurden auf Sha´¸"
-"327";"00:07:05:18";"00:07:05:18";"FABst0rk Island interniert.ÿÿ1æ^"
-"328";"00:07:05:18";"00:07:09:10";"Die ÈUberlebenden
+324;00:07:03:22;00:07:03:22;FABstyD und verdursteten dort.ÿÿ<u>
+325;00:07:03:22;00:07:05:14;und verdursteten dort.
+326;00:07:05:18;00:07:05:18;FABstzd Die Überlebenden( ( wurden auf Sha´¸
+327;00:07:05:18;00:07:05:18;FABst0rk Island interniert.ÿÿ1æ^
+328;00:07:05:18;00:07:09:10;"Die ÈUberlebenden
 
 wurden auf Shark Island interniert."
-"329";"00:07:11:18";"00:07:11:18";"FABst{d Hier musste meine Urgroßmutter( ( dieüb"
-"330";"00:07:11:18";"00:07:11:18";"FABst2 Haut von den Schädeln7r@"
-"331";"00:07:11:18";"00:07:15:20";"Hier musste meine Urgroûmutter
+329;00:07:11:18;00:07:11:18;FABst{d Hier musste meine Urgroßmutter( ( dieüb
+330;00:07:11:18;00:07:11:18;FABst2 Haut von den Schädeln7r@
+331;00:07:11:18;00:07:15:20;"Hier musste meine Urgroûmutter
 
 die Haut von den SchÈadeln"
-"332";"00:07:15:24";"00:07:15:24";"FABst|dihrer getöteten Familienmitglieder( ( èÈ"
-"333";"00:07:15:24";"00:07:15:24";"FABst* kratzen.?¾z"
-"334";"00:07:15:24";"00:07:18:22";"ihrer getÈoteten Familienmitglieder
+332;00:07:15:24;00:07:15:24;FABst|dihrer getöteten Familienmitglieder( ( èÈ
+333;00:07:15:24;00:07:15:24;FABst* kratzen.?¾z
+334;00:07:15:24;00:07:18:22;"ihrer getÈoteten Familienmitglieder
 
 kratzen."
-"335";"00:07:19:01";"00:07:19:01";"FABst}J Und sie wurde vergewaltigt.ÿÿª"
-"336";"00:07:19:01";"00:07:21:01";"Und sie wurde vergewaltigt."
-"337";"00:07:23:04";"00:07:23:04";"FABst~d Die Schädel( ( wurden nach Deutëd"
-"338";"00:07:23:04";"00:07:23:04";"FABst&schland gebrachtÿÿ;£¸"
-"339";"00:07:23:04";"00:07:26:02";"Die SchÈadel
+335;00:07:19:01;00:07:19:01;FABst}J Und sie wurde vergewaltigt.ÿÿª
+336;00:07:19:01;00:07:21:01;Und sie wurde vergewaltigt.
+337;00:07:23:04;00:07:23:04;FABst~d Die Schädel( ( wurden nach Deutëd
+338;00:07:23:04;00:07:23:04;"FABst&schland gebrachtÿÿ;£¸"
+339;00:07:23:04;00:07:26:02;"Die SchÈadel
 
 wurden nach Deutschland gebracht"
-"340";"00:07:26:07";"00:07:26:07";"FABstPund von "Rassekundlern" vermessen.ÿÿô"
-"341";"00:07:26:07";"00:07:28:10";"und von "Rassekundlern" vermessen."
-"342";"00:07:28:14";"00:07:28:14";"FABst<i>D Die wollten beweisen,ÿÿ"
-"343";"00:07:28:14";"00:07:29:23";"Die wollten beweisen,"
-"344";"00:07:30:02";"00:07:30:02";"FABst</i>d dass schwarze Menschen( ( minÏà"
-"345";"00:07:30:02";"00:07:30:02";"FABst$derwertig sind.ÿÿ=</u>."
-"346";"00:07:30:02";"00:07:32:19";"dass schwarze Menschen
+340;00:07:26:07;00:07:26:07;"FABstPund von ""Rassekundlern"" vermessen.ÿÿô"
+341;00:07:26:07;00:07:28:10;"und von ""Rassekundlern"" vermessen."
+342;00:07:28:14;00:07:28:14;FABst<i>D Die wollten beweisen,ÿÿ
+343;00:07:28:14;00:07:29:23;Die wollten beweisen,
+344;00:07:30:02;00:07:30:02;FABst</i>d dass schwarze Menschen( ( minÏà
+345;00:07:30:02;00:07:30:02;FABst$derwertig sind.ÿÿ=</u>.
+346;00:07:30:02;00:07:32:19;"dass schwarze Menschen
 
 minderwertig sind."
-"347";"00:07:32:23";"00:07:32:23";"FABst<u>d Die Gedenkveranstaltung gehörte ( ( ganz zè"
-"348";"00:07:32:23";"00:07:32:23";"FABst<allein den Nama und Herero.ÿÿ%Í"
-"349";"00:07:32:23";"00:07:37:08";"Die Gedenkveranstaltung gehÈorte
+347;00:07:32:23;00:07:32:23;FABst<u>d Die Gedenkveranstaltung gehörte ( ( ganz zè
+348;00:07:32:23;00:07:32:23;FABst<allein den Nama und Herero.ÿÿ%Í
+349;00:07:32:23;00:07:37:08;"Die Gedenkveranstaltung gehÈorte
 
 ganz allein den Nama und Herero."
-"350";"00:07:38:14";"00:07:38:14";"FABst</u>d Vertreter der namibischen und( ( deutscl"
-"351";"00:07:38:14";"00:07:38:14";"FABstDhen Regierung sind nicht dabei.ÿÿ¨h"
-"352";"00:07:38:14";"00:07:43:02";"Vertreter der namibischen und
+350;00:07:38:14;00:07:38:14;FABst</u>d Vertreter der namibischen und( ( deutscl
+351;00:07:38:14;00:07:38:14;FABstDhen Regierung sind nicht dabei.ÿÿ¨h
+352;00:07:38:14;00:07:43:02;"Vertreter der namibischen und
 
 deutschen Regierung sind nicht dabei."
-"353";"00:07:45:07";"00:07:45:07";"FABstd Paul John Isaak,( ( ein spirituellb"
-"354";"00:07:45:07";"00:07:45:07";"FABst0er Anführer der Nama,ÿÿ12"
-"355";"00:07:45:07";"00:07:48:09";"Paul John Isaak,
+353;00:07:45:07;00:07:45:07;FABstd Paul John Isaak,( ( ein spirituellb
+354;00:07:45:07;00:07:45:07;FABst0er Anführer der Nama,ÿÿ12
+355;00:07:45:07;00:07:48:09;"Paul John Isaak,
 
 ein spiritueller AnfÈuhrer der Nama,"
-"356";"00:07:48:13";"00:07:48:13";"FABstd erinnert die Anwesenden( ( an das Le½¼"
-"357";"00:07:48:13";"00:07:48:13";"FABst0iden ihrer Vorfahren.ÿÿ1ý^"
-"358";"00:07:48:13";"00:07:52:05";"erinnert die Anwesenden
+356;00:07:48:13;00:07:48:13;FABstd erinnert die Anwesenden( ( an das Le½¼
+357;00:07:48:13;00:07:48:13;FABst0iden ihrer Vorfahren.ÿÿ1ý^
+358;00:07:48:13;00:07:52:05;"erinnert die Anwesenden
 
 an das Leiden ihrer Vorfahren."
-"359";"00:07:54:03";"00:07:54:03";"FABstd Einige der Überlebenden( ( warel²"
-"360";"00:07:54:03";"00:07:54:03";"FABst,n fast verhungert. ="
-"361";"00:07:54:03";"00:07:57:07";"Einige der ÈUberlebenden
+359;00:07:54:03;00:07:54:03;FABstd Einige der Überlebenden( ( warel²
+360;00:07:54:03;00:07:54:03;FABst,n fast verhungert. =
+361;00:07:54:03;00:07:57:07;"Einige der ÈUberlebenden
 
 waren fast verhungert."
-"362";"00:07:57:11";"00:07:57:11";"FABstd Ihre Körper waren( ( nur noch HJ<"
-"363";"00:07:57:11";"00:07:57:11";"FABst&aut und Knochen.Cæ"
-"364";"00:07:57:11";"00:08:00:02";"Ihre KÈorper waren
+362;00:07:57:11;00:07:57:11;FABstd Ihre Körper waren( ( nur noch HJ<
+363;00:07:57:11;00:07:57:11;FABst&aut und Knochen.Cæ
+364;00:07:57:11;00:08:00:02;"Ihre KÈorper waren
 
 nur noch Haut und Knochen."
-"365";"00:08:00:06";"00:08:00:06";"FABstL Sie sahen aus wie Besenstiele,ÿÿP"
-"366";"00:08:00:06";"00:08:02:03";"Sie sahen aus wie Besenstiele,"
-"367";"00:08:02:07";"00:08:02:07";"FABstd durch ihre Knochen( ( konnte mÒ"
-"368";"00:08:02:07";"00:08:02:07";"FABst(an hindurchsehen.ÿÿ9¢"
-"369";"00:08:02:07";"00:08:04:21";"durch ihre Knochen
+365;00:08:00:06;00:08:00:06;FABstL Sie sahen aus wie Besenstiele,ÿÿP
+366;00:08:00:06;00:08:02:03;Sie sahen aus wie Besenstiele,
+367;00:08:02:07;00:08:02:07;FABstd durch ihre Knochen( ( konnte mÒ
+368;00:08:02:07;00:08:02:07;FABst(an hindurchsehen.ÿÿ9¢
+369;00:08:02:07;00:08:04:21;"durch ihre Knochen
 
 konnte man hindurchsehen."
-"370";"00:08:07:02";"00:08:07:02";"FABst
+370;00:08:07:02;00:08:07:02;"FABst
 d Einen Versöhnungsvertrag( ( zwischen o@"
-"371";"00:08:07:02";"00:08:07:02";"FABst4Namibia und Deutschlandÿÿ-."
-"372";"00:08:07:02";"00:08:11:08";"Einen VersÈohnungsvertrag
+371;00:08:07:02;00:08:07:02;FABst4Namibia und Deutschlandÿÿ-.
+372;00:08:07:02;00:08:11:08;"Einen VersÈohnungsvertrag
 
 zwischen Namibia und Deutschland"
-"373";"00:08:11:24";"00:08:11:24";"FABst< lehnen sie ab.ÿÿ!%"
-"374";"00:08:11:24";"00:08:13:09";"lehnen sie ab."
-"375";"00:08:17:02";"00:08:17:02";"FABstd Die Regierungen benutzen( ( den Völk[x"
-"376";"00:08:17:02";"00:08:17:02";"FABst4ermord nur als Vorwand.ÿÿ-¹$"
-"377";"00:08:17:02";"00:08:20:11";"Die Regierungen benutzen
+373;00:08:11:24;00:08:11:24;FABst< lehnen sie ab.ÿÿ!%
+374;00:08:11:24;00:08:13:09;lehnen sie ab.
+375;00:08:17:02;00:08:17:02;FABstd Die Regierungen benutzen( ( den Völk[x
+376;00:08:17:02;00:08:17:02;FABst4ermord nur als Vorwand.ÿÿ-¹$
+377;00:08:17:02;00:08:20:11;"Die Regierungen benutzen
 
 den VÈolkermord nur als Vorwand."
-"378";"00:08:20:14";"00:08:20:14";"FABstd Sie tun so, als ob ihnen( ( der Völ2Ö"
-"379";"00:08:20:14";"00:08:20:14";"FABst0kermord wichtig wäre.ÿÿ1Aj"
-"380";"00:08:20:14";"00:08:23:19";"Sie tun so, als ob ihnen
+378;00:08:20:14;00:08:20:14;FABstd Sie tun so, als ob ihnen( ( der Völ2Ö
+379;00:08:20:14;00:08:20:14;FABst0kermord wichtig wäre.ÿÿ1Aj
+380;00:08:20:14;00:08:23:19;"Sie tun so, als ob ihnen
 
 der VÈolkermord wichtig wÈare."
-"381";"00:08:23:23";"00:08:23:23";"FABstd Aber das ist ein Vertrag( ( über ?ö"
-"382";"00:08:23:23";"00:08:23:23";"FABst,Entwicklungshilfe. ÿÿ5¾à"
-"383";"00:08:23:23";"00:08:27:02";"Aber das ist ein Vertrag
+381;00:08:23:23;00:08:23:23;FABstd Aber das ist ein Vertrag( ( über ?ö
+382;00:08:23:23;00:08:23:23;FABst,Entwicklungshilfe. ÿÿ5¾à
+383;00:08:23:23;00:08:27:02;"Aber das ist ein Vertrag
 
 Èuber Entwicklungshilfe."
-"384";"00:08:27:06";"00:08:27:06";"FABst@ Der ist uns egal.ÿÿ`\"
-"385";"00:08:27:06";"00:08:28:14";"Der ist uns egal."
-"386";"00:08:31:20";"00:08:31:20";"FABstd Der Gedenkstein( ( ist für 1æ"
-"387";"00:08:31:20";"00:08:31:20";"FABst$Nama und Hereroÿÿ=<u>"
-"388";"00:08:31:20";"00:08:34:06";"Der Gedenkstein
+384;00:08:27:06;00:08:27:06;FABst@ Der ist uns egal.ÿÿ`\
+385;00:08:27:06;00:08:28:14;Der ist uns egal.
+386;00:08:31:20;00:08:31:20;FABstd Der Gedenkstein( ( ist für 1æ
+387;00:08:31:20;00:08:31:20;FABst$Nama und Hereroÿÿ=<u>
+388;00:08:31:20;00:08:34:06;"Der Gedenkstein
 
 ist fÈur Nama und Herero"
-"389";"00:08:34:11";"00:08:34:11";"FABstP ein wichtiger Ort der Erinnerung.ÿÿ2"
-"390";"00:08:34:11";"00:08:36:11";"ein wichtiger Ort der Erinnerung."
-"391";"00:08:36:15";"00:08:36:15";"FABstd Nach Jahrzehnten des Kampfes( ( èj"
-"392";"00:08:36:15";"00:08:36:15";"FABst(um Entschädigungÿÿ9È"
-"393";"00:08:36:15";"00:08:39:09";"Nach Jahrzehnten des Kampfes
+389;00:08:34:11;00:08:34:11;FABstP ein wichtiger Ort der Erinnerung.ÿÿ2
+390;00:08:34:11;00:08:36:11;ein wichtiger Ort der Erinnerung.
+391;00:08:36:15;00:08:36:15;FABstd Nach Jahrzehnten des Kampfes( ( èj
+392;00:08:36:15;00:08:36:15;FABst(um Entschädigungÿÿ9È
+393;00:08:36:15;00:08:39:09;"Nach Jahrzehnten des Kampfes
 
 um EntschÈadigung"
-"394";"00:08:39:13";"00:08:39:13";"FABstd wollen die beiden Völker( ( nun en,"
-"395";"00:08:39:13";"00:08:39:13";"FABst.dlich eine bekommen.ÿÿ3»ô"
-"396";"00:08:39:13";"00:08:42:22";"wollen die beiden VÈolker
+394;00:08:39:13;00:08:39:13;FABstd wollen die beiden Völker( ( nun en,
+395;00:08:39:13;00:08:39:13;FABst.dlich eine bekommen.ÿÿ3»ô
+396;00:08:39:13;00:08:42:22;"wollen die beiden VÈolker
 
 nun endlich eine bekommen."
-"397";"00:08:44:22";"00:08:44:22";"FABstF Das Recht auf Abtreibungÿÿ]l"
-"398";"00:08:44:22";"00:08:46:09";"Das Recht auf Abtreibung"
-"399";"00:08:46:13";"00:08:46:13";"FABstd sorgt in den USA( ( immer wieder0"
-"400";"00:08:46:13";"00:08:46:13";"FABst2 für heftige Debatten.ÿÿ/K"
-"401";"00:08:46:13";"00:08:49:14";"sorgt in den USA
+397;00:08:44:22;00:08:44:22;FABstF Das Recht auf Abtreibungÿÿ]l
+398;00:08:44:22;00:08:46:09;Das Recht auf Abtreibung
+399;00:08:46:13;00:08:46:13;FABstd sorgt in den USA( ( immer wieder0
+400;00:08:46:13;00:08:46:13;FABst2 für heftige Debatten.ÿÿ/K
+401;00:08:46:13;00:08:49:14;"sorgt in den USA
 
 immer wieder fÈur heftige Debatten."
-"402";"00:08:49:18";"00:08:49:18";"FABstH Der aktuelle Supreme Courtÿÿf"
-"403";"00:08:49:18";"00:08:51:13";"Der aktuelle Supreme Court"
-"404";"00:08:51:17";"00:08:51:17";"FABstd ist seit Donald Trump( ( mehrhe¸Ô"
-"405";"00:08:51:17";"00:08:51:17";"FABst,itlich konservativ.ÿÿ5Ð"
-"406";"00:08:51:17";"00:08:54:11";"ist seit Donald Trump
+402;00:08:49:18;00:08:49:18;FABstH Der aktuelle Supreme Courtÿÿf
+403;00:08:49:18;00:08:51:13;Der aktuelle Supreme Court
+404;00:08:51:17;00:08:51:17;FABstd ist seit Donald Trump( ( mehrhe¸Ô
+405;00:08:51:17;00:08:51:17;FABst,itlich konservativ.ÿÿ5Ð
+406;00:08:51:17;00:08:54:11;"ist seit Donald Trump
 
 mehrheitlich konservativ."
-"407";"00:08:54:15";"00:08:54:15";"FABstB Vor knapp einem Jahrÿÿv<"
-"408";"00:08:54:15";"00:08:55:24";"Vor knapp einem Jahr"
-"409";"00:08:56:03";"00:08:56:03";"FABstdkippte er das fast 50 Jahre lang( ( gelt¸"
-"410";"00:08:56:03";"00:08:56:03";"FABst:ende Recht auf Abtreibung.ÿÿ'ùl"
-"411";"00:08:56:03";"00:08:59:20";"kippte er das fast 50 Jahre lang
+407;00:08:54:15;00:08:54:15;FABstB Vor knapp einem Jahrÿÿv<
+408;00:08:54:15;00:08:55:24;Vor knapp einem Jahr
+409;00:08:56:03;00:08:56:03;FABstdkippte er das fast 50 Jahre lang( ( gelt¸
+410;00:08:56:03;00:08:56:03;FABst:ende Recht auf Abtreibung.ÿÿ'ùl
+411;00:08:56:03;00:08:59:20;"kippte er das fast 50 Jahre lang
 
 geltende Recht auf Abtreibung."
-"412";"00:09:00:00";"00:09:00:00";"FABstd Das hatte viele Amerikanerinnen( ( uòP"
-"413";"00:09:00:00";"00:09:00:00";"FABst4nd Amerikaner entsetzt.ÿÿ-âÈ"
-"414";"00:09:00:00";"00:09:03:11";"Das hatte viele Amerikanerinnen
+412;00:09:00:00;00:09:00:00;FABstd Das hatte viele Amerikanerinnen( ( uòP
+413;00:09:00:00;00:09:00:00;FABst4nd Amerikaner entsetzt.ÿÿ-âÈ
+414;00:09:00:00;00:09:03:11;"Das hatte viele Amerikanerinnen
 
 und Amerikaner entsetzt."
-"415";"00:09:03:15";"00:09:03:15";"FABstd Nun wollte der Bundesstaat Texas( ( auc×º"
-"416";"00:09:03:15";"00:09:03:15";"FABstHh die Abtreibungspille verbieten.ÿÿú$"
-"417";"00:09:03:15";"00:09:07:16";"Nun wollte der Bundesstaat Texas
+415;00:09:03:15;00:09:03:15;FABstd Nun wollte der Bundesstaat Texas( ( auc×º
+416;00:09:03:15;00:09:03:15;FABstHh die Abtreibungspille verbieten.ÿÿú$
+417;00:09:03:15;00:09:07:16;"Nun wollte der Bundesstaat Texas
 
 auch die Abtreibungspille verbieten."
-"418";"00:09:07:20";"00:09:07:20";"FABstJ Die lassen sich auch Frauenÿÿm"
-"419";"00:09:07:20";"00:09:09:21";"Die lassen sich auch Frauen"
-"420";"00:09:09:23";"00:09:09:23";"FABstd in Staaten( ( mit Abtreibungsá"
-"421";"00:09:09:23";"00:09:09:23";"FABst&verbot schicken.ÿÿ;ô|"
-"422";"00:09:09:23";"00:09:12:12";"in Staaten
+418;00:09:07:20;00:09:07:20;FABstJ Die lassen sich auch Frauenÿÿm
+419;00:09:07:20;00:09:09:21;Die lassen sich auch Frauen
+420;00:09:09:23;00:09:09:23;FABstd in Staaten( ( mit Abtreibungsá
+421;00:09:09:23;00:09:09:23;"FABst&verbot schicken.ÿÿ;ô|"
+422;00:09:09:23;00:09:12:12;"in Staaten
 
 mit Abtreibungsverbot schicken."
-"423";"00:09:12:15";"00:09:12:15";"FABstd Nun lehnte das Oberste Gericht( (
+423;00:09:12:15;00:09:12:15;"FABstd Nun lehnte das Oberste Gericht( (
 v"
-"424";"00:09:12:15";"00:09:12:15";"FABst& den Versuch,ÿÿ;ß"
-"425";"00:09:12:15";"00:09:15:13";"Nun lehnte das Oberste Gericht
+424;00:09:12:15;00:09:12:15;"FABst& den Versuch,ÿÿ;ß"
+425;00:09:12:15;00:09:15:13;"Nun lehnte das Oberste Gericht
 
 den Versuch,"
-"426";"00:09:15:16";"00:09:15:16";"FABstd den Zugang zu beschränken ab -( ( zumCÄ"
-"427";"00:09:15:16";"00:09:15:16";"FABst2indest für den Moment.ÿÿ/Ht"
-"428";"00:09:15:16";"00:09:18:21";"den Zugang zu beschrÈanken ab -
+426;00:09:15:16;00:09:15:16;FABstd den Zugang zu beschränken ab -( ( zumCÄ
+427;00:09:15:16;00:09:15:16;FABst2indest für den Moment.ÿÿ/Ht
+428;00:09:15:16;00:09:18:21;"den Zugang zu beschrÈanken ab -
 
 zumindest fÈur den Moment."
-"429";"00:09:19:00";"00:09:19:00";"FABst > Torben Börgers.ÿÿ©"
-"430";"00:09:19:00";"00:09:20:04";"Torben BÈorgers."
-"431";"00:09:21:07";"00:09:21:07";"FABst¡d Sie darf vorerst weiter( ( pe®"
-"432";"00:09:21:07";"00:09:21:07";"FABst(r Post verschicktA×ø"
-"433";"00:09:21:07";"00:09:24:03";"Sie darf vorerst weiter
+429;00:09:19:00;00:09:19:00;FABst > Torben Börgers.ÿÿ©
+430;00:09:19:00;00:09:20:04;Torben BÈorgers.
+431;00:09:21:07;00:09:21:07;FABst¡d Sie darf vorerst weiter( ( pe®
+432;00:09:21:07;00:09:21:07;FABst(r Post verschicktA×ø
+433;00:09:21:07;00:09:24:03;"Sie darf vorerst weiter
 
 per Post verschickt"
-"434";"00:09:24:07";"00:09:24:07";"FABst¢dund zu Hause eingenommen werden ( ( bis zû"
-"435";"00:09:24:07";"00:09:24:07";"FABst@ur 10. Schwangerschaftswoche:)ÝT"
-"436";"00:09:24:07";"00:09:28:07";"und zu Hause eingenommen werden Ð
+434;00:09:24:07;00:09:24:07;FABst¢dund zu Hause eingenommen werden ( ( bis zû
+435;00:09:24:07;00:09:24:07;FABst@ur 10. Schwangerschaftswoche:)ÝT
+436;00:09:24:07;00:09:28:07;"und zu Hause eingenommen werden Ð
 
 bis zur 10. Schwangerschaftswoche:"
-"437";"00:09:28:11";"00:09:28:11";"FABst£PDie Abtreibungspille Mifepristone,ÿÿh"
-"438";"00:09:28:11";"00:09:30:14";"Die Abtreibungspille Mifepristone,"
-"439";"00:09:30:18";"00:09:30:18";"FABst¤d in Deutschland( ( unter dem NameØP"
-"440";"00:09:30:18";"00:09:30:18";"FABst,n Mifegyne bekannt.ÿÿ5ÿ"
-"441";"00:09:30:18";"00:09:33:17";"in Deutschland
+437;00:09:28:11;00:09:28:11;FABst£PDie Abtreibungspille Mifepristone,ÿÿh
+438;00:09:28:11;00:09:30:14;Die Abtreibungspille Mifepristone,
+439;00:09:30:18;00:09:30:18;FABst¤d in Deutschland( ( unter dem NameØP
+440;00:09:30:18;00:09:30:18;FABst,n Mifegyne bekannt.ÿÿ5ÿ
+441;00:09:30:18;00:09:33:17;"in Deutschland
 
 unter dem Namen Mifegyne bekannt."
-"442";"00:09:33:21";"00:09:33:21";"FABst¥TDas Urteil des Obersten Gerichtshofsÿÿ."
-"443";"00:09:33:21";"00:09:35:24";"Das Urteil des Obersten Gerichtshofs"
-"444";"00:09:36:01";"00:09:36:01";"FABst¦d ist ein Sieg für die Regierung( ( voN"
-"445";"00:09:36:01";"00:09:36:01";"FABst0n US-Präsident Biden.ÿÿ1j"
-"446";"00:09:36:01";"00:09:39:05";"ist ein Sieg fÈur die Regierung
+442;00:09:33:21;00:09:33:21;FABst¥TDas Urteil des Obersten Gerichtshofsÿÿ.
+443;00:09:33:21;00:09:35:24;Das Urteil des Obersten Gerichtshofs
+444;00:09:36:01;00:09:36:01;FABst¦d ist ein Sieg für die Regierung( ( voN
+445;00:09:36:01;00:09:36:01;FABst0n US-Präsident Biden.ÿÿ1j
+446;00:09:36:01;00:09:39:05;"ist ein Sieg fÈur die Regierung
 
 von US-PrÈasident Biden."
-"447";"00:09:39:09";"00:09:39:09";"FABst§d Entsprechend erleichtert( ( d°"
-"448";"00:09:39:09";"00:09:39:09";"FABst$essen Reaktion.ÿÿ=µ"
-"449";"00:09:39:09";"00:09:42:02";"Entsprechend erleichtert
+447;00:09:39:09;00:09:39:09;FABst§d Entsprechend erleichtert( ( d°
+448;00:09:39:09;00:09:39:09;FABst$essen Reaktion.ÿÿ=µ
+449;00:09:39:09;00:09:42:02;"Entsprechend erleichtert
 
 dessen Reaktion."
-"450";"00:09:51:15";"00:09:51:15";"FABst¨d Er hatte dem Medikament vor( ( zwei Woc¤"
-"451";"00:09:51:15";"00:09:51:15";"FABst<hen die Zulassung entzogen:ÿÿ%½è"
-"452";"00:09:51:15";"00:09:55:09";"Er hatte dem Medikament vor
+450;00:09:51:15;00:09:51:15;FABst¨d Er hatte dem Medikament vor( ( zwei Woc¤
+451;00:09:51:15;00:09:51:15;FABst<hen die Zulassung entzogen:ÿÿ%½è
+452;00:09:51:15;00:09:55:09;"Er hatte dem Medikament vor
 
 zwei Wochen die Zulassung entzogen:"
-"453";"00:09:55:14";"00:09:55:14";"FABst©@ Matthew Kacsmaryk.ÿÿ "
-"454";"00:09:55:14";"00:09:56:21";"Matthew Kacsmaryk."
-"455";"00:09:57:00";"00:09:57:00";"FABstªTEin konservativer Richter aus Texas,ÿÿvÈ"
-"456";"00:09:57:00";"00:09:59:07";"Ein konservativer Richter aus Texas,"
-"457";"00:09:59:12";"00:09:59:12";"FABst«d von Ex-Präsident Donald Trump( ( ^"
-"458";"00:09:59:12";"00:09:59:12";"FABst" ernannt.ÿÿ?²ð"
-"459";"00:09:59:12";"00:10:02:02";"von Ex-PrÈasident Donald Trump
+453;00:09:55:14;00:09:55:14;FABst©@ Matthew Kacsmaryk.ÿÿ 
+454;00:09:55:14;00:09:56:21;Matthew Kacsmaryk.
+455;00:09:57:00;00:09:57:00;FABstªTEin konservativer Richter aus Texas,ÿÿvÈ
+456;00:09:57:00;00:09:59:07;Ein konservativer Richter aus Texas,
+457;00:09:59:12;00:09:59:12;FABst«d von Ex-Präsident Donald Trump( ( ^
+458;00:09:59:12;00:09:59:12;"FABst"" ernannt.ÿÿ?²ð"
+459;00:09:59:12;00:10:02:02;"von Ex-PrÈasident Donald Trump
 
 ernannt."
-"460";"00:10:02:06";"00:10:02:06";"FABst¬d Er wirft( ( der ArzneimittelbÅÎ"
-"461";"00:10:02:06";"00:10:02:06";"FABst$ehörde FDA vor:ÿÿ=nr"
-"462";"00:10:02:06";"00:10:04:23";"Er wirft
+460;00:10:02:06;00:10:02:06;FABst¬d Er wirft( ( der ArzneimittelbÅÎ
+461;00:10:02:06;00:10:02:06;FABst$ehörde FDA vor:ÿÿ=nr
+462;00:10:02:06;00:10:04:23;"Er wirft
 
 der ArzneimittelbehÈorde FDA vor:"
-"463";"00:10:05:02";"00:10:05:02";"FABst­d Sie habe bei der Zulassung( ( z"
-"464";"00:10:05:02";"00:10:05:02";"FABst$von Mifepristonÿÿ=é"
-"465";"00:10:05:02";"00:10:07:16";"Sie habe bei der Zulassung
+463;00:10:05:02;00:10:05:02;FABst­d Sie habe bei der Zulassung( ( z
+464;00:10:05:02;00:10:05:02;FABst$von Mifepristonÿÿ=é
+465;00:10:05:02;00:10:07:16;"Sie habe bei der Zulassung
 
 von Mifepriston"
-"466";"00:10:07:20";"00:10:07:20";"FABst®d Sicherheitsbedenken ( ( außerÞ"
-"467";"00:10:07:20";"00:10:07:20";"FABst$ Acht gelassen.ÿÿ=àZ"
-"468";"00:10:07:20";"00:10:11:02";"Sicherheitsbedenken
+466;00:10:07:20;00:10:07:20;FABst®d Sicherheitsbedenken ( ( außerÞ
+467;00:10:07:20;00:10:07:20;FABst$ Acht gelassen.ÿÿ=àZ
+468;00:10:07:20;00:10:11:02;"Sicherheitsbedenken
 
 auûer Acht gelassen."
-"469";"00:10:11:06";"00:10:11:06";"FABst¯d Seitdem wurde die Pille( ( nacÖæ"
-"470";"00:10:11:06";"00:10:11:06";"FABst*h Angaben der FDA ÿÿ7èR"
-"471";"00:10:11:06";"00:10:13:22";"Seitdem wurde die Pille
+469;00:10:11:06;00:10:11:06;FABst¯d Seitdem wurde die Pille( ( nacÖæ
+470;00:10:11:06;00:10:11:06;FABst*h Angaben der FDA ÿÿ7èR
+471;00:10:11:06;00:10:13:22;"Seitdem wurde die Pille
 
 nach Angaben der FDA"
-"472";"00:10:14:01";"00:10:14:01";"FABst°Rvon mehr als 5 Mio. Frauen genutzt.ÿÿ!L"
-"473";"00:10:14:01";"00:10:16:08";"von mehr als 5 Mio. Frauen genutzt."
-"474";"00:10:16:12";"00:10:16:12";"FABst±d In weniger als 1500 Fällen( ( habe es¬"
-"475";"00:10:16:12";"00:10:16:12";"FABst6 Komplikationen gegeben.ÿÿ+ò"
-"476";"00:10:16:12";"00:10:20:05";"In weniger als 1500 FÈallen
+472;00:10:14:01;00:10:14:01;FABst°Rvon mehr als 5 Mio. Frauen genutzt.ÿÿ!L
+473;00:10:14:01;00:10:16:08;von mehr als 5 Mio. Frauen genutzt.
+474;00:10:16:12;00:10:16:12;FABst±d In weniger als 1500 Fällen( ( habe es¬
+475;00:10:16:12;00:10:16:12;FABst6 Komplikationen gegeben.ÿÿ+ò
+476;00:10:16:12;00:10:20:05;"In weniger als 1500 FÈallen
 
 habe es Komplikationen gegeben."
-"477";"00:10:23:24";"00:10:23:24";"FABst²d Die Tatsache,( ( dass ein einÙ¸"
-"478";"00:10:23:24";"00:10:23:24";"FABst"zelner RichterGä"
-"479";"00:10:23:24";"00:10:26:09";"Die Tatsache,
+477;00:10:23:24;00:10:23:24;FABst²d Die Tatsache,( ( dass ein einÙ¸
+478;00:10:23:24;00:10:23:24;"FABst""zelner RichterGä"
+479;00:10:23:24;00:10:26:09;"Die Tatsache,
 
 dass ein einzelner Richter"
-"480";"00:10:26:13";"00:10:26:13";"FABst³d in einem einzigen Bezirk( ( in einem´ "
-"481";"00:10:26:13";"00:10:26:13";"FABst2 einzelnen Bundesstaat7Ñ"
-"482";"00:10:26:13";"00:10:29:18";"in einem einzigen Bezirk
+480;00:10:26:13;00:10:26:13;FABst³d in einem einzigen Bezirk( ( in einem´ 
+481;00:10:26:13;00:10:26:13;FABst2 einzelnen Bundesstaat7Ñ
+482;00:10:26:13;00:10:29:18;"in einem einzigen Bezirk
 
 in einem einzelnen Bundesstaat"
-"483";"00:10:29:20";"00:10:29:20";"FABst´d im ganzen Land so ein Chaos( ( anrichteL"
-"484";"00:10:29:20";"00:10:29:20";"FABst6n kann, ist alarmierend.ÿÿ+º*"
-"485";"00:10:29:20";"00:10:33:20";"im ganzen Land so ein Chaos
+483;00:10:29:20;00:10:29:20;FABst´d im ganzen Land so ein Chaos( ( anrichteL
+484;00:10:29:20;00:10:29:20;FABst6n kann, ist alarmierend.ÿÿ+º*
+485;00:10:29:20;00:10:33:20;"im ganzen Land so ein Chaos
 
 anrichten kann, ist alarmierend."
-"486";"00:10:34:11";"00:10:34:11";"FABstµP Ein Berufungsgericht in Louisianaÿÿ,"
-"487";"00:10:34:11";"00:10:36:14";"Ein Berufungsgericht in Louisiana"
-"488";"00:10:36:18";"00:10:36:18";"FABst¶d hob das Urteil aus Texas( ( vorl"
-"489";"00:10:36:18";"00:10:36:18";"FABst*äufig wieder auf. ÿÿ7}~"
-"490";"00:10:36:18";"00:10:39:14";"hob das Urteil aus Texas
+486;00:10:34:11;00:10:34:11;FABstµP Ein Berufungsgericht in Louisianaÿÿ,
+487;00:10:34:11;00:10:36:14;Ein Berufungsgericht in Louisiana
+488;00:10:36:18;00:10:36:18;FABst¶d hob das Urteil aus Texas( ( vorl
+489;00:10:36:18;00:10:36:18;FABst*äufig wieder auf. ÿÿ7}~
+490;00:10:36:18;00:10:39:14;"hob das Urteil aus Texas
 
 vorlÈaufig wieder auf."
-"491";"00:10:39:18";"00:10:39:18";"FABst·d Es schränkte den Zugang( ( ü"
-"492";"00:10:39:18";"00:10:39:18";"FABst$zu Mifepristoneÿÿ=ô<u>"
-"493";"00:10:39:18";"00:10:42:14";"Es schrÈankte den Zugang
+491;00:10:39:18;00:10:39:18;FABst·d Es schränkte den Zugang( ( ü
+492;00:10:39:18;00:10:39:18;FABst$zu Mifepristoneÿÿ=ô<u>
+493;00:10:39:18;00:10:42:14;"Es schrÈankte den Zugang
 
 zu Mifepristone"
-"494";"00:10:42:18";"00:10:42:18";"FABst¸d während des laufenden Verfahrens( ( eÂ"
-"495";"00:10:42:18";"00:10:42:18";"FABst$ aber ein.ÿÿ=4"
-"496";"00:10:42:18";"00:10:45:04";"wÈahrend des laufenden Verfahrens
+494;00:10:42:18;00:10:42:18;FABst¸d während des laufenden Verfahrens( ( eÂ
+495;00:10:42:18;00:10:42:18;FABst$ aber ein.ÿÿ=4
+496;00:10:42:18;00:10:45:04;"wÈahrend des laufenden Verfahrens
 
 aber ein."
-"497";"00:10:45:08";"00:10:45:08";"FABst¹d Dagegen zogen Regierung und( ( Herstelà"
-"498";"00:10:45:08";"00:10:45:08";"FABst:ler vor den Supreme Court.ÿÿ'· "
-"499";"00:10:45:08";"00:10:48:22";"Dagegen zogen Regierung und
+497;00:10:45:08;00:10:45:08;FABst¹d Dagegen zogen Regierung und( ( Herstelà
+498;00:10:45:08;00:10:45:08;FABst:ler vor den Supreme Court.ÿÿ'· 
+499;00:10:45:08;00:10:48:22;"Dagegen zogen Regierung und
 
 Hersteller vor den Supreme Court."
-"500";"00:10:49:01";"00:10:49:01";"FABstºd Der ist unter Trump( ( deutlich"
-"501";"00:10:49:01";"00:10:49:01";"FABst.nach rechts gerückt.ÿÿ31Ò"
-"502";"00:10:49:01";"00:10:51:23";"Der ist unter Trump
+500;00:10:49:01;00:10:49:01;FABstºd Der ist unter Trump( ( deutlich
+501;00:10:49:01;00:10:49:01;FABst.nach rechts gerückt.ÿÿ31Ò
+502;00:10:49:01;00:10:51:23;"Der ist unter Trump
 
 deutlich nach rechts gerÈuckt."
-"503";"00:10:52:02";"00:10:52:02";"FABst»d Sechs der neun Richter gelten( ( als er"
-"504";"00:10:52:02";"00:10:52:02";"FABst<zkonservativ oder religiös.ÿÿ%WX"
-"505";"00:10:52:02";"00:10:55:17";"Sechs der neun Richter gelten
+503;00:10:52:02;00:10:52:02;FABst»d Sechs der neun Richter gelten( ( als er
+504;00:10:52:02;00:10:52:02;FABst<zkonservativ oder religiös.ÿÿ%WX
+505;00:10:52:02;00:10:55:17;"Sechs der neun Richter gelten
 
 als erzkonservativ oder religiÈos."
-"506";"00:10:55:21";"00:10:55:21";"FABst¼PEntsprechend groß waren die Sorgenÿÿ«x"
-"507";"00:10:55:21";"00:10:57:23";"Entsprechend groû waren die Sorgen"
-"508";"00:10:58:02";"00:10:58:02";"FABst½d vor einer weiteren Einschränkung( ( von %"
-"509";"00:10:58:02";"00:10:58:02";"FABst:Abtreibungsmöglichkeiten. ÿÿ'PÆ"
-"510";"00:10:58:02";"00:11:01:16";"vor einer weiteren EinschrÈankung
+506;00:10:55:21;00:10:55:21;FABst¼PEntsprechend groß waren die Sorgenÿÿ«x
+507;00:10:55:21;00:10:57:23;Entsprechend groû waren die Sorgen
+508;00:10:58:02;00:10:58:02;FABst½d vor einer weiteren Einschränkung( ( von %
+509;00:10:58:02;00:10:58:02;FABst:Abtreibungsmöglichkeiten. ÿÿ'PÆ
+510;00:10:58:02;00:11:01:16;"vor einer weiteren EinschrÈankung
 
 von AbtreibungsmÈoglichkeiten."
-"511";"00:11:01:20";"00:11:01:20";"FABst¾d Am Ende stimmten aber ( ( nur z<"
-"512";"00:11:01:20";"00:11:01:20";"FABst(wei Richter gegenÿÿ9º "
-"513";"00:11:01:20";"00:11:04:08";"Am Ende stimmten aber
+511;00:11:01:20;00:11:01:20;FABst¾d Am Ende stimmten aber ( ( nur z<
+512;00:11:01:20;00:11:01:20;FABst(wei Richter gegenÿÿ9º 
+513;00:11:01:20;00:11:04:08;"Am Ende stimmten aber
 
 nur zwei Richter gegen"
-"514";"00:11:04:12";"00:11:04:12";"FABst¿ddie uneingeschränkte Verfügbarkeit( ( de¾"
-"515";"00:11:04:12";"00:11:04:12";"FABst8s Abtreibungsmedikaments:ÿÿ)¿"
-"516";"00:11:04:12";"00:11:08:01";"die uneingeschrÈankte VerfÈugbarkeit
+514;00:11:04:12;00:11:04:12;FABst¿ddie uneingeschränkte Verfügbarkeit( ( de¾
+515;00:11:04:12;00:11:04:12;FABst8s Abtreibungsmedikaments:ÿÿ)¿
+516;00:11:04:12;00:11:08:01;"die uneingeschrÈankte VerfÈugbarkeit
 
 des Abtreibungsmedikaments:"
-"517";"00:11:08:05";"00:11:08:05";"FABstÀP Samuel Alito und Clarence Thomas.ÿÿh"
-"518";"00:11:08:05";"00:11:10:09";"Samuel Alito und Clarence Thomas."
-"519";"00:11:10:13";"00:11:10:13";"FABstÁd Aus meiner Sicht haben( ( die Befürw\®"
-"520";"00:11:10:13";"00:11:10:13";"FABst2orter von Abtreibungen7È"
-"521";"00:11:10:13";"00:11:13:18";"Aus meiner Sicht haben
+517;00:11:08:05;00:11:08:05;FABstÀP Samuel Alito und Clarence Thomas.ÿÿh
+518;00:11:08:05;00:11:10:09;Samuel Alito und Clarence Thomas.
+519;00:11:10:13;00:11:10:13;FABstÁd Aus meiner Sicht haben( ( die Befürw\®
+520;00:11:10:13;00:11:10:13;FABst2orter von Abtreibungen7È
+521;00:11:10:13;00:11:13:18;"Aus meiner Sicht haben
 
 die BefÈurworter von Abtreibungen"
-"522";"00:11:13:22";"00:11:13:22";"FABstÂd und die Arzneimittelbehörde( ( ei"
-"523";"00:11:13:22";"00:11:13:22";"FABst0ne Schlacht gewonnen.9ï"
-"524";"00:11:13:22";"00:11:17:03";"und die ArzneimittelbehÈorde
+522;00:11:13:22;00:11:13:22;FABstÂd und die Arzneimittelbehörde( ( ei
+523;00:11:13:22;00:11:13:22;FABst0ne Schlacht gewonnen.9ï
+524;00:11:13:22;00:11:17:03;"und die ArzneimittelbehÈorde
 
 eine Schlacht gewonnen."
-"525";"00:11:17:07";"00:11:17:07";"FABstÃd Aber noch einen langen Krieg( ( þ"
-"526";"00:11:17:07";"00:11:17:07";"FABst vor sich.ÿÿAø¤"
-"527";"00:11:17:07";"00:11:19:22";"Aber noch einen langen Krieg
+525;00:11:17:07;00:11:17:07;FABstÃd Aber noch einen langen Krieg( ( þ
+526;00:11:17:07;00:11:17:07;FABst vor sich.ÿÿAø¤
+527;00:11:17:07;00:11:19:22;"Aber noch einen langen Krieg
 
 vor sich."
-"528";"00:11:20:19";"00:11:20:19";"FABstÄd Denn der Rechtsstreit( ( um die AbtrÂp"
-"529";"00:11:20:19";"00:11:20:19";"FABst8eibungspille geht weiter:ÿÿ)Ý"
-"530";"00:11:20:19";"00:11:24:04";"Denn der Rechtsstreit
+528;00:11:20:19;00:11:20:19;FABstÄd Denn der Rechtsstreit( ( um die AbtrÂp
+529;00:11:20:19;00:11:20:19;FABst8eibungspille geht weiter:ÿÿ)Ý
+530;00:11:20:19;00:11:24:04;"Denn der Rechtsstreit
 
 um die Abtreibungspille geht weiter:"
-"531";"00:11:24:08";"00:11:24:08";"FABstÅd Mitte Mai will sich( ( das BerufunÒø"
-"532";"00:11:24:08";"00:11:24:08";"FABst2gsgericht in Louisianaÿÿ/Î"
-"533";"00:11:24:08";"00:11:27:10";"Mitte Mai will sich
+531;00:11:24:08;00:11:24:08;FABstÅd Mitte Mai will sich( ( das BerufunÒø
+532;00:11:24:08;00:11:24:08;FABst2gsgericht in Louisianaÿÿ/Î
+533;00:11:24:08;00:11:27:10;"Mitte Mai will sich
 
 das Berufungsgericht in Louisiana"
-"534";"00:11:27:14";"00:11:27:14";"FABstÆP erneut mit dem Fall beschäftigen.ÿÿÚÀ"
-"535";"00:11:27:14";"00:11:29:13";"erneut mit dem Fall beschÈaftigen."
-"536";"00:11:29:17";"00:11:29:17";"FABstÇd Bis zu einem endgültigen Urteil( ( können¡Ò"
-"537";"00:11:29:17";"00:11:29:17";"FABstB noch mehrere Monate vergehen.ÿÿÈ~"
-"538";"00:11:29:17";"00:11:33:14";"Bis zu einem endgÈultigen Urteil
+534;00:11:27:14;00:11:27:14;FABstÆP erneut mit dem Fall beschäftigen.ÿÿÚÀ
+535;00:11:27:14;00:11:29:13;erneut mit dem Fall beschÈaftigen.
+536;00:11:29:17;00:11:29:17;FABstÇd Bis zu einem endgültigen Urteil( ( können¡Ò
+537;00:11:29:17;00:11:29:17;FABstB noch mehrere Monate vergehen.ÿÿÈ~
+538;00:11:29:17;00:11:33:14;"Bis zu einem endgÈultigen Urteil
 
 kÈonnen noch mehrere Monate vergehen."
-"539";"00:11:34:06";"00:11:34:06";"FABstÈVWeitere Nachrichten, mit dir, Julia.ÿÿÜ"
-"540";"00:11:34:06";"00:11:36:12";"Weitere Nachrichten, mit dir, Julia."
-"541";"00:11:36:16";"00:11:36:16";"FABstÉTDie beginnen mit Tarifverhandlungen.ÿÿt"
-"542";"00:11:36:16";"00:11:38:21";"Die beginnen mit Tarifverhandlungen."
-"543";"00:11:39:00";"00:11:39:00";"FABstÊd Nach der Empfehlung( ( der Schli¸"
-"544";"00:11:39:00";"00:11:39:00";"FABst(chtungskommissionÿÿ9è"
-"545";"00:11:39:00";"00:11:41:18";"Nach der Empfehlung
+539;00:11:34:06;00:11:34:06;FABstÈVWeitere Nachrichten, mit dir, Julia.ÿÿÜ
+540;00:11:34:06;00:11:36:12;Weitere Nachrichten, mit dir, Julia.
+541;00:11:36:16;00:11:36:16;FABstÉTDie beginnen mit Tarifverhandlungen.ÿÿt
+542;00:11:36:16;00:11:38:21;Die beginnen mit Tarifverhandlungen.
+543;00:11:39:00;00:11:39:00;FABstÊd Nach der Empfehlung( ( der Schli¸
+544;00:11:39:00;00:11:39:00;FABst(chtungskommissionÿÿ9è
+545;00:11:39:00;00:11:41:18;"Nach der Empfehlung
 
 der Schlichtungskommission"
-"546";"00:11:41:22";"00:11:41:22";"FABstËd für die Tarife( ( im öffentÜp"
-"547";"00:11:41:22";"00:11:41:22";"FABst"lichen Dienst:ÿÿ?ÎZ"
-"548";"00:11:41:22";"00:11:44:03";"fÈur die Tarife
+546;00:11:41:22;00:11:41:22;FABstËd für die Tarife( ( im öffentÜp
+547;00:11:41:22;00:11:41:22;"FABst""lichen Dienst:ÿÿ?ÎZ"
+548;00:11:41:22;00:11:44:03;"fÈur die Tarife
 
 im Èoffentlichen Dienst:"
-"549";"00:11:44:07";"00:11:44:07";"FABstÌPIn Potsdam beraten seit dem Mittag "
-"550";"00:11:44:07";"00:11:46:10";"In Potsdam beraten seit dem Mittag"
-"551";"00:11:46:14";"00:11:46:14";"FABstÍd Vertreter von Bund und Kommunen( (  "
-"552";"00:11:46:14";"00:11:46:14";"FABst4mit den Gewerkschaften.5á"
-"553";"00:11:46:14";"00:11:49:24";"Vertreter von Bund und Kommunen
+549;00:11:44:07;00:11:44:07;FABstÌPIn Potsdam beraten seit dem Mittag 
+550;00:11:44:07;00:11:46:10;In Potsdam beraten seit dem Mittag
+551;00:11:46:14;00:11:46:14;FABstÍd Vertreter von Bund und Kommunen( (  
+552;00:11:46:14;00:11:46:14;FABst4mit den Gewerkschaften.5á
+553;00:11:46:14;00:11:49:24;"Vertreter von Bund und Kommunen
 
 mit den Gewerkschaften."
-"554";"00:11:50:03";"00:11:50:03";"FABstÎd Gibt es keine Einigung,( ( könnten un~ø"
-"555";"00:11:50:03";"00:11:50:03";"FABst:befristete Streiks folgen.ÿÿ'*"
-"556";"00:11:50:03";"00:11:53:16";"Gibt es keine Einigung,
+554;00:11:50:03;00:11:50:03;FABstÎd Gibt es keine Einigung,( ( könnten un~ø
+555;00:11:50:03;00:11:50:03;FABst:befristete Streiks folgen.ÿÿ'*
+556;00:11:50:03;00:11:53:16;"Gibt es keine Einigung,
 
 kÈonnten unbefristete Streiks folgen."
-"557";"00:11:53:20";"00:11:53:20";"FABstÏB Der Schlichterspruchÿÿ²"
-"558";"00:11:53:20";"00:11:55:06";"Der Schlichterspruch"
-"559";"00:11:55:10";"00:11:55:10";"FABstÐd sieht steuerfreie Sonderzahlungen( ( voÂ"
-"560";"00:11:55:10";"00:11:55:10";"FABst:n insgesamt 3000 Euro vor.ÿÿ' "
-"561";"00:11:55:10";"00:11:59:00";"sieht steuerfreie Sonderzahlungen
+557;00:11:53:20;00:11:53:20;FABstÏB Der Schlichterspruchÿÿ²
+558;00:11:53:20;00:11:55:06;Der Schlichterspruch
+559;00:11:55:10;00:11:55:10;FABstÐd sieht steuerfreie Sonderzahlungen( ( voÂ
+560;00:11:55:10;00:11:55:10;FABst:n insgesamt 3000 Euro vor.ÿÿ' 
+561;00:11:55:10;00:11:59:00;"sieht steuerfreie Sonderzahlungen
 
 von insgesamt 3000 Euro vor."
-"562";"00:11:59:04";"00:11:59:04";"FABstÑd Außerdem soll es ab März 2024( ( 5ÏF"
-"563";"00:11:59:04";"00:11:59:04";"FABst0,5 % mehr Geld geben,ÿÿ1¯$"
-"564";"00:11:59:04";"00:12:02:06";"Auûerdem soll es ab MÈarz 2024
+562;00:11:59:04;00:11:59:04;FABstÑd Außerdem soll es ab März 2024( ( 5ÏF
+563;00:11:59:04;00:11:59:04;FABst0,5 % mehr Geld geben,ÿÿ1¯$
+564;00:11:59:04;00:12:02:06;"Auûerdem soll es ab MÈarz 2024
 
 5,5 % mehr Geld geben,"
-"565";"00:12:02:10";"00:12:02:10";"FABstÒH mindestens aber 340 Euro.ÿÿ^J"
-"566";"00:12:02:10";"00:12:04:02";"mindestens aber 340 Euro."
-"567";"00:12:06:19";"00:12:06:19";"FABstÓd Im Tarifstreit( ( des Flughafen-SõÜ"
-"568";"00:12:06:19";"00:12:06:19";"FABst,icherheitspersonalsÿÿ5j"
-"569";"00:12:06:19";"00:12:09:22";"Im Tarifstreit
+565;00:12:02:10;00:12:02:10;FABstÒH mindestens aber 340 Euro.ÿÿ^J
+566;00:12:02:10;00:12:04:02;mindestens aber 340 Euro.
+567;00:12:06:19;00:12:06:19;FABstÓd Im Tarifstreit( ( des Flughafen-SõÜ
+568;00:12:06:19;00:12:06:19;FABst,icherheitspersonalsÿÿ5j
+569;00:12:06:19;00:12:09:22;"Im Tarifstreit
 
 des Flughafen-Sicherheitspersonals"
-"570";"00:12:10:01";"00:12:10:01";"FABstÔd sind für Montag( ( weitere Warnstur"
-"571";"00:12:10:01";"00:12:10:01";"FABst*reiks angekündigt.ÿÿ7rÞ"
-"572";"00:12:10:01";"00:12:13:06";"sind fÈur Montag
+570;00:12:10:01;00:12:10:01;FABstÔd sind für Montag( ( weitere Warnstur
+571;00:12:10:01;00:12:10:01;FABst*reiks angekündigt.ÿÿ7rÞ
+572;00:12:10:01;00:12:13:06;"sind fÈur Montag
 
 weitere Warnstreiks angekÈundigt."
-"573";"00:12:13:10";"00:12:13:10";"FABstÕd Betroffen ist diesmal( ( der Hau½B"
-"574";"00:12:13:10";"00:12:13:10";"FABst.ptstadt-Airport BER.ÿÿ3·"
-"575";"00:12:13:10";"00:12:17:01";"Betroffen ist diesmal
+573;00:12:13:10;00:12:13:10;FABstÕd Betroffen ist diesmal( ( der Hau½B
+574;00:12:13:10;00:12:13:10;FABst.ptstadt-Airport BER.ÿÿ3·
+575;00:12:13:10;00:12:17:01;"Betroffen ist diesmal
 
 der Hauptstadt-Airport BER."
-"576";"00:12:17:05";"00:12:17:05";"FABstÖPDie Beschäftigten sind aufgerufen,ÿÿø*"
-"577";"00:12:17:05";"00:12:19:09";"Die BeschÈaftigten sind aufgerufen,"
-"578";"00:12:19:13";"00:12:19:13";"FABst×d von 3.30 Uhr bis Mitternacht( ( die µr"
-"579";"00:12:19:13";"00:12:19:13";"FABst2Arbeit niederzulegen. ÿÿ/"
-"580";"00:12:19:13";"00:12:22:17";"von 3.30 Uhr bis Mitternacht
+576;00:12:17:05;00:12:17:05;FABstÖPDie Beschäftigten sind aufgerufen,ÿÿø*
+577;00:12:17:05;00:12:19:09;Die BeschÈaftigten sind aufgerufen,
+578;00:12:19:13;00:12:19:13;FABst×d von 3.30 Uhr bis Mitternacht( ( die µr
+579;00:12:19:13;00:12:19:13;FABst2Arbeit niederzulegen. ÿÿ/
+580;00:12:19:13;00:12:22:17;"von 3.30 Uhr bis Mitternacht
 
 die Arbeit niederzulegen."
-"581";"00:12:22:21";"00:12:22:21";"FABstØd Dadurch können am Montag( ( keine Pê"
-"582";"00:12:22:21";"00:12:22:21";"FABst2assagierflüge starten.ÿÿ/x"
-"583";"00:12:22:21";"00:12:26:10";"Dadurch kÈonnen am Montag
+581;00:12:22:21;00:12:22:21;FABstØd Dadurch können am Montag( ( keine Pê
+582;00:12:22:21;00:12:22:21;FABst2assagierflüge starten.ÿÿ/x
+583;00:12:22:21;00:12:26:10;"Dadurch kÈonnen am Montag
 
 keine PassagierflÈuge starten."
-"584";"00:12:28:08";"00:12:28:08";"FABstÙdRussland will mehr als 20 deutsche( ( Dipl²<"
-"585";"00:12:28:08";"00:12:28:08";"FABst>omaten des Landes verweisen.ÿÿ#ÃÀ"
-"586";"00:12:28:08";"00:12:32:15";"Russland will mehr als 20 deutsche
+584;00:12:28:08;00:12:28:08;FABstÙdRussland will mehr als 20 deutsche( ( Dipl²<
+585;00:12:28:08;00:12:28:08;FABst>omaten des Landes verweisen.ÿÿ#ÃÀ
+586;00:12:28:08;00:12:32:15;"Russland will mehr als 20 deutsche
 
 Diplomaten des Landes verweisen."
-"587";"00:12:32:19";"00:12:32:19";"FABstÚd Der Schritt sei eine Reaktion( ( auf eiÚ¾"
-"588";"00:12:32:19";"00:12:32:19";"FABst<ne "massenhafte Ausweisung"ÿÿ%µ"
-"589";"00:12:32:19";"00:12:36:14";"Der Schritt sei eine Reaktion
+587;00:12:32:19;00:12:32:19;FABstÚd Der Schritt sei eine Reaktion( ( auf eiÚ¾
+588;00:12:32:19;00:12:32:19;"FABst<ne ""massenhafte Ausweisung""ÿÿ%µ"
+589;00:12:32:19;00:12:36:14;"Der Schritt sei eine Reaktion
 
-auf eine "massenhafte Ausweisung""
-"590";"00:12:36:16";"00:12:36:16";"FABstÛdvon russischen Botschaftsangehörigen( ( C"
-"591";"00:12:36:16";"00:12:36:16";"FABst2 in Deutschland.ÿÿ/|"
-"592";"00:12:36:16";"00:12:40:12";"von russischen BotschaftsangehÈorigen
+auf eine ""massenhafte Ausweisung"""
+590;00:12:36:16;00:12:36:16;FABstÛdvon russischen Botschaftsangehörigen( ( C
+591;00:12:36:16;00:12:36:16;FABst2 in Deutschland.ÿÿ/|
+592;00:12:36:16;00:12:40:12;"von russischen BotschaftsangehÈorigen
 
 in Deutschland."
-"593";"00:12:40:18";"00:12:40:18";"FABstÜd Vom Auswärtigen Amt in Berlin ( ( gab e(P"
-"594";"00:12:40:18";"00:12:40:18";"FABst8s dazu keine Bestätigung.ÿÿ)%À"
-"595";"00:12:40:18";"00:12:45:00";"Vom AuswÈartigen Amt in Berlin
+593;00:12:40:18;00:12:40:18;FABstÜd Vom Auswärtigen Amt in Berlin ( ( gab e(P
+594;00:12:40:18;00:12:40:18;FABst8s dazu keine Bestätigung.ÿÿ)%À
+595;00:12:40:18;00:12:45:00;"Vom AuswÈartigen Amt in Berlin
 
 gab es dazu keine BestÈatigung."
-"596";"00:12:46:06";"00:12:46:06";"FABstÝP Der Krisenstab im Auswärtigen Amtÿÿ±Â"
-"597";"00:12:46:06";"00:12:48:16";"Der Krisenstab im AuswÈartigen Amt"
-"598";"00:12:48:20";"00:12:48:20";"FABstÞdarbeitet weiter an der Rückholung von( ( D7¸"
-"599";"00:12:48:20";"00:12:48:20";"FABstJeutschen aus dem umkämpften Sudan.ÿÿ\"
-"600";"00:12:48:20";"00:12:53:02";"arbeitet weiter an der RÈuckholung von
+596;00:12:46:06;00:12:46:06;FABstÝP Der Krisenstab im Auswärtigen Amtÿÿ±Â
+597;00:12:46:06;00:12:48:16;Der Krisenstab im AuswÈartigen Amt
+598;00:12:48:20;00:12:48:20;FABstÞdarbeitet weiter an der Rückholung von( ( D7¸
+599;00:12:48:20;00:12:48:20;FABstJeutschen aus dem umkämpften Sudan.ÿÿ\
+600;00:12:48:20;00:12:53:02;"arbeitet weiter an der RÈuckholung von
 
 Deutschen aus dem umkÈampften Sudan."
-"601";"00:12:53:06";"00:12:53:06";"FABstßdDie beiden Konfliktparteien im Land( ( Â"
-"602";"00:12:53:06";"00:12:53:06";"FABst0 haben zugesagt,ÿÿ1X"
-"603";"00:12:53:06";"00:12:56:09";"Die beiden Konfliktparteien im Land
+601;00:12:53:06;00:12:53:06;FABstßdDie beiden Konfliktparteien im Land( ( Â
+602;00:12:53:06;00:12:53:06;FABst0 haben zugesagt,ÿÿ1X
+603;00:12:53:06;00:12:56:09;"Die beiden Konfliktparteien im Land
 
 haben zugesagt,"
-"604";"00:12:56:13";"00:12:56:13";"FABstàd für Evakuierungsflüge ( ( die Fl8"
-"605";"00:12:56:13";"00:12:56:13";"FABst*ughäfen zu öffnen.ÿÿ7±b"
-"606";"00:12:56:13";"00:12:59:16";"fÈur EvakuierungsflÈuge
+604;00:12:56:13;00:12:56:13;FABstàd für Evakuierungsflüge ( ( die Fl8
+605;00:12:56:13;00:12:56:13;FABst*ughäfen zu öffnen.ÿÿ7±b
+606;00:12:56:13;00:12:59:16;"fÈur EvakuierungsflÈuge
 
 die FlughÈafen zu Èoffnen."
-"607";"00:13:00:08";"00:13:00:08";"FABstádÜber 150 saudische Staatsbürger und ( ( ein4"
-"608";"00:13:00:08";"00:13:00:08";"FABstHige Menschen anderer Nationalität!7ô"
-"609";"00:13:00:08";"00:13:04:17";"ÈUber 150 saudische StaatsbÈurger und
+607;00:13:00:08;00:13:00:08;FABstádÜber 150 saudische Staatsbürger und ( ( ein4
+608;00:13:00:08;00:13:00:08;FABstHige Menschen anderer Nationalität!7ô
+609;00:13:00:08;00:13:04:17;"ÈUber 150 saudische StaatsbÈurger und
 
 einige Menschen anderer NationalitÈat"
-"610";"00:13:04:21";"00:13:04:21";"FABstâd wurden über den Seeweg( ( nach Dschi[4"
-"611";"00:13:04:21";"00:13:04:21";"FABst<dda in Sicherheit gebracht.-»ø"
-"612";"00:13:04:21";"00:13:08:22";"wurden Èuber den Seeweg
+610;00:13:04:21;00:13:04:21;FABstâd wurden über den Seeweg( ( nach Dschi[4
+611;00:13:04:21;00:13:04:21;FABst<dda in Sicherheit gebracht.-»ø
+612;00:13:04:21;00:13:08:22;"wurden Èuber den Seeweg
 
 nach Dschidda in Sicherheit gebracht."
-"613";"00:13:09:20";"00:13:09:20";"FABstãd In der sudanesischen Hauptstadt( ( Kharÿî"
-"614";"00:13:09:20";"00:13:09:20";"FABst<tum dauern seit einer Woche`%Ï"
-"615";"00:13:09:20";"00:13:13:11";"In der sudanesischen Hauptstadt
+613;00:13:09:20;00:13:09:20;FABstãd In der sudanesischen Hauptstadt( ( Kharÿî
+614;00:13:09:20;00:13:09:20;FABst<tum dauern seit einer Woche`%Ï
+615;00:13:09:20;00:13:13:11;"In der sudanesischen Hauptstadt
 
 Khartum dauern seit einer Woche"
-"616";"00:13:13:14";"00:13:13:14";"FABstäd Kämpfe zwischen der Armee( ( und einerR "
-"617";"00:13:13:14";"00:13:13:14";"FABst4 verfeindeten Miliz an.`-ÃÎ"
-"618";"00:13:13:14";"00:13:17:10";"KÈampfe zwischen der Armee
+616;00:13:13:14;00:13:13:14;FABstäd Kämpfe zwischen der Armee( ( und einerR 
+617;00:13:13:14;00:13:13:14;FABst4 verfeindeten Miliz an.`-ÃÎ
+618;00:13:13:14;00:13:17:10;"KÈampfe zwischen der Armee
 
 und einer verfeindeten Miliz an."
-"619";"00:13:19:09";"00:13:19:09";"FABståVAuf Rügen wurde der Skywalk eröffnet."
-"620";"00:13:19:09";"00:13:22:02";"Auf RÈugen wurde der Skywalk erÈoffnet."
-"621";"00:13:22:06";"00:13:22:06";"FABstæd Das 185 Meter lange( ( und knapp 12*"
-"622";"00:13:22:06";"00:13:22:06";"FABst.0 Meter hohe Bauwerk`3"
-"623";"00:13:22:06";"00:13:25:16";"Das 185 Meter lange
+619;00:13:19:09;00:13:19:09;FABståVAuf Rügen wurde der Skywalk eröffnet.
+620;00:13:19:09;00:13:22:02;Auf RÈugen wurde der Skywalk erÈoffnet.
+621;00:13:22:06;00:13:22:06;FABstæd Das 185 Meter lange( ( und knapp 12*
+622;00:13:22:06;00:13:22:06;FABst.0 Meter hohe Bauwerk`3
+623;00:13:22:06;00:13:25:16;"Das 185 Meter lange
 
 und knapp 120 Meter hohe Bauwerk"
-"624";"00:13:25:20";"00:13:25:20";"FABstçd bietet Ausblick und Rundweg( ( ü>"
-"625";"00:13:25:20";"00:13:25:20";"FABst.ber den Königsstuhl:ÿÿ3ü"
-"626";"00:13:25:20";"00:13:29:22";"bietet Ausblick und Rundweg
+624;00:13:25:20;00:13:25:20;FABstçd bietet Ausblick und Rundweg( ( ü>
+625;00:13:25:20;00:13:25:20;FABst.ber den Königsstuhl:ÿÿ3ü
+626;00:13:25:20;00:13:29:22;"bietet Ausblick und Rundweg
 
 Èuber den KÈonigsstuhl:"
-"627";"00:13:30:01";"00:13:30:01";"FABstèd Den größten( ( Kreidefelsen ðâ"
-"628";"00:13:30:01";"00:13:30:01";"FABst Deutschlands.ÿÿA "
-"629";"00:13:30:01";"00:13:33:03";"Den grÈoûten
+627;00:13:30:01;00:13:30:01;FABstèd Den größten( ( Kreidefelsen ðâ
+628;00:13:30:01;00:13:30:01;FABst Deutschlands.ÿÿA 
+629;00:13:30:01;00:13:33:03;"Den grÈoûten
 
 Kreidefelsen Deutschlands."
-"630";"00:13:33:07";"00:13:33:07";"FABstéd Der bisherige Aussichtspunkt( ( Ä´"
-"631";"00:13:33:07";"00:13:33:07";"FABst*ist seit Septemberÿÿ7Ú"
-"632";"00:13:33:07";"00:13:36:04";"Der bisherige Aussichtspunkt
+630;00:13:33:07;00:13:33:07;FABstéd Der bisherige Aussichtspunkt( ( Ä´
+631;00:13:33:07;00:13:33:07;FABst*ist seit Septemberÿÿ7Ú
+632;00:13:33:07;00:13:36:04;"Der bisherige Aussichtspunkt
 
 ist seit September"
-"633";"00:13:36:08";"00:13:36:08";"FABstêd wegen Erosionsgefahr ( ( nich ¶"
-"634";"00:13:36:08";"00:13:36:08";"FABst(t mehr betretbar.ÿÿ9Õ"
-"635";"00:13:36:08";"00:13:38:20";"wegen Erosionsgefahr
+633;00:13:36:08;00:13:36:08;FABstêd wegen Erosionsgefahr ( ( nich ¶
+634;00:13:36:08;00:13:36:08;FABst(t mehr betretbar.ÿÿ9Õ
+635;00:13:36:08;00:13:38:20;"wegen Erosionsgefahr
 
 nicht mehr betretbar."
-"636";"00:13:38:24";"00:13:38:24";"FABstëd Kritiker sehen in dem Bau( ( einen EiàR"
-"637";"00:13:38:24";"00:13:38:24";"FABst8ngriff in die Landschaft.ÿÿ)£ø"
-"638";"00:13:38:24";"00:13:43:08";"Kritiker sehen in dem Bau
+636;00:13:38:24;00:13:38:24;FABstëd Kritiker sehen in dem Bau( ( einen EiàR
+637;00:13:38:24;00:13:38:24;FABst8ngriff in die Landschaft.ÿÿ)£ø
+638;00:13:38:24;00:13:43:08;"Kritiker sehen in dem Bau
 
 einen Eingriff in die Landschaft."
-"639";"00:13:46:09";"00:13:46:09";"FABstìL Zum Sport und zur Bundesliga,ÿÿ\¶"
-"640";"00:13:46:09";"00:13:48:19";"Zum Sport und zur Bundesliga,"
-"641";"00:13:48:21";"00:13:48:21";"FABstíd wo der Langzeit-Spitzenreiter( ( zuleÎl"
-"642";"00:13:48:21";"00:13:48:21";"FABst8tzt bedenklich wackelte. ÿÿ)</u>Ú"
-"643";"00:13:48:21";"00:13:53:14";"wo der Langzeit-Spitzenreiter
+639;00:13:46:09;00:13:46:09;FABstìL Zum Sport und zur Bundesliga,ÿÿ\¶
+640;00:13:46:09;00:13:48:19;Zum Sport und zur Bundesliga,
+641;00:13:48:21;00:13:48:21;FABstíd wo der Langzeit-Spitzenreiter( ( zuleÎl
+642;00:13:48:21;00:13:48:21;FABst8tzt bedenklich wackelte. ÿÿ)</u>Ú
+643;00:13:48:21;00:13:53:14;"wo der Langzeit-Spitzenreiter
 
 zuletzt bedenklich wackelte."
-"644";"00:13:53:17";"00:13:53:17";"FABstîd Jetzt gibt es( ( einen neuen Ta"
-"645";"00:13:53:17";"00:13:53:17";"FABst,bellenführer, Okka.ÿÿ5c"
-"646";"00:13:53:17";"00:13:56:14";"Jetzt gibt es
+644;00:13:53:17;00:13:53:17;FABstîd Jetzt gibt es( ( einen neuen Ta
+645;00:13:53:17;00:13:53:17;FABst,bellenführer, Okka.ÿÿ5c
+646;00:13:53:17;00:13:56:14;"Jetzt gibt es
 
 einen neuen TabellenfÈuhrer, Okka."
-"647";"00:13:57:03";"00:13:57:03";"FABstïdSo ist es - Borussia Dortmund schubst( ( d <"
-"648";"00:13:57:03";"00:13:57:03";"FABstHen FC Bayern München auf Platz 2.!^f"
-"649";"00:13:57:03";"00:14:01:12";"So ist es - Borussia Dortmund schubst
+647;00:13:57:03;00:13:57:03;FABstïdSo ist es - Borussia Dortmund schubst( ( d <
+648;00:13:57:03;00:13:57:03;FABstHen FC Bayern München auf Platz 2.!^f
+649;00:13:57:03;00:14:01:12;"So ist es - Borussia Dortmund schubst
 
 den FC Bayern MÈunchen auf Platz 2."
-"650";"00:14:01:14";"00:14:01:14";"FABstðH Wie konnte das passieren?ÿÿ+"
-"651";"00:14:01:14";"00:14:03:06";"Wie konnte das passieren?"
-"652";"00:14:03:10";"00:14:03:10";"FABstñdDie Bayern selbst machten es möglich,( ( vTî"
-"653";"00:14:03:10";"00:14:03:10";"FABstJerloren am Nachmittag gegen Mainz.ÿÿæV"
-"654";"00:14:03:10";"00:14:07:15";"Die Bayern selbst machten es mÈoglich,
+650;00:14:01:14;00:14:01:14;FABstðH Wie konnte das passieren?ÿÿ+
+651;00:14:01:14;00:14:03:06;Wie konnte das passieren?
+652;00:14:03:10;00:14:03:10;FABstñdDie Bayern selbst machten es möglich,( ( vTî
+653;00:14:03:10;00:14:03:10;FABstJerloren am Nachmittag gegen Mainz.ÿÿæV
+654;00:14:03:10;00:14:07:15;"Die Bayern selbst machten es mÈoglich,
 
 verloren am Nachmittag gegen Mainz."
-"655";"00:14:07:17";"00:14:07:17";"FABstòVDiesmal nutzte Dortmund seine Chance.ÿÿ^v"
-"656";"00:14:07:17";"00:14:09:21";"Diesmal nutzte Dortmund seine Chance."
-"657";"00:14:10:03";"00:14:10:03";"FABstód Am Abend gewannen sie( ( geÆ¶"
-"658";"00:14:10:03";"00:14:10:03";"FABst"gen Frankfurt.ÿÿ?×J"
-"659";"00:14:10:03";"00:14:12:16";"Am Abend gewannen sie
+655;00:14:07:17;00:14:07:17;FABstòVDiesmal nutzte Dortmund seine Chance.ÿÿ^v
+656;00:14:07:17;00:14:09:21;Diesmal nutzte Dortmund seine Chance.
+657;00:14:10:03;00:14:10:03;FABstód Am Abend gewannen sie( ( geÆ¶
+658;00:14:10:03;00:14:10:03;"FABst""gen Frankfurt.ÿÿ?×J"
+659;00:14:10:03;00:14:12:16;"Am Abend gewannen sie
 
 gegen Frankfurt."
-"660";"00:14:12:18";"00:14:12:18";"FABstôd Es folgt die( ( inhaltliche Au<u>"
-"661";"00:14:12:18";"00:14:12:18";"FABst&seinandersetzungÿÿ;ùÖ"
-"662";"00:14:12:18";"00:14:15:04";"Es folgt die
+660;00:14:12:18;00:14:12:18;FABstôd Es folgt die( ( inhaltliche Au<u>
+661;00:14:12:18;00:14:12:18;"FABst&seinandersetzungÿÿ;ùÖ"
+662;00:14:12:18;00:14:15:04;"Es folgt die
 
 inhaltliche Auseinandersetzung"
-"663";"00:14:15:06";"00:14:15:06";"FABstõd mit der Niederlage( ( des deutsc½"
-"664";"00:14:15:06";"00:14:15:06";"FABst,hen Rekordmeisters.ÿÿ5¾Ø"
-"665";"00:14:15:06";"00:14:18:13";"mit der Niederlage
+663;00:14:15:06;00:14:15:06;FABstõd mit der Niederlage( ( des deutsc½
+664;00:14:15:06;00:14:15:06;FABst,hen Rekordmeisters.ÿÿ5¾Ø
+665;00:14:15:06;00:14:18:13;"mit der Niederlage
 
 des deutschen Rekordmeisters."
-"666";"00:14:22:23";"00:14:22:23";"FABstöd Konsterniert und enttäuscht( ( erlebj"
-"667";"00:14:22:23";"00:14:22:23";"FABst6te Bayern-Trainer Tuchelÿÿ+"
-"668";"00:14:22:23";"00:14:26:06";"Konsterniert und enttÈauscht
+666;00:14:22:23;00:14:22:23;FABstöd Konsterniert und enttäuscht( ( erlebj
+667;00:14:22:23;00:14:22:23;FABst6te Bayern-Trainer Tuchelÿÿ+
+668;00:14:22:23;00:14:26:06;"Konsterniert und enttÈauscht
 
 erlebte Bayern-Trainer Tuchel"
-"669";"00:14:26:10";"00:14:26:10";"FABst÷F das Spielende in Mainz.ÿÿ$<i>"
-"670";"00:14:26:10";"00:14:29:02";"das Spielende in Mainz."
-"671";"00:14:29:04";"00:14:29:04";"FABstøF Das 1:3 bei den Mainzern6"
-"672";"00:14:29:04";"00:14:30:22";"Das 1:3 bei den Mainzern"
-"673";"00:14:30:24";"00:14:30:24";"FABstùdverschärft die angespannte Situation( ( #p"
-"674";"00:14:30:24";"00:14:30:24";"FABst. in München.;,"
-"675";"00:14:30:24";"00:14:34:16";"verschÈarft die angespannte Situation
+669;00:14:26:10;00:14:26:10;FABst÷F das Spielende in Mainz.ÿÿ$<i>
+670;00:14:26:10;00:14:29:02;das Spielende in Mainz.
+671;00:14:29:04;00:14:29:04;FABstøF Das 1:3 bei den Mainzern6
+672;00:14:29:04;00:14:30:22;Das 1:3 bei den Mainzern
+673;00:14:30:24;00:14:30:24;FABstùdverschärft die angespannte Situation( ( #p
+674;00:14:30:24;00:14:30:24;"FABst. in München.;,"
+675;00:14:30:24;00:14:34:16;"verschÈarft die angespannte Situation
 
 in MÈunchen."
-"676";"00:14:38:19";"00:14:38:19";"FABstúVDabei kamen die Bayern gut ins Spiel.ÿÿ]0"
-"677";"00:14:38:19";"00:14:41:16";"Dabei kamen die Bayern gut ins Spiel."
-"678";"00:14:42:00";"00:14:42:00";"FABstûd Die Führung durch Sadio Manes( ( ersPP"
-"679";"00:14:42:00";"00:14:42:00";"FABst6ten Treffer seit Oktoberÿÿ+ºÎ"
-"680";"00:14:42:00";"00:14:45:15";"Die FÈuhrung durch Sadio Manes
+676;00:14:38:19;00:14:38:19;FABstúVDabei kamen die Bayern gut ins Spiel.ÿÿ]0
+677;00:14:38:19;00:14:41:16;Dabei kamen die Bayern gut ins Spiel.
+678;00:14:42:00;00:14:42:00;FABstûd Die Führung durch Sadio Manes( ( ersPP
+679;00:14:42:00;00:14:42:00;FABst6ten Treffer seit Oktoberÿÿ+ºÎ
+680;00:14:42:00;00:14:45:15;"Die FÈuhrung durch Sadio Manes
 
 ersten Treffer seit Oktober"
-"681";"00:14:45:18";"00:14:45:18";"FABstüd in der 29. Minute( ( entsprachðæ"
-"682";"00:14:45:18";"00:14:45:18";"FABst* dem Spielverlauf.ÿÿ7°"
-"683";"00:14:45:18";"00:14:48:20";"in der 29. Minute
+681;00:14:45:18;00:14:45:18;FABstüd in der 29. Minute( ( entsprachðæ
+682;00:14:45:18;00:14:45:18;FABst* dem Spielverlauf.ÿÿ7°
+683;00:14:45:18;00:14:48:20;"in der 29. Minute
 
 entsprach dem Spielverlauf."
-"684";"00:14:48:24";"00:14:48:24";"FABstýd Alles deutete auf( ( einen souveränpÈ"
-"685";"00:14:48:24";"00:14:48:24";"FABst.en Auswärtssieg hin.ÿÿ3"
-"686";"00:14:48:24";"00:14:52:02";"Alles deutete auf
+684;00:14:48:24;00:14:48:24;FABstýd Alles deutete auf( ( einen souveränpÈ
+685;00:14:48:24;00:14:48:24;FABst.en Auswärtssieg hin.ÿÿ3
+686;00:14:48:24;00:14:52:02;"Alles deutete auf
 
 einen souverÈanen AuswÈartssieg hin."
-"687";"00:14:52:06";"00:14:52:06";"FABstþd Bis nach der Pause( ( erst Torhüy"
-"688";"00:14:52:06";"00:14:52:06";"FABst*ter Sommer patzte,ÿÿ7x"
-"689";"00:14:52:06";"00:14:55:11";"Bis nach der Pause
+687;00:14:52:06;00:14:52:06;FABstþd Bis nach der Pause( ( erst Torhüy
+688;00:14:52:06;00:14:52:06;FABst*ter Sommer patzte,ÿÿ7x
+689;00:14:52:06;00:14:55:11;"Bis nach der Pause
 
 erst TorhÈuter Sommer patzte,"
-"690";"00:14:55:15";"00:14:55:15";"FABstÿdAjorque in der 65. zum Ausgleich traf( ( u¨"
-"691";"00:14:55:15";"00:14:55:15";"FABstHnd die Bayern den Faden verloren.ÿÿÏ"
-"692";"00:14:55:15";"00:15:00:06";"Ajorque in der 65. zum Ausgleich traf
+690;00:14:55:15;00:14:55:15;FABstÿdAjorque in der 65. zum Ausgleich traf( ( u¨
+691;00:14:55:15;00:14:55:15;FABstHnd die Bayern den Faden verloren.ÿÿÏ
+692;00:14:55:15;00:15:00:06;"Ajorque in der 65. zum Ausgleich traf
 
 und die Bayern den Faden verloren."
-"693";"00:15:00:24";"00:15:00:24";"FABstd Leandro Barreiro( ( acht MinuZ("
-"694";"00:15:00:24";"00:15:00:24";"FABst&ten nach dem 1:1ÿÿ;ý"
-"695";"00:15:00:24";"00:15:03:17";"Leandro Barreiro
+693;00:15:00:24;00:15:00:24;FABstd Leandro Barreiro( ( acht MinuZ(
+694;00:15:00:24;00:15:00:24;"FABst&ten nach dem 1:1ÿÿ;ý"
+695;00:15:00:24;00:15:03:17;"Leandro Barreiro
 
 acht Minuten nach dem 1:1"
-"696";"00:15:03:21";"00:15:03:21";"FABstJ mit dem Mainzer Führungstor.ÿÿJ"
-"697";"00:15:03:21";"00:15:06:04";"mit dem Mainzer FÈuhrungstor."
-"698";"00:15:07:01";"00:15:07:01";"FABstd Wiederum sechs Minuten später( ( de¯"
-"699";"00:15:07:01";"00:15:07:01";"FABst2r eingewechselte Aaronÿÿ/Ã"
-"700";"00:15:07:01";"00:15:10:09";"Wiederum sechs Minuten spÈater
+696;00:15:03:21;00:15:03:21;FABstJ mit dem Mainzer Führungstor.ÿÿJ
+697;00:15:03:21;00:15:06:04;mit dem Mainzer FÈuhrungstor.
+698;00:15:07:01;00:15:07:01;FABstd Wiederum sechs Minuten später( ( de¯
+699;00:15:07:01;00:15:07:01;FABst2r eingewechselte Aaronÿÿ/Ã
+700;00:15:07:01;00:15:10:09;"Wiederum sechs Minuten spÈater
 
 der eingewechselte Aaron"
-"701";"00:15:10:13";"00:15:10:13";"FABstP mit dem Treffer zum 3:1-Endstand.ÿÿ¨"
-"702";"00:15:10:13";"00:15:12:18";"mit dem Treffer zum 3:1-Endstand."
-"703";"00:15:12:22";"00:15:12:22";"FABstd Das besiegelte die Niederlage( ( ei9ø"
-"704";"00:15:12:22";"00:15:12:22";"FABst2ner Bayern-Mannschaft,ÿÿ/¬~"
-"705";"00:15:12:22";"00:15:16:01";"Das besiegelte die Niederlage
+701;00:15:10:13;00:15:10:13;FABstP mit dem Treffer zum 3:1-Endstand.ÿÿ¨
+702;00:15:10:13;00:15:12:18;mit dem Treffer zum 3:1-Endstand.
+703;00:15:12:22;00:15:12:22;FABstd Das besiegelte die Niederlage( ( ei9ø
+704;00:15:12:22;00:15:12:22;FABst2ner Bayern-Mannschaft,ÿÿ/¬~
+705;00:15:12:22;00:15:16:01;"Das besiegelte die Niederlage
 
 einer Bayern-Mannschaft,"
-"706";"00:15:16:05";"00:15:16:05";"FABstd die in der zweiten Hälfte ( ( so mut""
-"707";"00:15:16:05";"00:15:16:05";"FABst2los wie leblos wirkte.ÿÿ/ø"
-"708";"00:15:16:05";"00:15:19:07";"die in der zweiten HÈalfte
+706;00:15:16:05;00:15:16:05;"FABstd die in der zweiten Hälfte ( ( so mut"""
+707;00:15:16:05;00:15:16:05;FABst2los wie leblos wirkte.ÿÿ/ø
+708;00:15:16:05;00:15:19:07;"die in der zweiten HÈalfte
 
 so mutlos wie leblos wirkte."
-"709";"00:15:19:11";"00:15:19:11";"FABstL Im Moment ist die Birne leer.ñH"
-"710";"00:15:19:11";"00:15:21:06";"Im Moment ist die Birne leer."
-"711";"00:15:21:10";"00:15:21:10";"FABstF Wir sind angeschlagen -Év"
-"712";"00:15:21:10";"00:15:23:01";"Wir sind angeschlagen -"
-"713";"00:15:23:05";"00:15:23:05";"FABstd ich fühle( ( mich und uns aþü"
-"714";"00:15:23:05";"00:15:23:05";"FABstngeschlagen.ÿÿCë"
-"715";"00:15:23:05";"00:15:25:19";"ich fÈuhle
+709;00:15:19:11;00:15:19:11;FABstL Im Moment ist die Birne leer.ñH
+710;00:15:19:11;00:15:21:06;Im Moment ist die Birne leer.
+711;00:15:21:10;00:15:21:10;FABstF Wir sind angeschlagen -Év
+712;00:15:21:10;00:15:23:01;Wir sind angeschlagen -
+713;00:15:23:05;00:15:23:05;FABstd ich fühle( ( mich und uns aþü
+714;00:15:23:05;00:15:23:05;FABstngeschlagen.ÿÿCë
+715;00:15:23:05;00:15:25:19;"ich fÈuhle
 
 mich und uns angeschlagen."
-"716";"00:15:26:04";"00:15:26:04";"FABstd Nun sind die Bayern von den( ( ErgebnisX"
-"717";"00:15:26:04";"00:15:26:04";"FABst>sen der Dortmunder abhängig.ÿÿ#UÄ"
-"718";"00:15:26:04";"00:15:30:15";"Nun sind die Bayern von den
+716;00:15:26:04;00:15:26:04;FABstd Nun sind die Bayern von den( ( ErgebnisX
+717;00:15:26:04;00:15:26:04;FABst>sen der Dortmunder abhängig.ÿÿ#UÄ
+718;00:15:26:04;00:15:30:15;"Nun sind die Bayern von den
 
 Ergebnissen der Dortmunder abhÈangig."
-"719";"00:15:32:09";"00:15:32:09";"FABstD Die Bayern verlieren,ÿÿ¬0"
-"720";"00:15:32:09";"00:15:33:19";"Die Bayern verlieren,"
-"721";"00:15:33:23";"00:15:33:23";"FABstd brechen in der 2. Halbzeit ein( ( und kS®"
-"722";"00:15:33:23";"00:15:33:23";"FABst8assieren drei Gegentore. ÿÿ)¾¼"
-"723";"00:15:33:23";"00:15:38:01";"brechen in der 2. Halbzeit ein
+719;00:15:32:09;00:15:32:09;FABstD Die Bayern verlieren,ÿÿ¬0
+720;00:15:32:09;00:15:33:19;Die Bayern verlieren,
+721;00:15:33:23;00:15:33:23;FABstd brechen in der 2. Halbzeit ein( ( und kS®
+722;00:15:33:23;00:15:33:23;FABst8assieren drei Gegentore. ÿÿ)¾¼
+723;00:15:33:23;00:15:38:01;"brechen in der 2. Halbzeit ein
 
 und kassieren drei Gegentore."
-"724";"00:15:38:05";"00:15:38:05";"FABstTNach dem Aus im DFB-Pokal und der CLÿÿ©"
-"725";"00:15:38:05";"00:15:41:10";"Nach dem Aus im DFB-Pokal und der CL"
-"726";"00:15:41:14";"00:15:41:14";"FABstdhaben sie nun auch die Meisterschaft( ( \"
-"727";"00:15:41:14";"00:15:41:14";"FABstBnicht mehr selbst in der Hand.ÿÿö"
-"728";"00:15:41:14";"00:15:45:16";"haben sie nun auch die Meisterschaft
+724;00:15:38:05;00:15:38:05;FABstTNach dem Aus im DFB-Pokal und der CLÿÿ©
+725;00:15:38:05;00:15:41:10;Nach dem Aus im DFB-Pokal und der CL
+726;00:15:41:14;00:15:41:14;FABstdhaben sie nun auch die Meisterschaft( ( \
+727;00:15:41:14;00:15:41:14;FABstBnicht mehr selbst in der Hand.ÿÿö
+728;00:15:41:14;00:15:45:16;"haben sie nun auch die Meisterschaft
 
 nicht mehr selbst in der Hand."
-"729";"00:15:45:20";"00:15:45:20";"FABstd Selten lagen Anspruch( ( und WirkliØ"
-"730";"00:15:45:20";"00:15:45:20";"FABst<chkeit so weit auseinander.ÿÿ%*"
-"731";"00:15:45:20";"00:15:49:16";"Selten lagen Anspruch
+729;00:15:45:20;00:15:45:20;FABstd Selten lagen Anspruch( ( und WirkliØ
+730;00:15:45:20;00:15:45:20;FABst<chkeit so weit auseinander.ÿÿ%*
+731;00:15:45:20;00:15:49:16;"Selten lagen Anspruch
 
 und Wirklichkeit so weit auseinander."
-"732";"00:15:49:20";"00:15:49:20";"FABstVErklärungsversuche von Thomas Tuchel.ÿÿlL"
-"733";"00:15:49:20";"00:15:52:13";"ErklÈarungsversuche von Thomas Tuchel."
-"734";"00:15:53:24";"00:15:53:24";"FABstd Konzentrationsfehler,( ( große inî¤"
-"735";"00:15:53:24";"00:15:53:24";"FABst*dividuelle Fehler.?Ðà"
-"736";"00:15:53:24";"00:15:57:20";"Konzentrationsfehler,
+732;00:15:49:20;00:15:49:20;FABstVErklärungsversuche von Thomas Tuchel.ÿÿlL
+733;00:15:49:20;00:15:52:13;ErklÈarungsversuche von Thomas Tuchel.
+734;00:15:53:24;00:15:53:24;FABstd Konzentrationsfehler,( ( große inî¤
+735;00:15:53:24;00:15:53:24;FABst*dividuelle Fehler.?Ðà
+736;00:15:53:24;00:15:57:20;"Konzentrationsfehler,
 
 groûe individuelle Fehler."
-"737";"00:15:58:16";"00:15:58:16";"FABstD Wir wirken ausgelaugt,!Ä@"
-"738";"00:15:58:16";"00:16:01:03";"Wir wirken ausgelaugt,"
-"739";"00:16:01:05";"00:16:01:05";"FABstd wie eine Mannschaft, die schon( ( 70 SpfÌ"
-"740";"00:16:01:05";"00:16:01:05";"FABst8iele in den Knochen hat. 1¥*"
-"741";"00:16:01:05";"00:16:04:20";"wie eine Mannschaft, die schon
+737;00:15:58:16;00:15:58:16;FABstD Wir wirken ausgelaugt,!Ä@
+738;00:15:58:16;00:16:01:03;Wir wirken ausgelaugt,
+739;00:16:01:05;00:16:01:05;FABstd wie eine Mannschaft, die schon( ( 70 SpfÌ
+740;00:16:01:05;00:16:01:05;FABst8iele in den Knochen hat. 1¥*
+741;00:16:01:05;00:16:04:20;"wie eine Mannschaft, die schon
 
 70 Spiele in den Knochen hat."
-"742";"00:16:04:24";"00:16:04:24";"FABstd Im Moment können wir( ( keine §<u>"
-"743";"00:16:04:24";"00:16:04:24";"FABst&Reaktion zeigen.ÿÿ;ÅÆ"
-"744";"00:16:04:24";"00:16:07:23";"Im Moment kÈonnen wir
+742;00:16:04:24;00:16:04:24;FABstd Im Moment können wir( ( keine §<u>
+743;00:16:04:24;00:16:04:24;"FABst&Reaktion zeigen.ÿÿ;ÅÆ"
+744;00:16:04:24;00:16:07:23;"Im Moment kÈonnen wir
 
 keine Reaktion zeigen."
-"745";"00:16:08:16";"00:16:08:16";"FABstL Weder mental noch körperlich.ÿÿr¸"
-"746";"00:16:08:16";"00:16:10:20";"Weder mental noch kÈorperlich."
-"747";"00:16:11:01";"00:16:11:01";"FABstd Es fehlt uns( ( an Durchset+"
-"748";"00:16:11:01";"00:16:11:01";"FABst"zungsvermögen,ÿÿ??Ð"
-"749";"00:16:11:01";"00:16:13:16";"Es fehlt uns
+745;00:16:08:16;00:16:08:16;FABstL Weder mental noch körperlich.ÿÿr¸
+746;00:16:08:16;00:16:10:20;Weder mental noch kÈorperlich.
+747;00:16:11:01;00:16:11:01;FABstd Es fehlt uns( ( an Durchset+
+748;00:16:11:01;00:16:11:01;"FABst""zungsvermögen,ÿÿ??Ð"
+749;00:16:11:01;00:16:13:16;"Es fehlt uns
 
 an DurchsetzungsvermÈogen,"
-"750";"00:16:13:20";"00:16:13:20";"FABstF an körperlicher Präsenz.ÿÿÔî"
-"751";"00:16:13:20";"00:16:15:20";"an kÈorperlicher PrÈasenz."
-"752";"00:16:15:24";"00:16:15:24";"FABstVEs fehlt die Basis, die du brauchst.ÿÿµ@"
-"753";"00:16:15:24";"00:16:19:15";"Es fehlt die Basis, die du brauchst."
-"754";"00:16:21:19";"00:16:21:19";"FABstd Wir spielen alles( ( auf der gle"
-"755";"00:16:21:19";"00:16:21:19";"FABst.ichen Tonlage durch.ÿÿ36"
-"756";"00:16:21:19";"00:16:24:19";"Wir spielen alles
+750;00:16:13:20;00:16:13:20;FABstF an körperlicher Präsenz.ÿÿÔî
+751;00:16:13:20;00:16:15:20;an kÈorperlicher PrÈasenz.
+752;00:16:15:24;00:16:15:24;FABstVEs fehlt die Basis, die du brauchst.ÿÿµ@
+753;00:16:15:24;00:16:19:15;Es fehlt die Basis, die du brauchst.
+754;00:16:21:19;00:16:21:19;FABstd Wir spielen alles( ( auf der gle
+755;00:16:21:19;00:16:21:19;FABst.ichen Tonlage durch.ÿÿ36
+756;00:16:21:19;00:16:24:19;"Wir spielen alles
 
 auf der gleichen Tonlage durch."
-"757";"00:16:24:23";"00:16:24:23";"FABstTEntweder reicht es oder eben nicht.ÿÿì"
-"758";"00:16:24:23";"00:16:27:02";"Entweder reicht es oder eben nicht."
-"759";"00:16:27:06";"00:16:27:06";"FABstd Aber 'ne Anpassung an das,( ( was ina|"
-"760";"00:16:27:06";"00:16:27:06";"FABstB Echtzeit passiert, fehlt mir.ÿÿÈ"
-"761";"00:16:27:06";"00:16:31:10";"Aber 'ne Anpassung an das,
+757;00:16:24:23;00:16:24:23;FABstTEntweder reicht es oder eben nicht.ÿÿì
+758;00:16:24:23;00:16:27:02;Entweder reicht es oder eben nicht.
+759;00:16:27:06;00:16:27:06;FABstd Aber 'ne Anpassung an das,( ( was ina|
+760;00:16:27:06;00:16:27:06;FABstB Echtzeit passiert, fehlt mir.ÿÿÈ
+761;00:16:27:06;00:16:31:10;"Aber 'ne Anpassung an das,
 
 was in Echtzeit passiert, fehlt mir."
-"762";"00:16:31:15";"00:16:31:15";"FABstdEine Anpassung meines Verhaltens,( ( ~("
-"763";"00:16:31:15";"00:16:31:15";"FABst4meiner Körperlichkeit.ÿÿ-\î"
-"764";"00:16:31:15";"00:16:35:19";"Eine Anpassung meines Verhaltens,
+762;00:16:31:15;00:16:31:15;FABstdEine Anpassung meines Verhaltens,( ( ~(
+763;00:16:31:15;00:16:31:15;FABst4meiner Körperlichkeit.ÿÿ-\î
+764;00:16:31:15;00:16:35:19;"Eine Anpassung meines Verhaltens,
 
 meiner KÈorperlichkeit."
-"765";"00:16:37:20";"00:16:37:20";"FABstdMoll statt Dur - so klingts gerade( ( ll"
-"766";"00:16:37:20";"00:16:37:20";"FABst4beim FC Bayern München.ÿÿ-"
-"767";"00:16:37:20";"00:16:41:07";"Moll statt Dur - so klingts gerade
+765;00:16:37:20;00:16:37:20;FABstdMoll statt Dur - so klingts gerade( ( ll
+766;00:16:37:20;00:16:37:20;FABst4beim FC Bayern München.ÿÿ-
+767;00:16:37:20;00:16:41:07;"Moll statt Dur - so klingts gerade
 
 beim FC Bayern MÈunchen."
-"768";"00:16:41:11";"00:16:41:11";"FABstd Das ist selten und macht( ( den Mei4,"
-"769";"00:16:41:11";"00:16:41:11";"FABst2sterkampf so spannend.ÿÿ/®*"
-"770";"00:16:41:11";"00:16:44:19";"Das ist selten und macht
+768;00:16:41:11;00:16:41:11;FABstd Das ist selten und macht( ( den Mei4,
+769;00:16:41:11;00:16:41:11;FABst2sterkampf so spannend.ÿÿ/®*
+770;00:16:41:11;00:16:44:19;"Das ist selten und macht
 
 den Meisterkampf so spannend."
-"771";"00:16:44:23";"00:16:44:23";"FABstd Die Bayern-Bosse hatten ja( ( ohne Notv<"
-"772";"00:16:44:23";"00:16:44:23";"FABst6 den Trainer gewechselt.ÿÿ+Óð"
-"773";"00:16:44:23";"00:16:48:14";"Die Bayern-Bosse hatten ja
+771;00:16:44:23;00:16:44:23;FABstd Die Bayern-Bosse hatten ja( ( ohne Notv<
+772;00:16:44:23;00:16:44:23;FABst6 den Trainer gewechselt.ÿÿ+Óð
+773;00:16:44:23;00:16:48:14;"Die Bayern-Bosse hatten ja
 
 ohne Not den Trainer gewechselt."
-"774";"00:16:48:18";"00:16:48:18";"FABstd Hertha dagegen hat in größter Not( ( ;<u>"
-"775";"00:16:48:18";"00:16:48:18";"FABst6den Trainer entlassen -ÿÿ+·`"
-"776";"00:16:48:18";"00:16:52:04";"Hertha dagegen hat in grÈoûter Not
+774;00:16:48:18;00:16:48:18;"FABstd Hertha dagegen hat in größter Not( ( ;<u>"
+775;00:16:48:18;00:16:48:18;FABst6den Trainer entlassen -ÿÿ+·`
+776;00:16:48:18;00:16:52:04;"Hertha dagegen hat in grÈoûter Not
 
 den Trainer entlassen -"
-"777";"00:16:52:08";"00:16:52:08";"FABst B als Tabellenletzter.ÿÿ"
-"778";"00:16:52:08";"00:16:53:19";"als Tabellenletzter."
-"779";"00:16:53:23";"00:16:53:23";"FABst!d Jetzt soll wieder Pal Dardai( ( den Kla`"
-"780";"00:16:53:23";"00:16:53:23";"FABstBssenerhalt irgendwie schaffen.ÿÿé°"
-"781";"00:16:53:23";"00:16:58:04";"Jetzt soll wieder Pal Dardai
+777;00:16:52:08;00:16:52:08;FABst B als Tabellenletzter.ÿÿ
+778;00:16:52:08;00:16:53:19;als Tabellenletzter.
+779;00:16:53:23;00:16:53:23;FABst!d Jetzt soll wieder Pal Dardai( ( den Kla`
+780;00:16:53:23;00:16:53:23;FABstBssenerhalt irgendwie schaffen.ÿÿé°
+781;00:16:53:23;00:16:58:04;"Jetzt soll wieder Pal Dardai
 
 den Klassenerhalt irgendwie schaffen."
-"782";"00:16:58:16";"00:16:58:16";"FABst"@ Das ist der Plan.ÿÿÍj"
-"783";"00:16:58:16";"00:17:00:00";"Das ist der Plan."
-"784";"00:17:00:04";"00:17:00:04";"FABst#dDer ist zumindest heute in Spiel 1( ( miSÜ"
-"785";"00:17:00:04";"00:17:00:04";"FABst8t dem neuen alten Trainerÿÿ)´Ä"
-"786";"00:17:00:04";"00:17:03:18";"Der ist zumindest heute in Spiel 1
+782;00:16:58:16;00:16:58:16;"FABst""@ Das ist der Plan.ÿÿÍj"
+783;00:16:58:16;00:17:00:00;Das ist der Plan.
+784;00:17:00:04;00:17:00:04;FABst#dDer ist zumindest heute in Spiel 1( ( miSÜ
+785;00:17:00:04;00:17:00:04;FABst8t dem neuen alten Trainerÿÿ)´Ä
+786;00:17:00:04;00:17:03:18;"Der ist zumindest heute in Spiel 1
 
 mit dem neuen alten Trainer"
-"787";"00:17:03:20";"00:17:03:20";"FABst$d und der Niederlage gegen Werder( ( ]ª"
-"788";"00:17:03:20";"00:17:03:20";"FABst.nicht aufgegangen.ÿÿ3ò,"
-"789";"00:17:03:20";"00:17:06:22";"und der Niederlage gegen Werder
+787;00:17:03:20;00:17:03:20;FABst$d und der Niederlage gegen Werder( ( ]ª
+788;00:17:03:20;00:17:03:20;FABst.nicht aufgegangen.ÿÿ3ò,
+789;00:17:03:20;00:17:06:22;"und der Niederlage gegen Werder
 
 nicht aufgegangen."
-"790";"00:17:08:04";"00:17:08:04";"FABst%J Ernüchterung nach dem Spiel.1à"
-"791";"00:17:08:04";"00:17:10:03";"ErnÈuchterung nach dem Spiel."
-"792";"00:17:10:07";"00:17:10:07";"FABst&VHertha-Trainer Dardai ist enttäuscht,¢"
-"793";"00:17:10:07";"00:17:12:17";"Hertha-Trainer Dardai ist enttÈauscht,"
-"794";"00:17:12:21";"00:17:12:21";"FABst'd hat nach dem 2:4( ( aber eine \"
-"795";"00:17:12:21";"00:17:12:21";"FABst&Erklärung parat.ÿÿ;R²"
-"796";"00:17:12:21";"00:17:15:14";"hat nach dem 2:4
+790;00:17:08:04;00:17:08:04;FABst%J Ernüchterung nach dem Spiel.1à
+791;00:17:08:04;00:17:10:03;ErnÈuchterung nach dem Spiel.
+792;00:17:10:07;00:17:10:07;FABst&VHertha-Trainer Dardai ist enttäuscht,¢
+793;00:17:10:07;00:17:12:17;Hertha-Trainer Dardai ist enttÈauscht,
+794;00:17:12:21;00:17:12:21;FABst'd hat nach dem 2:4( ( aber eine \
+795;00:17:12:21;00:17:12:21;"FABst&Erklärung parat.ÿÿ;R²"
+796;00:17:12:21;00:17:15:14;"hat nach dem 2:4
 
 aber eine ErklÈarung parat."
-"797";"00:17:15:18";"00:17:15:18";"FABst(NWir haben mental Riesenprobleme.ò"
-"798";"00:17:15:18";"00:17:18:07";"Wir haben mental Riesenprobleme."
-"799";"00:17:19:15";"00:17:19:15";"FABst)d Dieser Druck,( ( das ist ei@P"
-"800";"00:17:19:15";"00:17:19:15";"FABst$n Tick zu viel.EÕ&"
-"801";"00:17:19:15";"00:17:22:01";"Dieser Druck,
+797;00:17:15:18;00:17:15:18;FABst(NWir haben mental Riesenprobleme.ò
+798;00:17:15:18;00:17:18:07;Wir haben mental Riesenprobleme.
+799;00:17:19:15;00:17:19:15;FABst)d Dieser Druck,( ( das ist ei@P
+800;00:17:19:15;00:17:19:15;FABst$n Tick zu viel.EÕ&
+801;00:17:19:15;00:17:22:01;"Dieser Druck,
 
 das ist ein Tick zu viel."
-"802";"00:17:22:05";"00:17:22:05";"FABst*H Daran müssen wir arbeiten.ÿÿÜ"
-"803";"00:17:22:05";"00:17:24:03";"Daran mÈussen wir arbeiten."
-"804";"00:17:24:07";"00:17:24:07";"FABst+d Dardai sieht,( ( dass die Gä."
-"805";"00:17:24:07";"00:17:24:07";"FABst&ste besser sind.ÿÿ;¼ð"
-"806";"00:17:24:07";"00:17:27:00";"Dardai sieht,
+802;00:17:22:05;00:17:22:05;FABst*H Daran müssen wir arbeiten.ÿÿÜ
+803;00:17:22:05;00:17:24:03;Daran mÈussen wir arbeiten.
+804;00:17:24:07;00:17:24:07;FABst+d Dardai sieht,( ( dass die Gä.
+805;00:17:24:07;00:17:24:07;"FABst&ste besser sind.ÿÿ;¼ð"
+806;00:17:24:07;00:17:27:00;"Dardai sieht,
 
 dass die GÈaste besser sind."
-"807";"00:17:27:04";"00:17:27:04";"FABst,RMarvin Ducksch trifft zum 0:1 (6.).ÿÿª2"
-"808";"00:17:27:04";"00:17:31:03";"Marvin Ducksch trifft zum 0:1 (6.)."
-"809";"00:17:31:19";"00:17:31:19";"FABst-TWerder muss auf Füllkrug verzichten.ÿÿT°"
-"810";"00:17:31:19";"00:17:34:14";"Werder muss auf FÈullkrug verzichten."
-"811";"00:17:34:18";"00:17:34:18";"FABst.d Doch dass der fehlt,( ( ist dem Teä"
-"812";"00:17:34:18";"00:17:34:18";"FABst.am nicht anzumerken.ÿÿ3°Î"
-"813";"00:17:34:18";"00:17:37:17";"Doch dass der fehlt,
+807;00:17:27:04;00:17:27:04;FABst,RMarvin Ducksch trifft zum 0:1 (6.).ÿÿª2
+808;00:17:27:04;00:17:31:03;Marvin Ducksch trifft zum 0:1 (6.).
+809;00:17:31:19;00:17:31:19;FABst-TWerder muss auf Füllkrug verzichten.ÿÿT°
+810;00:17:31:19;00:17:34:14;Werder muss auf FÈullkrug verzichten.
+811;00:17:34:18;00:17:34:18;FABst.d Doch dass der fehlt,( ( ist dem Teä
+812;00:17:34:18;00:17:34:18;FABst.am nicht anzumerken.ÿÿ3°Î
+813;00:17:34:18;00:17:37:17;"Doch dass der fehlt,
 
 ist dem Team nicht anzumerken."
-"814";"00:17:37:21";"00:17:37:21";"FABst/D Das 0:2 durch Ducksch.ÿÿß"
-"815";"00:17:37:21";"00:17:39:14";"Das 0:2 durch Ducksch."
-"816";"00:17:40:23";"00:17:40:23";"FABst0@ Dardai ahnt Böses.ÿÿ^Æ"
-"817";"00:17:40:23";"00:17:42:21";"Dardai ahnt BÈoses."
-"818";"00:17:43:23";"00:17:43:23";"FABst18 2. Hälfte:ÿÿ%y"
-"819";"00:17:43:23";"00:17:45:08";"2. HÈalfte:"
-"820";"00:17:45:12";"00:17:45:12";"FABst2B Ducksch zum Dritten.ÿÿöâ"
-"821";"00:17:45:12";"00:17:47:09";"Ducksch zum Dritten."
-"822";"00:17:49:17";"00:17:49:17";"FABst3J 20.000 Werder-Fans entzückt.ÿÿ=P"
-"823";"00:17:49:17";"00:17:51:21";"20.000 Werder-Fans entzÈuckt."
-"824";"00:17:52:05";"00:17:52:05";"FABst4RDoch Hertha hilft auch kräftig mit.ÿÿt"
-"825";"00:17:52:05";"00:17:55:09";"Doch Hertha hilft auch krÈaftig mit."
-"826";"00:17:55:13";"00:17:55:13";"FABst5d Torhüter Christensen( ( schenkt We§d"
-"827";"00:17:55:13";"00:17:55:13";"FABst0rders Weiser das 0:4.ÿÿ1çT"
-"828";"00:17:55:13";"00:17:59:04";"TorhÈuter Christensen
+814;00:17:37:21;00:17:37:21;FABst/D Das 0:2 durch Ducksch.ÿÿß
+815;00:17:37:21;00:17:39:14;Das 0:2 durch Ducksch.
+816;00:17:40:23;00:17:40:23;FABst0@ Dardai ahnt Böses.ÿÿ^Æ
+817;00:17:40:23;00:17:42:21;Dardai ahnt BÈoses.
+818;00:17:43:23;00:17:43:23;FABst18 2. Hälfte:ÿÿ%y
+819;00:17:43:23;00:17:45:08;2. HÈalfte:
+820;00:17:45:12;00:17:45:12;FABst2B Ducksch zum Dritten.ÿÿöâ
+821;00:17:45:12;00:17:47:09;Ducksch zum Dritten.
+822;00:17:49:17;00:17:49:17;FABst3J 20.000 Werder-Fans entzückt.ÿÿ=P
+823;00:17:49:17;00:17:51:21;20.000 Werder-Fans entzÈuckt.
+824;00:17:52:05;00:17:52:05;FABst4RDoch Hertha hilft auch kräftig mit.ÿÿt
+825;00:17:52:05;00:17:55:09;Doch Hertha hilft auch krÈaftig mit.
+826;00:17:55:13;00:17:55:13;FABst5d Torhüter Christensen( ( schenkt We§d
+827;00:17:55:13;00:17:55:13;FABst0rders Weiser das 0:4.ÿÿ1çT
+828;00:17:55:13;00:17:59:04;"TorhÈuter Christensen
 
 schenkt Werders Weiser das 0:4."
-"829";"00:17:59:08";"00:17:59:08";"FABst6dErst als die Partie entschieden ist,( ( À"
-"830";"00:17:59:08";"00:17:59:08";"FABst8 treffen die Berliner.ÿÿ)û"
-"831";"00:17:59:08";"00:18:03:05";"Erst als die Partie entschieden ist,
+829;00:17:59:08;00:17:59:08;FABst6dErst als die Partie entschieden ist,( ( À
+830;00:17:59:08;00:17:59:08;FABst8 treffen die Berliner.ÿÿ)û
+831;00:17:59:08;00:18:03:05;"Erst als die Partie entschieden ist,
 
 treffen die Berliner."
-"832";"00:18:04:04";"00:18:04:04";"FABst7d Ngankam und Lukebakio( ( heiße¸Ò"
-"833";"00:18:04:04";"00:18:04:04";"FABst*n die Torschützen.ÿÿ7"
-"834";"00:18:04:04";"00:18:07:12";"Ngankam und Lukebakio
+832;00:18:04:04;00:18:04:04;FABst7d Ngankam und Lukebakio( ( heiße¸Ò
+833;00:18:04:04;00:18:04:04;FABst*n die Torschützen.ÿÿ7
+834;00:18:04:04;00:18:07:12;"Ngankam und Lukebakio
 
 heiûen die TorschÈutzen."
-"835";"00:18:09:00";"00:18:09:00";"FABst8> Dabei bleibt's.ÿÿøx"
-"836";"00:18:09:00";"00:18:10:04";"Dabei bleibt's."
-"837";"00:18:10:07";"00:18:10:07";"FABst9d Hertha schiebt Frust,( ( WrÖ"
-"838";"00:18:10:07";"00:18:10:07";"FABst erder feiert.ÿÿAïp"
-"839";"00:18:10:07";"00:18:12:16";"Hertha schiebt Frust,
+835;00:18:09:00;00:18:09:00;FABst8> Dabei bleibt's.ÿÿøx
+836;00:18:09:00;00:18:10:04;Dabei bleibt's.
+837;00:18:10:07;00:18:10:07;FABst9d Hertha schiebt Frust,( ( WrÖ
+838;00:18:10:07;00:18:10:07;FABst erder feiert.ÿÿAïp
+839;00:18:10:07;00:18:12:16;"Hertha schiebt Frust,
 
 Werder feiert."
-"840";"00:18:12:20";"00:18:12:20";"FABst:d Grün-weiße Party-Stimmung( ( i_"
-"841";"00:18:12:20";"00:18:12:20";"FABst(n der Hauptstadt.ÿÿ9á"
-"842";"00:18:12:20";"00:18:15:21";"GrÈun-weiûe Party-Stimmung
+840;00:18:12:20;00:18:12:20;FABst:d Grün-weiße Party-Stimmung( ( i_
+841;00:18:12:20;00:18:12:20;FABst(n der Hauptstadt.ÿÿ9á
+842;00:18:12:20;00:18:15:21;"GrÈun-weiûe Party-Stimmung
 
 in der Hauptstadt."
-"843";"00:18:16:21";"00:18:16:21";"FABst;8 Wahnsinn.-ØZ"
-"844";"00:18:16:21";"00:18:18:01";"Wahnsinn."
-"845";"00:18:18:05";"00:18:18:05";"FABst<: Überragend.+cÌ"
-"846";"00:18:18:05";"00:18:19:20";"ÈUberragend."
-"847";"00:18:20:04";"00:18:20:04";"FABst=d Wir haben( ( nur ein bissch,ê"
-"848";"00:18:20:04";"00:18:20:04";"FABst$en mitbekommen,ÿÿ=8"
-"849";"00:18:20:04";"00:18:22:18";"Wir haben
+843;00:18:16:21;00:18:16:21;"FABst;8 Wahnsinn.-ØZ"
+844;00:18:16:21;00:18:18:01;Wahnsinn.
+845;00:18:18:05;00:18:18:05;FABst<: Überragend.+cÌ
+846;00:18:18:05;00:18:19:20;ÈUberragend.
+847;00:18:20:04;00:18:20:04;FABst=d Wir haben( ( nur ein bissch,ê
+848;00:18:20:04;00:18:20:04;FABst$en mitbekommen,ÿÿ=8
+849;00:18:20:04;00:18:22:18;"Wir haben
 
 nur ein bisschen mitbekommen,"
-"850";"00:18:22:22";"00:18:22:22";"FABst>J was eventuell los sein wird.ÿÿÞì"
-"851";"00:18:22:22";"00:18:24:19";"was eventuell los sein wird."
-"852";"00:18:24:23";"00:18:24:23";"FABst?d Als wir rausgekommen sind -( ( >î"
-"853";"00:18:24:23";"00:18:24:23";"FABst$ überragend.ÿÿ=H"
-"854";"00:18:24:23";"00:18:27:08";"Als wir rausgekommen sind -
+850;00:18:22:22;00:18:22:22;FABst>J was eventuell los sein wird.ÿÿÞì
+851;00:18:22:22;00:18:24:19;was eventuell los sein wird.
+852;00:18:24:23;00:18:24:23;FABst?d Als wir rausgekommen sind -( ( >î
+853;00:18:24:23;00:18:24:23;FABst$ überragend.ÿÿ=H
+854;00:18:24:23;00:18:27:08;"Als wir rausgekommen sind -
 
 Èuberragend."
-"855";"00:18:27:12";"00:18:27:12";"FABst@dWir haben versucht, es aufzusaugen,( ( )ð"
-"856";"00:18:27:12";"00:18:27:12";"FABst@auf den Platz zu übertragen.ÿÿ!jØ"
-"857";"00:18:27:12";"00:18:31:16";"Wir haben versucht, es aufzusaugen,
+855;00:18:27:12;00:18:27:12;FABst@dWir haben versucht, es aufzusaugen,( ( )ð
+856;00:18:27:12;00:18:27:12;FABst@auf den Platz zu übertragen.ÿÿ!jØ
+857;00:18:27:12;00:18:31:16;"Wir haben versucht, es aufzusaugen,
 
 auf den Platz zu Èubertragen."
-"858";"00:18:31:18";"00:18:31:18";"FABstAL Stimmung wie im Weserstadion.ÿÿ§¬"
-"859";"00:18:31:18";"00:18:33:14";"Stimmung wie im Weserstadion."
-"860";"00:18:33:18";"00:18:33:18";"FABstBF Werder-Jubel in Berlin.ÿÿªº"
-"861";"00:18:33:18";"00:18:35:09";"Werder-Jubel in Berlin."
-"862";"00:18:37:08";"00:18:37:08";"FABstCF Die weiteren Ergebnisse:ÿÿ<u>4"
-"863";"00:18:37:08";"00:18:39:09";"Die weiteren Ergebnisse:"
-"864";"00:19:22:17";"00:19:22:17";"FABstDD Das Wetter fehlt noch.ÿÿßÌ"
-"865";"00:19:22:17";"00:19:24:04";"Das Wetter fehlt noch."
-"866";"00:19:24:08";"00:19:24:08";"FABstEd Sven, geht es so mild( ( wiW"
-"867";"00:19:24:08";"00:19:24:08";"FABst$e heute weiter?ÿÿ=ß"
-"868";"00:19:24:08";"00:19:26:20";"Sven, geht es so mild
+858;00:18:31:18;00:18:31:18;FABstAL Stimmung wie im Weserstadion.ÿÿ§¬
+859;00:18:31:18;00:18:33:14;Stimmung wie im Weserstadion.
+860;00:18:33:18;00:18:33:18;FABstBF Werder-Jubel in Berlin.ÿÿªº
+861;00:18:33:18;00:18:35:09;Werder-Jubel in Berlin.
+862;00:18:37:08;00:18:37:08;FABstCF Die weiteren Ergebnisse:ÿÿ<u>4
+863;00:18:37:08;00:18:39:09;Die weiteren Ergebnisse:
+864;00:19:22:17;00:19:22:17;FABstDD Das Wetter fehlt noch.ÿÿßÌ
+865;00:19:22:17;00:19:24:04;Das Wetter fehlt noch.
+866;00:19:24:08;00:19:24:08;FABstEd Sven, geht es so mild( ( wiW
+867;00:19:24:08;00:19:24:08;FABst$e heute weiter?ÿÿ=ß
+868;00:19:24:08;00:19:26:20;"Sven, geht es so mild
 
 wie heute weiter?"
-"869";"00:19:27:24";"00:19:27:24";"FABstFd Nein,( ( aber es wird morge"
-"870";"00:19:27:24";"00:19:27:24";"FABst$n ähnlich warm.`='î"
-"871";"00:19:27:24";"00:19:31:12";"Nein,
+869;00:19:27:24;00:19:27:24;FABstFd Nein,( ( aber es wird morge
+870;00:19:27:24;00:19:27:24;FABst$n ähnlich warm.`='î
+871;00:19:27:24;00:19:31:12;"Nein,
 
 aber es wird morgen Èahnlich warm."
-"872";"00:19:33:14";"00:19:33:14";"FABstGd Heute in Bad Fallingbostel( ( wK®"
-"873";"00:19:33:14";"00:19:33:14";"FABst&aren es 25 Grad.ÿÿ;Çà"
-"874";"00:19:33:14";"00:19:36:15";"Heute in Bad Fallingbostel
+872;00:19:33:14;00:19:33:14;FABstGd Heute in Bad Fallingbostel( ( wK®
+873;00:19:33:14;00:19:33:14;"FABst&aren es 25 Grad.ÿÿ;Çà"
+874;00:19:33:14;00:19:36:15;"Heute in Bad Fallingbostel
 
 waren es 25 Grad."
-"875";"00:19:36:17";"00:19:36:17";"FABstHPMorgen ist die Spitze bei 22 Grad.ÿÿÚ"
-"876";"00:19:36:17";"00:19:39:04";"Morgen ist die Spitze bei 22 Grad."
-"877";"00:19:39:06";"00:19:39:06";"FABstId Ich möchte zuerst dieses Bild( ( aus ê"
-"878";"00:19:39:06";"00:19:39:06";"FABst8der letzten Nacht zeigen.ÿÿ)³´"
-"879";"00:19:39:06";"00:19:42:24";"Ich mÈochte zuerst dieses Bild
+875;00:19:36:17;00:19:36:17;FABstHPMorgen ist die Spitze bei 22 Grad.ÿÿÚ
+876;00:19:36:17;00:19:39:04;Morgen ist die Spitze bei 22 Grad.
+877;00:19:39:06;00:19:39:06;FABstId Ich möchte zuerst dieses Bild( ( aus ê
+878;00:19:39:06;00:19:39:06;FABst8der letzten Nacht zeigen.ÿÿ)³´
+879;00:19:39:06;00:19:42:24;"Ich mÈochte zuerst dieses Bild
 
 aus der letzten Nacht zeigen."
-"880";"00:19:43:03";"00:19:43:03";"FABstJP Da gab es noch einmal Polarlicht.ÿÿ¸^"
-"881";"00:19:43:03";"00:19:46:00";"Da gab es noch einmal Polarlicht."
-"882";"00:19:47:01";"00:19:47:01";"FABstKd Man sieht auch( ( einige SternschlÊ"
-"883";"00:19:47:01";"00:19:47:01";"FABst.nuppen, die Lyriden.ÿÿ3Ë"
-"884";"00:19:47:01";"00:19:51:10";"Man sieht auch
+880;00:19:43:03;00:19:43:03;FABstJP Da gab es noch einmal Polarlicht.ÿÿ¸^
+881;00:19:43:03;00:19:46:00;Da gab es noch einmal Polarlicht.
+882;00:19:47:01;00:19:47:01;FABstKd Man sieht auch( ( einige SternschlÊ
+883;00:19:47:01;00:19:47:01;FABst.nuppen, die Lyriden.ÿÿ3Ë
+884;00:19:47:01;00:19:51:10;"Man sieht auch
 
 einige Sternschnuppen, die Lyriden."
-"885";"00:19:52:04";"00:19:52:04";"FABstLd Übrigens sind sie( ( nach dem antF"
-"886";"00:19:52:04";"00:19:52:04";"FABst0iken Musikinstrument,ÿÿ1µ$"
-"887";"00:19:52:04";"00:19:55:20";"ÈUbrigens sind sie
+885;00:19:52:04;00:19:52:04;FABstLd Übrigens sind sie( ( nach dem antF
+886;00:19:52:04;00:19:52:04;FABst0iken Musikinstrument,ÿÿ1µ$
+887;00:19:52:04;00:19:55:20;"ÈUbrigens sind sie
 
 nach dem antiken Musikinstrument,"
-"888";"00:19:55:22";"00:19:55:22";"FABstM@ der Lyra benannt.ÿÿÓÎ"
-"889";"00:19:55:22";"00:19:57:13";"der Lyra benannt."
-"890";"00:19:59:20";"00:19:59:20";"FABstNdDer gleiche Fotograf hat danach auch( ( noccÄ"
-"891";"00:19:59:20";"00:19:59:20";"FABstHh den Sonnenaufgang fotografiert.ÿÿõ"
-"892";"00:19:59:20";"00:20:05:07";"Der gleiche Fotograf hat danach auch
+888;00:19:55:22;00:19:55:22;FABstM@ der Lyra benannt.ÿÿÓÎ
+889;00:19:55:22;00:19:57:13;der Lyra benannt.
+890;00:19:59:20;00:19:59:20;FABstNdDer gleiche Fotograf hat danach auch( ( noccÄ
+891;00:19:59:20;00:19:59:20;FABstHh den Sonnenaufgang fotografiert.ÿÿõ
+892;00:19:59:20;00:20:05:07;"Der gleiche Fotograf hat danach auch
 
 noch den Sonnenaufgang fotografiert."
-"893";"00:20:05:13";"00:20:05:13";"FABstO< Eindrucksvoll,ÿÿ!Ù"
-"894";"00:20:05:13";"00:20:06:22";"Eindrucksvoll,"
-"895";"00:20:07:00";"00:20:07:00";"FABstPd hier die verschiedenen ( ( LuftBl"
-"896";"00:20:07:00";"00:20:07:00";"FABst,schichten zu sehen.ÿÿ5Å"
-"897";"00:20:07:00";"00:20:10:22";"hier die verschiedenen
+893;00:20:05:13;00:20:05:13;FABstO< Eindrucksvoll,ÿÿ!Ù
+894;00:20:05:13;00:20:06:22;Eindrucksvoll,
+895;00:20:07:00;00:20:07:00;FABstPd hier die verschiedenen ( ( LuftBl
+896;00:20:07:00;00:20:07:00;FABst,schichten zu sehen.ÿÿ5Å
+897;00:20:07:00;00:20:10:22;"hier die verschiedenen
 
 Luftschichten zu sehen."
-"898";"00:20:16:08";"00:20:16:08";"FABstQH Wir gucken auf das Wetter:ÿÿ®Ö"
-"899";"00:20:16:08";"00:20:18:06";"Wir gucken auf das Wetter:"
-"900";"00:20:18:08";"00:20:18:08";"FABstRd Hier spielt die Front( ( von ;B"
-"901";"00:20:18:08";"00:20:18:08";"FABst(West eine Rolle. ÿÿ9N"
-"902";"00:20:18:08";"00:20:21:13";"Hier spielt die Front
+898;00:20:16:08;00:20:16:08;FABstQH Wir gucken auf das Wetter:ÿÿ®Ö
+899;00:20:16:08;00:20:18:06;Wir gucken auf das Wetter:
+900;00:20:18:08;00:20:18:08;"FABstRd Hier spielt die Front( ( von ;B"
+901;00:20:18:08;00:20:18:08;FABst(West eine Rolle. ÿÿ9N
+902;00:20:18:08;00:20:21:13;"Hier spielt die Front
 
 von West eine Rolle."
-"903";"00:20:21:17";"00:20:21:17";"FABstSD Die zieht nach Osten.ÿÿ¡6"
-"904";"00:20:21:17";"00:20:23:09";"Die zieht nach Osten."
-"905";"00:20:23:13";"00:20:23:13";"FABstTd Dahinter reißt der Himmel( ( zuerst imÞ"
-"906";"00:20:23:13";"00:20:23:13";"FABst< Westen, dann im Osten auf.ÿÿ%ØÞ"
-"907";"00:20:23:13";"00:20:28:05";"Dahinter reiût der Himmel
+903;00:20:21:17;00:20:21:17;FABstSD Die zieht nach Osten.ÿÿ¡6
+904;00:20:21:17;00:20:23:09;Die zieht nach Osten.
+905;00:20:23:13;00:20:23:13;FABstTd Dahinter reißt der Himmel( ( zuerst imÞ
+906;00:20:23:13;00:20:23:13;FABst< Westen, dann im Osten auf.ÿÿ%ØÞ
+907;00:20:23:13;00:20:28:05;"Dahinter reiût der Himmel
 
 zuerst im Westen, dann im Osten auf."
-"908";"00:20:29:05";"00:20:29:05";"FABstUd Danach folgt das nächste Tief( ( mitïD"
-"909";"00:20:29:05";"00:20:29:05";"FABst6 Schauern und Gewittern.ÿÿ+ñÐ"
-"910";"00:20:29:05";"00:20:34:10";"Danach folgt das nÈachste Tief
+908;00:20:29:05;00:20:29:05;FABstUd Danach folgt das nächste Tief( ( mitïD
+909;00:20:29:05;00:20:29:05;FABst6 Schauern und Gewittern.ÿÿ+ñÐ
+910;00:20:29:05;00:20:34:10;"Danach folgt das nÈachste Tief
 
 mit Schauern und Gewittern."
-"911";"00:20:35:02";"00:20:35:02";"FABstVd Vor allem im Süden( ( kann es ordenè¢"
-"912";"00:20:35:02";"00:20:35:02";"FABst0tlich Windböen geben.ÿÿ1xv"
-"913";"00:20:35:02";"00:20:39:18";"Vor allem im SÈuden
+911;00:20:35:02;00:20:35:02;FABstVd Vor allem im Süden( ( kann es ordenè¢
+912;00:20:35:02;00:20:35:02;FABst0tlich Windböen geben.ÿÿ1xv
+913;00:20:35:02;00:20:39:18;"Vor allem im SÈuden
 
 kann es ordentlich WindbÈoen geben."
-"914";"00:20:40:15";"00:20:40:15";"FABstW@ Die Temperaturen:ÿÿ¾"
-"915";"00:20:40:15";"00:20:42:10";"Die Temperaturen:"
-"916";"00:20:54:21";"00:20:54:21";"FABstXd Schnell die Aussichten:( ( Es P"
-"917";"00:20:54:21";"00:20:54:21";"FABst*wird wechselhaft. ÿÿ7®t"
-"918";"00:20:54:21";"00:20:57:12";"Schnell die Aussichten:
+914;00:20:40:15;00:20:40:15;FABstW@ Die Temperaturen:ÿÿ¾
+915;00:20:40:15;00:20:42:10;Die Temperaturen:
+916;00:20:54:21;00:20:54:21;FABstXd Schnell die Aussichten:( ( Es P
+917;00:20:54:21;00:20:54:21;FABst*wird wechselhaft. ÿÿ7®t
+918;00:20:54:21;00:20:57:12;"Schnell die Aussichten:
 
 Es wird wechselhaft."
-"919";"00:20:57:14";"00:20:57:14";"FABstYP Dienstag nur noch bis zu 13 Grad.ÿÿï"
-"920";"00:20:57:14";"00:21:00:10";"Dienstag nur noch bis zu 13 Grad."
-"921";"00:21:01:24";"00:21:01:24";"FABstZ@ Vielen Dank, Sven.ÿÿôê"
-"922";"00:21:01:24";"00:21:03:19";"Vielen Dank, Sven."
-"923";"00:21:04:24";"00:21:04:24";"FABst[d Das waren die tagesthemen.( ( Hier fol:B"
-"924";"00:21:04:24";"00:21:04:24";"FABst6gt das Wort zum Sonntag.ÿÿ+©<"
-"925";"00:21:04:24";"00:21:08:13";"Das waren die tagesthemen.
+919;00:20:57:14;00:20:57:14;FABstYP Dienstag nur noch bis zu 13 Grad.ÿÿï
+920;00:20:57:14;00:21:00:10;Dienstag nur noch bis zu 13 Grad.
+921;00:21:01:24;00:21:01:24;FABstZ@ Vielen Dank, Sven.ÿÿôê
+922;00:21:01:24;00:21:03:19;Vielen Dank, Sven.
+923;00:21:04:24;00:21:04:24;FABst[d Das waren die tagesthemen.( ( Hier fol:B
+924;00:21:04:24;00:21:04:24;FABst6gt das Wort zum Sonntag.ÿÿ+©<
+925;00:21:04:24;00:21:08:13;"Das waren die tagesthemen.
 
 Hier folgt das Wort zum Sonntag."
-"926";"00:21:09:05";"00:21:09:05";"FABst\d Darin Gedanken über( ( künstliche IFj"
-"927";"00:21:09:05";"00:21:09:05";"FABst4ntelligenz und Neugier.ÿÿ-âÈ"
-"928";"00:21:09:05";"00:21:12:18";"Darin Gedanken Èuber
+926;00:21:09:05;00:21:09:05;FABst\d Darin Gedanken über( ( künstliche IFj
+927;00:21:09:05;00:21:09:05;FABst4ntelligenz und Neugier.ÿÿ-âÈ
+928;00:21:09:05;00:21:12:18;"Darin Gedanken Èuber
 
 kÈunstliche Intelligenz und Neugier."
-"929";"00:21:12:22";"00:21:12:22";"FABst]d Wir sind morgen wieder da( ( und sageIP"
-"930";"00:21:12:22";"00:21:12:22";"FABst:n alle drei jetzt tschüss.ÿÿ'+v"
-"931";"00:21:12:22";"00:21:16:08";"Wir sind morgen wieder da
+929;00:21:12:22;00:21:12:22;FABst]d Wir sind morgen wieder da( ( und sageIP
+930;00:21:12:22;00:21:12:22;FABst:n alle drei jetzt tschüss.ÿÿ'+v
+931;00:21:12:22;00:21:16:08;"Wir sind morgen wieder da
 
 und sagen alle drei jetzt tschÈuss."
-"932";"00:21:16:12";"00:21:16:12";"FABst^6 Tschüss.ÿÿ'u"
-"933";"00:21:16:12";"00:21:17:17";"TschÈuss."
-"934";"00:21:24:16";"00:21:24:16";"FABst_LCopyright Untertitel: NDR 2023ÿÿÃx"
-"935";"00:21:24:16";"00:21:27:04";"Copyright Untertitel: NDR 2023"
+932;00:21:16:12;00:21:16:12;FABst^6 Tschüss.ÿÿ'u
+933;00:21:16:12;00:21:17:17;TschÈuss.
+934;00:21:24:16;00:21:24:16;FABst_LCopyright Untertitel: NDR 2023ÿÿÃx
+935;00:21:24:16;00:21:27:04;Copyright Untertitel: NDR 2023
