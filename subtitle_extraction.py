@@ -42,8 +42,13 @@ def clean_and_combine_subtitles(subtitle_file):
     cleaned_df = pd.DataFrame(cleaned_subtitles, columns=['Timecode In', 'Timecode Out', 'Subtitle'])
 
     # Correct special characters
-    cleaned_df['Subtitle'] = cleaned_df['Subtitle'].apply(lambda x: x.replace('È', 'E').replace('û', 'u'))
-
+    cleaned_df['Subtitle'] = cleaned_df['Subtitle'].apply(
+        lambda x: x.replace('û', 'ss')
+                .replace('Èu', 'ue')
+                .replace('Èo', 'oe')
+                .replace('Èa', 'ae')
+    )
+    
     return cleaned_df
 
 # Example usage
