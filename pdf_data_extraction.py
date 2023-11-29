@@ -9,6 +9,7 @@ def extract_data_from_pdf(pdf_path):
         current_section_title = ''
         current_content_type = ''
         current_moderation_name = ''
+        current_date = ''
 
         for page in pdf.pages:
             text = page.extract_text()
@@ -16,6 +17,12 @@ def extract_data_from_pdf(pdf_path):
                 lines = text.split('\n')
 
                 for i, line in enumerate(lines):
+                    # Extract date information
+                    if 'ESD' in line:
+                        date_match = re.search(r'ESD\s+(\d{2}\.\d{2}\.\d{4})', line)
+                        if date_match:
+                            current_date = date_match.group(1).strip()
+
                     # Extract programme and section title
                     if 'Sende-/Haupttitel' in line:
                         current_programme = re.search(r'Sende-/Haupttitel:?\s*(.+)', line).group(1).strip()
@@ -102,6 +109,7 @@ def extract_data_from_pdf(pdf_path):
                                     'Speaker Name': speaker_name.strip(),
                                     'Speaker Description': speaker_description.strip(),
                                     'Segment Description': segment_text.strip(),
+                                    'Date': current_date,
                                     'Start Time': start_time,
                                     'Duration': duration
                                 })
