@@ -17,6 +17,9 @@ def extract_data_from_pdf(pdf_path):
                 lines = text.split('\n')
 
                 for i, line in enumerate(lines):
+                    section_title = ''
+                    content_type = ''
+                    duration = ''
                     # Extract date information
                     if 'ESD' in line:
                         date_match = re.search(r'ESD\s+(\d{2}\.\d{2}\.\d{4})', line)
@@ -28,6 +31,29 @@ def extract_data_from_pdf(pdf_path):
                         current_programme = re.search(r'Sende-/Haupttitel:?\s*(.+)', line).group(1).strip()
                     elif 'Beitragstitel' in line:
                         current_section_title = re.search(r'Beitragstitel:?\s*(.+)', line).group(1).strip()
+                    
+                    # Handle Einspieler entries for Tagesschau and Tagesthemen
+                    einspieler_match = re.match(r'^(\d{2}\'\d{2}")\s(Tagesschau|Tagesthemen)', line)
+                    if einspieler_match:
+                        if i + 1 < len(lines) and 'ARDAKT' in lines[i]:
+                            einspieler_info = lines[i + 1].split()
+                            if einspieler_info and re.match(r'^\d{1,2}\'\d{2}"', einspieler_info[0]):
+                                duration = einspieler_info[0]
+                                content_type = 'Einspieler'
+                                section_title = ' '.join(einspieler_info[1:]) if len(einspieler_info) > 1 else ''
+                                programme = einspieler_match.group(2)
+
+                                data.append({
+                                    'Programme': programme,
+                                    'Section Title': section_title,
+                                    'Content Type': content_type,
+                                    'Speaker Name': '',
+                                    'Speaker Description': '',
+                                    'Segment Description': '',
+                                    'Date': current_date,
+                                    'Start Time': '',  # Start Time is not available for Einspieler
+                                    'Duration': duration
+                                })
 
                     # Handle Moderation
                     elif 'Moderation' in line:
@@ -127,3 +153,7 @@ tagesschau_df.to_csv('tagesschau_extracted_data.csv', index=False)
 tagesthemen_path = './data/Gebäudeenergiegesetz_Tagesthemen.pdf'
 tagesthemen_df = extract_data_from_pdf(tagesthemen_path)
 tagesthemen_df.to_csv('tagesthemen_extracted_data.csv', index=False)
+
+# Combine the extracted data
+combined_df = pd.concat([tagesschau_df, tagesthemen_df], ignore_index=True)
+combined_df.to_csv('combined_pdf_data.csv', index=False)
