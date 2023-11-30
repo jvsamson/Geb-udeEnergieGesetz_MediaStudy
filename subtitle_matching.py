@@ -43,53 +43,58 @@ print(combined_df)
 
 import pandas as pd
 
-# Adjusted frame rate
+# Adjusted frame rate (assumed frame rate; change if different)
 frame_rate = 25
+
+# Function to convert seconds since midnight to HH:MM:SS:FF format
+def seconds_to_hhmmssff(seconds):
+    hours = seconds // 3600
+    minutes = (seconds % 3600) // 60
+    seconds = seconds % 60
+    frames = int((seconds - int(seconds)) * frame_rate)
+    return f"{int(hours):02d}:{int(minutes):02d}:{int(seconds):02d}:{frames:02d}"
 
 # Function to convert HH:MM:SS:FF to seconds
 def hhmmssff_to_seconds(time_str):
     h, m, s, f = map(int, time_str.split(':'))
     return h * 3600 + m * 60 + s + f / frame_rate
 
-# Function to convert seconds back to HH:MM:SS:FF format
-def seconds_to_hhmmssff(seconds):
-    hours = int(seconds // 3600)
-    minutes = int((seconds % 3600) // 60)
-    seconds = int(seconds % 60)
-    frames = int((seconds - int(seconds)) * frame_rate)
-    return f"{hours:02d}:{minutes:02d}:{seconds:02d}:{frames:02d}"
+# Assuming combined_df is already loaded and contains the 'Uhrzeit', 'Timecode In', 'Program' columns
 
-# Assuming combined_df is already loaded and contains the 'Timecode In', 'Timecode Out' columns
+# Convert 'Uhrzeit' to HH:MM:SS:FF format assuming 'Uhrzeit' is in seconds since midnight
+combined_df['EP_Start'] = combined_df['Uhrzeit'].apply(seconds_to_hhmmssff)
 
-# Sort by 'Timecode In' if it's not sorted already
-combined_df.sort_values(by='Timecode In', inplace=True)
-
-# Detecting new episodes
-combined_df['new_episode'] = combined_df['Timecode In'] < combined_df['Timecode In'].shift(1, fill_value='00:00:00:00')
+# Detect new episodes
+combined_df['new_episode'] = (
+    (combined_df['Timecode In'] < combined_df['Timecode In'].shift(1, fill_value='00:00:00:00')) |
+    (combined_df['Program'] != combined_df['Program'].shift(1)) |
+    (combined_df['EP_Start'] != combined_df['EP_Start'].shift(1))
+)
 
 # Initialize episode counter
 combined_df['episode_counter'] = combined_df['new_episode'].cumsum()
 
-# Initialize 'current_start' and 'current_end'
-combined_df['current_start'] = combined_df['Timecode In'].apply(hhmmssff_to_seconds)
-combined_df['current_end'] = combined_df['Timecode Out'].apply(hhmmssff_to_seconds)
+# Loop to calculate 'current_start' and 'current_end'
+episode_starts = {}  # Dictionary to store the start times for each episode
 
-# Calculate 'current_start' and 'current_end' for each subtitle
 for index, row in combined_df.iterrows():
-    if row['new_episode']:
-        # At the start of a new episode, set the 'current_start' to 'Timecode In'
-        combined_df.at[index, 'current_start'] = hhmmssff_to_seconds(row['Timecode In'])
-    else:
-        # Continue from the last 'current_end'
-        if index > 0:
-            combined_df.at[index, 'current_start'] = combined_df.at[index - 1, 'current_end'] + hhmmssff_to_seconds(row['Timecode In'])
+    episode_num = row['episode_counter']
     
-    # Set the 'current_end' based on 'current_start' plus 'Timecode Out'
-    combined_df.at[index, 'current_end'] = combined_df.at[index, 'current_start'] + hhmmssff_to_seconds(row['Timecode Out'])
+    if row['new_episode']:
+        # New episode: set the start time and store it in the dictionary
+        episode_starts[episode_num] = hhmmssff_to_seconds(row['EP_Start'])
+        current_start_time = episode_starts[episode_num]
+    else:
+        # Same episode: retrieve the start time from the dictionary
+        current_start_time = episode_starts[episode_num] + hhmmssff_to_seconds(row['Timecode In']) - hhmmssff_to_seconds(combined_df.iloc[0]['Timecode In'])
 
-# Convert 'current_start' and 'current_end' back to HH:MM:SS:FF format
+    # Calculate current_start and current_end relative to the episode start time
+    combined_df.at[index, 'current_start'] = current_start_time
+    combined_df.at[index, 'current_end'] = current_start_time + hhmmssff_to_seconds(row['Timecode Out']) - hhmmssff_to_seconds(row['Timecode In'])
+
+# Convert 'current_start' and 'current_end' back to HH:MM:SS:FF format for display
 combined_df['current_start'] = combined_df['current_start'].apply(seconds_to_hhmmssff)
 combined_df['current_end'] = combined_df['current_end'].apply(seconds_to_hhmmssff)
 
 # Display the DataFrame
-print(combined_df[['Timecode In', 'Timecode Out', 'current_start', 'current_end', 'episode_counter']])
+print(combined_df[['Program', 'EP_Start', 'Timecode In', 'current_start', 'current_end', 'episode_counter']])
