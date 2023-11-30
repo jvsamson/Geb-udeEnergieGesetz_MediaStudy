@@ -80,7 +80,7 @@ def process_all_subtitles(directory_path, combined_output_path):
     final_df = pd.concat(all_data_frames, ignore_index=True)
 
     # Save the final DataFrame as a single CSV file
-    final_df.to_csv(combined_output_path, index=False)
+    final_df.to_csv(combined_output_path, sep=';', index=False)
     print(f"All data processed and saved to: {combined_output_path}")
 
 # Example usage
