@@ -3,23 +3,12 @@ import re
 import os
 from datetime import datetime
 
-def clean_and_combine_subtitles(subtitle_file):
-    # Determine program type based on file name
-    program = 'tagesschau' if 'ts' in subtitle_file.lower() else 'tagesthemen' if 'tt' in subtitle_file.lower() else 'Unknown'
-
-    # Extract and format date from file name
-    date_match = re.search(r'\d{4}-\d{2}-\d{2}', subtitle_file)
-    if date_match:
-        date_str = date_match.group(0)
-        date = datetime.strptime(date_str, '%Y-%m-%d').strftime('%d.%m.%y')
-    else:
-        date = 'Unknown Date'
-
+def clean_and_combine_subtitles(subtitle_file, program, date):
     # Read the subtitle file
     df = pd.read_csv(subtitle_file, sep=';', header=0)
 
     # Filter out rows with metadata (identified by 'FABst' tags)
-    df = df[~df['Subtitle'].str.contains('FABst')]
+    df = df[~df['Subtitle'].str.contains('FABst|\\* Gong \\*|Copyright Untertitel')]
 
     # Initialize variables
     cleaned_subtitles = []
@@ -65,26 +54,38 @@ def clean_and_combine_subtitles(subtitle_file):
     # Add program and date columns
     cleaned_df['Program'] = program
     cleaned_df['Date'] = date
-    
+
     return cleaned_df
 
-# List to store each cleaned DataFrame
-all_cleaned_data = []
+def process_all_subtitles(directory_path, combined_output_path):
+    all_data_frames = []
 
-# Directory to load CSV files from
-load_directory = './data/cleaned/csv/'
+    for file_name in os.listdir(directory_path):
+        if file_name.endswith('.csv'):
+            # Extract program name, date and time stamp from the file name
+            match = re.search(r'(\d{4}-\d{2}-\d{2})-(tt|ts)-(\d{4})', file_name)
+            if match:
+                date = match.group(1)
+                program_type = 'tagesschau' if 'ts' in file_name else 'tagesthemen'
+                formatted_date = datetime.strptime(date, '%Y-%m-%d').strftime('%d.%m.%y')
 
-# Loop through CSV files in the specified directory
-for file_name in os.listdir(load_directory):
-    if file_name.endswith('.csv'):
-        full_path = os.path.join(load_directory, file_name)
-        cleaned_df = clean_and_combine_subtitles(full_path)
-        all_cleaned_data.append(cleaned_df)
+                # Full path of the file
+                full_path = os.path.join(directory_path, file_name)
 
-# Concatenate all DataFrames into one
-final_df = pd.concat(all_cleaned_data, ignore_index=True)
+                # Process and append the cleaned subtitles
+                cleaned_df = clean_and_combine_subtitles(full_path, program_type, formatted_date)
+                all_data_frames.append(cleaned_df)
 
-# Save the final DataFrame one level above the CSV folder
-save_path = os.path.join(load_directory, '../all_cleaned_data.csv')
-final_df.to_csv(save_path, index=False)
-print(f"All data processed and saved to: {save_path}")
+    # Concatenate all DataFrames into one
+    final_df = pd.concat(all_data_frames, ignore_index=True)
+
+    # Save the final DataFrame as a single CSV file
+    final_df.to_csv(combined_output_path, index=False)
+    print(f"All data processed and saved to: {combined_output_path}")
+
+# Example usage
+directory_path = './data/cleaned/csv'
+combined_output_path = './data/cleaned/all_cleaned_data.csv'
+
+# Process all subtitle files and save into one file
+process_all_subtitles(directory_path, combined_output_path)
