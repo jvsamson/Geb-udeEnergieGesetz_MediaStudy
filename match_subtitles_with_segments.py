@@ -42,12 +42,10 @@ def process_file(file, segments_df):
             duration_sec = duration_to_seconds(segment['Duration'])
             end_time = start_time + timedelta(seconds=duration_sec)
 
-            relevant_subtitles = subtitles_df[(subtitles_df['Timecode In'] >= start_time) & (subtitles_df['Timecode Out'] <= end_time)]
+            # Filter subtitles that fall within the segment's time range
+            relevant_subtitles = subtitles_df[(subtitles_df['Timecode In'] < end_time) & (subtitles_df['Timecode Out'] > start_time)]
             combined_text = ' '.join(relevant_subtitles['Subtitle'].tolist())
             segments_df.at[index, 'Subtitles'] = combined_text
-
-            # Debugging: Print segment info and whether subtitles were found
-            print(f"Segment: {segment['Section Title']}, Time: {start_time_str} - {end_time}, Subtitles Found: {'Yes' if combined_text else 'No'}")
 
     return segments_df
 
