@@ -1,61 +1,66 @@
 import pandas as pd
 import os
 import re
+from datetime import datetime, timedelta
 
-# Function to convert time string to seconds
-def time_string_to_seconds(time_str):
-    if ':' in time_str:  # Format "20:00:42.06" or "20:00:42,06"
-        parts = time_str.split(':')
-        h, m = parts[0], parts[1]
-        s = parts[2].split('.')[0] if '.' in parts[2] else parts[2].split(',')[0]  # Handle both '.' and ',' as decimal separators
-        return int(h) * 3600 + int(m) * 60 + int(s)
-    else:  # Format "2'20"""
-        minutes, seconds = time_str.replace('"', '').split("'")
-        return int(minutes) * 60 + int(seconds)
+def parse_filename(filename):
+    match = re.search(r"subtitles_(\d{4}-\d{2}-\d{2})_(ts|tt)-(\d{4}).csv", filename)
+    date, program = match.groups()[:2]
+    return date, program
 
-# Function to extract info from filename
-def extract_info_from_filename(filename):
-    match = re.search(r'subtitles_(\d{4}-\d{2}-\d{2})_(tt|ts)-(\d{4}).csv', filename)
-    if match:
-        date = match.group(1)
-        programme = 'Tagesthemen' if match.group(2) == 'tt' else 'Tagesschau'
-        start_time = match.group(3)[:2] + ':' + match.group(3)[2:] + ':00'
-        return date, programme, start_time
-    return None, None, None
+def convert_date_format(date_str):
+    if isinstance(date_str, str):
+        return datetime.strptime(date_str, "%d.%m.%Y").strftime("%Y-%m-%d")
+    return None
 
-# Function to match subtitles with segments
-def match_subtitles_with_segments(segments_file, subtitles_folder, output_folder):
-    segments_df = pd.read_csv(segments_file)
+def convert_to_datetime(date_str, time_str):
+    if '.' in time_str:  # handle frames if present
+        time_str = time_str.split('.')[0]
+    time_parts = time_str.split(':')
+    formatted_time_str = ':'.join(time_parts[:3])
+    return datetime.strptime(f"{date_str} {formatted_time_str}", "%Y-%m-%d %H:%M:%S")
 
-    for filename in os.listdir(subtitles_folder):
-        if filename.endswith('.csv'):
-            date, programme, start_time = extract_info_from_filename(filename)
-            if date and programme:
-                subtitles_df = pd.read_csv(os.path.join(subtitles_folder, filename))
-                subtitles_df['Start Time Seconds'] = subtitles_df['Timecode In'].apply(lambda x: time_string_to_seconds(x))
-                subtitles_df['End Time Seconds'] = subtitles_df['Timecode Out'].apply(lambda x: time_string_to_seconds(x))
+def duration_to_seconds(duration_str):
+    minutes, seconds = re.match(r"(\d+)'(\d+)""", duration_str).groups()
+    return int(minutes) * 60 + int(seconds)
 
-                filtered_segments = segments_df[(segments_df['Programme'] == programme) & (segments_df['Date'] == date)].copy()
-                filtered_segments['Start Time Seconds'] = filtered_segments['Start Time'].apply(lambda x: time_string_to_seconds(x))
-                filtered_segments['End Time Seconds'] = filtered_segments.apply(lambda x: x['Start Time Seconds'] + time_string_to_seconds(x['Duration']), axis=1)
+def map_program_name(abbreviation):
+    return {'tt': 'Tagesthemen', 'ts': 'Tagesschau'}.get(abbreviation, abbreviation)
 
-                # Joining segments and subtitles
-                matched_segments = []
-                for _, segment in filtered_segments.iterrows():
-                    relevant_subtitles = subtitles_df[(subtitles_df['Start Time Seconds'] >= segment['Start Time Seconds']) & (subtitles_df['End Time Seconds'] <= segment['End Time Seconds'])]
-                    full_text = ' '.join(relevant_subtitles['Subtitle'])
-                    matched_segments.append({**segment.to_dict(), 'Combined Subtitles': full_text})
+def process_file(file, segments_df):
+    date, program_abbr = parse_filename(file)
+    program_full = map_program_name(program_abbr)
+    subtitles_df = pd.read_csv(f'./data/cleaned/subtitles/{file}')
 
-                matched_segments_df = pd.DataFrame(matched_segments)
+    subtitles_df['Timecode In'] = subtitles_df['Timecode In'].apply(lambda x: convert_to_datetime(date, x))
+    subtitles_df['Timecode Out'] = subtitles_df['Timecode Out'].apply(lambda x: convert_to_datetime(date, x))
 
-                # Save the result
-                output_file = os.path.join(output_folder, f"energie_gesetz_transkript_{date}.csv")
-                matched_segments_df.to_csv(output_file, index=False)
+    for index, segment in segments_df.iterrows():
+        if segment['Date'] == date and segment['Programme'] == program_full:
+            start_time_str = segment['Start Time'] if isinstance(segment['Start Time'], str) else '00:00:00'
+            start_time = convert_to_datetime(segment['Date'], start_time_str.split('.')[0])
+            duration_sec = duration_to_seconds(segment['Duration'])
+            end_time = start_time + timedelta(seconds=duration_sec)
 
-# File paths
-segments_file = 'combined_pdf_data.csv'
-subtitles_folder = './data/cleaned/subtitles'
-output_folder = './data/cleaned/transcripts'
+            relevant_subtitles = subtitles_df[(subtitles_df['Timecode In'] >= start_time) & (subtitles_df['Timecode Out'] <= end_time)]
+            combined_text = ' '.join(relevant_subtitles['Subtitle'].tolist())
+            segments_df.at[index, 'Subtitles'] = combined_text
 
-# Process the matching
-match_subtitles_with_segments(segments_file, subtitles_folder, output_folder)
+            # Debugging: Print segment info and whether subtitles were found
+            print(f"Segment: {segment['Section Title']}, Time: {start_time_str} - {end_time}, Subtitles Found: {'Yes' if combined_text else 'No'}")
+
+    return segments_df
+
+def main():
+    segments_df = pd.read_csv('combined_pdf_data.csv')
+    segments_df['Date'] = segments_df['Date'].apply(convert_date_format)
+    segments_df['Subtitles'] = ''  # Initialize the subtitles column
+
+    for file in os.listdir('./data/cleaned/subtitles'):
+        if file.endswith('.csv'):
+            segments_df = process_file(file, segments_df)
+
+    segments_df.to_csv('segments_transcript.csv', index=False)
+
+if __name__ == "__main__":
+    main()
