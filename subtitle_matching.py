@@ -98,3 +98,90 @@ combined_df['current_end'] = combined_df['current_end'].apply(seconds_to_hhmmssf
 
 # Display the DataFrame
 print(combined_df[['Program', 'EP_Start', 'Timecode In', 'current_start', 'current_end', 'episode_counter']])
+
+combined_df.to_csv('all_cleaned_data_timed')
+
+import pandas as pd
+
+# Load the labels DataFrame
+labels_df = pd.read_csv('combined_pdf_data.csv', dtype={'Start Time': str})
+
+def start_time_to_seconds(time_str):
+    time_str = str(time_str).strip()
+    if ':' not in time_str or time_str == 'nan':
+        return 0
+    parts = time_str.split(':')
+    if len(parts) == 3:
+        h, m, s = parts
+        s = float(s.split('.')[0])  # Truncate the decimal part
+        return int(h) * 3600 + int(m) * 60 + int(s)
+    else:
+        return 0
+
+# Convert Duration to seconds (assuming format "M'SS\"")
+def duration_to_seconds(duration_str):
+    minutes, seconds = duration_str.split("'")
+    seconds = seconds.replace('"', '')  # Remove the double-quote character
+    return int(minutes) * 60 + int(seconds)
+
+labels_df['Start Time Sec'] = labels_df['Start Time'].apply(start_time_to_seconds)
+labels_df['Duration Sec'] = labels_df['Duration'].apply(duration_to_seconds)
+labels_df['End Time Sec'] = labels_df['Start Time Sec'] + labels_df['Duration Sec']
+
+
+print(labels_df.head())
+# Assuming combined_df is already loaded and contains 'Program', 'Date', 'current_start', 'current_end'
+# Convert 'current_start' and 'current_end' in combined_df to seconds
+def hhmmssff_to_seconds(time_str):
+    h, m, s, f = map(int, time_str.split(':'))
+    return h * 3600 + m * 60 + s + f / frame_rate
+
+combined_df['current_start_sec'] = combined_df['current_start'].apply(hhmmssff_to_seconds)
+combined_df['current_end_sec'] = combined_df['current_end'].apply(hhmmssff_to_seconds)
+
+# Round down 'current_start_sec' and round up 'current_end_sec' without the math package
+combined_df['current_start_sec'] = combined_df['current_start_sec'].apply(lambda x: int(x))
+combined_df['current_end_sec'] = combined_df['current_end_sec'].apply(lambda x: int(x + 0.999999))
+
+# Print the first 5 entries of relevant columns from labels_df
+print("First 5 entries from labels_df:")
+print(labels_df[['Programme', 'Date', 'Start Time Sec', 'End Time Sec']].head())
+
+# Print the first 5 entries of relevant columns from combined_df
+print("\nFirst 5 entries from combined_df:")
+print(combined_df[['Program', 'Date', 'current_start_sec', 'current_end_sec']].head())
+
+
+# Function to append segment info from labels_df to combined_df
+def append_segment_info(row):
+    # Filter labels_df for matching rows with case-insensitive comparison for 'Program'
+    matching_segments = labels_df[
+        (labels_df['Programme'].str.lower() == row['Program'].lower()) &
+        (labels_df['Date'] == row['Date']) &
+        (labels_df['Start Time Sec'] <= row['current_end_sec']) &
+        (labels_df['End Time Sec'] >= row['current_start_sec'])
+    ]
+
+    # Append information if matching segments are found
+    if not matching_segments.empty:
+        match = matching_segments.iloc[0]
+        row['Content Type'] = match['Content Type']
+        row['Speaker Name'] = match['Speaker Name']
+        row['Speaker Description'] = match['Speaker Description']
+        row['Segment Description'] = match['Segment Description']
+        row['matched'] = True  # Set flag to True if a segment was matched
+    else:
+        row['matched'] = False  # Set flag to False if no segment was matched
+    return row
+
+# Apply the function to combined_df
+combined_df = combined_df.apply(append_segment_info, axis=1)
+
+# Display the DataFrame
+print(combined_df.head())
+
+# Remove duplicate rows from combined_df
+unique_combined_df = combined_df.drop_duplicates()
+
+# Save the unique rows to a CSV file
+unique_combined_df.to_csv('all_cleaned_data_timed_info.csv', index=False)
