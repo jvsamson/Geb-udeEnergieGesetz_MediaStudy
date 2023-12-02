@@ -222,8 +222,10 @@ for i in range(len(filtered_df)):
 # Remove duplicate indices
 rows_to_keep = list(set(rows_to_keep))
 
-# Create a new DataFrame with the selected rows
+# Sort the DataFrame by 'Date'
 cleaned_df = filtered_df.iloc[rows_to_keep].reset_index(drop=True)
+cleaned_df['Date'] = pd.to_datetime(cleaned_df['Date'], format='%d.%m.%Y')
+cleaned_df = cleaned_df.sort_values(by='Date')
 
 # Save the cleaned DataFrame
 cleaned_df.to_csv('cleaned_data_final.csv', index=False)
