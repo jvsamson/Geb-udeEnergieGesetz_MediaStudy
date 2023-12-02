@@ -34,7 +34,7 @@ merged_tagesthemen = pd.merge(df_csv, df_tagesthemen, left_on=['Program', 'Date'
 combined_df = pd.concat([merged_tagesschau, merged_tagesthemen], ignore_index=True)
 
 # Save the combined DataFrame
-combined_df.to_csv('all_cleaned_data_timed.csv')
+# combined_df.to_csv('./data/all_cleaned_data_timed.csv')
 
 # Print the combined DataFrame
 print(combined_df)
@@ -99,7 +99,7 @@ combined_df['current_end'] = combined_df['current_end'].apply(seconds_to_hhmmssf
 # Display the DataFrame
 print(combined_df[['Program', 'EP_Start', 'Timecode In', 'current_start', 'current_end', 'episode_counter']])
 
-combined_df.to_csv('all_cleaned_data_timed')
+# combined_df.to_csv('./data/all_cleaned_data_timed')
 
 import pandas as pd
 
@@ -185,3 +185,48 @@ unique_combined_df = combined_df.drop_duplicates()
 
 # Save the unique rows to a CSV file
 unique_combined_df.to_csv('all_cleaned_data_timed_info.csv', index=False)
+
+# Select required columns
+columns_to_keep = ['Content Type', 'Date', 'Program', 'Segment Description', 'Speaker Description', 'Speaker Name', 'Subtitle']
+unique_combined_df = unique_combined_df[columns_to_keep]
+
+# Define the introductory phrases to exclude
+# Define the introductory phrases to exclude
+intro_phrases = ["heute im studio", "hier ist das erste", "diese sendung wurde", "zur tagesschau", "live- untertitelun"]
+
+# Function to check if a row contains any of the introductory phrases
+def contains_intro_phrases(segment_desc, speaker_desc, subtitle):
+    segment_desc = segment_desc.lower() if isinstance(segment_desc, str) else ""
+    speaker_desc = speaker_desc.lower() if isinstance(speaker_desc, str) else ""
+    subtitle = subtitle.lower() if isinstance(subtitle, str) else ""
+    return any(phrase in segment_desc or phrase in speaker_desc or phrase in subtitle for phrase in intro_phrases)
+
+# First, filter out all rows with introductory phrases
+filtered_df = unique_combined_df[~unique_combined_df.apply(lambda row: contains_intro_phrases(row['Segment Description'], row['Speaker Description'], row['Subtitle']), axis=1)]
+
+# Initialize a list to hold the indices of the rows to keep
+rows_to_keep = []
+
+# Iterate through the filtered DataFrame
+for i in range(len(filtered_df)):
+    # Check if the current row has a 'Content Type'
+    if pd.notnull(filtered_df.iloc[i]['Content Type']):
+        # Include this row and up to 10 preceding rows that do not contain intro phrases
+        start_index = max(0, i - 10)
+        for j in range(start_index, i + 1):
+            if not contains_intro_phrases(filtered_df.iloc[j]['Segment Description'], filtered_df.iloc[j]['Speaker Description'], filtered_df.iloc[j]['Subtitle']):
+                rows_to_keep.append(j)
+        # Include the current row as well
+        rows_to_keep.append(i)
+
+# Remove duplicate indices
+rows_to_keep = list(set(rows_to_keep))
+
+# Create a new DataFrame with the selected rows
+cleaned_df = filtered_df.iloc[rows_to_keep].reset_index(drop=True)
+
+# Save the cleaned DataFrame
+cleaned_df.to_csv('cleaned_data_final.csv', index=False)
+
+# Print the cleaned DataFrame
+print(cleaned_df.head())
