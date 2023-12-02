@@ -154,7 +154,7 @@ print(combined_df[['Program', 'Date', 'current_start_sec', 'current_end_sec']].h
 
 # Function to append segment info from labels_df to combined_df
 def append_segment_info(row):
-    # Filter labels_df for matching rows with case-insensitive comparison for 'Program'
+    # Filter labels_df for matching rows
     matching_segments = labels_df[
         (labels_df['Programme'].str.lower() == row['Program'].lower()) &
         (labels_df['Date'] == row['Date']) &
@@ -162,22 +162,34 @@ def append_segment_info(row):
         (labels_df['End Time Sec'] >= row['current_start_sec'])
     ]
 
-    # Append information if matching segments are found
-    if not matching_segments.empty:
+    # Check if there are any segments with the content type "O-Ton"
+    o_ton_segments = matching_segments[matching_segments['Content Type'] == 'O-Ton']
+
+    # Prioritize "O-Ton" content type if present
+    if not o_ton_segments.empty:
+        # If there are multiple "O-Ton" segments, you can prioritize by another criterion, like start time
+        match = o_ton_segments.iloc[0]  # Taking the first "O-Ton" segment
+    elif not matching_segments.empty:
+        # If there's no "O-Ton" but there are other segments, take the first one
         match = matching_segments.iloc[0]
-        row['Content Type'] = match['Content Type']
-        row['Speaker Name'] = match['Speaker Name']
-        row['Speaker Description'] = match['Speaker Description']
-        row['Segment Description'] = match['Segment Description']
-        row['matched'] = True  # Set flag to True if a segment was matched
     else:
-        row['matched'] = False  # Set flag to False if no segment was matched
+        # If there are no matching segments
+        row['matched'] = False
+        return row  # Return early as there's no match
+
+    # Set the segment information from the prioritized match
+    row['Content Type'] = match['Content Type']
+    row['Speaker Name'] = match['Speaker Name']
+    row['Speaker Description'] = match['Speaker Description']
+    row['Segment Description'] = match['Segment Description']
+    row['matched'] = True
+
     return row
 
 # Apply the function to combined_df
 combined_df = combined_df.apply(append_segment_info, axis=1)
 
-# Display the DataFrame
+# Print the DataFrame to verify the results
 print(combined_df.head())
 
 # Remove duplicate rows from combined_df
