@@ -232,7 +232,7 @@ def determine_affiliation(description):
         return 'ARD'
     elif 'fdp' in description:
         return 'FDP'
-    elif 'spd' in description:
+    elif 'spd' or 'bundeskanzler' in description:
         return 'SPD'
     elif 'freie wähler' in description:
         return 'Freie Wähler'
