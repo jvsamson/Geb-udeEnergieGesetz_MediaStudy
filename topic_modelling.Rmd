@@ -1,0 +1,229 @@
+---
+title: "Assignment 4"
+author: "Finn_Krüger"
+date: "2023-11-09"
+output: 
+  html_document:
+    toc: TRUE
+    df_print: paged
+    number_sections: FALSE
+    highlight: tango
+    theme: lumen
+    toc_depth: 3
+    toc_float: true
+---
+
+
+```{r setup, include=FALSE}
+library(tm)
+library(SnowballC)
+library(dplyr)
+library(tidyr)
+library(quanteda)
+library(NMF)
+library(topicmodels)
+library(tidytext)
+library(LDAvis)
+library(stm)
+library(stopwords)
+library(readr)
+library(slam)
+library(udpipe)
+library(ggplot2)
+
+
+```
+
+
+
+## Creating the Dataset
+
+```{r}
+
+## Data 
+
+df <- read_csv("df_processed.csv")
+
+```
+
+## Data Preprocessing 
+
+```{r}
+
+### list of all stop words
+
+german_stopwords <- stopwords::stopwords("de", source = "stopwords-iso")
+
+additional_stopwords <- c("mussen", "dass", "mehr", "dafur", "menschen",
+  "mussen", "deutschland", "setzen", "stark", "dafur", "brauchen", "land",  
+  "fordern", "gesellschaft","braucht", "lehnen", "insbesondere", "starken", "deutlich", "gehort", "offentliche", "offentlichen", "bleib", "ziel", "starken", "starke",
+  "stark", "gilt", "deutschen", "deutsche", "deutsch", "unterstutzen","fur", "fordert", "unterstutz", "gemeinsame", "gemeinsam", "schaffen",
+  "zudem", "leben", "bessere", "starker", "forder", "ford", "burger",'konnen', "leisten", "uber", "buergerinnen", "moglich", "unseren", "gleichzeitig","leisten", "uber", "buergerinnen", "moglich", "unseren", "gleichzeitig", "demokraten", "linke", "prozent", "geben", "vgl", "freie",'nutzen', 'zukunft', 'fuer', 'muessen','koennen', 'ueber', 'vieler', 'sagen', 'neu', 'koenn', 'gesetz', 'sag', 'sehen', 'naechst', 'lass', 'klar', 'letzter', 'heizungsgesetz', 'fdp', 'habeck')
+
+german_stopwords <- c(german_stopwords, additional_stopwords)
+
+### preprocessing
+
+df$Processed <- df$Processed %>%
+  tolower() %>%
+  removeWords(german_stopwords)%>%
+  wordStem(language = "german") %>%
+  gsub("[[:punct:]]", "", .) %>% 
+  gsub("[ \t\r\n]+", " ", .) %>%
+  gsub("[[:digit:]]", "", .) %>%
+  trimws() 
+
+# Remove empty rows -> dont go into the Dfmat 
+df <- df[df$Processed != "", , drop = FALSE]
+
+# create unique identifier for later   
+df$id <-1:nrow(df)
+
+```
+
+```{r}
+
+
+### creating document feautre matrix
+
+dfmat <- df$Processed %>% 
+  tokens() %>% 
+  dfm() 
+
+
+# to mach later with the gammas 
+rownames(dfmat) <- df$id 
+
+```
+
+
+
+## LDA
+
+```{r}
+### Specifing alpha and iterations. 
+
+rowWords <- apply(dfmat, 1, sum)
+dfmat <- dfmat[rowWords > 0,]
+
+lda <- LDA(dfmat, k = 4, method = "Gibbs", control = list(iter = 100000, alpha = 0.0000000000001, delta = 0.1, seed = 1))
+
+
+
+
+
+```
+
+
+```{r}
+topic_words <- tidy(lda, matrix="beta") %>%
+  group_by(topic) %>%
+  slice_max(beta, n = 20) %>% 
+  ungroup() %>%
+  arrange(topic, -beta)
+
+
+topic_words %>%
+  mutate(term = reorder_within(term, beta, topic)) %>%
+  ggplot(aes(beta, term, fill = factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~ topic, scales = "free") +
+  scale_y_reordered()
+
+```
+
+
+
+```{r}
+### Create a charater to match 
+df$id <- as.character(df$id)
+
+## Match the topics with their probabilities to belong in certain topics
+
+doc_topics <- tidy(lda, matrix="gamma") %>%
+  left_join(df, by=c("document"="id"))
+
+head(df)
+
+
+### printing the top 5  texts with the highest probability of being in topic 9 
+doc_topics %>%
+  filter(topic == 1) %>%
+  arrange(desc(gamma)) %>%
+  head(5) %>%
+  select(Processed)%>%
+  print()
+
+```
+The printed tibble shows the preprocessed documents that have the highest probability of belonging to the climate-related topic 1. The documents contain multiple words that are all highly related to climate agendas. 
+
+
+```{r}
+
+topics_year_party <- doc_topics %>% 
+  group_by(Party, Year, topic) %>%
+  summarise(gamma = mean(gamma)) 
+
+topics_year_party%>% 
+  filter(topic == 1)%>% 
+  print()
+
+checking <- topics_year_party%>% 
+  filter(Party == 'AFD')%>% 
+  filter(Year == '2017')%>%
+  summarise(gamma = sum(gamma)) 
+
+
+
+
+
+```
+
+Finally, addressing the research whether German political parties have given greater attention to climate-related content in their manifestos in 2021 compared to 2017, we can analyze both the data and the accompanying graphic below. The gammas are the average probability 
+of a document being in the climate related topic 1 for a given year for a given party. The averaged gammas can therefore be understood as the average percentage of documents that belong to the climate-related topic 1. Summing up all gammas along the topics for a given party in a given year yields 1. Accordingly, the gamma values reflect the proportion of the manifesto dedicated to environmental topics. 
+
+Comparing 2017 to 2021, there are noticeable shifts in how political parties address environmental topics. The CDU/CSU party have increased the climate-related content of their manifestos from from 0.0635 (6.35%) in 2017 to 0.0908 (9%) in 2021, showing a stronger focus on environmental issues. The FDP party has also majorly increased the extent to which they address enviornmentally issues from 0.0555 (5.55%) to 0.0880 (8.8%), indicating a growing emphasis on the environment in their manifestos. Interestingly, in the 2021 elections the green party has actully decreased the amount of environemtally related sentences in their party Manifesto. By considering Annalena Baerbock as a potential candidate for chancellor, the Green Party likely sought to shift its image towards that of a People's Party, aiming to represent a diverse cross-section of the population and appeal to various social and economic groups. This move suggests a desire to move away from being perceived solely as a specialized environmental party.
+
+
+This study aims to understand how the success of the climate movement in 2019 influenced political party manifestos in the 2021 election. The results show that there are noticeable changes in how parties talk about the environment. The CDU/CSU and FDP now focus more on climate-related issues, while surprisingly, the Green Party talks less about the environment in 2021. The paper  shows how German political parties' stances on climate-related matters have evolved from 2017 to 2021. Even though there are noticable shift in the amount of climate-related coverage in the parties manifestos, we should be careful about directly connecting them to the influence of the climate movement.
+
+
+```{r}
+
+
+ggplot(filter(topics_year_party, topic == 1), 
+       aes(x = as.factor(Year), y = gamma, colour = Party)
+) +
+  geom_point(size = 3, alpha = 0.7) +
+  stat_summary(
+    fun.y = "mean", 
+    geom = "text", 
+    aes(label = sprintf("%.3f", ..y..)), 
+    position = position_dodge(0.5), 
+    vjust = -1,
+    hjust = 1,
+    size = 4 
+  ) +
+  geom_segment(aes(x = "2017", xend = "2021", y = 0, yend = 0), linetype = "dashed") +
+  geom_line(aes(group = Party), linetype = "solid", size = 0.5) +  # New line layer
+  labs(
+    y = "Average Probability of a Document Belonging to Topic 1",
+    x = "Year",
+    title = "Comparison of Document Probability for Topic 1 (2017 vs. 2021)",
+    subtitle = "Mean values are represented by points and text labels"
+  ) +
+  theme_minimal() +
+  ylim(0.05, 0.130)
+```
+
+## References
+
+Burstein, P. (2003). The impact of public opinion on public policy: A review and an agenda. Political Research Quarterly,56, 29–40. doi:10.1177/106591290305600103
+
+Einsiedel, J. (2020). Analysis of the social movement organization "Fridays for Future" in Germany.
+
+Flachsland, C. (2021) The emergence of climate governance in Germany
+
+Fridays for Future. (2020). About #FridaysForFuture. Fridays for Future. Retrieved 22.02.2021, from https://fridaysforfuture.org/about
+
+Haupt A. (2010) Parties’ Responses to economic globalization what is left for the left and right for the right?Party Politics16(1): 5–27.
