@@ -20,7 +20,24 @@ print("Current working directory:", os.getcwd())
 # Load the dataframe from a file in the current working directory
 df_cleaned = pd.read_csv('cleaned_data_final.csv')
 
-print(df_cleaned)
+speaker_description_map = {}
+
+# Iterate over the DataFrame to populate the dictionary
+for index, row in df_cleaned.iterrows():
+    if pd.notna(row['Speaker Description']) and row['Speaker Name'] not in speaker_description_map:
+        speaker_description_map[row['Speaker Name']] = row['Speaker Description']
+
+# Iterate over the DataFrame again to fill in missing descriptions
+for index, row in df_cleaned.iterrows():
+    if pd.isna(row['Speaker Description']) and row['Speaker Name'] in speaker_description_map:
+        df_cleaned.at[index, 'Speaker Description'] = speaker_description_map[row['Speaker Name']]
+
+# Check the updated DataFrame
+print(df_cleaned.head())
+
+df_cleaned.to_csv('df_cleaned_final_test.csv')
+
+
 
 # Download stopwords from NLTK
 nltk.download('punkt')
