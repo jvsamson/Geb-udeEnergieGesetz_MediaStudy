@@ -23,10 +23,6 @@ df_cleaned = pd.read_csv('cleaned_data_final.csv')
 # Check the updated DataFrame
 print(df_cleaned.head())
 
-df_cleaned.to_csv('df_cleaned_final_test.csv')
-
-
-
 # Download stopwords from NLTK
 nltk.download('punkt')
 nltk.download('stopwords')
