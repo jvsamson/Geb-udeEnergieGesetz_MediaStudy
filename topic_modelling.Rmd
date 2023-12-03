@@ -151,13 +151,18 @@ rownames(lda$theta) <- df$id
 ### Create DF with 
 
 Data_frame_theta <- as.data.frame(lda$theta)
-checcking$id <-1:nrow(checcking)
+Data_frame_theta$id <-1:nrow(Data_frame_theta)
 
 doc_topics <- Data_frame_theta%>%
   left_join(df, by=c("id"="id"))
 
 Document_Thetha <- doc_topics%>%
   select(Processed, government_words, policy_words, politics_words, citizen_concerns_words)
+
+
+terms(lda)
+topics(lda)
+
 
 ```
 
