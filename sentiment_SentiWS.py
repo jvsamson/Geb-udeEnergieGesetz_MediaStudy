@@ -5,16 +5,14 @@ def load_sentiws(file_path):
     senti_dict = {}
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
-            elements = line.strip().split('\t')
-            if len(elements) < 2:
+            parts = line.strip().split('\t')
+            if len(parts) < 2:
                 continue
-            try:
-                score = float(elements[-1])
-            except ValueError:
-                continue
-            words = elements[0].split(',')
+            word_info, score = parts[0], parts[1]
+            words = word_info.split('|')[0].split(',')
+            words.extend(word_info.split('|')[-1].split(','))
             for word in words:
-                senti_dict[word] = score
+                senti_dict[word.strip()] = float(score)
     return senti_dict
 
 # Load SentiWS positive and negative lexicons
