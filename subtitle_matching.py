@@ -39,10 +39,6 @@ combined_df = pd.concat([merged_tagesschau, merged_tagesthemen], ignore_index=Tr
 # Print the combined DataFrame
 print(combined_df)
 
-
-
-import pandas as pd
-
 # Adjusted frame rate (assumed frame rate; change if different)
 frame_rate = 25
 
@@ -58,8 +54,6 @@ def seconds_to_hhmmssff(seconds):
 def hhmmssff_to_seconds(time_str):
     h, m, s, f = map(int, time_str.split(':'))
     return h * 3600 + m * 60 + s + f / frame_rate
-
-# Assuming combined_df is already loaded and contains the 'Uhrzeit', 'Timecode In', 'Program' columns
 
 # Convert 'Uhrzeit' to HH:MM:SS:FF format assuming 'Uhrzeit' is in seconds since midnight
 combined_df['EP_Start'] = combined_df['Uhrzeit'].apply(seconds_to_hhmmssff)
@@ -101,10 +95,8 @@ print(combined_df[['Program', 'EP_Start', 'Timecode In', 'current_start', 'curre
 
 # combined_df.to_csv('./data/all_cleaned_data_timed')
 
-import pandas as pd
-
 # Load the labels DataFrame
-labels_df = pd.read_csv('combined_pdf_data.csv', dtype={'Start Time': str})
+labels_df = pd.read_csv('./data/combined_pdf_data.csv', dtype={'Start Time': str})
 
 def start_time_to_seconds(time_str):
     time_str = str(time_str).strip()
@@ -128,7 +120,6 @@ labels_df['Start Time Sec'] = labels_df['Start Time'].apply(start_time_to_second
 labels_df['Duration Sec'] = labels_df['Duration'].apply(duration_to_seconds)
 labels_df['End Time Sec'] = labels_df['Start Time Sec'] + labels_df['Duration Sec']
 
-
 print(labels_df.head())
 # Assuming combined_df is already loaded and contains 'Program', 'Date', 'current_start', 'current_end'
 # Convert 'current_start' and 'current_end' in combined_df to seconds
@@ -150,7 +141,6 @@ print(labels_df[['Programme', 'Date', 'Start Time Sec', 'End Time Sec']].head())
 # Print the first 5 entries of relevant columns from combined_df
 print("\nFirst 5 entries from combined_df:")
 print(combined_df[['Program', 'Date', 'current_start_sec', 'current_end_sec']].head())
-
 
 # Function to append segment info from labels_df to combined_df
 def append_segment_info(row):
@@ -203,7 +193,6 @@ columns_to_keep = ['Content Type', 'Date', 'Program', 'Segment Description', 'Sp
 unique_combined_df = unique_combined_df[columns_to_keep]
 
 # Define the introductory phrases to exclude
-# Define the introductory phrases to exclude
 intro_phrases = ["heute im studio", "hier ist das erste", "diese sendung wurde", "zur tagesschau", "live- untertitelun"]
 
 # Function to check if a row contains any of the introductory phrases
@@ -233,6 +222,55 @@ for i in range(len(filtered_df)):
 
 # Remove duplicate indices
 rows_to_keep = list(set(rows_to_keep))
+
+# Function to determine affiliation based on description
+def determine_affiliation(description):
+    if pd.isna(description):
+        return None
+    description = description.lower()  # Convert to lowercase to ensure consistent matching
+    if 'moderation' in description or 'korrespondent' in description:
+        return 'ARD'
+    elif 'fdp' in description:
+        return 'FDP'
+    elif 'spd' in description:
+        return 'SPD'
+    elif 'freie wähler' in description:
+        return 'Freie Wähler'
+    elif 'afd' in description:
+        return 'AFD'
+    elif 'die linke' in description:
+        return 'Die Linke'
+    elif 'cdu' in description or 'csu' in description:
+        return 'CDU/CSU'
+    elif 'bündnis 90' in description or 'die grünen' in description:
+        return 'Die Grünen'
+    else:
+        return None
+
+# Apply the function to create the 'affiliation' column in filtered_df
+filtered_df['affiliation'] = filtered_df['Speaker Description'].apply(determine_affiliation)
+
+# Function to extract the first two words from a name
+def extract_first_two_words(name):
+    if pd.isna(name):
+        return ""
+    parts = name.split()
+    return ' '.join(parts[:2])
+
+# Create a map of first two words of speaker name to affiliation
+affiliation_map = {}
+for _, row in filtered_df.iterrows():
+    if not pd.isna(row['Speaker Name']) and not pd.isna(row['affiliation']):
+        key = extract_first_two_words(row['Speaker Name'])
+        affiliation_map[key] = row['affiliation']
+
+# Function to determine affiliation based on the first two words of the speaker name
+def determine_affiliation_from_name(name):
+    key = extract_first_two_words(name)
+    return affiliation_map.get(key, None)
+
+# Assign affiliations using the map
+filtered_df['affiliation'] = filtered_df['Speaker Name'].apply(determine_affiliation_from_name)
 
 # Sort the DataFrame by 'Date'
 cleaned_df = filtered_df.iloc[rows_to_keep].reset_index(drop=True)
