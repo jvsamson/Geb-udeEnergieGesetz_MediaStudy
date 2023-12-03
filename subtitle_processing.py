@@ -42,8 +42,8 @@ def preprocess_text(text):
     # Convert text to lowercase
     text = text.lower()
     
-    # Remove punctuation except for periods
-    text = text.translate(str.maketrans('', '', string.punctuation.replace('.', '')))
+    # Remove all punctuation
+    text = text.translate(str.maketrans('', '', string.punctuation))
     
     # Tokenize text using spaCy for lemmatization
     doc = nlp(text)
@@ -53,11 +53,8 @@ def preprocess_text(text):
     stop_words = set(stopwords.words('german'))
     tokens = [word for word in tokens if word not in stop_words]
     
-    # Apply stemming using NLTK's Porter Stemmer (optional, since lemmatization is also used)
-    stemmed_tokens = [stemmer.stem(token) for token in tokens]  # You can comment this out if needed
-    
-    # Rejoin tokens into a string, keeping periods as they are
-    return ' '.join(stemmed_tokens)  # Use tokens instead of stemmed_tokens if stemming is not desired
+    # Rejoin tokens into a string
+    return ' '.join(tokens)
 
 
 # Apply the preprocessing to the 'subtitles' column and add a new column 'df_processed'
