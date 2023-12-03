@@ -225,7 +225,7 @@ rows_to_keep = list(set(rows_to_keep))
 
 # Function to determine affiliation based on description
 def determine_affiliation(description):
-    if pd.isna(description):
+    if pd.isna(description) or description.strip() == "":
         return None
     description = description.lower()  # Convert to lowercase to ensure consistent matching
     if 'moderation' in description or 'korrespondent' in description:
@@ -245,7 +245,7 @@ def determine_affiliation(description):
     elif 'bündnis 90' in description or 'die grünen' in description:
         return 'Die Grünen'
     else:
-        return None
+        return 'Expert'
 
 # Apply the function to create the 'affiliation' column in filtered_df
 filtered_df['affiliation'] = filtered_df['Speaker Description'].apply(determine_affiliation)
