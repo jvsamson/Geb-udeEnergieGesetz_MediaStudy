@@ -232,7 +232,9 @@ def determine_affiliation(description):
         return 'ARD'
     elif 'fdp' in description:
         return 'FDP'
-    elif 'spd' in description or 'bundeskanzler/spd' in description:
+    elif 'spd' in description:
+        return 'SPD'
+    elif 'bundeskanzler/spd' in description:
         return 'SPD'
     elif 'freie wähler' in description:
         return 'Freie Wähler'
@@ -270,7 +272,7 @@ def determine_affiliation_from_name(name):
     return affiliation_map.get(key, None)
 
 # Assign affiliations using the map
-filtered_df['affiliation'] = filtered_df['Speaker Name'].apply(determine_affiliation_from_name)
+#filtered_df['affiliation'] = filtered_df['Speaker Name'].apply(determine_affiliation_from_name)
 
 # Sort the DataFrame by 'Date'
 cleaned_df = filtered_df.iloc[rows_to_keep].reset_index(drop=True)
@@ -280,5 +282,12 @@ cleaned_df = cleaned_df.sort_values(by='Date')
 # Save the cleaned DataFrame
 cleaned_df.to_csv('cleaned_data_final.csv', index=False)
 
-# Print the cleaned DataFrame
-print(cleaned_df.head())
+
+# Filter the DataFrame to include only rows where the 'Speaker Name' is 'Olaf Scholz'
+olaf_scholz_rows = filtered_df[filtered_df['Speaker Name'].str.contains("Olaf Scholz", na=False)]
+
+# Selecting only the 'Speaker Name' and 'Affiliation' columns
+olaf_scholz_rows_filtered = olaf_scholz_rows[['Speaker Name', 'affiliation']]
+
+# Printing the result
+print(olaf_scholz_rows_filtered)
