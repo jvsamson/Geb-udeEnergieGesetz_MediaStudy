@@ -129,13 +129,13 @@ government_words = c("heizung", "gesetzentwurf", "klimaneutral", "regier", "bund
 citizen_concerns_words = c("streit", "kosten", "sorgen", "miete", "buerger", "einkommen", "leute", "kritik", "genuegend", "hausbesitzer", "verbot", "belastung", "moeglichkeit", "verunsicherung"),
 policy_words = c("waermewende", "waerer", "èol", "waermepumpe", "wasserstoff", "foerderung", "thema", "gebaeudeenergiegesetz", "insofern", "minister", "technologieoff"),
 politics_words = c("politisch", "afd", "partei", "union", "opposition", "heiz", "lindner", "habeck", "csu", "robert", "scholz")))
-
+##klimabezug!!!
 
   
 # Create a seeded LDA model
 lda <- textmodel_seededlda(dfmat, dict, max_iter = 1000)
 
-
+?textmodel_lda
 
 ### topics() returns the most likely topics for documents based on the theta parameter.
 
