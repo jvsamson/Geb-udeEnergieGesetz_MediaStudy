@@ -30,6 +30,7 @@ library(readr)
 library(slam)
 library(udpipe)
 library(ggplot2)
+library(seededlda)
 
 
 ```
@@ -42,8 +43,9 @@ library(ggplot2)
 
 ## Data 
 
-df <- read_csv("df_processed.csv")
+df <- read_csv("df_o_tones.csv")
 
+df
 ```
 
 ## Data Preprocessing 
@@ -54,11 +56,11 @@ df <- read_csv("df_processed.csv")
 
 german_stopwords <- stopwords::stopwords("de", source = "stopwords-iso")
 
-additional_stopwords <- c("mussen", "dass", "mehr", "dafur", "menschen",
+additional_stopwords <- c("mussen", "dass", "mehr", "dafur",
   "mussen", "deutschland", "setzen", "stark", "dafur", "brauchen", "land",  
-  "fordern", "gesellschaft","braucht", "lehnen", "insbesondere", "starken", "deutlich", "gehort", "offentliche", "offentlichen", "bleib", "ziel", "starken", "starke",
-  "stark", "gilt", "deutschen", "deutsche", "deutsch", "unterstutzen","fur", "fordert", "unterstutz", "gemeinsame", "gemeinsam", "schaffen",
-  "zudem", "leben", "bessere", "starker", "forder", "ford", "burger",'konnen', "leisten", "uber", "buergerinnen", "moglich", "unseren", "gleichzeitig","leisten", "uber", "buergerinnen", "moglich", "unseren", "gleichzeitig", "demokraten", "linke", "prozent", "geben", "vgl", "freie",'nutzen', 'zukunft', 'fuer', 'muessen','koennen', 'ueber', 'vieler', 'sagen', 'neu', 'koenn', 'gesetz', 'sag', 'sehen', 'naechst', 'lass', 'klar', 'letzter', 'heizungsgesetz', 'fdp', 'habeck')
+  "fordern", "gesellschaft","braucht", "lehnen", "insbesondere", "starken", "deutlich", "gehort", "bleib", "ziel", "starken", "starke",
+  "stark", "gilt", "deutschen", "deutsche", "deutsch","fur", "gemeinsame", "gemeinsam", "zudem", "leben", "bessere", "starker", "forder", "ford", "burger",'konnen', "uber", "buergerinnen", "moglich", "unseren", "gleichzeitig", "uber", "buergerinnen", "moglich", "unseren", "gleichzeitig", "demokraten", "linke", "prozent", "geben", "vgl", "freie",'nutzen', 'fuer', 'muessen','koennen', 'ueber', 'vieler', 'sagen', 'neu', 'koenn', 'gesetz', 'sag', 'sehen', 'naechst', 'lass', 'klar', 'letzter', 'heizungsgesetz','heut','dafuer','frag','frage', 'duerfen','stehen', 'wichtig', 'nehmen',
+'woch', 'darueb', 'bekommen', 'abend', 'wuenschen', 'lassen', 'ð', 'Thema', 'fuehren', 'bring', 'darueber', 'regi', 'genau','wa', 'schaff', 'woche')
 
 german_stopwords <- c(german_stopwords, additional_stopwords)
 
@@ -90,8 +92,13 @@ dfmat <- df$Processed %>%
   tokens() %>% 
   dfm() 
 
+### Specifing alpha and iterations. 
 
-# to mach later with the gammas 
+#rowWords <- apply(dfmat, 1, sum)
+#dfmat <- dfmat[rowWords > 0,]
+
+
+# to mach later with the gammas '
 rownames(dfmat) <- df$id 
 
 ```
@@ -101,13 +108,11 @@ rownames(dfmat) <- df$id
 ## LDA
 
 ```{r}
-### Specifing alpha and iterations. 
 
-rowWords <- apply(dfmat, 1, sum)
-dfmat <- dfmat[rowWords > 0,]
+#lda <- LDA(dfmat, k = 4, method = "Gibbs", control = list(iter = 100000,alpha = 0.1, delta = 0.5,  seed = 2))
 
-lda <- LDA(dfmat, k = 4, method = "Gibbs", control = list(iter = 100000, alpha = 0.0000000000001, delta = 0.1, seed = 1))
 
+lda <- LDA(dfmat, k = 10, method = "Gibbs", control = list(iter = 100000,alpha = 0.1, delta = 0.5,  seed = 2))
 
 
 
@@ -115,10 +120,59 @@ lda <- LDA(dfmat, k = 4, method = "Gibbs", control = list(iter = 100000, alpha =
 ```
 
 
+
+```{r}
+# SEEEDED 
+
+dict <- dictionary(list(
+government_words = c("heizung", "gesetzentwurf", "klimaneutral", "regier", "bundesregier", "parlament", "regierung", "kanzler", "bundestag", "ampel", 'spd', 'cdu', 'fdp', 'gruen'),
+citizen_concerns_words = c("streit", "kosten", "sorgen", "miete", "buerger", "einkommen", "leute", "kritik", "genuegend", "hausbesitzer", "verbot", "belastung", "moeglichkeit", "verunsicherung"),
+policy_words = c("waermewende", "waerer", "èol", "waermepumpe", "wasserstoff", "foerderung", "thema", "gebaeudeenergiegesetz", "insofern", "minister", "technologieoff"),
+politics_words = c("politisch", "afd", "partei", "union", "opposition", "heiz", "lindner", "habeck", "csu", "robert", "scholz")))
+
+
+  
+# Create a seeded LDA model
+lda <- textmodel_seededlda(dfmat, dict, max_iter = 1000)
+
+
+
+### topics() returns the most likely topics for documents based on the theta parameter.
+
+check <- as.data.frame(topics(lda))# Print the data frame
+
+
+
+nrow(lda$theta) ### Check with DF 
+
+topic_words <- terms(lda, n = 100)
+rownames(lda$theta) <- df$id 
+
+### Create DF with 
+
+Data_frame_theta <- as.data.frame(lda$theta)
+Data_frame_theta$id <-1:nrow(Data_frame_theta)
+
+doc_topics <- Data_frame_theta%>%
+  left_join(df, by=c("id"="id"))
+
+Document_Thetha <- doc_topics%>%
+  select(Processed, government_words, policy_words, politics_words, citizen_concerns_words)
+
+
+terms(lda)
+topics(lda)
+
+
+```
+
+
+
+
 ```{r}
 topic_words <- tidy(lda, matrix="beta") %>%
   group_by(topic) %>%
-  slice_max(beta, n = 20) %>% 
+  slice_max(beta, n = 10) %>% 
   ungroup() %>%
   arrange(topic, -beta)
 
@@ -130,6 +184,10 @@ topic_words %>%
   facet_wrap(~ topic, scales = "free") +
   scale_y_reordered()
 
+topic_words$term
+
+
+
 ```
 
 
@@ -138,6 +196,7 @@ topic_words %>%
 ### Create a charater to match 
 df$id <- as.character(df$id)
 
+tidy(lda, matrix="gamma")
 ## Match the topics with their probabilities to belong in certain topics
 
 doc_topics <- tidy(lda, matrix="gamma") %>%
@@ -150,7 +209,7 @@ head(df)
 doc_topics %>%
   filter(topic == 1) %>%
   arrange(desc(gamma)) %>%
-  head(5) %>%
+  head(10) %>%
   select(Processed)%>%
   print()
 
