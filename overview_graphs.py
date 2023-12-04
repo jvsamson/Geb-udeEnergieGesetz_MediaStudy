@@ -1,64 +1,45 @@
-from fuzzywuzzy import process
-import matplotlib.pyplot as plt
-import seaborn as sns
 import pandas as pd
-# Read the CSV file
+import matplotlib.pyplot as plt
+
+# Load the DataFrame
 df = pd.read_csv('df_processed.csv')
 
-# Function to replace names based on fuzzy matching
-def unify_names(name, choices, threshold=90):
-    # Check if the name is a string
-    if not isinstance(name, str):
-        return name  # Return the original value if it's not a string
+# Exclude 'Freie Wähler' and 'ARD' affiliations
+df = df[(df['affiliation'] != 'Freie Wähler') & (df['affiliation'] != 'ARD')]
 
-    highest = process.extractOne(name, choices)
-    if highest[1] >= threshold:
-        return highest[0]
-    return name
-
-
-# Unique names as the choices for matching
-unique_names = df['Speaker Name'].unique()
-
-# Applying the function to each name
-df['Unified Name'] = df['Speaker Name'].apply(lambda x: unify_names(x, unique_names))
-
-# Calculate word count in 'Segment Description'
-df['Word Count'] = df['Segment Description'].apply(lambda x: len(str(x).split()))
-
-# Convert 'Date' to datetime and sort
+# Ensure 'Date' is in datetime format
 df['Date'] = pd.to_datetime(df['Date'])
-df.sort_values('Date', inplace=True)
 
-# Group data by speaker, date, and affiliation, and sum the word counts
-grouped_df = df.groupby(['Unified Name', 'Date', 'affiliation']).agg({'Word Count': 'sum'}).reset_index()
+# Calculate the total number of words for each 'Subtitle'
+df['Word_Count'] = df['Subtitle'].str.split().str.len()
 
-# Group data by week
-grouped_df['Week'] = grouped_df['Date'].dt.isocalendar().week
+# Group by 'Date' and 'affiliation', then sum the word counts
+daily_words_by_affiliation = df.groupby(['Date', 'affiliation']).agg({'Word_Count':'sum'}).reset_index()
 
-# Map party names to distinct colors
+# Define colors for each affiliation
 party_colors = {
-    'green': 'green',
-    'cdu': 'black',
-    'spd': 'red',
-    'fdp': 'yellow',
-    'linke': 'purple',
-    'afd': 'blue'
+    'Die Grünen': 'green',
+    'CDU/CSU': 'black',
+    'SPD': 'red',
+    'FDP': 'yellow',
+    'Die Linke': 'purple',
+    'AFD': 'blue',
+    'Expert': '#30D5C8'
+    # 'ARD': 'grey' (Excluded as per the updated requirement)
 }
 
-# Filter DataFrame for speakers who belong to one of the listed parties
-grouped_df = grouped_df[grouped_df['affiliation'].isin(party_colors.keys())]
+# Count the number of occurrences for each affiliation
+affiliation_counts = daily_words_by_affiliation['affiliation'].value_counts()
 
-# Plotting
-plt.figure(figsize=(12, 6))
+# Plotting the contributions per day by affiliation as dots
+plt.figure(figsize=(15, 7))
+for affiliation, group_df in daily_words_by_affiliation.groupby('affiliation'):
+    plt.scatter(group_df['Date'], group_df['Word_Count'], label=f"{affiliation} ({affiliation_counts[affiliation]})", color=party_colors.get(affiliation, 'grey'))
 
-# Loop through each party and plot
-for party, color in party_colors.items():
-    party_data = grouped_df[grouped_df['affiliation'] == party]
-    plt.scatter(party_data['Week'], party_data['Word Count'], label=party, color=color, alpha=0.7)
-
-plt.xlabel('Week')
-plt.ylabel('Total Word Count')
-plt.title('Total Word Count by Speaker, Week, and Party')
-plt.legend()
+plt.xlabel('Date')
+plt.ylabel('Total Words Spoken')
+plt.title('Contributions by Affiliation')
+plt.legend(title='Affiliation', bbox_to_anchor=(1.05, 1), loc='upper left')
+plt.xticks(rotation=45)
+plt.tight_layout()
 plt.show()
