@@ -125,17 +125,15 @@ lda <- LDA(dfmat, k = 10, method = "Gibbs", control = list(iter = 100000,alpha =
 # SEEEDED 
 
 dict <- dictionary(list(
-government_words = c("heizung", "gesetzentwurf", "klimaneutral", "regier", "bundesregier", "parlament", "regierung", "kanzler", "bundestag", "ampel", 'spd', 'cdu', 'fdp', 'gruen'),
-citizen_concerns_words = c("streit", "kosten", "sorgen", "miete", "buerger", "einkommen", "leute", "kritik", "genuegend", "hausbesitzer", "verbot", "belastung", "moeglichkeit", "verunsicherung"),
-policy_words = c("waermewende", "waerer", "èol", "waermepumpe", "wasserstoff", "foerderung", "thema", "gebaeudeenergiegesetz", "insofern", "minister", "technologieoff"),
-politics_words = c("politisch", "afd", "partei", "union", "opposition", "heiz", "lindner", "habeck", "csu", "robert", "scholz")))
-##klimabezug!!!
-
+citizen_concerns_words = c("kosten", "sorgen", "miete", "buerger", "einkommen", "leute", "genuegend", "hausbesitzer", "belastung", "moeglichkeit", "verunsicherung", 'menschen', 'buergerinn', 'sozial'),
+policy_words = c("gesetzentwurf", "waerer", "èol", "waermepumpe", "wasserstoff", "foerderung", "thema", "gebaeudeenergiegesetz", 'gasheizung', 'gas', "technologieoff", 'ausbau', 'waermepump', 'heiz', 'gasheiz'),
+politics_words = c("politisch", "afd", "partei", "union", "opposition", "lindner", "habeck", "csu", "robert", "scholz", 'koalition',"heizung", "bundesregier", "parlament", "regierung", "kanzler", "bundestag", "ampel", 'spd', 'cdu', 'fdp', 'gruen', 'merz'),
+climate_related_words = c("klimaneutral",'klima','klimawandel', 'klimaziele', 'klimaschutz', 'erneuerbar','klimaschutzgesetz', 'waermewend', 'energiewend')))
+##klimabezug!!?
   
 # Create a seeded LDA model
-lda <- textmodel_seededlda(dfmat, dict, max_iter = 1000)
+lda <- textmodel_seededlda(dfmat, residual = TRUE, beta = 0.01, dict, max_iter = 10000)
 
-?textmodel_lda
 
 ### topics() returns the most likely topics for documents based on the theta parameter.
 
@@ -145,7 +143,15 @@ check <- as.data.frame(topics(lda))# Print the data frame
 
 nrow(lda$theta) ### Check with DF 
 
-topic_words <- terms(lda, n = 100)
+topic_words <- as.data.frame(terms(lda, n = 10))%>%
+  rename(Climate_Context = climate_related_words,
+         Policy = policy_words,
+         Politics = politics_words,
+         Citizens_Concerns = citizen_concerns_words)
+
+write.csv(topic_words, "topic_words1.csv")
+
+
 rownames(lda$theta) <- df$id 
 
 ### Create DF with 
@@ -157,84 +163,110 @@ doc_topics <- Data_frame_theta%>%
   left_join(df, by=c("id"="id"))
 
 Document_Thetha <- doc_topics%>%
-  select(Processed, government_words, policy_words, politics_words, citizen_concerns_words)
+  select(affiliation, Processed, policy_words, politics_words, citizen_concerns_words, climate_related_words, other)%>%
+  mutate(Row_sum = policy_words + politics_words + citizen_concerns_words + climate_related_words)
+
+Document_Thetha_analysis <- Document_Thetha%>%
+  group_by(affiliation)%>%
+  summarise( Policy = mean(policy_words),
+             Climate_context = mean(climate_related_words),
+             Citizens_concerned = mean(citizen_concerns_words),
+             Politics = mean(politics_words))%>%
+  filter(!is.na(affiliation))%>%
+  filter(!affiliation == 'Freie Wähler')
 
 
-terms(lda)
+
+terms(lda, 50)
 topics(lda)
 
 
 ```
 
 
-
-
-```{r}
-topic_words <- tidy(lda, matrix="beta") %>%
-  group_by(topic) %>%
-  slice_max(beta, n = 10) %>% 
-  ungroup() %>%
-  arrange(topic, -beta)
-
-
-topic_words %>%
-  mutate(term = reorder_within(term, beta, topic)) %>%
-  ggplot(aes(beta, term, fill = factor(topic))) +
-  geom_col(show.legend = FALSE) +
-  facet_wrap(~ topic, scales = "free") +
-  scale_y_reordered()
-
-topic_words$term
-
-
-
-```
-
-
-
-```{r}
-### Create a charater to match 
-df$id <- as.character(df$id)
-
-tidy(lda, matrix="gamma")
-## Match the topics with their probabilities to belong in certain topics
-
-doc_topics <- tidy(lda, matrix="gamma") %>%
-  left_join(df, by=c("document"="id"))
-
-head(df)
-
-
-### printing the top 5  texts with the highest probability of being in topic 9 
-doc_topics %>%
-  filter(topic == 1) %>%
-  arrange(desc(gamma)) %>%
-  head(10) %>%
-  select(Processed)%>%
-  print()
-
-```
-The printed tibble shows the preprocessed documents that have the highest probability of belonging to the climate-related topic 1. The documents contain multiple words that are all highly related to climate agendas. 
-
-
 ```{r}
 
-topics_year_party <- doc_topics %>% 
-  group_by(Party, Year, topic) %>%
-  summarise(gamma = mean(gamma)) 
+# Transpose the dataframe for better visualization
+df_transposed <- t(Document_Thetha_analysis)
 
-topics_year_party%>% 
-  filter(topic == 1)%>% 
-  print()
+colnames(df_transposed) <- Document_Thetha_analysis$affiliation
 
-checking <- topics_year_party%>% 
-  filter(Party == 'AFD')%>% 
-  filter(Year == '2017')%>%
-  summarise(gamma = sum(gamma)) 
+df_transposed <- as.numeric(matrix(df_transposed[-1, ]))
 
 
+# Create heatmap
+heatmap(df_transposed, Rowv = NA, col = colorRampPalette(c("lightblue", "black"))(256),
+        scale = "column", main = "Average Theta Distribution among Topics",
+        xlab = "Party", ylab = "Topics", margins = c(5, 10), symm = TRUE,
+        cexRow = 0.9, cexCol = 0.9) +
+  geom_text(aes(label = values))
+
+# Add cell values in white
+text(x = seq(0.5, ncol(mat) + 0.5),
+     y = seq(0.5, nrow(mat) + 0.5),
+     labels = round(mat, digits = 2),
+     col = "white", cex = 0.8)
 
 
+
+
+
+
+
+
+df <- data.frame(
+  affiliation = c("AFD", "ARD", "CDU/CSU", "Die Grünen", "Die Linke", "Expert", "FDP", "SPD"),
+  Policy = c(0.1846046, 0.1800629, 0.1909450, 0.1929483, 0.2121789, 0.1995670, 0.2236829, 0.1865207),
+  Climate_context = c(0.2003438, 0.2054113, 0.1897415, 0.2087309, 0.1747275, 0.1974081, 0.1826342, 0.2011668),
+  Citizens_concerned = c(0.1997461, 0.1900944, 0.2129865, 0.2083282, 0.1898605, 0.1909823, 0.1789575, 0.2044264),
+  Politics = c(0.2723743, 0.2448694, 0.2200378, 0.1975187, 0.1967499, 0.2154254, 0.2341383, 0.2005782)
+)
+
+# Set 'affiliation' column as row names
+rownames(df) <- df$affiliation
+
+# Select only numeric columns for the heatmap
+mat <- as.matrix(df[, -1])
+
+# Create heatmap
+heatmap(mat, Rowv = NA, col = colorRampPalette(c("lightblue", "black"))(256),
+        scale = "column", ylab = "Affiliation", margins = c(5, 10),mar = c(5, 4), symm=TRUE,
+        cexRow = 0.9, cexCol = 0.9, cex.axis = 1)
+
+
+png("heatmap_plot.png")
+dev.off()
+
+save.image()
+
+
+
+?save.image
+axis(1, las = 2)
+
+?heatmap
+
+
+
+Policy_per_Affiliation <- Document_Thetha_analysis%>%
+  select(affiliation, Policy)
+
+Climate_per_Affiliation <- Document_Thetha_analysis%>%
+  select(affiliation, Climate_context)
+
+Citizens_concerns_per_Affiliation <- Document_Thetha_analysis%>%
+  select(affiliation, Citizens_concerned)
+
+Politics_per_Afilliation <-  Document_Thetha_analysis%>%
+  select(affiliation, Politics)
+
+
+
+
+image(x = 1:ncol(mat), y = 1:nrow(mat), z = mat,
+      col = colorRampPalette(c("lightblue", "black"))(256),
+      xlab = "Topic", ylab = "Affiliation",
+      main = "Average Scores by Party and Topic")
 
 ```
 
@@ -250,29 +282,22 @@ This study aims to understand how the success of the climate movement in 2019 in
 ```{r}
 
 
-ggplot(filter(topics_year_party, topic == 1), 
-       aes(x = as.factor(Year), y = gamma, colour = Party)
-) +
-  geom_point(size = 3, alpha = 0.7) +
-  stat_summary(
-    fun.y = "mean", 
-    geom = "text", 
-    aes(label = sprintf("%.3f", ..y..)), 
-    position = position_dodge(0.5), 
-    vjust = -1,
-    hjust = 1,
-    size = 4 
-  ) +
-  geom_segment(aes(x = "2017", xend = "2021", y = 0, yend = 0), linetype = "dashed") +
-  geom_line(aes(group = Party), linetype = "solid", size = 0.5) +  # New line layer
-  labs(
-    y = "Average Probability of a Document Belonging to Topic 1",
-    x = "Year",
-    title = "Comparison of Document Probability for Topic 1 (2017 vs. 2021)",
-    subtitle = "Mean values are represented by points and text labels"
-  ) +
-  theme_minimal() +
-  ylim(0.05, 0.130)
+matrix_data <- matrix(
+  c(
+    "Citizens Concerns", "Policy", "Politics", "Climate Context", "other", "social",
+    "heating", "FDP", "climate protection", "quick", "citizen", "building energy law",
+    "traffic light", "climate-neutral", "work", "people", "topic", "Habeck", "green", "answer",
+    "worries", "wind", "green", "climate", "strong", "costs", "support", "CDU",
+    "renewable", "speech", "money", "conflict", "coalition", "summer break", "try",
+    "possibility", "heat pump", "opposition", "Berlin", "discussion", "income",
+    "draft law", "parliament", "critique", "stay", "consult", "gas heating", "union",
+    "cabinet", "construction", "citizen", "hydrogen", "party", "back", "create"
+  ),
+  ncol = 1,
+  byrow = TRUE
+)
+
+
 ```
 
 ## References
