@@ -57,6 +57,7 @@ grouped_count = df.groupby('affiliation')['Subtitle'].count()
 normalized_sentiment = grouped_sum / grouped_count
 
 
+
 import pandas as pd
 from nltk.tokenize import word_tokenize
 
@@ -76,3 +77,6 @@ sentiment_counts = df.groupby('affiliation')['Sentiment_Class'].value_counts().u
 print("Normalized Sentiment Scores by Affiliation:\n", normalized_sentiment)
 print("\nNegatively Scored Statements:\n", negative_statements[['Subtitle', 'Sentiment_Score']])
 print("\nCount of Positive, Negative, and Neutral Statements by Affiliation:\n", sentiment_counts)
+
+normalized_sentiment.to_csv('normalized_sentiment_ws.csv')
+
