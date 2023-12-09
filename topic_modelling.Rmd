@@ -194,26 +194,6 @@ colnames(df_transposed) <- Document_Thetha_analysis$affiliation
 df_transposed <- as.numeric(matrix(df_transposed[-1, ]))
 
 
-# Create heatmap
-heatmap(df_transposed, Rowv = NA, col = colorRampPalette(c("lightblue", "black"))(256),
-        scale = "column", main = "Average Theta Distribution among Topics",
-        xlab = "Party", ylab = "Topics", margins = c(5, 10), symm = TRUE,
-        cexRow = 0.9, cexCol = 0.9) +
-  geom_text(aes(label = values))
-
-# Add cell values in white
-text(x = seq(0.5, ncol(mat) + 0.5),
-     y = seq(0.5, nrow(mat) + 0.5),
-     labels = round(mat, digits = 2),
-     col = "white", cex = 0.8)
-
-
-
-
-
-
-
-
 df <- data.frame(
   affiliation = c("AFD", "ARD", "CDU/CSU", "Die Grünen", "Die Linke", "Expert", "FDP", "SPD"),
   Policy = c(0.1846046, 0.1800629, 0.1909450, 0.1929483, 0.2121789, 0.1995670, 0.2236829, 0.1865207),
@@ -234,19 +214,6 @@ heatmap(mat, Rowv = NA, col = colorRampPalette(c("lightblue", "black"))(256),
         cexRow = 0.9, cexCol = 0.9, cex.axis = 1)
 
 
-png("heatmap_plot.png")
-dev.off()
-
-save.image()
-
-
-
-?save.image
-axis(1, las = 2)
-
-?heatmap
-
-
 
 Policy_per_Affiliation <- Document_Thetha_analysis%>%
   select(affiliation, Policy)
@@ -262,21 +229,8 @@ Politics_per_Afilliation <-  Document_Thetha_analysis%>%
 
 
 
-
-image(x = 1:ncol(mat), y = 1:nrow(mat), z = mat,
-      col = colorRampPalette(c("lightblue", "black"))(256),
-      xlab = "Topic", ylab = "Affiliation",
-      main = "Average Scores by Party and Topic")
-
 ```
 
-Finally, addressing the research whether German political parties have given greater attention to climate-related content in their manifestos in 2021 compared to 2017, we can analyze both the data and the accompanying graphic below. The gammas are the average probability 
-of a document being in the climate related topic 1 for a given year for a given party. The averaged gammas can therefore be understood as the average percentage of documents that belong to the climate-related topic 1. Summing up all gammas along the topics for a given party in a given year yields 1. Accordingly, the gamma values reflect the proportion of the manifesto dedicated to environmental topics. 
-
-Comparing 2017 to 2021, there are noticeable shifts in how political parties address environmental topics. The CDU/CSU party have increased the climate-related content of their manifestos from from 0.0635 (6.35%) in 2017 to 0.0908 (9%) in 2021, showing a stronger focus on environmental issues. The FDP party has also majorly increased the extent to which they address enviornmentally issues from 0.0555 (5.55%) to 0.0880 (8.8%), indicating a growing emphasis on the environment in their manifestos. Interestingly, in the 2021 elections the green party has actully decreased the amount of environemtally related sentences in their party Manifesto. By considering Annalena Baerbock as a potential candidate for chancellor, the Green Party likely sought to shift its image towards that of a People's Party, aiming to represent a diverse cross-section of the population and appeal to various social and economic groups. This move suggests a desire to move away from being perceived solely as a specialized environmental party.
-
-
-This study aims to understand how the success of the climate movement in 2019 influenced political party manifestos in the 2021 election. The results show that there are noticeable changes in how parties talk about the environment. The CDU/CSU and FDP now focus more on climate-related issues, while surprisingly, the Green Party talks less about the environment in 2021. The paper  shows how German political parties' stances on climate-related matters have evolved from 2017 to 2021. Even though there are noticable shift in the amount of climate-related coverage in the parties manifestos, we should be careful about directly connecting them to the influence of the climate movement.
 
 
 ```{r}
@@ -299,15 +253,3 @@ matrix_data <- matrix(
 
 
 ```
-
-## References
-
-Burstein, P. (2003). The impact of public opinion on public policy: A review and an agenda. Political Research Quarterly,56, 29–40. doi:10.1177/106591290305600103
-
-Einsiedel, J. (2020). Analysis of the social movement organization "Fridays for Future" in Germany.
-
-Flachsland, C. (2021) The emergence of climate governance in Germany
-
-Fridays for Future. (2020). About #FridaysForFuture. Fridays for Future. Retrieved 22.02.2021, from https://fridaysforfuture.org/about
-
-Haupt A. (2010) Parties’ Responses to economic globalization what is left for the left and right for the right?Party Politics16(1): 5–27.
